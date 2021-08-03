@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 04 2021 04:15:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 04 2021 05:12:21 GMT+0800 (China Standard Time) -->
 
 1. [张子枫吴磊《盛夏未来》](https://www.zhihu.com/search?q=盛夏未来)
 1. [全平台封禁吴亦凡账号](https://www.zhihu.com/search?q=吴亦凡封号)
