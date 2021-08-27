@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 27 2021 20:20:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 27 2021 21:18:41 GMT+0800 (China Standard Time) -->
 
 1. [大连凯旋国际大厦失火](https://www.zhihu.com/search?q=大连 失火)
 1. [郑爽被罚款 2.99 亿元](https://www.zhihu.com/search?q=郑爽)
 1. [喀布尔机场发生两起爆炸](https://www.zhihu.com/search?q=喀布尔机场)
 1. [支付宝里的钱要不要取出来](https://www.zhihu.com/search?q=支付宝)
 1. [金铲铲之战](https://www.zhihu.com/search?q=金铲铲之战)
-1. [还珠格格下架](https://www.zhihu.com/search?q=赵薇)
 1. [北大学子吴谢宇被判死刑](https://www.zhihu.com/search?q=吴谢宇)
 1. [原神「雷电将军」角色 pv](https://www.zhihu.com/search?q=原神)
-1. [孟晚舟被非法拘押 1000 天](https://www.zhihu.com/search?q=孟晚舟)
+1. [FPX 晋级全球总决赛](https://www.zhihu.com/search?q=FPX)
+1. [还珠格格下架](https://www.zhihu.com/search?q=赵薇)
 1. [湖南卫视解除与钱枫的合作](https://www.zhihu.com/search?q=湖南卫视钱枫)
+1. [孟晚舟被非法拘押 1000 天](https://www.zhihu.com/search?q=孟晚舟)
 1. [米哈游年营收 101 亿](https://www.zhihu.com/search?q=米哈游)
 1. [男子捡 ipad 归还反遭质疑](https://www.zhihu.com/search?q=ipad失主)
 1. [EDG 晋级败者组决赛](https://www.zhihu.com/search?q=EDG)
