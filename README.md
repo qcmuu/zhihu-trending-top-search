@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 28 2021 08:39:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 28 2021 09:48:17 GMT+0800 (China Standard Time) -->
 
 1. [大连凯旋国际大厦失火](https://www.zhihu.com/search?q=大连 失火)
 1. [郑爽被罚款 2.99 亿元](https://www.zhihu.com/search?q=郑爽)
