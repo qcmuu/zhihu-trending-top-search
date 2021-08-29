@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 29 2021 14:14:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 29 2021 15:12:12 GMT+0800 (China Standard Time) -->
 
 1. [大连凯旋国际大厦失火](https://www.zhihu.com/search?q=大连 失火)
 1. [《扫黑》大江亲自答](https://www.zhihu.com/search?q=扫黑风暴)
