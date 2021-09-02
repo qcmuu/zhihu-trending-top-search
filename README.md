@@ -14,17 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 03 2021 00:21:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 03 2021 01:19:53 GMT+0800 (China Standard Time) -->
 
 1. [洗碗机均价破 7000 元](https://www.zhihu.com/search?q=洗碗机)
 1. [志愿军烈士遗骸归国](https://www.zhihu.com/search?q=志愿军)
 1. [网红郭老师全平台账号被封](https://www.zhihu.com/search?q=郭老师)
-1. [开学第一课](https://www.zhihu.com/search?q=开学第一课)
-1. [EDG 夺夏季赛冠军](https://www.zhihu.com/search?q=EDG)
 1. [海贼王 1024 话情报](https://www.zhihu.com/search?q=海贼王)
+1. [EDG 夺夏季赛冠军](https://www.zhihu.com/search?q=EDG)
+1. [开学第一课](https://www.zhihu.com/search?q=开学第一课)
 1. [社交牛逼症](https://www.zhihu.com/search?q=社交牛逼症)
-1. [进击的巨人角色人气投票](https://www.zhihu.com/search?q=进击的巨人)
 1. [雷军 100 亿注册汽车公司](https://www.zhihu.com/search?q=小米汽车)
+1. [进击的巨人角色人气投票](https://www.zhihu.com/search?q=进击的巨人)
+1. [郎平卸任女排主教练](https://www.zhihu.com/search?q=郎平)
 1. [世界杯亚洲区预选赛](https://www.zhihu.com/search?q=世界杯)
 
 <!-- END -->
