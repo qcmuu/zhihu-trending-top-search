@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 05 2021 14:15:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 05 2021 15:12:36 GMT+0800 (China Standard Time) -->
 
 1. [人生重开模拟器](https://www.zhihu.com/search?q=人生重开模拟器)
 1. [微信聊天记录付费云存储](https://www.zhihu.com/search?q=微信 云储存)
