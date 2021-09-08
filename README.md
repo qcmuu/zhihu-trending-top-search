@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 08 2021 13:09:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 08 2021 14:15:27 GMT+0800 (China Standard Time) -->
 
-1. [十二强赛国足 0:1 不敌日本](https://www.zhihu.com/search?q=国足)
 1. [哈利波特魔法觉醒分院](https://www.zhihu.com/search?q=哈利波特魔法觉醒)
+1. [十二强赛国足 0:1 不敌日本](https://www.zhihu.com/search?q=国足)
 1. [iPhone 13 详细配置曝光](https://www.zhihu.com/search?q=iPhone13)
 1. [杭州亚运会电竞项目](https://www.zhihu.com/search?q=亚运会)
+1. [人生重开模拟器手游版](https://www.zhihu.com/search?q=人生重开模拟器)
+1. [比特币暴跌 10000 美元](https://www.zhihu.com/search?q=比特币暴跌)
+1. [vivo 正式发布自研芯片](https://www.zhihu.com/search?q=vivo)
+1. [黑龙江 15 死车祸原因查明](https://www.zhihu.com/search?q=黑龙江车祸)
+1. [国内首例 CAR-T 癌症治疗](https://www.zhihu.com/search?q=CAR-T)
+1. [男子皮箱藏尸打车被识破](https://www.zhihu.com/search?q=男子 皮箱)
 1. [大学生领证 1 小时闹离婚](https://www.zhihu.com/search?q=大学生领证)
 1. [徐勤根自曝学历造假](https://www.zhihu.com/search?q=人类高质量男性)
 1. [2022 秋招开始](https://www.zhihu.com/search?q=2022秋招)
-1. [黑龙江 15 死车祸原因查明](https://www.zhihu.com/search?q=黑龙江车祸)
-1. [国内首例 CAR-T 癌症治疗](https://www.zhihu.com/search?q=CAR-T)
-1. [vivo 正式发布自研芯片](https://www.zhihu.com/search?q=vivo)
 1. [苹果发布会邀请函](https://www.zhihu.com/search?q=苹果发布会)
-1. [人生重开模拟器手游版](https://www.zhihu.com/search?q=人生重开模拟器)
 1. [北航新生邢益凡](https://www.zhihu.com/search?q=邢益凡)
 1. [安徽太湖一皮卡冲下深崖](https://www.zhihu.com/search?q=安徽皮卡)
 1. [徐雷升任京东总裁](https://www.zhihu.com/search?q=京东)
