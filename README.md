@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 14 2021 09:56:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 14 2021 10:25:38 GMT+0800 (China Standard Time) -->
 
 1. [福建疫情](https://www.zhihu.com/search?q=福建疫情)
 1. [米哈游警告原神数据网](https://www.zhihu.com/search?q=原神)
