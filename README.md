@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 17 2021 00:19:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 17 2021 01:16:55 GMT+0800 (China Standard Time) -->
 
-1. [四川泸县 6.0 级地震](https://www.zhihu.com/search?q=泸县)
-1. [iPhone 13 值不值得买](https://www.zhihu.com/search?q=iphone13)
 1. [fgo 中国从者调整](https://www.zhihu.com/search?q=fgo)
+1. [iPhone 13 值不值得买](https://www.zhihu.com/search?q=iphone13)
+1. [四川泸县 6.0 级地震](https://www.zhihu.com/search?q=泸县)
 1. [苏炳添或将得到奥运奖牌](https://www.zhihu.com/search?q=苏炳添)
 1. [iPad 2021](https://www.zhihu.com/search?q=ipad2021)
 1. [全运会开幕式](https://www.zhihu.com/search?q=全运会)
 1. [苹果发布会](https://www.zhihu.com/search?q=苹果发布会)
-1. [iPhone 12 价格直降千元](https://www.zhihu.com/search?q=iPhone12)
-1. [神舟十二明日返回地球](https://www.zhihu.com/search?q=神舟十二)
 1. [鹰角新游《来自星尘》](https://www.zhihu.com/search?q=来自星尘)
+1. [iPhone 12 价格直降千元](https://www.zhihu.com/search?q=iPhone12)
+1. [少年歌行导演亲自答](https://www.zhihu.com/search?q=少年歌行)
+1. [神舟十二明日返回地球](https://www.zhihu.com/search?q=神舟十二)
 
 <!-- END -->
 
