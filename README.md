@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 19 2021 13:11:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 19 2021 14:14:46 GMT+0800 (China Standard Time) -->
 
 1. [《灵媒》](https://www.zhihu.com/search?q=灵媒)
 1. [北京冬奥会主题口号](https://www.zhihu.com/search?q=北京冬奥会)
@@ -22,10 +22,11 @@
 1. [校门口游戏租号成产业](https://www.zhihu.com/search?q=租号)
 1. [iPhone 13 预售秒没](https://www.zhihu.com/search?q=iPhone13)
 1. [iPhone 13 买什么颜色](https://www.zhihu.com/search?q=iPhone 颜色)
-1. [《峰爆》上映](https://www.zhihu.com/search?q=峰爆)
+1. [《峰爆》导演亲自答](https://www.zhihu.com/search?q=峰爆)
 1. [广电通知停止宣传槟榔](https://www.zhihu.com/search?q=槟榔)
 1. [中国驻里约总领馆遭爆炸袭击](https://www.zhihu.com/search?q=里约总领馆)
 1. [苹果官网崩了](https://www.zhihu.com/search?q=苹果官网)
+1. [《峰爆》上映](https://www.zhihu.com/search?q=峰爆)
 1. [湖北工业大学新生偷拍被劝退](https://www.zhihu.com/search?q=湖北工业大学)
 1. [「错换人生案」开庭](https://www.zhihu.com/search?q=错换人生案)
 1. [苹果市值蒸发 457 亿](https://www.zhihu.com/search?q=苹果市值)
