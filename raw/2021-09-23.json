@@ -7,6 +7,7 @@
   { "query": "哈尔滨疫情", "display_query": "哈尔滨新增确诊病例 8 例" },
   { "query": "s11", "display_query": "英雄联盟全球总决赛抽签" },
   { "query": "苏炳添", "display_query": "苏炳添短跑实验室" },
-  { "query": "iPhone 13", "display_query": "iPhone 13 上手体验" },
-  { "query": "激流大行动", "display_query": "CS:GO 激流大行动" }
+  { "query": "阴阳师", "display_query": "阴阳师玩家送锦旗" },
+  { "query": "激流大行动", "display_query": "CS:GO 激流大行动" },
+  { "query": "iPhone 13", "display_query": "iPhone 13 上手体验" }
 ]
