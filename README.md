@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 27 2021 19:11:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 27 2021 19:12:14 GMT+0800 (China Standard Time) -->
 
 1. [迪迦奥特曼上架](https://www.zhihu.com/search?q=迪迦奥特曼)
 1. [鱿鱼游戏](https://www.zhihu.com/search?q=鱿鱼游戏)
