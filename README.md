@@ -14,17 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 12 2021 00:19:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 12 2021 01:17:18 GMT+0800 (China Standard Time) -->
 
-1. [法国夺欧国联冠军](https://www.zhihu.com/search?q=欧国联)
-1. [RNG 世界赛开门红](https://www.zhihu.com/search?q=RNG)
 1. [冠军对决 FPX 不敌 DK](https://www.zhihu.com/search?q=FPX)
-1. [周杰伦概念股](https://www.zhihu.com/search?q=周杰伦)
+1. [RNG 世界赛开门红](https://www.zhihu.com/search?q=RNG)
+1. [法国夺欧国联冠军](https://www.zhihu.com/search?q=欧国联)
+1. [福建莆田发生重大刑案](https://www.zhihu.com/search?q=福建刑案)
 1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖)
 1. [一拳超人 195 话](https://www.zhihu.com/search?q=一拳超人)
-1. [德国将在 2022 年全面弃核](https://www.zhihu.com/search?q=德国弃核)
-1. [大众点评回应王思聪](https://www.zhihu.com/search?q=大众点评)
 1. [鸿星尔克向山西捐赠物资](https://www.zhihu.com/search?q=鸿星尔克)
+1. [超六成职校学生毕业后不愿当蓝领](https://www.zhihu.com/search?q=职校毕业生)
+1. [大众点评回应王思聪](https://www.zhihu.com/search?q=大众点评)
+1. [周杰伦概念股](https://www.zhihu.com/search?q=周杰伦)
+1. [德国将在 2022 年全面弃核](https://www.zhihu.com/search?q=德国弃核)
 1. [女生修手机后收到自己裸照](https://www.zhihu.com/search?q=互联网隐私)
 
 <!-- END -->
