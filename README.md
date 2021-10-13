@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 14 2021 05:11:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 14 2021 06:12:53 GMT+0800 (China Standard Time) -->
 
-1. [鱿鱼游戏适合孩子看吗](https://www.zhihu.com/search?q=鱿鱼游戏)
+1. [台风「圆规」来袭](https://www.zhihu.com/search?q=圆规)
 1. [C9 0:1 FPX](https://www.zhihu.com/search?q=FPX)
 1. [全球手游营收排行](https://www.zhihu.com/search?q=手游)
 1. [《原神》荒泷一斗](https://www.zhihu.com/search?q=原神)
@@ -24,10 +24,10 @@
 1. [iPhone 13 Pro 被曝信号差](https://www.zhihu.com/search?q=iPhone 13 Pro)
 1. [农村男青年择偶难引热议](https://www.zhihu.com/search?q=农村男青年)
 1. [世界关节炎日](https://www.zhihu.com/search?q=关节炎)
-1. [RNG 小组赛首轮全胜](https://www.zhihu.com/search?q=RNG)
+1. [鱿鱼游戏适合孩子看吗](https://www.zhihu.com/search?q=鱿鱼游戏)
 1. [Switch OLED 新机型](https://www.zhihu.com/search?q=switch)
+1. [RNG 小组赛首轮全胜](https://www.zhihu.com/search?q=RNG)
 1. [原神 2.2 版本更新](https://www.zhihu.com/search?q=原神)
-1. [台风「圆规」来袭](https://www.zhihu.com/search?q=圆规)
 1. [互联网公司作息表](https://www.zhihu.com/search?q=公司作息表)
 1. [无职转生 Part.2 更新](https://www.zhihu.com/search?q=无职转生)
 1. [《重阳奇妙游》](https://www.zhihu.com/search?q=重阳奇妙游)
