@@ -1,6 +1,6 @@
 [
-  { "query": "原神", "display_query": "原神 2.2 版本更新" },
   { "query": "FPX", "display_query": "C9 0:1 FPX" },
+  { "query": "RNG", "display_query": "RNG 小组赛首轮全胜" },
   { "query": "LNG", "display_query": "TL 0:1 LNG 扳回一城" },
   { "query": "EDG", "display_query": "EDG 小组赛首轮全胜" },
   { "query": "喋血复仇", "display_query": "游戏《喋血复仇》发售" },
@@ -9,6 +9,7 @@
   { "query": "乐高", "display_query": "乐高将删除性别标签" },
   { "query": "iPhone减产", "display_query": "iPhone 13 将减产 1000 万部" },
   { "query": "行李箱抛尸", "display_query": "女子家中失踪被装行李箱抛尸" },
+  { "query": "原神", "display_query": "原神 2.2 版本更新" },
   { "query": "崩坏3", "display_query": "崩坏 3 登陆 Steam" },
   { "query": "超人", "display_query": "超人儿子出柜" },
   { "query": "国考", "display_query": "国考明日启动报名" },
@@ -16,7 +17,6 @@
   { "query": "中国男足", "display_query": "国足 2:3 惜败沙特" },
   { "query": "华为杯", "display_query": "「华为杯」数学建模竞赛" },
   { "query": "N号房", "display_query": "N 号房主犯被判 42 年" },
-  { "query": "RNG", "display_query": "RNG 小组赛首轮全胜" },
   { "query": "王健林", "display_query": "王健林与万达高管换乘红旗" },
   { "query": "公司作息表", "display_query": "互联网公司作息表" },
   { "query": "李国庆", "display_query": "李国庆称公章都在裤腰上" },
