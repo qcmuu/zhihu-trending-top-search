@@ -14,24 +14,27 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 15 2021 17:12:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 15 2021 18:14:35 GMT+0800 (China Standard Time) -->
 
-1. [国考启动网上报名](https://www.zhihu.com/search?q=国考)
-1. [北大弑母案吴谢宇亲笔信](https://www.zhihu.com/search?q=吴谢宇)
 1. [仙剑奇侠传 7 开售](https://www.zhihu.com/search?q=仙剑奇侠传7)
+1. [卫冕冠军 OG 出局](https://www.zhihu.com/search?q=og)
 1. [《兰心大剧院》](https://www.zhihu.com/search?q=兰心大剧院)
+1. [国考启动网上报名](https://www.zhihu.com/search?q=国考)
 1. [20 万黄金制千粒米扔黄浦江](https://www.zhihu.com/search?q=黄金米)
+1. [北大弑母案吴谢宇亲笔信](https://www.zhihu.com/search?q=吴谢宇)
+1. [湖人季前赛六连败](https://www.zhihu.com/search?q=湖人)
+1. [原神整活马斯克](https://www.zhihu.com/search?q=原神)
+1. [李代沫商演被紧急叫停](https://www.zhihu.com/search?q=李代沫)
+1. [EDG 小组赛首轮全胜](https://www.zhihu.com/search?q=EDG)
 1. [超人儿子出柜](https://www.zhihu.com/search?q=超人)
 1. [《光遇》风行季](https://www.zhihu.com/search?q=光遇)
 1. [重阳节祝福文案](https://www.zhihu.com/search?q=重阳节文案)
 1. [「华为杯」数学建模竞赛](https://www.zhihu.com/search?q=华为杯)
 1. [N 号房主犯被判 42 年](https://www.zhihu.com/search?q=N号房)
-1. [原神整活马斯克](https://www.zhihu.com/search?q=原神)
 1. [一人之下 547 话更新](https://www.zhihu.com/search?q=一人之下)
 1. [《功勋》孙家栋单元](https://www.zhihu.com/search?q=功勋)
 1. [微软将关闭领英在华业务](https://www.zhihu.com/search?q=领英)
 1. [海底捞回应能否办婚礼](https://www.zhihu.com/search?q=海底捞)
-1. [EDG 小组赛首轮全胜](https://www.zhihu.com/search?q=EDG)
 1. [《重阳奇妙游》](https://www.zhihu.com/search?q=重阳奇妙游)
 1. [方博 周雨宣布退出国家队](https://www.zhihu.com/search?q=方博周雨)
 1. [维伦纽瓦首答](https://www.zhihu.com/search?q=维伦纽瓦)
