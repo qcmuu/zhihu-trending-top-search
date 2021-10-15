@@ -14,15 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 15 2021 16:15:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 15 2021 17:12:42 GMT+0800 (China Standard Time) -->
 
 1. [国考启动网上报名](https://www.zhihu.com/search?q=国考)
-1. [仙剑奇侠传 7 开售](https://www.zhihu.com/search?q=仙剑奇侠传7)
 1. [北大弑母案吴谢宇亲笔信](https://www.zhihu.com/search?q=吴谢宇)
-1. [原神整活马斯克](https://www.zhihu.com/search?q=原神)
+1. [仙剑奇侠传 7 开售](https://www.zhihu.com/search?q=仙剑奇侠传7)
+1. [《兰心大剧院》](https://www.zhihu.com/search?q=兰心大剧院)
 1. [20 万黄金制千粒米扔黄浦江](https://www.zhihu.com/search?q=黄金米)
-1. [一人之下 547 话更新](https://www.zhihu.com/search?q=一人之下)
+1. [超人儿子出柜](https://www.zhihu.com/search?q=超人)
+1. [《光遇》风行季](https://www.zhihu.com/search?q=光遇)
+1. [重阳节祝福文案](https://www.zhihu.com/search?q=重阳节文案)
 1. [「华为杯」数学建模竞赛](https://www.zhihu.com/search?q=华为杯)
+1. [N 号房主犯被判 42 年](https://www.zhihu.com/search?q=N号房)
+1. [原神整活马斯克](https://www.zhihu.com/search?q=原神)
+1. [一人之下 547 话更新](https://www.zhihu.com/search?q=一人之下)
 1. [《功勋》孙家栋单元](https://www.zhihu.com/search?q=功勋)
 1. [微软将关闭领英在华业务](https://www.zhihu.com/search?q=领英)
 1. [海底捞回应能否办婚礼](https://www.zhihu.com/search?q=海底捞)
@@ -31,14 +36,11 @@
 1. [方博 周雨宣布退出国家队](https://www.zhihu.com/search?q=方博周雨)
 1. [维伦纽瓦首答](https://www.zhihu.com/search?q=维伦纽瓦)
 1. [抚顺女童受虐案宣判](https://www.zhihu.com/search?q=女童受虐案)
-1. [《光遇》风行季](https://www.zhihu.com/search?q=光遇)
-1. [重阳节祝福文案](https://www.zhihu.com/search?q=重阳节文案)
 1. [原神 2.2 版本更新](https://www.zhihu.com/search?q=原神)
 1. [李国庆称公章都在裤腰上](https://www.zhihu.com/search?q=李国庆)
 1. [搜狗 15 日正式并入腾讯](https://www.zhihu.com/search?q=搜狗)
 1. [乔布斯将出现在新品发布会](https://www.zhihu.com/search?q=乔布斯)
 1. [《天书奇谭》4K 版](https://www.zhihu.com/search?q=天书奇谭)
-1. [N 号房主犯被判 42 年](https://www.zhihu.com/search?q=N号房)
 1. [C9 0:1 FPX](https://www.zhihu.com/search?q=FPX)
 1. [国考明日启动报名](https://www.zhihu.com/search?q=国考)
 1. [互联网公司作息表](https://www.zhihu.com/search?q=公司作息表)
@@ -53,7 +55,6 @@
 1. [乐高将删除性别标签](https://www.zhihu.com/search?q=乐高)
 1. [iPhone 13 将减产 1000 万部](https://www.zhihu.com/search?q=iPhone减产)
 1. [崩坏 3 登陆 Steam](https://www.zhihu.com/search?q=崩坏3)
-1. [超人儿子出柜](https://www.zhihu.com/search?q=超人)
 1. [国足 2:3 惜败沙特](https://www.zhihu.com/search?q=中国男足)
 1. [王健林与万达高管换乘红旗](https://www.zhihu.com/search?q=王健林)
 
