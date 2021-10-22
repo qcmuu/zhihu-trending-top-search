@@ -5,8 +5,10 @@
   { "query": "麦当劳", "display_query": "麦当劳被曝使用过期食材" },
   { "query": "鱿鱼游戏 游行", "display_query": "韩国数千人穿鱿鱼游戏服装游行" },
   { "query": "朝阳群众", "display_query": "朝阳群众是种怎样的存在" },
-  { "query": "双十一", "display_query": "双十一攻略" },
+  { "query": "海贼王", "display_query": "海贼王 1029 话情报" },
   { "query": "战神4", "display_query": "战神 4 上架 Steam" },
+  { "query": "双十一", "display_query": "双十一攻略" },
+  { "query": "腾讯", "display_query": "腾讯成立 3A 工作室" },
   { "query": "一人之下", "display_query": "一人之下 548 话更新" },
   { "query": "乌合麒麟", "display_query": "乌合麒麟新作" },
   { "query": "小红书", "display_query": "小红书种草笔记 4 元一篇" },
@@ -22,6 +24,5 @@
   { "query": "主机游戏", "display_query": "主机游戏店铺被查封" },
   { "query": "仙剑7", "display_query": "游戏《仙剑 7》被破解" },
   { "query": "国考笔试", "display_query": "国考笔试新增「行政执法类」" },
-  { "query": "海贼王", "display_query": "海贼王 1029 话情报" },
   { "query": "北京确诊病例", "display_query": "北京新增 1 例确诊病例" }
 ]
