@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 24 2021 15:12:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 24 2021 16:15:15 GMT+0800 (China Standard Time) -->
 
-1. [于月仙车祸处理结果](https://www.zhihu.com/search?q=于月仙)
+1. [大连一居民楼发生爆炸](https://www.zhihu.com/search?q=大连爆炸)
 1. [1024 程序员节](https://www.zhihu.com/search?q=程序员节)
 1. [EDG 队史首次晋级四强](https://www.zhihu.com/search?q=edg)
 1. [浓眉霍华德冲突湖人负太阳](https://www.zhihu.com/search?q=湖人)
@@ -25,6 +25,7 @@
 1. [T1 零封 HLE 晋级四强](https://www.zhihu.com/search?q=T1)
 1. [北京昌平确诊病例轨迹公布](https://www.zhihu.com/search?q=北京确诊)
 1. [养老金个人账户制](https://www.zhihu.com/search?q=养老金)
+1. [于月仙车祸处理结果](https://www.zhihu.com/search?q=于月仙)
 1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下 4)
 1. [手机 LOGO 用不锈钢研制成功](https://www.zhihu.com/search?q=不锈钢logo)
 1. [《不速来客》](https://www.zhihu.com/search?q=不速来客)
@@ -38,7 +39,6 @@
 1. [好莱坞新片片场道具枪打死摄影师](https://www.zhihu.com/search?q=好莱坞新片片场重大事故)
 1. [Redmi Note 11 AMOLED 屏幕](https://www.zhihu.com/search?q=redmi)
 1. [北京野生动物园游客冲向虎群](https://www.zhihu.com/search?q=北京野生动物园)
-1. [大连一居民楼发生爆炸](https://www.zhihu.com/search?q=大连爆炸)
 1. [家长反映食堂问题被刑拘](https://www.zhihu.com/search?q=家长反映食堂问题被刑拘)
 1. [达利雕塑拍卖估值过亿](https://www.zhihu.com/search?q=达利)
 1. [NBA 75 大球星名单](https://www.zhihu.com/search?q=NBA 75)
