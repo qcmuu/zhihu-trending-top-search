@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 27 2021 17:13:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 27 2021 18:14:46 GMT+0800 (China Standard Time) -->
 
-1. [王者荣耀对原神致歉](https://www.zhihu.com/search?q=原神)
+1. [iOS 15.1 正式版发布](https://www.zhihu.com/search?q=iOS15.1)
 1. [北大考古博士刘拓坠崖去世](https://www.zhihu.com/search?q=刘拓)
 1. [无职转生 Part.2 更新](https://www.zhihu.com/search?q=无职转生)
 1. [京沪法学生起诉苹果不送充电器](https://www.zhihu.com/search?q=法学生起诉苹果)
@@ -24,8 +24,9 @@
 1. [「喵糖总动员」玩法攻略](https://www.zhihu.com/search?q=喵糖)
 1. [内蒙古包头多车连撞事故](https://www.zhihu.com/search?q=包头车祸)
 1. [特斯拉市值破 1 万亿美元](https://www.zhihu.com/search?q=特斯拉)
-1. [iOS 15.1 正式版发布](https://www.zhihu.com/search?q=iOS15.1)
+1. [2022 年节假日安排出炉](https://www.zhihu.com/search?q=节假日安排)
 1. [苹果回应新 MacBookPro 刘海屏](https://www.zhihu.com/search?q=MacBook Pro 刘海屏)
+1. [王者荣耀对原神致歉](https://www.zhihu.com/search?q=原神)
 1. [李子柒起诉 MCN 机构](https://www.zhihu.com/search?q=李子柒)
 1. [USNews 世界大学最新排名](https://www.zhihu.com/search?q=usnews大学排名2022)
 1. [威少 33+10+8 湖人取胜](https://www.zhihu.com/search?q=湖人)
@@ -35,7 +36,6 @@
 1. [冬奥会奖牌「同心」发布](https://www.zhihu.com/search?q=冬奥会奖牌)
 1. [冬奥会倒计时](https://www.zhihu.com/search?q=冬奥会)
 1. [GEN 晋级四强](https://www.zhihu.com/search?q=GEN)
-1. [2022 年节假日安排出炉](https://www.zhihu.com/search?q=节假日安排)
 1. [郭艾伦复出赛季首秀](https://www.zhihu.com/search?q=郭艾伦)
 1. [教资考试准考证](https://www.zhihu.com/search?q=教资)
 1. [哈尔滨发生杀人焚尸案](https://www.zhihu.com/search?q=哈尔滨杀人焚尸)
