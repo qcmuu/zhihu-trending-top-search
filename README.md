@@ -14,26 +14,28 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 27 2021 13:11:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 27 2021 14:16:01 GMT+0800 (China Standard Time) -->
 
 1. [国产宫颈癌疫苗获世卫预认证](https://www.zhihu.com/search?q=宫颈癌疫苗)
-1. [「喵糖总动员」玩法攻略](https://www.zhihu.com/search?q=喵糖)
-1. [USNews 世界大学最新排名](https://www.zhihu.com/search?q=usnews大学排名2022)
+1. [王者荣耀对原神致歉](https://www.zhihu.com/search?q=原神)
 1. [威少 33+10+8 湖人取胜](https://www.zhihu.com/search?q=湖人)
+1. [「喵糖总动员」玩法攻略](https://www.zhihu.com/search?q=喵糖)
+1. [李子柒起诉 MCN 机构](https://www.zhihu.com/search?q=李子柒)
+1. [教资考试准考证](https://www.zhihu.com/search?q=教资)
+1. [哈尔滨发生杀人焚尸案](https://www.zhihu.com/search?q=哈尔滨杀人焚尸)
+1. [崩坏：星穹铁道首测](https://www.zhihu.com/search?q=崩坏星穹铁道)
+1. [特斯拉市值破 1 万亿美元](https://www.zhihu.com/search?q=特斯拉)
 1. [拜登支持率大幅下降](https://www.zhihu.com/search?q=拜登)
+1. [USNews 世界大学最新排名](https://www.zhihu.com/search?q=usnews大学排名2022)
 1. [无职转生 Part.2 更新](https://www.zhihu.com/search?q=无职转生)
 1. [抗美援朝出国作战 71 周年](https://www.zhihu.com/search?q=抗美援朝)
 1. [头孢配酒危害有多大](https://www.zhihu.com/search?q=头孢配酒)
 1. [90 后成电信诈骗重灾区](https://www.zhihu.com/search?q=电信诈骗)
 1. [2021 国家司法考试](https://www.zhihu.com/search?q=2021法考)
-1. [李子柒起诉 MCN 机构](https://www.zhihu.com/search?q=李子柒)
-1. [王者荣耀对原神致歉](https://www.zhihu.com/search?q=原神)
 1. [国考超 202 万人报名](https://www.zhihu.com/search?q=国考)
 1. [韩国前总统卢泰愚去世](https://www.zhihu.com/search?q=卢泰愚)
-1. [特斯拉市值破 1 万亿美元](https://www.zhihu.com/search?q=特斯拉)
 1. [多地菜价呈上涨趋势](https://www.zhihu.com/search?q=菜价)
 1. [冬奥会倒计时 100 天](https://www.zhihu.com/search?q=冬奥会)
-1. [教资考试准考证](https://www.zhihu.com/search?q=教资)
 1. [湖人取新赛季首胜](https://www.zhihu.com/search?q=湖人)
 1. [上海房叔抛售 93 套房产](https://www.zhihu.com/search?q=上海房叔)
 1. [28 亿遭质押担保](https://www.zhihu.com/search?q=28亿)
