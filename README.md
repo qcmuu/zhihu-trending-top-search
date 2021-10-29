@@ -14,18 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 29 2021 18:14:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 29 2021 19:11:18 GMT+0800 (China Standard Time) -->
 
-1. [Redmi Note 11 系列](https://www.zhihu.com/search?q=红米note11)
 1. [云南瑞丽否认长期封城](https://www.zhihu.com/search?q=瑞丽)
+1. [战神设计师入职原神](https://www.zhihu.com/search?q=原神)
+1. [少年歌行导演亲自答](https://www.zhihu.com/search?q=少年歌行)
+1. [河南发现特大金矿](https://www.zhihu.com/search?q=河南金矿)
+1. [威少三双湖人遭雷霆逆转](https://www.zhihu.com/search?q=湖人)
+1. [一人之下 583 话更新](https://www.zhihu.com/search?q=一人之下)
+1. [同花顺 APP 崩溃](https://www.zhihu.com/search?q=同花顺)
+1. [育碧发邮件嘲讽玩家](https://www.zhihu.com/search?q=育碧)
+1. [AppStore 搜索出 bug](https://www.zhihu.com/search?q=appstore)
+1. [大疆 Action 2 运动相机发布](https://www.zhihu.com/search?q=大疆运动相机)
+1. [Redmi Note 11 系列](https://www.zhihu.com/search?q=红米note11)
 1. [《国王排名》第三话](https://www.zhihu.com/search?q=国王排名)
 1. [《007：无暇赴死》](https://www.zhihu.com/search?q=007)
 1. [荣耀 X30 系列手机](https://www.zhihu.com/search?q=荣耀X30i)
 1. [上海某导演拍摄不雅视频获利百万被抓](https://www.zhihu.com/search?q=爱情公寓)
-1. [少年歌行导演亲自答](https://www.zhihu.com/search?q=少年歌行)
-1. [同花顺 APP 崩溃](https://www.zhihu.com/search?q=同花顺)
-1. [育碧发邮件嘲讽玩家](https://www.zhihu.com/search?q=育碧)
-1. [AppStore 搜索出 bug](https://www.zhihu.com/search?q=appstore)
 1. [北京新增 5 例本地确诊](https://www.zhihu.com/search?q=北京疫情)
 1. [沙丘导演官宣第二部](https://www.zhihu.com/search?q=沙丘)
 1. [北京新增 2 例本土确诊](https://www.zhihu.com/search?q=北京疫情)
@@ -36,13 +41,11 @@
 1. [双十一种草清单](https://www.zhihu.com/search?q=双十一种草)
 1. [《入殓师》4K 修复版重映](https://www.zhihu.com/search?q=入殓师)
 1. [尼康 Z 9 相机发布](https://www.zhihu.com/search?q=尼康z9)
-1. [一人之下 583 话更新](https://www.zhihu.com/search?q=一人之下)
 1. [Facebook 更名为 Meta](https://www.zhihu.com/search?q=facebook)
 1. [英特尔 12 代酷睿处理器](https://www.zhihu.com/search?q=12代酷睿)
 1. [北大考古博士刘拓坠崖去世](https://www.zhihu.com/search?q=刘拓)
 1. [货拉拉案司机再发声](https://www.zhihu.com/search?q=货拉拉)
 1. [海贼王 1030 话情报](https://www.zhihu.com/search?q=海贼王)
-1. [河南发现特大金矿](https://www.zhihu.com/search?q=河南金矿)
 1. [北京海外考试因疫情取消](https://www.zhihu.com/search?q=北京海外考试)
 1. [勇士负灰熊赛季首败](https://www.zhihu.com/search?q=勇士)
 1. [长津湖之水门桥](https://www.zhihu.com/search?q=水门桥)
