@@ -14,22 +14,27 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 29 2021 16:16:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 29 2021 17:13:17 GMT+0800 (China Standard Time) -->
 
-1. [沙丘导演官宣第二部](https://www.zhihu.com/search?q=沙丘)
-1. [《国王排名》第三话](https://www.zhihu.com/search?q=国王排名)
 1. [云南瑞丽否认长期封城](https://www.zhihu.com/search?q=瑞丽)
+1. [北京新增 5 例本地确诊](https://www.zhihu.com/search?q=北京疫情)
+1. [沙丘导演官宣第二部](https://www.zhihu.com/search?q=沙丘)
+1. [北京新增 2 例本土确诊](https://www.zhihu.com/search?q=北京疫情)
+1. [内蒙古新增本土确诊 15 例](https://www.zhihu.com/search?q=内蒙古疫情)
+1. [张明杰案同案人回国投案](https://www.zhihu.com/search?q=张明杰案)
+1. [《入殓师》导演亲自答](https://www.zhihu.com/search?q=入殓师)
+1. [《向往的生活》第六季](https://www.zhihu.com/search?q=向往的生活)
+1. [双十一种草清单](https://www.zhihu.com/search?q=双十一种草)
+1. [少年歌行导演亲自答](https://www.zhihu.com/search?q=少年歌行)
+1. [《国王排名》第三话](https://www.zhihu.com/search?q=国王排名)
 1. [《入殓师》4K 修复版重映](https://www.zhihu.com/search?q=入殓师)
 1. [Redmi Note 11 系列](https://www.zhihu.com/search?q=红米note11)
-1. [张明杰案同案人回国投案](https://www.zhihu.com/search?q=张明杰案)
 1. [尼康 Z 9 相机发布](https://www.zhihu.com/search?q=尼康z9)
 1. [一人之下 583 话更新](https://www.zhihu.com/search?q=一人之下)
 1. [Facebook 更名为 Meta](https://www.zhihu.com/search?q=facebook)
 1. [英特尔 12 代酷睿处理器](https://www.zhihu.com/search?q=12代酷睿)
 1. [北大考古博士刘拓坠崖去世](https://www.zhihu.com/search?q=刘拓)
 1. [货拉拉案司机再发声](https://www.zhihu.com/search?q=货拉拉)
-1. [北京新增 5 例本地确诊](https://www.zhihu.com/search?q=北京疫情)
-1. [少年歌行导演亲自答](https://www.zhihu.com/search?q=少年歌行)
 1. [海贼王 1030 话情报](https://www.zhihu.com/search?q=海贼王)
 1. [河南发现特大金矿](https://www.zhihu.com/search?q=河南金矿)
 1. [北京海外考试因疫情取消](https://www.zhihu.com/search?q=北京海外考试)
@@ -48,7 +53,6 @@
 1. [USNews 世界大学最新排名](https://www.zhihu.com/search?q=usnews大学排名2022)
 1. [九章二号和祖冲之二号发布](https://www.zhihu.com/search?q=九章二号)
 1. [育碧发邮件嘲讽玩家](https://www.zhihu.com/search?q=育碧)
-1. [内蒙古新增本土确诊 15 例](https://www.zhihu.com/search?q=内蒙古疫情)
 1. [易建联复出首场比赛](https://www.zhihu.com/search?q=易建联)
 
 <!-- END -->
