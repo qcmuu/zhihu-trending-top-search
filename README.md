@@ -14,15 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 30 2021 17:12:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 30 2021 18:14:04 GMT+0800 (China Standard Time) -->
 
-1. [草东鼓手陈忆凡去世](https://www.zhihu.com/search?q=草东没有派对)
-1. [快手 CEO 宿华卸任](https://www.zhihu.com/search?q=快手)
-1. [《007：无暇赴死》](https://www.zhihu.com/search?q=007)
 1. [中南屋发文否认反华](https://www.zhihu.com/search?q=中南屋)
-1. [战神设计师入职原神](https://www.zhihu.com/search?q=原神)
-1. [《国王排名》第三话](https://www.zhihu.com/search?q=国王排名)
+1. [快手 CEO 宿华卸任](https://www.zhihu.com/search?q=快手)
+1. [草东鼓手陈忆凡去世](https://www.zhihu.com/search?q=草东没有派对)
+1. [《007：无暇赴死》](https://www.zhihu.com/search?q=007)
+1. [《披荆斩棘的哥哥》成团](https://www.zhihu.com/search?q=披荆斩棘的哥哥)
 1. [《入殓师》导演亲自答](https://www.zhihu.com/search?q=入殓师)
+1. [《国王排名》第三话](https://www.zhihu.com/search?q=国王排名)
+1. [战神设计师入职原神](https://www.zhihu.com/search?q=原神)
+1. [长津湖之水门桥](https://www.zhihu.com/search?q=水门桥)
 1. [一人之下 584 话更新](https://www.zhihu.com/search?q=一人之下)
 1. [帝国时代 4 发售](https://www.zhihu.com/search?q=帝国时代 4)
 1. [列车因乘务密接中断行程](https://www.zhihu.com/search?q=乘务密接)
@@ -40,7 +42,6 @@
 1. [年轻人月均储蓄 1624 元](https://www.zhihu.com/search?q=年轻人储蓄)
 1. [芒果 tv 存在会员专属广告](https://www.zhihu.com/search?q=芒果tv)
 1. [内蒙古新增本土确诊 15 例](https://www.zhihu.com/search?q=内蒙古疫情)
-1. [《披荆斩棘的哥哥》成团](https://www.zhihu.com/search?q=披荆斩棘的哥哥)
 1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下第四季)
 1. [大疆 Action 2 运动相机发布](https://www.zhihu.com/search?q=大疆运动相机)
 1. [AppStore 搜索出 bug](https://www.zhihu.com/search?q=appstore)
