@@ -14,19 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 05 2021 09:56:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 05 2021 10:29:24 GMT+0800 (China Standard Time) -->
 
 1. [耐克元宇宙卖鞋](https://www.zhihu.com/search?q=元宇宙)
-1. [艾尔登法环实机演示](https://www.zhihu.com/search?q=艾尔登法环)
 1. [《原神》胡桃复刻池](https://www.zhihu.com/search?q=原神)
+1. [艾尔登法环实机演示](https://www.zhihu.com/search?q=艾尔登法环)
 1. [成都市新增 2 例本土病例](https://www.zhihu.com/search?q=成都疫情)
-1. [国内疫情最新动态](https://www.zhihu.com/search?q=国内疫情)
 1. [漠河舞厅](https://www.zhihu.com/search?q=漠河舞厅)
+1. [3 至 11 岁可打新冠疫苗](https://www.zhihu.com/search?q=新冠疫苗)
 1. [塔利班副国防部长遭枪杀](https://www.zhihu.com/search?q=塔利班)
-1. [北京新增 8 例本土确诊病例](https://www.zhihu.com/search?q=北京疫情)
-1. [GoodNotes 降价](https://www.zhihu.com/search?q=goodnotes)
 1. [微念转让「李子柒」商标](https://www.zhihu.com/search?q=李子柒)
 1. [微念所持李子柒股权被冻结](https://www.zhihu.com/search?q=李子柒)
+1. [GoodNotes 降价](https://www.zhihu.com/search?q=goodnotes)
+1. [国内疫情最新动态](https://www.zhihu.com/search?q=国内疫情)
+1. [北京新增 8 例本土确诊病例](https://www.zhihu.com/search?q=北京疫情)
 1. [云鸟科技申请破产](https://www.zhihu.com/search?q=云鸟科技)
 1. [Notability 致歉](https://www.zhihu.com/search?q=Notability)
 1. [塔利班禁止在阿富汗使用外币](https://www.zhihu.com/search?q=塔利班外币)
