@@ -14,27 +14,28 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 19 2021 19:11:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 19 2021 20:21:20 GMT+0800 (China Standard Time) -->
 
 1. [张家界「元宇宙研究中心」](https://www.zhihu.com/search?q=元宇宙)
-1. [欧莱雅双 11 预售贵 66%](https://www.zhihu.com/search?q=欧莱雅)
-1. [一人之下 587 话更新](https://www.zhihu.com/search?q=一人之下)
-1. [海贼王 1032 话](https://www.zhihu.com/search?q=海贼王)
-1. [11 月 19 日我国出现月偏食](https://www.zhihu.com/search?q=月偏食)
-1. [台媒曝罗志祥正式复出](https://www.zhihu.com/search?q=罗志祥)
 1. [货拉拉案司机妻子发文](https://www.zhihu.com/search?q=货拉拉案)
-1. [LOL 双城之战杰斯争议](https://www.zhihu.com/search?q=英雄联盟双城之战)
+1. [欧莱雅双 11 预售贵 66%](https://www.zhihu.com/search?q=欧莱雅)
+1. [国家反垄断局正式成立](https://www.zhihu.com/search?q=国家反垄断局)
 1. [教育局回应「自杀准备情况」问卷](https://www.zhihu.com/search?q=自杀问卷)
+1. [一人之下 587 话更新](https://www.zhihu.com/search?q=一人之下)
+1. [天涯明月刀游戏托](https://www.zhihu.com/search?q=天涯明月刀)
+1. [11 月 19 日我国出现月偏食](https://www.zhihu.com/search?q=月偏食)
+1. [库里 40 分勇士逆转骑士](https://www.zhihu.com/search?q=勇士)
+1. [华为口红耳机](https://www.zhihu.com/search?q=口红耳机)
+1. [海贼王 1032 话](https://www.zhihu.com/search?q=海贼王)
+1. [台媒曝罗志祥正式复出](https://www.zhihu.com/search?q=罗志祥)
+1. [LOL 双城之战杰斯争议](https://www.zhihu.com/search?q=英雄联盟双城之战)
 1. [胖哥俩用隔夜死蟹被罚 50 万](https://www.zhihu.com/search?q=胖哥俩)
 1. [网易云「摸鱼计算器」](https://www.zhihu.com/search?q=摸鱼计算器)
 1. [李铁言论让足协「头疼」](https://www.zhihu.com/search?q=李铁)
-1. [华为口红耳机](https://www.zhihu.com/search?q=口红耳机)
 1. [女儿被父母「逼婚」患抑郁症](https://www.zhihu.com/search?q=逼婚)
-1. [天涯明月刀游戏托](https://www.zhihu.com/search?q=天涯明月刀)
 1. [美国药企惊现天花病毒](https://www.zhihu.com/search?q=天花)
 1. [江苏回应三名学生坠楼](https://www.zhihu.com/search?q=江苏学生坠楼)
 1. [欧莱雅致歉](https://www.zhihu.com/search?q=欧莱雅)
-1. [库里 40 分勇士逆转骑士](https://www.zhihu.com/search?q=勇士)
 1. [中学没收学生手机并砸毁](https://www.zhihu.com/search?q=没收学生手机)
 1. [哈登 27 分篮网胜骑士](https://www.zhihu.com/search?q=篮网)
 1. [如果贾宝玉开 EVA 会怎样？](https://www.zhihu.com/search?q=贾宝玉)
