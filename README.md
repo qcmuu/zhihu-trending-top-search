@@ -14,21 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 21 2021 11:13:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 21 2021 12:17:26 GMT+0800 (China Standard Time) -->
 
-1. [《门锁》导演亲自答](https://www.zhihu.com/search?q=门锁)
-1. [张家界「元宇宙研究中心」](https://www.zhihu.com/search?q=元宇宙)
-1. [货拉拉案司机妻子发文](https://www.zhihu.com/search?q=货拉拉案)
 1. [2020 年出生率跌破 1%](https://www.zhihu.com/search?q=出生率)
-1. [腾讯视频「单剧会员功能」](https://www.zhihu.com/search?q=腾讯视频)
-1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下4)
-1. [2022 高校毕业 1076 万人](https://www.zhihu.com/search?q=高校毕业)
+1. [《门锁》导演亲自答](https://www.zhihu.com/search?q=门锁)
 1. [英雄联盟动画大结局](https://www.zhihu.com/search?q=英雄联盟双城之战)
-1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
-1. [华为转让荣耀系列商标](https://www.zhihu.com/search?q=华为 荣耀)
+1. [张家界「元宇宙研究中心」](https://www.zhihu.com/search?q=元宇宙)
 1. [ofo 推出拉好友退押金功能](https://www.zhihu.com/search?q=ofo退押金)
+1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下4)
 1. [《三体》动画 PV](https://www.zhihu.com/search?q=三体)
 1. [偷星九月天动画 PV](https://www.zhihu.com/search?q=偷星九月天)
+1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
+1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
+1. [货拉拉案司机妻子发文](https://www.zhihu.com/search?q=货拉拉案)
+1. [腾讯视频「单剧会员功能」](https://www.zhihu.com/search?q=腾讯视频)
+1. [2022 高校毕业 1076 万人](https://www.zhihu.com/search?q=高校毕业)
+1. [华为转让荣耀系列商标](https://www.zhihu.com/search?q=华为 荣耀)
 1. [哈登准三双篮网胜魔术](https://www.zhihu.com/search?q=篮网)
 1. [一人之下 587 话更新](https://www.zhihu.com/search?q=一人之下)
 1. [欧莱雅双 11 预售贵 66%](https://www.zhihu.com/search?q=欧莱雅)
