@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 22 2021 22:12:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 22 2021 23:14:28 GMT+0800 (China Standard Time) -->
 
-1. [司马南怒怼联想](https://www.zhihu.com/search?q=司马南)
-1. [我国决定和立陶宛外交关系降为代办级](https://www.zhihu.com/search?q=立陶宛)
 1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
-1. [威金斯普尔合砍 65 分](https://www.zhihu.com/search?q=勇士)
 1. [双城之战画风争议](https://www.zhihu.com/search?q=双城之战)
+1. [司马南怒怼联想](https://www.zhihu.com/search?q=司马南)
+1. [偷星九月天动画 PV](https://www.zhihu.com/search?q=偷星九月天)
 1. [「人人影视字幕组」案宣判](https://www.zhihu.com/search?q=人人影视)
+1. [我国决定和立陶宛外交关系降为代办级](https://www.zhihu.com/search?q=立陶宛)
 1. [郭艾伦周琦为上综艺道歉](https://www.zhihu.com/search?q=郭艾伦道歉)
 1. [安阳狗伤人事件牵狗女子被指诈骗百万](https://www.zhihu.com/search?q=安阳狗伤人)
 1. [曼联官宣索尔斯克亚下课](https://www.zhihu.com/search?q=索尔斯克亚)
 1. [刚果金 8 名中国公民被绑架](https://www.zhihu.com/search?q=刚果金)
+1. [威金斯普尔合砍 65 分](https://www.zhihu.com/search?q=勇士)
 1. [原神申鹤云堇角色前瞻](https://www.zhihu.com/search?q=原神)
 1. [詹姆斯肘击冲突遭逐](https://www.zhihu.com/search?q=詹姆斯)
 1. [云南哀牢山究竟有多凶险](https://www.zhihu.com/search?q=云南哀牢山)
@@ -40,7 +41,6 @@
 1. [海贼王新剧场版 RED](https://www.zhihu.com/search?q=海贼王)
 1. [国考准考证开始打印](https://www.zhihu.com/search?q=国考准考证)
 1. [大 S 诉请与汪小菲离婚](https://www.zhihu.com/search?q=大S离婚)
-1. [偷星九月天动画 PV](https://www.zhihu.com/search?q=偷星九月天)
 1. [2020 年出生率跌破 1%](https://www.zhihu.com/search?q=出生率)
 1. [詹姆斯复出湖人 3 连败](https://www.zhihu.com/search?q=湖人)
 1. [ofo 推出拉好友退押金功能](https://www.zhihu.com/search?q=ofo退押金)
