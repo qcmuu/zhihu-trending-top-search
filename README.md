@@ -14,26 +14,29 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 26 2021 17:13:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 26 2021 18:15:10 GMT+0800 (China Standard Time) -->
 
-1. [元宇宙炒房热](https://www.zhihu.com/search?q=元宇宙)
 1. [宁波外教杀害女学生案开审](https://www.zhihu.com/search?q=宁波外教)
-1. [一人之下 588 话](https://www.zhihu.com/search?q=一人之下)
 1. [原神玩家直播融号](https://www.zhihu.com/search?q=原神)
+1. [元宇宙炒房热](https://www.zhihu.com/search?q=元宇宙)
+1. [湖人加时胜步行者](https://www.zhihu.com/search?q=湖人)
+1. [支付宝微信收款码禁止商用系误读](https://www.zhihu.com/search?q=支付宝微信)
+1. [一人之下 588 话](https://www.zhihu.com/search?q=一人之下)
+1. [于和伟聊喜剧](https://www.zhihu.com/search?q=一年一度喜剧大赛)
+1. [台湾 4.8 级地震](https://www.zhihu.com/search?q=台湾地震)
+1. [刘国梁当选国际乒联执行副主席](https://www.zhihu.com/search?q=刘国梁)
+1. [曼城 2-1 逆转巴黎](https://www.zhihu.com/search?q=曼城)
 1. [Steam 秋促推荐](https://www.zhihu.com/search?q=steam)
 1. [上海新增 3 例本土确诊](https://www.zhihu.com/search?q=上海疫情)
-1. [于和伟聊喜剧](https://www.zhihu.com/search?q=一年一度喜剧大赛)
 1. [腾讯辟谣「腾讯云数据库泄露」](https://www.zhihu.com/search?q=腾讯)
 1. [骨癌女孩的抗癌日记](https://www.zhihu.com/search?q=骨癌女孩)
 1. [本泽马涉嫌敲诈勒索](https://www.zhihu.com/search?q=本泽马)
 1. [朔尔茨将出任德国新总理](https://www.zhihu.com/search?q=朔尔茨)
 1. [小放牛被海底捞起诉](https://www.zhihu.com/search?q=小放牛)
 1. [长津湖成中国影史票房第 1](https://www.zhihu.com/search?q=长津湖)
-1. [湖人加时胜步行者](https://www.zhihu.com/search?q=湖人)
 1. [成都发放 200 万文旅消费券](https://www.zhihu.com/search?q=成都旅游)
 1. [花呗启动品牌隔离](https://www.zhihu.com/search?q=花呗)
 1. [金摇杆奖年度游戏](https://www.zhihu.com/search?q=金摇杆奖)
-1. [台湾 4.8 级地震](https://www.zhihu.com/search?q=台湾地震)
 1. [微信支付宝将不能用于经营收款](https://www.zhihu.com/search?q=支付宝)
 1. [安徽一女网红为「村霸」](https://www.zhihu.com/search?q=村霸女网红)
 1. [新秦时明月开播](https://www.zhihu.com/search?q=新秦时明月)
