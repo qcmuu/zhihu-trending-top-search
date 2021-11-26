@@ -14,16 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 26 2021 13:12:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 26 2021 14:16:33 GMT+0800 (China Standard Time) -->
 
 1. [宁波外教杀害女学生案开审](https://www.zhihu.com/search?q=宁波外教)
-1. [一人之下 588 话](https://www.zhihu.com/search?q=一人之下)
 1. [原神玩家直播融号](https://www.zhihu.com/search?q=原神)
-1. [长津湖成中国影史票房第 1](https://www.zhihu.com/search?q=长津湖)
 1. [上海新增 3 例本土确诊](https://www.zhihu.com/search?q=上海疫情)
 1. [成都发放 200 万文旅消费券](https://www.zhihu.com/search?q=成都旅游)
-1. [腾讯辟谣「腾讯云数据库泄露」](https://www.zhihu.com/search?q=腾讯)
 1. [Steam 秋促推荐](https://www.zhihu.com/search?q=steam)
+1. [花呗启动品牌隔离](https://www.zhihu.com/search?q=花呗)
+1. [小放牛被海底捞起诉](https://www.zhihu.com/search?q=小放牛)
+1. [一人之下 588 话](https://www.zhihu.com/search?q=一人之下)
+1. [长津湖成中国影史票房第 1](https://www.zhihu.com/search?q=长津湖)
+1. [元宇宙炒房热](https://www.zhihu.com/search?q=元宇宙)
+1. [腾讯辟谣「腾讯云数据库泄露」](https://www.zhihu.com/search?q=腾讯)
 1. [金摇杆奖年度游戏](https://www.zhihu.com/search?q=金摇杆奖)
 1. [台湾 4.8 级地震](https://www.zhihu.com/search?q=台湾地震)
 1. [微信支付宝将不能用于经营收款](https://www.zhihu.com/search?q=支付宝)
