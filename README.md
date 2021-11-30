@@ -14,16 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 30 2021 22:12:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 30 2021 23:14:30 GMT+0800 (China Standard Time) -->
 
 1. [「奥密克戎」变异毒株](https://www.zhihu.com/search?q=奥密克戎)
+1. [国王排名是否炒作](https://www.zhihu.com/search?q=国王排名)
 1. [李铁向中国足协提出辞职](https://www.zhihu.com/search?q=李铁)
-1. [樊振东夺世乒赛男单冠军](https://www.zhihu.com/search?q=世乒赛)
 1. [「鹿道森」留下遗书失联](https://www.zhihu.com/search?q=鹿道森)
 1. [国内疫情最新动态](https://www.zhihu.com/search?q=疫情)
-1. [国王排名是否炒作](https://www.zhihu.com/search?q=国王排名)
-1. [无职转生 part.2 更新](https://www.zhihu.com/search?q=无职转生)
 1. [梅西七夺金球奖](https://www.zhihu.com/search?q=梅西)
+1. [巴巴多斯正式脱离英联邦](https://www.zhihu.com/search?q=巴巴多斯)
+1. [一拳超人重制版 198 话](https://www.zhihu.com/search?q=一拳超人)
+1. [苏州试睡凶宅 128 万售出](https://www.zhihu.com/search?q=苏州试睡凶宅)
+1. [教师法修订草案公开征求意见](https://www.zhihu.com/search?q=教师法)
+1. [樊振东夺世乒赛男单冠军](https://www.zhihu.com/search?q=世乒赛)
+1. [无职转生 part.2 更新](https://www.zhihu.com/search?q=无职转生)
 1. [小红书崩了](https://www.zhihu.com/search?q=小红书崩了)
 1. [詹姆斯 33 分湖人胜活塞](https://www.zhihu.com/search?q=湖人)
 1. [首个活体机器人「生娃」](https://www.zhihu.com/search?q=活体机器人)
@@ -36,7 +40,6 @@
 1. [Virgil Abloh 去世](https://www.zhihu.com/search?q=VirgilAbloh)
 1. [2021 年轻人熬夜报告](https://www.zhihu.com/search?q=年轻人熬夜报告)
 1. [满洲里新增确诊 17 例](https://www.zhihu.com/search?q=满洲里疫情)
-1. [教师法修订草案公开征求意见](https://www.zhihu.com/search?q=教师法)
 1. [考辛斯加盟雄鹿](https://www.zhihu.com/search?q=考辛斯)
 1. [世乒赛中国包揽女单 4 强](https://www.zhihu.com/search?q=世乒赛)
 1. [樊振东决赛战瑞典黑马](https://www.zhihu.com/search?q=世乒赛)
