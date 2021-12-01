@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 02 2021 03:11:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 02 2021 04:14:34 GMT+0800 (China Standard Time) -->
 
-1. [JOJO 石之海上线](https://www.zhihu.com/search?q=石之海)
+1. [奥密克戎感染均为无症状或轻症](https://www.zhihu.com/search?q=奥密克戎)
 1. [内蒙古新增本土确诊 91 例](https://www.zhihu.com/search?q=内蒙古疫情)
 1. [鹿道森确认身亡](https://www.zhihu.com/search?q=鹿道森)
 1. [王曼昱夺世乒赛女单冠军](https://www.zhihu.com/search?q=世乒赛女单)
@@ -26,7 +26,7 @@
 1. [广州高校腹泻因诺如病毒感染](https://www.zhihu.com/search?q=诺如病毒)
 1. [北京我爱我家提供违规服务](https://www.zhihu.com/search?q=我爱我家)
 1. [轿车撞车后逃逸又撞多车](https://www.zhihu.com/search?q=河南轿车逃逸)
-1. [奥密克戎感染均为无症状或轻症](https://www.zhihu.com/search?q=奥密克戎)
+1. [JOJO 石之海上线](https://www.zhihu.com/search?q=石之海)
 1. [美国「全球态势评估」](https://www.zhihu.com/search?q=全球态势评估)
 1. [首个活体机器人「生娃」](https://www.zhihu.com/search?q=活体机器人)
 1. [国王排名是否炒作](https://www.zhihu.com/search?q=国王排名)
