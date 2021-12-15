@@ -5,8 +5,9 @@
   { "query": "孙卓", "display_query": "佳木斯警方回应孙卓户籍" },
   { "query": "孙卓", "display_query": "黑龙江北安回应孙卓户籍" },
   { "query": "uzi", "display_query": "Uzi 复出" },
+  { "query": "oppo", "display_query": "OPPO 智能眼镜" },
+  { "query": "购房资格绿码", "display_query": "北京「购房资格绿码」" },
   { "query": "袁咏仪", "display_query": "袁咏仪回应儿子不当言论" },
   { "query": "央行降准", "display_query": "央行第二次降准正式落地" },
-  { "query": "库里", "display_query": "库里加冕历史三分王" },
-  { "query": "oppo", "display_query": "OPPO 智能眼镜" }
+  { "query": "库里", "display_query": "库里加冕历史三分王" }
 ]
