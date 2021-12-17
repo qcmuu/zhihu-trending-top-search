@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 17 2021 20:21:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 17 2021 21:18:48 GMT+0800 (China Standard Time) -->
 
-1. [广州疫情](https://www.zhihu.com/search?q=广州疫情)
 1. [茶颜悦色](https://www.zhihu.com/search?q=茶颜悦色)
-1. [Epic 冬促免费](https://www.zhihu.com/search?q=epic)
+1. [广州疫情](https://www.zhihu.com/search?q=广州疫情)
 1. [原神 40w 重氪玩家毁号](https://www.zhihu.com/search?q=原神)
 1. [2020 年 GDP 现价总量](https://www.zhihu.com/search?q=2020GDP)
+1. [Epic 冬促免费](https://www.zhihu.com/search?q=epic)
 1. [游戏《幻塔》上线](https://www.zhihu.com/search?q=幻塔)
 1. [《雄狮少年》上映](https://www.zhihu.com/search?q=雄狮少年)
 1. [伯恩斯上任美驻华大使](https://www.zhihu.com/search?q=美国驻华大使)
