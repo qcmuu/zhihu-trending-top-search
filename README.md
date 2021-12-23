@@ -14,17 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 23 2021 16:17:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 23 2021 17:14:26 GMT+0800 (China Standard Time) -->
 
+1. [佟丽娅就网络谣言报案](https://www.zhihu.com/search?q=佟丽娅)
 1. [英特尔发布澄清公函](https://www.zhihu.com/search?q=英特尔)
 1. [英特尔「禁用新疆产品」](https://www.zhihu.com/search?q=英特尔)
 1. [中国印钞造币总公司董事陈耀明主动投案](https://www.zhihu.com/search?q=陈耀明)
 1. [林俊杰工作室发文回应](https://www.zhihu.com/search?q=林俊杰)
 1. [幻塔官方将原神改成乱码](https://www.zhihu.com/search?q=原神)
-1. [北京冬奥会纪念钞发行](https://www.zhihu.com/search?q=冬奥会纪念钞)
-1. [知网降价](https://www.zhihu.com/search?q=知网)
-1. [三国杀 steam 差评榜首](https://www.zhihu.com/search?q=三国杀)
 1. [女生因房东不退押金服毒](https://www.zhihu.com/search?q=大三女生服毒身亡)
+1. [知网降价](https://www.zhihu.com/search?q=知网)
+1. [西安全市封闭式管理](https://www.zhihu.com/search?q=西安封闭式管理)
+1. [三国杀 steam 差评榜首](https://www.zhihu.com/search?q=三国杀)
+1. [北京冬奥会纪念钞发行](https://www.zhihu.com/search?q=冬奥会纪念钞)
 1. [央行辟谣「私印 2 万亿」](https://www.zhihu.com/search?q=央行辟谣)
 1. [小米 12 系列官宣](https://www.zhihu.com/search?q=小米12)
 1. [西安科大进行线下考试](https://www.zhihu.com/search?q=西安科技大学)
@@ -33,7 +35,6 @@
 1. [MIUI 13 即将发布](https://www.zhihu.com/search?q=MIUI13)
 1. [韩剧雪滴花](https://www.zhihu.com/search?q=雪滴花)
 1. [华晨雷诺金杯停发工资](https://www.zhihu.com/search?q=华晨雷诺金杯)
-1. [西安全市封闭式管理](https://www.zhihu.com/search?q=西安封闭式管理)
 1. [百度「希壤」开放内测](https://www.zhihu.com/search?q=希壤)
 1. [张艺兴任湖南税务宣传大使](https://www.zhihu.com/search?q=张艺兴)
 1. [上海交大教授状告科技部](https://www.zhihu.com/search?q=上海交大教授)
