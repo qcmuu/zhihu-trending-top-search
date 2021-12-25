@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 26 2021 00:20:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 26 2021 01:20:11 GMT+0800 (China Standard Time) -->
 
 1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
-1. [考研政治](https://www.zhihu.com/search?q=考研政治)
-1. [霍尊回应陈露被抓](https://www.zhihu.com/search?q=霍尊回应)
 1. [詹姆斯·韦伯望远镜发射升空](https://www.zhihu.com/search?q=韦伯望远镜)
+1. [霍尊回应陈露被抓](https://www.zhihu.com/search?q=霍尊回应)
 1. [《黑客帝国 4：矩阵重生》](https://www.zhihu.com/search?q=黑客帝国4)
 1. [广西东兴新增 8 例本土病例](https://www.zhihu.com/search?q=广西疫情)
 1. [广西新增确诊病例 5 例](https://www.zhihu.com/search?q=广西疫情)
+1. [文在寅将赦免朴槿惠](https://www.zhihu.com/search?q=朴槿惠)
+1. [女子被误当野猪射击埋尸](https://www.zhihu.com/search?q=女子被当野猪射击)
+1. [考研政治](https://www.zhihu.com/search?q=考研政治)
+1. [TES 3:0 iG](https://www.zhihu.com/search?q=tes)
 1. [媒体评邮政拒绝残疾应届生入职](https://www.zhihu.com/search?q=残疾应届生)
 1. [羽生结弦复出赛季首秀](https://www.zhihu.com/search?q=羽生结弦)
-1. [文在寅将赦免朴槿惠](https://www.zhihu.com/search?q=朴槿惠)
 
 <!-- END -->
 
