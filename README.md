@@ -14,19 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 06 2022 12:18:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 06 2022 13:15:13 GMT+0800 (China Standard Time) -->
 
 1. [哈萨克斯坦总统解散政府](https://www.zhihu.com/search?q=哈萨克斯坦)
 1. [媒体评西安防疫](https://www.zhihu.com/search?q=西安疫情)
 1. [西安孕妇事件处理结果](https://www.zhihu.com/search?q=西安孕妇)
 1. [原神角色外观调整](https://www.zhihu.com/search?q=原神)
-1. [孤泳者](https://www.zhihu.com/search?q=孤泳者)
-1. [罗永浩发文质问苹果 CEO](https://www.zhihu.com/search?q=罗永浩 苹果)
 1. [成龙批评年轻演员耍大牌](https://www.zhihu.com/search?q=成龙批评年轻演员)
+1. [罗永浩发文质问苹果 CEO](https://www.zhihu.com/search?q=罗永浩 苹果)
 1. [印度财政部要求小米追缴税款](https://www.zhihu.com/search?q=小米)
-1. [男子教女友滑雪被要求证明情侣关系](https://www.zhihu.com/search?q=云佛山滑雪场)
-1. [明日方舟运营发声明](https://www.zhihu.com/search?q=明日方舟)
+1. [杜兰特 39 分篮网止连败](https://www.zhihu.com/search?q=篮网)
 1. [幽门螺旋杆菌被列为明确致癌物](https://www.zhihu.com/search?q=幽门螺旋杆菌)
+1. [男子教女友滑雪被要求证明情侣关系](https://www.zhihu.com/search?q=云佛山滑雪场)
+1. [孤泳者](https://www.zhihu.com/search?q=孤泳者)
+1. [明日方舟运营发声明](https://www.zhihu.com/search?q=明日方舟)
 1. [罗永浩被执行信息清零](https://www.zhihu.com/search?q=罗永浩)
 1. [Kindle 或退出中国市场](https://www.zhihu.com/search?q=Kindle)
 1. [「操场埋尸案」24 人判刑](https://www.zhihu.com/search?q=操场埋尸案)
