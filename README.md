@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 07 2022 13:14:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 07 2022 14:17:25 GMT+0800 (China Standard Time) -->
 
+1. [小红书崩了](https://www.zhihu.com/search?q=小红书崩了)
+1. [上海新增 3 例无症状感染者](https://www.zhihu.com/search?q=上海疫情)
 1. [哈萨克斯坦总统解散政府](https://www.zhihu.com/search?q=哈萨克斯坦)
 1. [媒体评西安防疫](https://www.zhihu.com/search?q=西安疫情)
-1. [《吞噬星空》导演亲自答](https://www.zhihu.com/search?q=吞噬星空)
 1. [西安孕妇事件处理结果](https://www.zhihu.com/search?q=西安孕妇)
-1. [上海新增 3 例无症状感染者](https://www.zhihu.com/search?q=上海疫情)
-1. [小红书崩了](https://www.zhihu.com/search?q=小红书崩了)
+1. [纽约市长呼吁向华人道歉](https://www.zhihu.com/search?q=纽约市长道歉)
 1. [深圳报告 2 例新冠阳性](https://www.zhihu.com/search?q=深圳疫情)
+1. [茶颜悦色涨价](https://www.zhihu.com/search?q=茶颜悦色)
 1. [张庭夫妇未直接持股涉事公司](https://www.zhihu.com/search?q=张庭夫妇)
+1. [新秦时明月更新](https://www.zhihu.com/search?q=新秦时明月)
+1. [《吞噬星空》导演亲自答](https://www.zhihu.com/search?q=吞噬星空)
 1. [一人之下 595 话更新](https://www.zhihu.com/search?q=一人之下)
 1. [成都男教师猥亵男生宣判](https://www.zhihu.com/search?q=成都男教师)
 1. [原神角色外观调整](https://www.zhihu.com/search?q=原神)
-1. [纽约市长呼吁向华人道歉](https://www.zhihu.com/search?q=纽约市长道歉)
 1. [刷身份证自动核验健康码](https://www.zhihu.com/search?q=身份证 健康码)
 1. [白岩松首次回应「爹味」言论争议](https://www.zhihu.com/search?q=白岩松)
 1. [詹姆斯 31 分湖人胜国王](https://www.zhihu.com/search?q=湖人)
@@ -36,7 +38,6 @@
 1. [幽门螺旋杆菌被列为明确致癌物](https://www.zhihu.com/search?q=幽门螺旋杆菌)
 1. [成龙批评年轻演员耍大牌](https://www.zhihu.com/search?q=成龙批评年轻演员)
 1. [江西宜春发现初查阳性](https://www.zhihu.com/search?q=江西宜春疫情)
-1. [茶颜悦色涨价](https://www.zhihu.com/search?q=茶颜悦色)
 1. [CES 2022](https://www.zhihu.com/search?q=CES2022)
 1. [浙江金华新增 1 例确诊](https://www.zhihu.com/search?q=浙江疫情)
 1. [明日方舟全新常驻模式](https://www.zhihu.com/search?q=明日方舟)
