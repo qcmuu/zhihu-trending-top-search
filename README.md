@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 13 2022 15:14:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 13 2022 16:17:55 GMT+0800 (China Standard Time) -->
 
+1. [河南新增 76 例本土确诊](https://www.zhihu.com/search?q=河南疫情)
 1. [长津湖 2 定档春节](https://www.zhihu.com/search?q=水门桥)
+1. [马化腾说腾讯只是普通公司](https://www.zhihu.com/search?q=马化腾)
+1. [儿童票拟打破以身高论票价](https://www.zhihu.com/search?q=儿童票)
+1. [乡政府工作人员上班刷手机](https://www.zhihu.com/search?q=乡政府工作人员上班刷手机)
+1. [绝地求生正式免费](https://www.zhihu.com/search?q=绝地求生)
+1. [仝卓称「需要申辩机会」](https://www.zhihu.com/search?q=仝卓)
+1. [天津新增 41 例本土确诊](https://www.zhihu.com/search?q=天津疫情)
+1. [詹姆斯 34 分湖人负国王](https://www.zhihu.com/search?q=湖人)
+1. [上海孕妇核酸检测期间流产](https://www.zhihu.com/search?q=上海孕妇)
 1. [DOTA2 解说谭雅被停职](https://www.zhihu.com/search?q=谭雅)
 1. [《紫川》首创互动剧](https://www.zhihu.com/search?q=紫川)
 1. [刘鑫曾向江母发刺激性信息](https://www.zhihu.com/search?q=刘鑫)
-1. [马化腾说腾讯只是普通公司](https://www.zhihu.com/search?q=马化腾)
-1. [儿童票拟打破以身高论票价](https://www.zhihu.com/search?q=儿童票)
-1. [天津新增 41 例本土确诊](https://www.zhihu.com/search?q=天津疫情)
-1. [仝卓称「需要申辩机会」](https://www.zhihu.com/search?q=仝卓)
-1. [绝地求生正式免费](https://www.zhihu.com/search?q=绝地求生)
-1. [河南新增 76 例本土确诊](https://www.zhihu.com/search?q=河南疫情)
-1. [詹姆斯 34 分湖人负国王](https://www.zhihu.com/search?q=湖人)
 1. [欧文 22 分篮网负开拓者](https://www.zhihu.com/search?q=篮网)
 1. [TES 新赛季首战告负](https://www.zhihu.com/search?q=tes)
 1. [CBA 记者辱骂球员被驱逐](https://www.zhihu.com/search?q=CBA女记者)
@@ -49,7 +51,6 @@
 1. [法考主观题成绩](https://www.zhihu.com/search?q=法考主观题)
 1. [陕西新增本土确诊 13 例](https://www.zhihu.com/search?q=陕西疫情)
 1. [iPhone 15 搭载自研芯片](https://www.zhihu.com/search?q=iPhone15)
-1. [上海孕妇核酸检测期间流产](https://www.zhihu.com/search?q=上海孕妇)
 1. [台军 F-16V 战机失联](https://www.zhihu.com/search?q=台军战机失联)
 1. [90 后女生硬刚乱港分子](https://www.zhihu.com/search?q=90后女生硬刚乱港分子)
 1. [网传上海静安区有疫情](https://www.zhihu.com/search?q=上海静安疫情)
