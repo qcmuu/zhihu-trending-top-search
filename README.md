@@ -14,14 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 15 2022 12:18:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 15 2022 13:14:30 GMT+0800 (China Standard Time) -->
 
-1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
 1. [上海新增 2 例本土确诊](https://www.zhihu.com/search?q=上海疫情)
-1. [网传一券商禁止员工炫富](https://www.zhihu.com/search?q=员工炫富)
-1. [佳能宣布关闭珠海公司](https://www.zhihu.com/search?q=佳能)
-1. [舅舅给外甥包 50 亿红包只值 5 毛钱](https://www.zhihu.com/search?q=50亿红包只值5毛钱)
+1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
 1. [上海市剧本杀密室规定](https://www.zhihu.com/search?q=剧本杀)
+1. [英方被曝在华为内部安插间谍](https://www.zhihu.com/search?q=华为)
+1. [网传一券商禁止员工炫富](https://www.zhihu.com/search?q=员工炫富)
+1. [舅舅给外甥包 50 亿红包只值 5 毛钱](https://www.zhihu.com/search?q=50亿红包只值5毛钱)
+1. [Steam 国游销量年榜](https://www.zhihu.com/search?q=steam)
+1. [新秦时明月更新](https://www.zhihu.com/search?q=新秦时明月)
+1. [佳能宣布关闭珠海公司](https://www.zhihu.com/search?q=佳能)
+1. [孙杨直播带货](https://www.zhihu.com/search?q=孙杨)
 1. [天津累计报告 142 例确诊](https://www.zhihu.com/search?q=天津疫情)
 1. [库里 12 分勇士负雄鹿](https://www.zhihu.com/search?q=勇士)
 1. [勇士狂胜公牛 42 分](https://www.zhihu.com/search?q=勇士)
@@ -38,7 +42,6 @@
 1. [严防风险人员第三地返京](https://www.zhihu.com/search?q=第三地返京)
 1. [武汉儿童医院伤医事件](https://www.zhihu.com/search?q=武汉儿童医院)
 1. [超 500 万学生脊柱侧弯](https://www.zhihu.com/search?q=脊柱侧弯)
-1. [新秦时明月更新](https://www.zhihu.com/search?q=新秦时明月)
 1. [长津湖 2 定档春节](https://www.zhihu.com/search?q=水门桥)
 1. [天津返大连感染学生遭网暴](https://www.zhihu.com/search?q=感染学生被网暴)
 1. [小红书申请「老红书」商标](https://www.zhihu.com/search?q=小红书)
