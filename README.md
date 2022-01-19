@@ -14,22 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 19 2022 11:13:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 19 2022 12:16:55 GMT+0800 (China Standard Time) -->
 
 1. [《开端》更新](https://www.zhihu.com/search?q=开端)
+1. [外交部回应英国封杀华为](https://www.zhihu.com/search?q=英国封杀华为)
 1. [汤加一岛屿房屋均被摧毁](https://www.zhihu.com/search?q=汤加)
 1. [微软将收购动视暴雪](https://www.zhihu.com/search?q=微软收购动视暴雪)
-1. [校方回应辅导员强奸学生](https://www.zhihu.com/search?q=辅导员强奸女学生)
-1. [微信新增语音播放暂停功能](https://www.zhihu.com/search?q=微信语音暂停)
-1. [B 站用户上传破解监控画面](https://www.zhihu.com/search?q=b站监控画面)
 1. [原神高德导航语音](https://www.zhihu.com/search?q=原神)
-1. [富士山岩浆正在活动](https://www.zhihu.com/search?q=富士山)
+1. [微信新增语音播放暂停功能](https://www.zhihu.com/search?q=微信语音暂停)
 1. [宋智雅发文承认用假货](https://www.zhihu.com/search?q=宋智雅)
+1. [2022 年集五福](https://www.zhihu.com/search?q=集五福)
 1. [拼多多回应砍价争议](https://www.zhihu.com/search?q=拼多多)
+1. [富士山岩浆正在活动](https://www.zhihu.com/search?q=富士山)
+1. [校方回应辅导员强奸学生](https://www.zhihu.com/search?q=辅导员强奸女学生)
+1. [B 站用户上传破解监控画面](https://www.zhihu.com/search?q=b站监控画面)
 1. [汤加所有房屋均被摧毁](https://www.zhihu.com/search?q=汤加)
 1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
 1. [女子人肉占车位被车顶开](https://www.zhihu.com/search?q=人肉占车位)
-1. [2022 年集五福](https://www.zhihu.com/search?q=集五福)
 1. [中国 GDP 破 110 万亿元](https://www.zhihu.com/search?q=GDP)
 1. [特利迦奥特曼二十四话](https://www.zhihu.com/search?q=特利迦奥特曼)
 1. [克莱 13 分勇士负森林狼](https://www.zhihu.com/search?q=勇士)
