@@ -14,13 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 22 2022 20:20:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 22 2022 21:14:15 GMT+0800 (China Standard Time) -->
 
 1. [番大王《去你的岛》](https://www.zhihu.com/search?q=去你的岛)
 1. [北京新增 7 例本土确诊](https://www.zhihu.com/search?q=北京疫情)
-1. [国防部回应「美舰擅闯西沙领海」](https://www.zhihu.com/search?q=国防部回应)
 1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
+1. [国防部回应「美舰擅闯西沙领海」](https://www.zhihu.com/search?q=国防部回应)
+1. [BLG 让一追二 OMG](https://www.zhihu.com/search?q=blg)
 1. [医生直播妇科手术被刑拘](https://www.zhihu.com/search?q=医生直播妇科手术)
+1. [一人之下 597 话更新](https://www.zhihu.com/search?q=一人之下)
+1. [詹姆斯 29 分湖人胜魔术](https://www.zhihu.com/search?q=湖人)
+1. [外交部回应美国制裁中企](https://www.zhihu.com/search?q=美国制裁中企)
+1. [货拉拉滴滴出行等被约谈](https://www.zhihu.com/search?q=货拉拉被约谈)
 1. [徐瑛彬 3-1 樊振东](https://www.zhihu.com/search?q=樊振东)
 1. [FPX 新赛季首败](https://www.zhihu.com/search?q=fpx)
 1. [RNG 让一追二 AL](https://www.zhihu.com/search?q=rng)
@@ -28,7 +33,6 @@
 1. [郑州暴雨灾害调查报告](https://www.zhihu.com/search?q=郑州720特大暴雨)
 1. [广东珠海新增 3 例确诊](https://www.zhihu.com/search?q=广东疫情)
 1. [河南新增确诊病例 3 例](https://www.zhihu.com/search?q=河南疫情)
-1. [BLG 让一追二 OMG](https://www.zhihu.com/search?q=blg)
 1. [库里绝杀火箭](https://www.zhihu.com/search?q=库里)
 1. [天津新增 8 例确诊病例](https://www.zhihu.com/search?q=天津疫情)
 1. [秦始皇陵陪葬墓新出土文物](https://www.zhihu.com/search?q=秦始皇陵)
@@ -44,10 +48,8 @@
 1. [iPhone 13 粉屏](https://www.zhihu.com/search?q=iPhone13粉屏)
 1. [游戏王：大师决斗](https://www.zhihu.com/search?q=游戏王)
 1. [詹姆斯 30 分湖人负步行者](https://www.zhihu.com/search?q=湖人)
-1. [詹姆斯 29 分湖人胜魔术](https://www.zhihu.com/search?q=湖人)
 1. [高管因家暴妻子被停职](https://www.zhihu.com/search?q=高管家暴)
 1. [画江湖之不良人 5](https://www.zhihu.com/search?q=不良人)
-1. [一人之下 597 话更新](https://www.zhihu.com/search?q=一人之下)
 1. [新秦时明月更新](https://www.zhihu.com/search?q=新秦时明月)
 1. [恩比德 50 分平生涯纪录](https://www.zhihu.com/search?q=恩比德)
 1. [欧文 30+7 篮网胜奇才](https://www.zhihu.com/search?q=篮网)
