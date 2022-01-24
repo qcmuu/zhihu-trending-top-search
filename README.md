@@ -14,15 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 24 2022 15:18:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 24 2022 16:16:00 GMT+0800 (China Standard Time) -->
 
-1. [小红书被罚 30 万](https://www.zhihu.com/search?q=小红书)
-1. [冬奥人员海关复检阳性 39 人](https://www.zhihu.com/search?q=冬奥人员复检阳性)
 1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
-1. [V5 让一追二击败 TES](https://www.zhihu.com/search?q=tes)
+1. [哈尔滨要求全市全员核酸检测](https://www.zhihu.com/search?q=哈尔滨全员核酸检测)
 1. [《原神》新春会](https://www.zhihu.com/search?q=原神)
-1. [番大王《去你的岛》](https://www.zhihu.com/search?q=去你的岛)
+1. [V5 让一追二击败 TES](https://www.zhihu.com/search?q=tes)
 1. [西安整区解封前进行全员核酸](https://www.zhihu.com/search?q=西安解封)
+1. [小红书被罚 30 万](https://www.zhihu.com/search?q=小红书)
+1. [番大王《去你的岛》](https://www.zhihu.com/search?q=去你的岛)
+1. [冬奥人员海关复检阳性 39 人](https://www.zhihu.com/search?q=冬奥人员复检阳性)
+1. [FPX 新赛季首败](https://www.zhihu.com/search?q=fpx)
+1. [山西发现 1 例核酸阳性人员](https://www.zhihu.com/search?q=山西疫情)
 1. [库里 13 分勇士胜爵士](https://www.zhihu.com/search?q=勇士)
 1. [《明日方舟》新春会](https://www.zhihu.com/search?q=明日方舟)
 1. [詹姆斯 33+11 湖人负热火](https://www.zhihu.com/search?q=湖人)
@@ -43,9 +46,7 @@
 1. [詹姆斯 29 分湖人胜魔术](https://www.zhihu.com/search?q=湖人)
 1. [哈登大号三双篮网胜马刺](https://www.zhihu.com/search?q=篮网)
 1. [库里绝杀火箭](https://www.zhihu.com/search?q=库里)
-1. [FPX 新赛季首败](https://www.zhihu.com/search?q=fpx)
 1. [EDG 开赛四连胜](https://www.zhihu.com/search?q=edg)
-1. [山西发现 1 例核酸阳性人员](https://www.zhihu.com/search?q=山西疫情)
 
 <!-- END -->
 
