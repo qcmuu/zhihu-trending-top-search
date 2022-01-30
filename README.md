@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 30 2022 19:10:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 30 2022 20:19:34 GMT+0800 (China Standard Time) -->
 
+1. [韩剧《僵尸校园》](https://www.zhihu.com/search?q=僵尸校园)
 1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
 1. [安以轩老公被捕](https://www.zhihu.com/search?q=安以轩老公)
-1. [韩剧《僵尸校园》](https://www.zhihu.com/search?q=僵尸校园)
+1. [北京冬奥村按摩床获美国选手狂赞](https://www.zhihu.com/search?q=北京冬奥村)
+1. [被栓铁链母亲患精神疾病](https://www.zhihu.com/search?q=被栓铁链母亲患精神疾病)
+1. [进击的巨人最终季 Part2 更新](https://www.zhihu.com/search?q=进击的巨人)
 1. [九品芝麻官尚书大人逝世](https://www.zhihu.com/search?q=九品芝麻官尚书大人逝世)
+1. [日本樱岛火山喷发](https://www.zhihu.com/search?q=日本樱岛火山喷发)
+1. [冬奥中国代表团旗手确定](https://www.zhihu.com/search?q=冬奥会旗手)
+1. [北京新增本土确诊 12 例](https://www.zhihu.com/search?q=北京疫情)
 1. [iOS 新增「男妈妈」emoji](https://www.zhihu.com/search?q=iOS 男妈妈)
 1. [美国海军证实 F-35C 落入南海](https://www.zhihu.com/search?q=美国海军证实)
-1. [北京冬奥村按摩床获美国选手狂赞](https://www.zhihu.com/search?q=北京冬奥村)
-1. [北京新增本土确诊 12 例](https://www.zhihu.com/search?q=北京疫情)
-1. [进击的巨人最终季 Part2 更新](https://www.zhihu.com/search?q=进击的巨人)
-1. [被栓铁链母亲患精神疾病](https://www.zhihu.com/search?q=被栓铁链母亲患精神疾病)
 1. [Epic 春节特卖推荐](https://www.zhihu.com/search?q=Epic)
 1. [库里 19 分勇士胜篮网](https://www.zhihu.com/search?q=勇士)
 1. [台湾每天缺 120 万颗鸡蛋](https://www.zhihu.com/search?q=台湾每天缺120万颗鸡蛋)
@@ -42,8 +44,6 @@
 1. [大理灭门案被告人宣判无罪](https://www.zhihu.com/search?q=大理灭门案)
 1. [北京新增 12 例本土确诊](https://www.zhihu.com/search?q=北京新增)
 1. [伊藤美诚不再参加混双比赛](https://www.zhihu.com/search?q=伊藤美诚)
-1. [冬奥中国代表团旗手确定](https://www.zhihu.com/search?q=冬奥会旗手)
-1. [日本樱岛火山喷发](https://www.zhihu.com/search?q=日本樱岛火山喷发)
 1. [宝可梦传说：阿尔宙斯](https://www.zhihu.com/search?q=阿尔宙斯)
 1. [雷军卸任小米电子公司董事长](https://www.zhihu.com/search?q=雷军)
 1. [美国联邦通信委员会撤销联通牌照](https://www.zhihu.com/search?q=美国联邦通信委员会撤销联通牌照)
