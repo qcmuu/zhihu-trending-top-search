@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 30 2022 12:16:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 30 2022 13:11:11 GMT+0800 (China Standard Time) -->
 
-1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
 1. [韩剧《僵尸校园》](https://www.zhihu.com/search?q=僵尸校园)
-1. [北京新增 12 例本土确诊](https://www.zhihu.com/search?q=北京新增)
-1. [进击的巨人最终季 Part2 更新](https://www.zhihu.com/search?q=进击的巨人)
+1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
 1. [大理灭门案被告人宣判无罪](https://www.zhihu.com/search?q=大理灭门案)
-1. [伊藤美诚不再参加混双比赛](https://www.zhihu.com/search?q=伊藤美诚)
-1. [被栓铁链母亲患精神疾病](https://www.zhihu.com/search?q=被栓铁链母亲患精神疾病)
 1. [英伟达 RTX 3050 显卡](https://www.zhihu.com/search?q=英伟达 RTX 3050 显卡)
-1. [冬奥中国代表团旗手确定](https://www.zhihu.com/search?q=冬奥会旗手)
+1. [北京新增 12 例本土确诊](https://www.zhihu.com/search?q=北京新增)
+1. [被栓铁链母亲患精神疾病](https://www.zhihu.com/search?q=被栓铁链母亲患精神疾病)
+1. [美国海军证实 F-35C 落入南海](https://www.zhihu.com/search?q=美国海军证实)
+1. [矿冶学家戴永年院士逝世](https://www.zhihu.com/search?q=戴永年)
 1. [互联网大厂春节红包大战](https://www.zhihu.com/search?q=互联网大厂春节红包大战)
+1. [微信朋友圈发 20 张图](https://www.zhihu.com/search?q=微信更新)
+1. [进击的巨人最终季 Part2 更新](https://www.zhihu.com/search?q=进击的巨人)
+1. [伊藤美诚不再参加混双比赛](https://www.zhihu.com/search?q=伊藤美诚)
+1. [冬奥中国代表团旗手确定](https://www.zhihu.com/search?q=冬奥会旗手)
 1. [台湾每天缺 120 万颗鸡蛋](https://www.zhihu.com/search?q=台湾每天缺120万颗鸡蛋)
 1. [日本樱岛火山喷发](https://www.zhihu.com/search?q=日本樱岛火山喷发)
 1. [北京冬奥人员复检阳性](https://www.zhihu.com/search?q=北京冬奥人员复检阳性)
@@ -36,7 +39,6 @@
 1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
 1. [一人之下最新 562 话](https://www.zhihu.com/search?q=一人之下)
 1. [南京女生遇害案嫌疑人不承认](https://www.zhihu.com/search?q=南京女生遇害案)
-1. [微信朋友圈发 20 张图](https://www.zhihu.com/search?q=微信更新)
 1. [库里 29+8+6 胜森林狼](https://www.zhihu.com/search?q=库里)
 1. [苹果支持戴口罩解锁](https://www.zhihu.com/search?q=苹果支持戴口罩解锁)
 1. [威少 20 分湖人负 76 人](https://www.zhihu.com/search?q=湖人)
