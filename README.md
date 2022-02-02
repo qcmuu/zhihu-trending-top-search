@@ -14,21 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 02 2022 14:15:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 02 2022 15:12:14 GMT+0800 (China Standard Time) -->
 
-1. [国足不敌越南无缘 2022 世界杯](https://www.zhihu.com/search?q=国足)
 1. [四海口碑](https://www.zhihu.com/search?q=四海)
 1. [《杀手》导演亲自答](https://www.zhihu.com/search?q=这个杀手不太冷静)
-1. [韩东君告别平河](https://www.zhihu.com/search?q=长津湖)
-1. [只此青绿](https://www.zhihu.com/search?q=只此青绿)
 1. [少年歌行 2 更新](https://www.zhihu.com/search?q=少年歌行)
+1. [韩东君告别平河](https://www.zhihu.com/search?q=长津湖)
+1. [国足不敌越南无缘 2022 世界杯](https://www.zhihu.com/search?q=国足)
+1. [只此青绿](https://www.zhihu.com/search?q=只此青绿)
+1. [北京新增 2 例本土确诊病例](https://www.zhihu.com/search?q=北京疫情)
+1. [布雷迪宣布退役](https://www.zhihu.com/search?q=布雷迪)
+1. [北京冬奥会火炬传递启动](https://www.zhihu.com/search?q=冬奥会火炬传递)
+1. [春晚《行云流水》](https://www.zhihu.com/search?q=春晚行云流水)
 1. [勇士逆转马刺取 7 连胜](https://www.zhihu.com/search?q=勇士)
 1. [库里 40+9 勇士 6 连胜](https://www.zhihu.com/search?q=勇士)
 1. [吴京主演票房破 250 亿](https://www.zhihu.com/search?q=吴京主演票房)
 1. [春节拜年文案](https://www.zhihu.com/search?q=拜年文案)
 1. [天津新增 12 例阳性感染者](https://www.zhihu.com/search?q=天津疫情)
 1. [深圳新增 1 例确诊](https://www.zhihu.com/search?q=深圳疫情)
-1. [北京新增 2 例本土确诊病例](https://www.zhihu.com/search?q=北京疫情)
 1. [2022 年春节联欢晚会](https://www.zhihu.com/search?q=2022年央视春晚)
 1. [索尼收购《命运》开发商](https://www.zhihu.com/search?q=索尼收购bungie)
 1. [天津新增 7 例本土确诊病例](https://www.zhihu.com/search?q=天津疫情)
@@ -38,7 +41,6 @@
 1. [河北衡水发现一名新冠患者](https://www.zhihu.com/search?q=河北衡水疫情)
 1. [虎年是小猫咪的本命年吗](https://www.zhihu.com/search?q=猫的本命年)
 1. [电影版《倚天屠龙记》](https://www.zhihu.com/search?q=倚天屠龙记)
-1. [布雷迪宣布退役](https://www.zhihu.com/search?q=布雷迪)
 1. [北京新增确诊 2 例](https://www.zhihu.com/search?q=北京疫情)
 1. [林志玲宣布生子](https://www.zhihu.com/search?q=林志玲)
 1. [三星堆](https://www.zhihu.com/search?q=三星堆)
