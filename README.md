@@ -14,22 +14,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 02 2022 22:11:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 02 2022 23:17:31 GMT+0800 (China Standard Time) -->
 
-1. [《杀手》导演亲自答](https://www.zhihu.com/search?q=这个杀手不太冷静)
 1. [四海口碑](https://www.zhihu.com/search?q=四海)
-1. [春晚 40 年](https://www.zhihu.com/search?q=春晚40年)
-1. [韩东君告别平河](https://www.zhihu.com/search?q=长津湖)
+1. [《杀手》导演亲自答](https://www.zhihu.com/search?q=这个杀手不太冷静)
 1. [国足不敌越南无缘 2022 世界杯](https://www.zhihu.com/search?q=国足)
+1. [韩东君告别平河](https://www.zhihu.com/search?q=长津湖)
+1. [少年歌行 2 更新](https://www.zhihu.com/search?q=少年歌行)
+1. [天津新增 12 例阳性感染者](https://www.zhihu.com/search?q=天津疫情)
+1. [中国冰壶队冬奥开门红](https://www.zhihu.com/search?q=冬奥冰壶)
+1. [库里 40+9 勇士 6 连胜](https://www.zhihu.com/search?q=勇士)
+1. [勇士逆转马刺取 7 连胜](https://www.zhihu.com/search?q=勇士)
+1. [浙江新增确诊病例 13 例](https://www.zhihu.com/search?q=浙江疫情)
+1. [春晚 40 年](https://www.zhihu.com/search?q=春晚40年)
 1. [叙利亚解散国家队相关人员](https://www.zhihu.com/search?q=叙利亚世界杯)
 1. [易烊千玺成破百亿影人](https://www.zhihu.com/search?q=易烊千玺成)
 1. [广东全省新增本土确诊病例 6 例](https://www.zhihu.com/search?q=广东疫情)
 1. [深圳新增 1 例确诊](https://www.zhihu.com/search?q=深圳疫情)
-1. [少年歌行 2 更新](https://www.zhihu.com/search?q=少年歌行)
 1. [三星堆](https://www.zhihu.com/search?q=三星堆)
-1. [天津新增 12 例阳性感染者](https://www.zhihu.com/search?q=天津疫情)
 1. [北京冬奥会火炬传递启动](https://www.zhihu.com/search?q=冬奥会火炬传递)
-1. [库里 40+9 勇士 6 连胜](https://www.zhihu.com/search?q=勇士)
 1. [只此青绿](https://www.zhihu.com/search?q=只此青绿)
 1. [2022 年春节联欢晚会](https://www.zhihu.com/search?q=2022年央视春晚)
 1. [布雷迪宣布退役](https://www.zhihu.com/search?q=布雷迪)
@@ -38,7 +41,6 @@
 1. [虎年春晚首次采用 8K 直播](https://www.zhihu.com/search?q=春晚8k直播)
 1. [春晚《万象回春》节目](https://www.zhihu.com/search?q=万象回春)
 1. [篮网负太阳遭遇 5 连败](https://www.zhihu.com/search?q=篮网)
-1. [勇士逆转马刺取 7 连胜](https://www.zhihu.com/search?q=勇士)
 1. [吴京主演票房破 250 亿](https://www.zhihu.com/search?q=吴京主演票房)
 1. [春晚电视端直播平均收视率达 21.93%](https://www.zhihu.com/search?q=春晚收视率)
 1. [北京新增 2 例本土确诊病例](https://www.zhihu.com/search?q=北京疫情)
