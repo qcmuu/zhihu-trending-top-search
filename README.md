@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 09 2022 12:16:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 09 2022 13:11:49 GMT+0800 (China Standard Time) -->
 
 1. [个人存取现金超 5 万要登记](https://www.zhihu.com/search?q=个人存取)
 1. [「丰县生育八孩女子」进展](https://www.zhihu.com/search?q=丰县)
-1. [中国实体被纳入未核实名单](https://www.zhihu.com/search?q=美商务部)
 1. [中国女子冰球惜败瑞典](https://www.zhihu.com/search?q=冰球)
+1. [原神海灯节发奖 bug](https://www.zhihu.com/search?q=原神)
 1. [美国通过《美国竞争法案》](https://www.zhihu.com/search?q=美国竞争法案)
-1. [武大靖为队友挡住身后对手](https://www.zhihu.com/search?q=武大靖)
+1. [中国实体被纳入未核实名单](https://www.zhihu.com/search?q=美商务部)
+1. [篮网 9 连败](https://www.zhihu.com/search?q=篮网)
+1. [5 人自驾西藏转山遇难](https://www.zhihu.com/search?q=西藏转山遇难)
 1. [广西新增本土确诊病例 64 例](https://www.zhihu.com/search?q=广西疫情)
+1. [武大靖为队友挡住身后对手](https://www.zhihu.com/search?q=武大靖)
 1. [网传 B 站员工过年加班猝死](https://www.zhihu.com/search?q=B站员工过年加班猝死)
 1. [速度滑冰宁忠岩第 7](https://www.zhihu.com/search?q=速度滑冰)
-1. [5 人自驾西藏转山遇难](https://www.zhihu.com/search?q=西藏转山遇难)
 1. [中国冰壶混双结束冬奥征程](https://www.zhihu.com/search?q=冰壶)
 1. [17 岁中国小将苏翊鸣获银牌](https://www.zhihu.com/search?q=苏翊鸣)
 1. [2022 年春节档票房破 60 亿](https://www.zhihu.com/search?q=春节档票房)
