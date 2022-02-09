@@ -14,19 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 09 2022 10:03:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 09 2022 11:13:13 GMT+0800 (China Standard Time) -->
 
 1. [中国冰壶混双结束冬奥征程](https://www.zhihu.com/search?q=冰壶)
-1. [多伦多大学回应「冥币红包」](https://www.zhihu.com/search?q=多伦多大学回应)
+1. [「丰县生育八孩女子」进展](https://www.zhihu.com/search?q=丰县)
 1. [中国实体被纳入未核实名单](https://www.zhihu.com/search?q=美商务部)
 1. [广西新增本土确诊病例 64 例](https://www.zhihu.com/search?q=广西疫情)
-1. [2022 年春节档票房破 60 亿](https://www.zhihu.com/search?q=春节档票房)
 1. [武大靖为队友挡住身后对手](https://www.zhihu.com/search?q=武大靖)
-1. [中国女子冰球惜败瑞典](https://www.zhihu.com/search?q=冰球)
-1. [「丰县生育八孩女子」进展](https://www.zhihu.com/search?q=丰县)
 1. [美国通过《美国竞争法案》](https://www.zhihu.com/search?q=美国竞争法案)
-1. [著名作家张洁逝世](https://www.zhihu.com/search?q=张洁)
+1. [中国女子冰球惜败瑞典](https://www.zhihu.com/search?q=冰球)
+1. [速度滑冰宁忠岩第 7](https://www.zhihu.com/search?q=速度滑冰)
 1. [17 岁中国小将苏翊鸣获银牌](https://www.zhihu.com/search?q=苏翊鸣)
+1. [2022 年春节档票房破 60 亿](https://www.zhihu.com/search?q=春节档票房)
+1. [多伦多大学回应「冥币红包」](https://www.zhihu.com/search?q=多伦多大学回应)
+1. [著名作家张洁逝世](https://www.zhihu.com/search?q=张洁)
 1. [谷爱凌夺中国第三金](https://www.zhihu.com/search?q=谷爱凌)
 1. [长江中下游地区暴雪](https://www.zhihu.com/search?q=长江中下游地区暴雪)
 1. [虎年开工第一天](https://www.zhihu.com/search?q=虎年开工)
