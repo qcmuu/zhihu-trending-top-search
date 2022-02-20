@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 20 2022 20:20:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 20 2022 21:14:47 GMT+0800 (China Standard Time) -->
 
 1. [冬奥会闭幕式](https://www.zhihu.com/search?q=冬奥会闭幕式)
-1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
-1. [中国共获 9 金 4 银 2 铜](https://www.zhihu.com/search?q=冬奥会闭幕)
 1. [进击的巨人最终季 Part.2](https://www.zhihu.com/search?q=进击的巨人)
+1. [中国共获 9 金 4 银 2 铜](https://www.zhihu.com/search?q=冬奥会闭幕)
 1. [EDG 2:0 FPX](https://www.zhihu.com/search?q=edg)
-1. [花样滑冰表演滑](https://www.zhihu.com/search?q=表演滑)
-1. [苏炳添或递补夺奥运铜牌](https://www.zhihu.com/search?q=苏炳添)
+1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
 1. [游戏王大师决斗 Xyz Festival](https://www.zhihu.com/search?q=游戏王)
-1. [高亭宇徐梦桃当选闭幕式旗手](https://www.zhihu.com/search?q=闭幕式旗手)
 1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
+1. [花样滑冰表演滑](https://www.zhihu.com/search?q=表演滑)
+1. [我国已在重点地区先行启动序贯加强免疫](https://www.zhihu.com/search?q=序贯加强免疫)
+1. [周深演唱宝可梦周年曲](https://www.zhihu.com/search?q=宝可梦)
+1. [苏炳添或递补夺奥运铜牌](https://www.zhihu.com/search?q=苏炳添)
+1. [高亭宇徐梦桃当选闭幕式旗手](https://www.zhihu.com/search?q=闭幕式旗手)
 1. [eStar 十五连胜中断](https://www.zhihu.com/search?q=eStar)
 1. [WBG 六连胜](https://www.zhihu.com/search?q=WBG)
 1. [369 拉扯失败](https://www.zhihu.com/search?q=tes)
@@ -41,11 +43,9 @@
 1. [奥运参赛最低年龄可能修改](https://www.zhihu.com/search?q=奥运最低年龄限制)
 1. [香港 1 万多感染者未能入院](https://www.zhihu.com/search?q=香港疫情)
 1. [扣篮大赛托平夺冠](https://www.zhihu.com/search?q=扣篮大赛)
-1. [我国已在重点地区先行启动序贯加强免疫](https://www.zhihu.com/search?q=序贯加强免疫)
 1. [江苏新增 4 例本土确诊](https://www.zhihu.com/search?q=江苏新增)
 1. [《地平线：西之绝境》上线](https://www.zhihu.com/search?q=地平线西之绝境)
 1. [微信新增聊天图片搜索功能](https://www.zhihu.com/search?q=微信聊天图片搜索)
-1. [周深演唱宝可梦周年曲](https://www.zhihu.com/search?q=宝可梦)
 1. [谷爱凌夺中国第 8 金](https://www.zhihu.com/search?q=谷爱凌)
 1. [内蒙古新增 22 例本土确诊](https://www.zhihu.com/search?q=内蒙古新增)
 1. [广东新增 4 例本土确诊](https://www.zhihu.com/search?q=广东新增)
