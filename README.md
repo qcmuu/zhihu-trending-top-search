@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 06 2022 18:17:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 06 2022 19:12:56 GMT+0800 (China Standard Time) -->
 
+1. [光明牛奶辟谣](https://www.zhihu.com/search?q=光明牛奶)
+1. [北京新增本土确诊 5 例](https://www.zhihu.com/search?q=北京新增疫情)
 1. [当地再通报灵璧渔沟中学学生死亡案件](https://www.zhihu.com/search?q=灵璧)
 1. [美国狂买俄罗斯原油](https://www.zhihu.com/search?q=俄罗斯原油)
+1. [马斯克成推特单一最大股东](https://www.zhihu.com/search?q=马斯克)
 1. [乌海军士兵投降视频](https://www.zhihu.com/search?q=乌海军士兵投降视频)
-1. [北京新增本土确诊 5 例](https://www.zhihu.com/search?q=北京新增疫情)
-1. [演员王羽去世](https://www.zhihu.com/search?q=王羽)
 1. [必须查清乌平民死亡具体原因](https://www.zhihu.com/search?q=布查平民死亡具体原因)
+1. [演员王羽去世](https://www.zhihu.com/search?q=王羽)
+1. [上海快递员成片阳性](https://www.zhihu.com/search?q=上海快递员)
+1. [宝山抗疫物资](https://www.zhihu.com/search?q=宝山抗疫物资)
 1. [美将与各国宣布对俄新制裁](https://www.zhihu.com/search?q=对俄新制裁)
 1. [泽连斯基称与普京会面很可能不会进行](https://www.zhihu.com/search?q=泽连斯基)
 1. [《海贼王》 1046 话情报](https://www.zhihu.com/search?q=海贼王)
-1. [马斯克成推特单一最大股东](https://www.zhihu.com/search?q=马斯克)
-1. [光明牛奶辟谣](https://www.zhihu.com/search?q=光明牛奶)
 1. [北京新增 10 例本土新冠肺炎病毒感染者](https://www.zhihu.com/search?q=北京疫情)
 1. [考研调剂系统已开启](https://www.zhihu.com/search?q=考研调剂)
 1. [巴基斯坦总理被解除总理职务](https://www.zhihu.com/search?q=巴基斯坦)
@@ -41,7 +43,6 @@
 1. [美国购买俄石油量增加了 43%](https://www.zhihu.com/search?q=美国购买俄石油量增加)
 1. [上海确诊儿童家长可一起接受治疗](https://www.zhihu.com/search?q=儿童家长一起接受治疗)
 1. [湖人负掘金遭遇 6 连败](https://www.zhihu.com/search?q=湖人)
-1. [上海快递员成片阳性](https://www.zhihu.com/search?q=上海快递员)
 1. [上海新增本土确诊 425 例，无症状 8581 例](https://www.zhihu.com/search?q=上海新增)
 1. [美国单日新增确诊近 135 万例](https://www.zhihu.com/search?q=美国疫情)
 1. [福布斯 2022 全球亿万富豪榜揭晓](https://www.zhihu.com/search?q=福布斯)
