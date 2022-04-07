@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 07 2022 12:18:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 07 2022 13:13:40 GMT+0800 (China Standard Time) -->
 
 1. [上海一柯基被当街打死](https://www.zhihu.com/search?q=柯基被当街打死)
-1. [北京新增本土确诊 5 例](https://www.zhihu.com/search?q=北京新增疫情)
 1. [刘强东卸任京东集团 CEO](https://www.zhihu.com/search?q=刘强东)
+1. [杭州二人刻意隐瞒行程被立案](https://www.zhihu.com/search?q=杭州二人刻意隐瞒行程被立案)
+1. [上海快递员成片阳性](https://www.zhihu.com/search?q=上海快递员)
+1. [漫画家藤子不二雄 A 逝世](https://www.zhihu.com/search?q=藤子不二雄A)
+1. [北京新增本土确诊 5 例](https://www.zhihu.com/search?q=北京新增疫情)
+1. [明日方舟新干员海蒂](https://www.zhihu.com/search?q=明日方舟)
+1. [泽连斯基称与普京会面很可能不会进行](https://www.zhihu.com/search?q=泽连斯基)
+1. [美联储公布货币政策会议纪要](https://www.zhihu.com/search?q=美联储)
+1. [《海贼王》 1046 话情报](https://www.zhihu.com/search?q=海贼王)
 1. [如何看待蔚来员工利用公司服务器挖矿这一行为？你了解虚拟货币吗？](https://www.zhihu.com/search?q=蔚来员工挖矿)
 1. [美国狂买俄罗斯原油](https://www.zhihu.com/search?q=俄罗斯原油)
-1. [上海快递员成片阳性](https://www.zhihu.com/search?q=上海快递员)
-1. [杭州二人刻意隐瞒行程被立案](https://www.zhihu.com/search?q=杭州二人刻意隐瞒行程被立案)
-1. [美联储公布货币政策会议纪要](https://www.zhihu.com/search?q=美联储)
-1. [泽连斯基称与普京会面很可能不会进行](https://www.zhihu.com/search?q=泽连斯基)
-1. [明日方舟新干员海蒂](https://www.zhihu.com/search?q=明日方舟)
 1. [福布斯 2022 全球亿万富豪榜揭晓](https://www.zhihu.com/search?q=福布斯)
 1. [德政府托管俄罗斯天然气公司](https://www.zhihu.com/search?q=俄罗斯天然气公司)
 1. [马斯克成推特单一最大股东](https://www.zhihu.com/search?q=马斯克)
@@ -34,7 +36,6 @@
 1. [魔法少女小圆外传：最终季](https://www.zhihu.com/search?q=魔法少女小圆外传)
 1. [乌海军士兵投降视频](https://www.zhihu.com/search?q=乌海军士兵投降视频)
 1. [必须查清乌平民死亡具体原因](https://www.zhihu.com/search?q=布查平民死亡具体原因)
-1. [《海贼王》 1046 话情报](https://www.zhihu.com/search?q=海贼王)
 1. [演员王羽去世](https://www.zhihu.com/search?q=王羽)
 1. [考研调剂系统已开启](https://www.zhihu.com/search?q=考研调剂)
 1. [当地再通报灵璧渔沟中学学生死亡案件](https://www.zhihu.com/search?q=灵璧)
