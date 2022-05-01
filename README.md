@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 01 2022 11:40:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 01 2022 12:33:38 GMT+0800 (China Standard Time) -->
 
-1. [2022 届毕业生仅一半选择单位就业](https://www.zhihu.com/search?q=2022 届毕业生仅一半选择单位就业)
 1. [独行侠淘汰爵士将战太阳](https://www.zhihu.com/search?q=独行侠淘汰爵士将战太阳)
 1. [豆瓣宣布上线防水军控评功能](https://www.zhihu.com/search?q=豆瓣宣布上线防水军控评功能)
 1. [苹果自助维修商店上架取卡针](https://www.zhihu.com/search?q=苹果自助维修商店上架取卡针)
@@ -26,6 +25,8 @@
 1. [动态清零和经济发展并不对立](https://www.zhihu.com/search?q=动态清零和经济发展并不对立)
 1. [国家卫健委要求设立黄码医院](https://www.zhihu.com/search?q=国家卫健委要求设立黄码医院)
 1. [大妈用铝锅菜刀自制毒品牟利](https://www.zhihu.com/search?q=大妈用铝锅菜刀自制毒品牟利)
+1. [银行招聘入围者需存 1000 万](https://www.zhihu.com/search?q=银行招聘入围者需存 1000 万)
+1. [2022 届毕业生仅一半选择单位就业](https://www.zhihu.com/search?q=2022 届毕业生仅一半选择单位就业)
 1. [B 站崩了](https://www.zhihu.com/search?q=B 站崩了)
 1. [上海新增「788+7084」](https://www.zhihu.com/search?q=上海新增「788+7084」)
 1. [Nintendo Switch 运动上线](https://www.zhihu.com/search?q=Nintendo Switch 运动上线)
