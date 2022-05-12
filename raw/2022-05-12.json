@@ -1,6 +1,5 @@
 [
   { "query": "东部战区回应美舰过航台湾海峡", "display_query": "东部战区回应美舰过航台湾海峡" },
-  { "query": "RNG MSI 首战告捷", "display_query": "RNG MSI 首战告捷" },
   { "query": "比尔盖茨新冠阳性", "display_query": "比尔盖茨新冠阳性" },
   { "query": "乌军空投百人「自杀突击队」", "display_query": "乌军空投百人「自杀突击队」" },
   { "query": "iPod 产品线确认停更", "display_query": "iPod 产品线确认停更" },
@@ -12,6 +11,8 @@
     "display_query": "Switch 累计销量 1 亿 765 万"
   },
   { "query": "EA 将与 FIFA 结束合作", "display_query": "EA 将与 FIFA 结束合作" },
+  { "query": "布克 28 分太阳 3:2 独行侠", "display_query": "布克 28 分太阳 3:2 独行侠" },
+  { "query": "RNG MSI 首战告捷", "display_query": "RNG MSI 首战告捷" },
   { "query": "朝鲜出现奥密克戎感染病例", "display_query": "朝鲜出现奥密克戎感染病例" },
   { "query": "Asoul 珈乐「直播休眠」", "display_query": "Asoul 珈乐「直播休眠」" },
   { "query": "农业农村部回应割青苗作饲料", "display_query": "农业农村部回应割青苗作饲料" },
