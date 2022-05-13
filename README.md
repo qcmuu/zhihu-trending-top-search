@@ -14,26 +14,27 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 13 2022 11:47:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 13 2022 12:52:15 GMT+0800 (China Standard Time) -->
 
+1. [拜登因新冠死亡人数超百万下令降半旗](https://www.zhihu.com/search?q=拜登因新冠死亡人数超百万下令降半旗)
+1. [12 日朝鲜新增 1.8 万例发热病例](https://www.zhihu.com/search?q=12 日朝鲜新增 1.8 万例发热病例)
+1. [鼻腔盐水冲洗可预防新冠感染](https://www.zhihu.com/search?q=鼻腔盐水冲洗可预防新冠感染)
+1. [银河系中心超大黑洞照片发布](https://www.zhihu.com/search?q=银河系中心超大黑洞照片发布)
+1. [文在寅被市民举报滥用职权](https://www.zhihu.com/search?q=文在寅被市民举报滥用职权)
+1. [AMD 发布三款 RX 5999 系列显卡](https://www.zhihu.com/search?q=AMD 发布三款 RX 5999 系列显卡)
+1. [理想汽车回应校招生被拒](https://www.zhihu.com/search?q=理想汽车回应校招生被拒)
+1. [海贼王 1049 话情报](https://www.zhihu.com/search?q=海贼王 1049 话情报)
+1. [朝鲜出现奥密克戎感染病例](https://www.zhihu.com/search?q=朝鲜出现奥密克戎感染病例)
+1. [核酸采样员岗位成招聘热门](https://www.zhihu.com/search?q=核酸采样员岗位成招聘热门)
 1. [布克 28 分太阳 3:2 独行侠](https://www.zhihu.com/search?q=布克 28 分太阳 3:2 独行侠)
 1. [老人抱妻子骨灰徒步 7 小时](https://www.zhihu.com/search?q=老人抱妻子骨灰徒步 7 小时)
 1. [广西某河水体呈红色](https://www.zhihu.com/search?q=广西某河水体呈红色)
-1. [鼻腔盐水冲洗可预防新冠感染](https://www.zhihu.com/search?q=鼻腔盐水冲洗可预防新冠感染)
-1. [海贼王 1049 话情报](https://www.zhihu.com/search?q=海贼王 1049 话情报)
-1. [文在寅被市民举报滥用职权](https://www.zhihu.com/search?q=文在寅被市民举报滥用职权)
 1. [文在寅被市民举报「滥用职权」](https://www.zhihu.com/search?q=文在寅被市民举报「滥用职权」)
 1. [台积电明年再度全面涨价 6 %](https://www.zhihu.com/search?q=台积电明年再度全面涨价 6 %)
-1. [AMD 发布三款 RX 5999 系列显卡](https://www.zhihu.com/search?q=AMD 发布三款 RX 5999 系列显卡)
 1. [英特尔 12 代酷睿 HX 系列处理器发布](https://www.zhihu.com/search?q=英特尔 12 代酷睿 HX 系列处理器发布)
-1. [拜登因新冠死亡人数超百万下令降半旗](https://www.zhihu.com/search?q=拜登因新冠死亡人数超百万下令降半旗)
-1. [12 日朝鲜新增 1.8 万例发热病例](https://www.zhihu.com/search?q=12 日朝鲜新增 1.8 万例发热病例)
-1. [银河系中心超大黑洞照片发布](https://www.zhihu.com/search?q=银河系中心超大黑洞照片发布)
 1. [iPod 产品线确认停更](https://www.zhihu.com/search?q=iPod 产品线确认停更)
-1. [朝鲜出现奥密克戎感染病例](https://www.zhihu.com/search?q=朝鲜出现奥密克戎感染病例)
 1. [马斯克将解封特朗普推特账号](https://www.zhihu.com/search?q=马斯克将解封特朗普推特账号)
 1. [Switch 累计销量 1 亿 765 万](https://www.zhihu.com/search?q=Switch 累计销量 1 亿 765 万)
-1. [核酸采样员岗位成招聘热门](https://www.zhihu.com/search?q=核酸采样员岗位成招聘热门)
 1. [东部战区回应美舰过航台湾海峡](https://www.zhihu.com/search?q=东部战区回应美舰过航台湾海峡)
 1. [提高独生子女死亡家庭特别扶助金标准](https://www.zhihu.com/search?q=提高独生子女死亡家庭特别扶助金标准)
 1. [4 月全国 CPI 上涨 2.1%](https://www.zhihu.com/search?q=4 月全国 CPI 上涨 2.1%)
