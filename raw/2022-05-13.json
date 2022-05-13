@@ -1,4 +1,20 @@
 [
+  { "query": "布克 28 分太阳 3:2 独行侠", "display_query": "布克 28 分太阳 3:2 独行侠" },
+  { "query": "老人抱妻子骨灰徒步 7 小时", "display_query": "老人抱妻子骨灰徒步 7 小时" },
+  { "query": "广西某河水体呈红色", "display_query": "广西某河水体呈红色" },
+  { "query": "鼻腔盐水冲洗可预防新冠感染", "display_query": "鼻腔盐水冲洗可预防新冠感染" },
+  { "query": "海贼王 1049 话情报", "display_query": "海贼王 1049 话情报" },
+  { "query": "文在寅被市民举报滥用职权", "display_query": "文在寅被市民举报滥用职权" },
+  { "query": "文在寅被市民举报「滥用职权」", "display_query": "文在寅被市民举报「滥用职权」" },
+  { "query": "台积电明年再度全面涨价 6 %", "display_query": "台积电明年再度全面涨价 6 %" },
+  {
+    "query": "AMD 发布三款 RX 5999 系列显卡",
+    "display_query": "AMD 发布三款 RX 5999 系列显卡"
+  },
+  {
+    "query": "英特尔 12 代酷睿 HX 系列处理器发布",
+    "display_query": "英特尔 12 代酷睿 HX 系列处理器发布"
+  },
   { "query": "拜登因新冠死亡人数超百万下令降半旗", "display_query": "拜登因新冠死亡人数超百万下令降半旗" },
   { "query": "12 日朝鲜新增 1.8 万例发热病例", "display_query": "12 日朝鲜新增 1.8 万例发热病例" },
   { "query": "银河系中心超大黑洞照片发布", "display_query": "银河系中心超大黑洞照片发布" },
@@ -10,18 +26,13 @@
     "display_query": "Switch 累计销量 1 亿 765 万"
   },
   { "query": "核酸采样员岗位成招聘热门", "display_query": "核酸采样员岗位成招聘热门" },
-  { "query": "鼻腔盐水冲洗可预防新冠感染", "display_query": "鼻腔盐水冲洗可预防新冠感染" },
-  { "query": "老人抱妻子骨灰徒步 7 小时", "display_query": "老人抱妻子骨灰徒步 7 小时" },
   { "query": "东部战区回应美舰过航台湾海峡", "display_query": "东部战区回应美舰过航台湾海峡" },
-  { "query": "文在寅被市民举报滥用职权", "display_query": "文在寅被市民举报滥用职权" },
   { "query": "提高独生子女死亡家庭特别扶助金标准", "display_query": "提高独生子女死亡家庭特别扶助金标准" },
   { "query": "4 月全国 CPI 上涨 2.1%", "display_query": "4 月全国 CPI 上涨 2.1%" },
   { "query": "汶川大地震 14 周年", "display_query": "汶川大地震 14 周年" },
   { "query": "EA 将与 FIFA 结束合作", "display_query": "EA 将与 FIFA 结束合作" },
-  { "query": "文在寅被市民举报「滥用职权」", "display_query": "文在寅被市民举报「滥用职权」" },
   { "query": "天王山之战热火胜 76 人 35 分", "display_query": "天王山之战热火胜 76 人 35 分" },
   { "query": "乌军空投百人「自杀突击队」", "display_query": "乌军空投百人「自杀突击队」" },
-  { "query": "布克 28 分太阳 3:2 独行侠", "display_query": "布克 28 分太阳 3:2 独行侠" },
   { "query": "开馆 10 余天陕西千年遗迹成「告白墙」", "display_query": "开馆 10 余天陕西千年遗迹成「告白墙」" },
   { "query": "资产上亿老板盗窃绿化木箱给丈母娘种菜", "display_query": "资产上亿老板盗窃绿化木箱给丈母娘种菜" },
   { "query": "农业农村部回应割青苗作饲料", "display_query": "农业农村部回应割青苗作饲料" },
