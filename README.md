@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 30 2022 11:33:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 30 2022 12:35:42 GMT+0800 (China Standard Time) -->
 
 1. [派对浪客诸葛孔明第八集](https://www.zhihu.com/search?q=派对浪客诸葛孔明第八集)
 1. [北京 8 个区已稳定实现社会面清零](https://www.zhihu.com/search?q=北京 8 个区已稳定实现社会面清零)
