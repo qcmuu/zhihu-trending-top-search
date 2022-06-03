@@ -14,16 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 03 2022 16:17:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 03 2022 17:15:29 GMT+0800 (China Standard Time) -->
 
 1. [端午安康](https://www.zhihu.com/search?q=端午安康)
+1. [北京已经转入动态清零阶段](https://www.zhihu.com/search?q=北京已经转入动态清零阶段)
 1. [NBA 总决赛](https://www.zhihu.com/search?q=NBA 总决赛)
+1. [芦山县地震前减灾所提前 9 秒预警雅安](https://www.zhihu.com/search?q=芦山县地震前减灾所提前 9 秒预警雅安)
 1. [Uzi 离队](https://www.zhihu.com/search?q=Uzi 离队)
-1. [大理洱源县发生 3.8 级地震](https://www.zhihu.com/search?q=大理洱源县发生 3.8 级地震)
 1. [芦山 6.1 级地震为 2013 年芦山 7.0 级地震余震](https://www.zhihu.com/search?q=芦山 6.1 级地震为
    2013 年芦山 7.0 级地震余震)
-1. [反诈老陈道歉](https://www.zhihu.com/search?q=反诈老陈道歉)
 1. [Bin 离队](https://www.zhihu.com/search?q=Bin 离队)
+1. [老师带网瘾少年去妈妈工地搬钢筋](https://www.zhihu.com/search?q=老师带网瘾少年去妈妈工地搬钢筋)
+1. [东莞市警方通报「东城街道持刀伤人案」](https://www.zhihu.com/search?q=东莞市警方通报「东城街道持刀伤人案」)
+1. [卢布成全球表现最好货币](https://www.zhihu.com/search?q=卢布成全球表现最好货币)
+1. [大理洱源县发生 3.8 级地震](https://www.zhihu.com/search?q=大理洱源县发生 3.8 级地震)
+1. [反诈老陈道歉](https://www.zhihu.com/search?q=反诈老陈道歉)
 1. [中国女排连赢三局 3-1 逆转荷兰队](https://www.zhihu.com/search?q=中国女排连赢三局 3-1 逆转荷兰队)
 1. [俄乌冲突升级 100 天](https://www.zhihu.com/search?q=俄乌冲突升级 100 天)
 1. [神舟十三号航天员乘组在轨拍摄的 8k 高清影像「曝光」](https://www.zhihu.com/search?q=神舟十三号航天员乘组在轨拍摄的
