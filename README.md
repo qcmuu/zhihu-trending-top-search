@@ -14,21 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 06 2022 15:13:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 06 2022 16:17:34 GMT+0800 (China Standard Time) -->
 
+1. [端午消费成绩单](https://www.zhihu.com/search?q=端午消费成绩单)
+1. [河南大学脑出血死亡女孩父亲发声](https://www.zhihu.com/search?q=河南大学脑出血死亡女孩父亲发声)
+1. [今日芒种](https://www.zhihu.com/search?q=今日芒种)
+1. [朝鲜发射不明弹道导弹](https://www.zhihu.com/search?q=朝鲜发射不明弹道导弹)
+1. [《派对浪客诸葛孔明》第十集](https://www.zhihu.com/search?q=《派对浪客诸葛孔明》第十集)
 1. [D2809 次列车值乘司机 5 秒钟内采取紧急制动](https://www.zhihu.com/search?q=D2809 次列车值乘司机 5
    秒钟内采取紧急制动)
-1. [38 岁的特维斯自宣确认挂靴](https://www.zhihu.com/search?q=38 岁的特维斯自宣确认挂靴)
-1. [今日芒种](https://www.zhihu.com/search?q=今日芒种)
-1. [端午消费成绩单](https://www.zhihu.com/search?q=端午消费成绩单)
+1. [我国收获小麦超过 1.2 亿亩](https://www.zhihu.com/search?q=我国收获小麦超过 1.2 亿亩)
 1. [PS5 全球销量突破 2000 万台](https://www.zhihu.com/search?q=PS5 全球销量突破 2000 万台)
-1. [信阳又一老人因蜱虫病病逝](https://www.zhihu.com/search?q=信阳又一老人因蜱虫病病逝)
-1. [河南大学脑出血死亡女孩父亲发声](https://www.zhihu.com/search?q=河南大学脑出血死亡女孩父亲发声)
+1. [勇士大胜凯尔特人扳平总比分](https://www.zhihu.com/search?q=勇士大胜凯尔特人扳平总比分)
 1. [D2809 次列车殉职司机名叫杨勇](https://www.zhihu.com/search?q=D2809 次列车殉职司机名叫杨勇)
-1. [朝鲜发射不明弹道导弹](https://www.zhihu.com/search?q=朝鲜发射不明弹道导弹)
+1. [38 岁的特维斯自宣确认挂靴](https://www.zhihu.com/search?q=38 岁的特维斯自宣确认挂靴)
+1. [信阳又一老人因蜱虫病病逝](https://www.zhihu.com/search?q=信阳又一老人因蜱虫病病逝)
 1. [了不起舞社 第八期](https://www.zhihu.com/search?q=了不起舞社 第八期)
 1. [高考倒计时 1 天](https://www.zhihu.com/search?q=高考倒计时 1 天)
-1. [《派对浪客诸葛孔明》第十集](https://www.zhihu.com/search?q=《派对浪客诸葛孔明》第十集)
 1. [陕西一景区漂流游客等两小时不开闸齐喊退票](https://www.zhihu.com/search?q=陕西一景区漂流游客等两小时不开闸齐喊退票)
 1. [美国猴痘基因组惊现第二分支](https://www.zhihu.com/search?q=美国猴痘基因组惊现第二分支)
 1. [乌克兰基辅传出巨大爆炸声](https://www.zhihu.com/search?q=乌克兰基辅传出巨大爆炸声)
@@ -39,7 +41,6 @@
 1. [明起北京大部分餐饮单位开放堂食恢复正常上班](https://www.zhihu.com/search?q=明起北京大部分餐饮单位开放堂食恢复正常上班)
 1. [声生不息 第七期](https://www.zhihu.com/search?q=声生不息 第七期)
 1. [新游记 第八期](https://www.zhihu.com/search?q=新游记 第八期)
-1. [我国收获小麦超过 1.2 亿亩](https://www.zhihu.com/search?q=我国收获小麦超过 1.2 亿亩)
 1. [女生将宠物虾放阳台次日全被蒸熟](https://www.zhihu.com/search?q=女生将宠物虾放阳台次日全被蒸熟)
 
 <!-- END -->
