@@ -14,11 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 07 2022 19:12:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 07 2022 20:30:28 GMT+0800 (China Standard Time) -->
 
 1. [2022 高考作文](https://www.zhihu.com/search?q=2022 高考作文)
 1. [高考](https://www.zhihu.com/search?q=高考)
 1. [2022 高考数学题难度如何](https://www.zhihu.com/search?q=2022 高考数学题难度如何)
+1. [国务院发布《未成年人文身治理工作办法》](https://www.zhihu.com/search?q=国务院发布《未成年人文身治理工作办法》)
+1. [孟加拉国集装箱仓库着火爆炸](https://www.zhihu.com/search?q=孟加拉国集装箱仓库着火爆炸)
+1. [《一路向前》剧组 2 名工作人员溺亡](https://www.zhihu.com/search?q=《一路向前》剧组 2 名工作人员溺亡)
+1. [哈尔滨巴彦县发生刑案致 3 人死亡](https://www.zhihu.com/search?q=哈尔滨巴彦县发生刑案致 3 人死亡)
+1. [罗永浩再成被执行人](https://www.zhihu.com/search?q=罗永浩再成被执行人)
+1. [国防部回应「加拿大炒作中加军机相遇」](https://www.zhihu.com/search?q=国防部回应「加拿大炒作中加军机相遇」)
 1. [全国甲卷「红楼梦」材料作文题](https://www.zhihu.com/search?q=全国甲卷「红楼梦」材料作文题)
 1. [东南大学校庆匿名校友捐赠 3 亿元](https://www.zhihu.com/search?q=东南大学校庆匿名校友捐赠 3 亿元)
 1. [海口七旬老人乘公交连夺 4 次方向盘](https://www.zhihu.com/search?q=海口七旬老人乘公交连夺 4 次方向盘)
@@ -36,11 +42,9 @@
 1. [高考第 1 天](https://www.zhihu.com/search?q=高考第 1 天)
 1. [美国猴痘基因组惊现第二分支](https://www.zhihu.com/search?q=美国猴痘基因组惊现第二分支)
 1. [美国最大水库惊现多具湖底藏尸](https://www.zhihu.com/search?q=美国最大水库惊现多具湖底藏尸)
-1. [《一路向前》剧组 2 名工作人员溺亡](https://www.zhihu.com/search?q=《一路向前》剧组 2 名工作人员溺亡)
 1. [河南大学脑出血死亡女孩父亲发声](https://www.zhihu.com/search?q=河南大学脑出血死亡女孩父亲发声)
 1. [中国女排排名升至世界第二](https://www.zhihu.com/search?q=中国女排排名升至世界第二)
 1. [端午假期拍到了哪些美景](https://www.zhihu.com/search?q=端午假期拍到了哪些美景)
-1. [国务院发布《未成年人文身治理工作办法》](https://www.zhihu.com/search?q=国务院发布《未成年人文身治理工作办法》)
 1. [北京大部分餐饮单位开放堂食恢复正常上班](https://www.zhihu.com/search?q=北京大部分餐饮单位开放堂食恢复正常上班)
 1. [朝鲜发射不明弹道导弹](https://www.zhihu.com/search?q=朝鲜发射不明弹道导弹)
 1. [乌克兰基辅传出巨大爆炸声](https://www.zhihu.com/search?q=乌克兰基辅传出巨大爆炸声)
@@ -54,7 +58,6 @@
 1. [声生不息 第七期](https://www.zhihu.com/search?q=声生不息 第七期)
 1. [《凡人修仙传》三十二集更新](https://www.zhihu.com/search?q=《凡人修仙传》三十二集更新)
 1. [端午消费成绩单](https://www.zhihu.com/search?q=端午消费成绩单)
-1. [孟加拉国集装箱仓库着火爆炸](https://www.zhihu.com/search?q=孟加拉国集装箱仓库着火爆炸)
 1. [深圳国资委通报车位纠纷事件](https://www.zhihu.com/search?q=深圳国资委通报车位纠纷事件)
 1. [人类首次在地球以外发现多种氨基酸](https://www.zhihu.com/search?q=人类首次在地球以外发现多种氨基酸)
 1. [深振业董秘回应宾利门事件](https://www.zhihu.com/search?q=深振业董秘回应宾利门事件)
