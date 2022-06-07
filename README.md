@@ -14,17 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 07 2022 21:32:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 07 2022 22:16:45 GMT+0800 (China Standard Time) -->
 
 1. [2022 高考作文](https://www.zhihu.com/search?q=2022 高考作文)
 1. [高考](https://www.zhihu.com/search?q=高考)
 1. [2022 高考数学题难度如何](https://www.zhihu.com/search?q=2022 高考数学题难度如何)
-1. [孟加拉国集装箱仓库着火爆炸](https://www.zhihu.com/search?q=孟加拉国集装箱仓库着火爆炸)
-1. [英国首相鲍里斯·约翰逊将面临不信任投票](https://www.zhihu.com/search?q=英国首相鲍里斯·约翰逊将面临不信任投票)
+1. [教育部考试院回应网传高考数学泄题](https://www.zhihu.com/search?q=教育部考试院回应网传高考数学泄题)
 1. [《一路向前》剧组 2 名工作人员溺亡](https://www.zhihu.com/search?q=《一路向前》剧组 2 名工作人员溺亡)
-1. [2022 年第二批游戏版号公布](https://www.zhihu.com/search?q=2022 年第二批游戏版号公布)
-1. [国务院发布《未成年人文身治理工作办法》](https://www.zhihu.com/search?q=国务院发布《未成年人文身治理工作办法》)
 1. [全国甲卷「红楼梦」材料作文题](https://www.zhihu.com/search?q=全国甲卷「红楼梦」材料作文题)
+1. [2022 年第二批游戏版号公布](https://www.zhihu.com/search?q=2022 年第二批游戏版号公布)
+1. [美国最大水库惊现多具湖底藏尸](https://www.zhihu.com/search?q=美国最大水库惊现多具湖底藏尸)
+1. [台积电砸两千亿扩大 2nm 产能](https://www.zhihu.com/search?q=台积电砸两千亿扩大 2nm 产能)
+1. [英国首相鲍里斯·约翰逊将面临不信任投票](https://www.zhihu.com/search?q=英国首相鲍里斯·约翰逊将面临不信任投票)
+1. [孟加拉国集装箱仓库着火爆炸](https://www.zhihu.com/search?q=孟加拉国集装箱仓库着火爆炸)
+1. [国务院发布《未成年人文身治理工作办法》](https://www.zhihu.com/search?q=国务院发布《未成年人文身治理工作办法》)
 1. [国防部回应「加拿大炒作中加军机相遇」](https://www.zhihu.com/search?q=国防部回应「加拿大炒作中加军机相遇」)
 1. [哈尔滨巴彦县发生刑案致 3 人死亡](https://www.zhihu.com/search?q=哈尔滨巴彦县发生刑案致 3 人死亡)
 1. [罗永浩再成被执行人](https://www.zhihu.com/search?q=罗永浩再成被执行人)
@@ -43,7 +46,6 @@
 1. [高考期间南方多地有强降雨](https://www.zhihu.com/search?q=高考期间南方多地有强降雨)
 1. [高考第 1 天](https://www.zhihu.com/search?q=高考第 1 天)
 1. [美国猴痘基因组惊现第二分支](https://www.zhihu.com/search?q=美国猴痘基因组惊现第二分支)
-1. [美国最大水库惊现多具湖底藏尸](https://www.zhihu.com/search?q=美国最大水库惊现多具湖底藏尸)
 1. [河南大学脑出血死亡女孩父亲发声](https://www.zhihu.com/search?q=河南大学脑出血死亡女孩父亲发声)
 1. [中国女排排名升至世界第二](https://www.zhihu.com/search?q=中国女排排名升至世界第二)
 1. [端午假期拍到了哪些美景](https://www.zhihu.com/search?q=端午假期拍到了哪些美景)
