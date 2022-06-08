@@ -14,16 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 08 2022 09:14:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 08 2022 11:20:25 GMT+0800 (China Standard Time) -->
 
 1. [教育部考试院回应网传高考数学泄题](https://www.zhihu.com/search?q=教育部考试院回应网传高考数学泄题)
 1. [索尼前 CEO 出井伸之去世](https://www.zhihu.com/search?q=索尼前 CEO 出井伸之去世)
 1. [Type-C 将成为所有手机、平板电脑的通用充电端口](https://www.zhihu.com/search?q=Type-C
    将成为所有手机、平板电脑的通用充电端口)
-1. [国务院发布《未成年人文身治理工作办法》](https://www.zhihu.com/search?q=国务院发布《未成年人文身治理工作办法》)
 1. [2022 高考数学题难度如何](https://www.zhihu.com/search?q=2022 高考数学题难度如何)
+1. [英国首相鲍里斯·约翰逊将面临不信任投票](https://www.zhihu.com/search?q=英国首相鲍里斯·约翰逊将面临不信任投票)
+1. [丁真「高考助力官」](https://www.zhihu.com/search?q=丁真「高考助力官」)
+1. [高考数学作弊考生成绩无效](https://www.zhihu.com/search?q=高考数学作弊考生成绩无效)
+1. [女子被 30 楼扔下的麻辣烫当场砸晕](https://www.zhihu.com/search?q=女子被 30 楼扔下的麻辣烫当场砸晕)
 1. [2022 年第二批游戏版号公布](https://www.zhihu.com/search?q=2022 年第二批游戏版号公布)
 1. [人类首次在地球以外发现多种氨基酸](https://www.zhihu.com/search?q=人类首次在地球以外发现多种氨基酸)
+1. [国务院发布《未成年人文身治理工作办法》](https://www.zhihu.com/search?q=国务院发布《未成年人文身治理工作办法》)
 1. [深圳宾利女车主回应称网传视频被剪辑](https://www.zhihu.com/search?q=深圳宾利女车主回应称网传视频被剪辑)
 1. [罗永浩再成被执行人](https://www.zhihu.com/search?q=罗永浩再成被执行人)
 1. [专家回应「高考命题难易度不影响录取与公平」](https://www.zhihu.com/search?q=专家回应「高考命题难易度不影响录取与公平」)
@@ -36,7 +40,6 @@
 1. [北京连续三天无新增社会面病例](https://www.zhihu.com/search?q=北京连续三天无新增社会面病例)
 1. [媒体评「宾利车位风波」](https://www.zhihu.com/search?q=媒体评「宾利车位风波」)
 1. [美国最大水库惊现多具湖底藏尸](https://www.zhihu.com/search?q=美国最大水库惊现多具湖底藏尸)
-1. [英国首相鲍里斯·约翰逊将面临不信任投票](https://www.zhihu.com/search?q=英国首相鲍里斯·约翰逊将面临不信任投票)
 1. [哈尔滨巴彦县发生刑案致 3 人死亡](https://www.zhihu.com/search?q=哈尔滨巴彦县发生刑案致 3 人死亡)
 1. [郑州女大学生求救 120 未果去世案 5 人被处理](https://www.zhihu.com/search?q=郑州女大学生求救 120 未果去世案
    5 人被处理)
