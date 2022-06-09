@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 09 2022 16:21:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 09 2022 17:16:05 GMT+0800 (China Standard Time) -->
 
 1. [教育部考试院回应网传高考数学泄题](https://www.zhihu.com/search?q=教育部考试院回应网传高考数学泄题)
 1. [空军一架歼 7 飞机失事造成民房受损](https://www.zhihu.com/search?q=空军一架歼 7 飞机失事造成民房受损)
 1. [索尼前 CEO 出井伸之去世](https://www.zhihu.com/search?q=索尼前 CEO 出井伸之去世)
-1. [谷爱凌担任美国申奥大使](https://www.zhihu.com/search?q=谷爱凌担任美国申奥大使)
-1. [临夏 12 岁女童性侵事件调查](https://www.zhihu.com/search?q=临夏 12 岁女童性侵事件调查)
 1. [《新围棋少年》更新](https://www.zhihu.com/search?q=《新围棋少年》更新)
+1. [临夏 12 岁女童性侵事件调查](https://www.zhihu.com/search?q=临夏 12 岁女童性侵事件调查)
+1. [谷爱凌担任美国申奥大使](https://www.zhihu.com/search?q=谷爱凌担任美国申奥大使)
 1. [中国天眼发现首例持续活跃重复快速射电暴](https://www.zhihu.com/search?q=中国天眼发现首例持续活跃重复快速射电暴)
 1. [安徽 27 岁女主持人住院期间疑因药物致死](https://www.zhihu.com/search?q=安徽 27 岁女主持人住院期间疑因药物致死)
 1. [北京朝阳暂停娱乐场所营业](https://www.zhihu.com/search?q=北京朝阳暂停娱乐场所营业)
