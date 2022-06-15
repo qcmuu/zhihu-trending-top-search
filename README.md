@@ -14,13 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 16 2022 00:19:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 16 2022 01:16:56 GMT+0800 (China Standard Time) -->
 
-1. [江苏无锡一幢两层楼民房发生坍塌](https://www.zhihu.com/search?q=江苏无锡一幢两层楼民房发生坍塌)
 1. [警方通报河南女子举报父亲遭警察殴打致死](https://www.zhihu.com/search?q=警方通报河南女子举报父亲遭警察殴打致死)
-1. [河南卫健委调查储户被赋红码](https://www.zhihu.com/search?q=河南卫健委调查储户被赋红码)
 1. [勇士击败凯尔特人夺得冠军点](https://www.zhihu.com/search?q=勇士击败凯尔特人夺得冠军点)
+1. [河南卫健委调查储户被赋红码](https://www.zhihu.com/search?q=河南卫健委调查储户被赋红码)
+1. [陕西高考前失联女孩已去世](https://www.zhihu.com/search?q=陕西高考前失联女孩已去世)
 1. [郑恺 900 万股权被冻结](https://www.zhihu.com/search?q=郑恺 900 万股权被冻结)
+1. [纪委回应执法人员戴 14 万名表](https://www.zhihu.com/search?q=纪委回应执法人员戴 14 万名表)
+1. [海贼王巴基成为新四皇](https://www.zhihu.com/search?q=海贼王巴基成为新四皇)
+1. [卡塔尔世界杯 32 强全部出炉​](https://www.zhihu.com/search?q=卡塔尔世界杯 32 强全部出炉​)
+1. [江苏无锡一幢两层楼民房发生坍塌](https://www.zhihu.com/search?q=江苏无锡一幢两层楼民房发生坍塌)
+1. [微软 IE 浏览器正式退役](https://www.zhihu.com/search?q=微软 IE 浏览器正式退役)
 1. [女孩嘴含夹竹桃拍照后中毒送医](https://www.zhihu.com/search?q=女孩嘴含夹竹桃拍照后中毒送医)
 1. [男子因生僻姓氏做核酸不出结果](https://www.zhihu.com/search?q=男子因生僻姓氏做核酸不出结果)
 1. [三星堆发现着裙立发人像](https://www.zhihu.com/search?q=三星堆发现着裙立发人像)
