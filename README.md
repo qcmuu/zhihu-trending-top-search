@@ -14,14 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 17 2022 09:12:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 17 2022 11:22:20 GMT+0800 (China Standard Time) -->
 
-1. [河南省纪委监委回应健康码赋红码问题](https://www.zhihu.com/search?q=河南省纪委监委回应健康码赋红码问题)
-1. [报告称近九成 00 后毕业生愿意加班](https://www.zhihu.com/search?q=报告称近九成 00 后毕业生愿意加班)
 1. [中国杨梅 60 元一颗出口迪拜](https://www.zhihu.com/search?q=中国杨梅 60 元一颗出口迪拜)
-1. [《怪物猎人崛起 曙光》特别节目](https://www.zhihu.com/search?q=《怪物猎人崛起 曙光》特别节目)
-1. [陕西高考前失联女孩已去世](https://www.zhihu.com/search?q=陕西高考前失联女孩已去世)
+1. [报告称近九成 00 后毕业生愿意加班](https://www.zhihu.com/search?q=报告称近九成 00 后毕业生愿意加班)
+1. [河南省纪委监委回应健康码赋红码问题](https://www.zhihu.com/search?q=河南省纪委监委回应健康码赋红码问题)
+1. [外交部回应美方考虑改变对华关税](https://www.zhihu.com/search?q=外交部回应美方考虑改变对华关税)
+1. [甘肃一公司发生爆炸已致 8 人受伤 6 人失联](https://www.zhihu.com/search?q=甘肃一公司发生爆炸已致 8 人受伤 6
+   人失联)
+1. [三星堆 1986 年出土文物找到另一半](https://www.zhihu.com/search?q=三星堆 1986 年出土文物找到另一半)
 1. [回廊亭 开播](https://www.zhihu.com/search?q=回廊亭 开播)
+1. [泽连斯基与德法意罗领导人举行会谈](https://www.zhihu.com/search?q=泽连斯基与德法意罗领导人举行会谈)
+1. [《怪物猎人崛起 曙光》特别节目](https://www.zhihu.com/search?q=《怪物猎人崛起 曙光》特别节目)
+1. [福奇新冠病毒检测结果阳性](https://www.zhihu.com/search?q=福奇新冠病毒检测结果阳性)
+1. [陕西高考前失联女孩已去世](https://www.zhihu.com/search?q=陕西高考前失联女孩已去世)
 1. [求救电话只有喘息声调度员定位救人](https://www.zhihu.com/search?q=求救电话只有喘息声调度员定位救人)
 1. [高考分数线预测](https://www.zhihu.com/search?q=高考分数线预测)
 1. [东航回应核酸过 3 分钟无法登机](https://www.zhihu.com/search?q=东航回应核酸过 3 分钟无法登机)
@@ -30,15 +36,12 @@
 1. [网络主播徐国豪偷逃税被处罚并追缴 1.08 亿](https://www.zhihu.com/search?q=网络主播徐国豪偷逃税被处罚并追缴
    1.08 亿)
 1. [河南储户称卡里两毛被赋红码](https://www.zhihu.com/search?q=河南储户称卡里两毛被赋红码)
-1. [泽连斯基与德法意罗领导人举行会谈](https://www.zhihu.com/search?q=泽连斯基与德法意罗领导人举行会谈)
-1. [三星堆 1986 年出土文物找到另一半](https://www.zhihu.com/search?q=三星堆 1986 年出土文物找到另一半)
 1. [甘肃一公司发生爆炸已致 3 人受伤 6 人失联](https://www.zhihu.com/search?q=甘肃一公司发生爆炸已致 3 人受伤 6
    人失联)
 1. [CPI 将继续运行在合理区间](https://www.zhihu.com/search?q=CPI 将继续运行在合理区间)
 1. [美联储加息 75 个基点](https://www.zhihu.com/search?q=美联储加息 75 个基点)
 1. [被指诈骗多人的唐山徐敏归案](https://www.zhihu.com/search?q=被指诈骗多人的唐山徐敏归案)
 1. [开始推理吧 德云社](https://www.zhihu.com/search?q=开始推理吧 德云社)
-1. [外交部回应美方考虑改变对华关税](https://www.zhihu.com/search?q=外交部回应美方考虑改变对华关税)
 1. [梦华录 帽妖案](https://www.zhihu.com/search?q=梦华录 帽妖案)
 1. [天堂超市酒吧进违法失信名单](https://www.zhihu.com/search?q=天堂超市酒吧进违法失信名单)
 1. [纪委回应执法人员戴 14 万名表](https://www.zhihu.com/search?q=纪委回应执法人员戴 14 万名表)
