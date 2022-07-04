@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 04 2022 16:19:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 04 2022 17:19:24 GMT+0800 (China Standard Time) -->
 
 1. [石家庄暂停每周一次的常态化核酸](https://www.zhihu.com/search?q=石家庄暂停每周一次的常态化核酸)
 1. [周杰伦 哥要出来了](https://www.zhihu.com/search?q=周杰伦 哥要出来了)
