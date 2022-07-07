@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 07 2022 20:30:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 07 2022 21:39:06 GMT+0800 (China Standard Time) -->
 
-1. [斯里兰卡总理称国家已破产](https://www.zhihu.com/search?q=斯里兰卡总理称国家已破产)
 1. [约翰逊政府 24 小时内已有 21 名成员辞职](https://www.zhihu.com/search?q=约翰逊政府 24 小时内已有 21
    名成员辞职)
 1. [安徽一男子患急病打 120 二十分钟未接通](https://www.zhihu.com/search?q=安徽一男子患急病打 120 二十分钟未接通)
@@ -27,6 +26,8 @@
 1. [游戏王作者去世](https://www.zhihu.com/search?q=游戏王作者去世)
 1. [网传 B 站 2 亿余条用户账号泄露](https://www.zhihu.com/search?q=网传 B 站 2 亿余条用户账号泄露)
 1. [雪莲外卖平台销量暴涨 199%](https://www.zhihu.com/search?q=雪莲外卖平台销量暴涨 199%)
+1. [余承东建议尽快淘汰纯燃油车](https://www.zhihu.com/search?q=余承东建议尽快淘汰纯燃油车)
+1. [斯里兰卡总理称国家已破产](https://www.zhihu.com/search?q=斯里兰卡总理称国家已破产)
 1. [网传北京十渡风景区一小型飞机坠毁](https://www.zhihu.com/search?q=网传北京十渡风景区一小型飞机坠毁)
 1. [中国男篮出访队伍中多人核酸阳性](https://www.zhihu.com/search?q=中国男篮出访队伍中多人核酸阳性)
 1. [美联储会议纪要即将来袭](https://www.zhihu.com/search?q=美联储会议纪要即将来袭)
