@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 10 2022 06:14:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 10 2022 07:13:21 GMT+0800 (China Standard Time) -->
 
 1. [我国 6 月 CPI 数据](https://www.zhihu.com/search?q=我国 6 月 CPI 数据)
 1. [中美外长会晤](https://www.zhihu.com/search?q=中美外长会晤)
