@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 14 2022 21:43:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 14 2022 22:14:02 GMT+0800 (China Standard Time) -->
 
 1. [泰国性犯罪者可化学阉割换减刑](https://www.zhihu.com/search?q=泰国性犯罪者可化学阉割换减刑)
 1. [朝鲜承认顿涅茨克和卢甘斯克独立](https://www.zhihu.com/search?q=朝鲜承认顿涅茨克和卢甘斯克独立)
