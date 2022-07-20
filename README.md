@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 20 2022 14:19:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 20 2022 15:14:12 GMT+0800 (China Standard Time) -->
 
-1. [诛仙动画定档](https://www.zhihu.com/search?q=诛仙动画定档)
 1. [羽生结弦宣布退役](https://www.zhihu.com/search?q=羽生结弦宣布退役)
 1. [任天堂 3DS 服务将终止](https://www.zhihu.com/search?q=任天堂 3DS 服务将终止)
 1. [曹德旺称趁早卖房才明智](https://www.zhihu.com/search?q=曹德旺称趁早卖房才明智)
@@ -26,6 +25,8 @@
 1. [KF-21 首飞](https://www.zhihu.com/search?q=KF-21 首飞)
 1. [天文学家首次发现银河系外休眠黑洞](https://www.zhihu.com/search?q=天文学家首次发现银河系外休眠黑洞)
 1. [俄罗斯、伊朗强化合作](https://www.zhihu.com/search?q=俄罗斯、伊朗强化合作)
+1. [宁夏确诊一例腺鼠疫病例](https://www.zhihu.com/search?q=宁夏确诊一例腺鼠疫病例)
+1. [诛仙动画定档](https://www.zhihu.com/search?q=诛仙动画定档)
 1. [房管局回应监管资金被挪用是听招呼干活](https://www.zhihu.com/search?q=房管局回应监管资金被挪用是听招呼干活)
 1. [韩民众因炸鸡太贵在网上发起抵制](https://www.zhihu.com/search?q=韩民众因炸鸡太贵在网上发起抵制)
 1. [韩统一教前世界会会长对安倍之死鞠躬道歉](https://www.zhihu.com/search?q=韩统一教前世界会会长对安倍之死鞠躬道歉)
