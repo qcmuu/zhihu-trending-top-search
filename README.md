@@ -14,11 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 20 2022 13:21:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 20 2022 14:19:53 GMT+0800 (China Standard Time) -->
 
-1. [房管局回应监管资金被挪用是听招呼干活](https://www.zhihu.com/search?q=房管局回应监管资金被挪用是听招呼干活)
-1. [韩民众因炸鸡太贵在网上发起抵制](https://www.zhihu.com/search?q=韩民众因炸鸡太贵在网上发起抵制)
-1. [韩统一教前世界会会长对安倍之死鞠躬道歉](https://www.zhihu.com/search?q=韩统一教前世界会会长对安倍之死鞠躬道歉)
 1. [诛仙动画定档](https://www.zhihu.com/search?q=诛仙动画定档)
 1. [羽生结弦宣布退役](https://www.zhihu.com/search?q=羽生结弦宣布退役)
 1. [任天堂 3DS 服务将终止](https://www.zhihu.com/search?q=任天堂 3DS 服务将终止)
@@ -26,6 +23,12 @@
 1. [海南 50 名公考考生拟被取消成绩](https://www.zhihu.com/search?q=海南 50 名公考考生拟被取消成绩)
 1. [杭州亚运会确定新的举办日期](https://www.zhihu.com/search?q=杭州亚运会确定新的举办日期)
 1. [北京规定全市酒店暂不承办婚宴](https://www.zhihu.com/search?q=北京规定全市酒店暂不承办婚宴)
+1. [KF-21 首飞](https://www.zhihu.com/search?q=KF-21 首飞)
+1. [天文学家首次发现银河系外休眠黑洞](https://www.zhihu.com/search?q=天文学家首次发现银河系外休眠黑洞)
+1. [俄罗斯、伊朗强化合作](https://www.zhihu.com/search?q=俄罗斯、伊朗强化合作)
+1. [房管局回应监管资金被挪用是听招呼干活](https://www.zhihu.com/search?q=房管局回应监管资金被挪用是听招呼干活)
+1. [韩民众因炸鸡太贵在网上发起抵制](https://www.zhihu.com/search?q=韩民众因炸鸡太贵在网上发起抵制)
+1. [韩统一教前世界会会长对安倍之死鞠躬道歉](https://www.zhihu.com/search?q=韩统一教前世界会会长对安倍之死鞠躬道歉)
 1. [校方回应花千万引进 23 名菲律宾博士](https://www.zhihu.com/search?q=校方回应花千万引进 23 名菲律宾博士)
 1. [伊朗拟禁止民众养宠物](https://www.zhihu.com/search?q=伊朗拟禁止民众养宠物)
 1. [小天才平板涉黄涉暴被京津冀消协约谈](https://www.zhihu.com/search?q=小天才平板涉黄涉暴被京津冀消协约谈)
