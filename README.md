@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 24 2022 21:27:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 24 2022 22:13:27 GMT+0800 (China Standard Time) -->
 
-1. [国内首次报告疫苗接种不良事件发生率](https://www.zhihu.com/search?q=国内首次报告疫苗接种不良事件发生率)
 1. [猴痘 最高级别警报](https://www.zhihu.com/search?q=猴痘 最高级别警报)
 1. [EDG 领先一万经济被翻盘](https://www.zhihu.com/search?q=EDG 领先一万经济被翻盘)
 1. [问天实验舱发射成功](https://www.zhihu.com/search?q=问天实验舱发射成功)
@@ -25,6 +24,7 @@
 1. [男子多次带女友吃海鲜只付塑料袋钱](https://www.zhihu.com/search?q=男子多次带女友吃海鲜只付塑料袋钱)
 1. [华为再发天才少年招聘令](https://www.zhihu.com/search?q=华为再发天才少年招聘令)
 1. [中国男足战平日本队](https://www.zhihu.com/search?q=中国男足战平日本队)
+1. [国内首次报告疫苗接种不良事件发生率](https://www.zhihu.com/search?q=国内首次报告疫苗接种不良事件发生率)
 1. [东亚杯中国女足平韩国](https://www.zhihu.com/search?q=东亚杯中国女足平韩国)
 1. [全球首款「抗新冠喷雾」将上市](https://www.zhihu.com/search?q=全球首款「抗新冠喷雾」将上市)
 1. [中国女留学生在美国遭前男友杀害](https://www.zhihu.com/search?q=中国女留学生在美国遭前男友杀害)
