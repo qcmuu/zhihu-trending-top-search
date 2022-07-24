@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 24 2022 20:27:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 24 2022 21:27:04 GMT+0800 (China Standard Time) -->
 
 1. [国内首次报告疫苗接种不良事件发生率](https://www.zhihu.com/search?q=国内首次报告疫苗接种不良事件发生率)
 1. [猴痘 最高级别警报](https://www.zhihu.com/search?q=猴痘 最高级别警报)
