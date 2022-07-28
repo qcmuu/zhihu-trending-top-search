@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 28 2022 15:14:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 28 2022 16:21:30 GMT+0800 (China Standard Time) -->
 
-1. [车主眼睛小被自动驾驶误判](https://www.zhihu.com/search?q=车主眼睛小被自动驾驶误判)
 1. [北京朝阳暴雨](https://www.zhihu.com/search?q=北京朝阳暴雨)
 1. [韩国给拜登起韩国名](https://www.zhihu.com/search?q=韩国给拜登起韩国名)
 1. [东亚杯国足小胜香港](https://www.zhihu.com/search?q=东亚杯国足小胜香港)
@@ -26,6 +25,8 @@
 1. [日本多地政府收到威胁邮件](https://www.zhihu.com/search?q=日本多地政府收到威胁邮件)
 1. [星汉灿烂 连播](https://www.zhihu.com/search?q=星汉灿烂 连播)
 1. [杭州 22 岁女孩连续熬夜加班猝死](https://www.zhihu.com/search?q=杭州 22 岁女孩连续熬夜加班猝死)
+1. [江西省纪委介入调查周劼事件](https://www.zhihu.com/search?q=江西省纪委介入调查周劼事件)
+1. [车主眼睛小被自动驾驶误判](https://www.zhihu.com/search?q=车主眼睛小被自动驾驶误判)
 1. [夏日祭在全国设置 21 场活动](https://www.zhihu.com/search?q=夏日祭在全国设置 21 场活动)
 1. [电锯人第二部更新](https://www.zhihu.com/search?q=电锯人第二部更新)
 1. [美国发现首例孕妇猴痘病例](https://www.zhihu.com/search?q=美国发现首例孕妇猴痘病例)
