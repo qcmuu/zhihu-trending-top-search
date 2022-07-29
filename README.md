@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 29 2022 18:17:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 29 2022 19:12:44 GMT+0800 (China Standard Time) -->
 
-1. [每日优鲜回应解散](https://www.zhihu.com/search?q=每日优鲜回应解散)
 1. [美国二季度 GDP 下滑 0.9%](https://www.zhihu.com/search?q=美国二季度 GDP 下滑 0.9%)
 1. [香港体育馆严重事故](https://www.zhihu.com/search?q=香港体育馆严重事故)
 1. [ 中美元首通话](https://www.zhihu.com/search?q= 中美元首通话)
@@ -24,8 +23,11 @@
 1. [公立医院亏损负债](https://www.zhihu.com/search?q=公立医院亏损负债)
 1. [佩洛西台湾行程待定](https://www.zhihu.com/search?q=佩洛西台湾行程待定)
 1. [查处公务员考试违纪](https://www.zhihu.com/search?q=查处公务员考试违纪)
-1. [抖音崩了](https://www.zhihu.com/search?q=抖音崩了)
 1. [独行月球](https://www.zhihu.com/search?q=独行月球)
+1. [七人乐队](https://www.zhihu.com/search?q=七人乐队)
+1. [韦正直播](https://www.zhihu.com/search?q=韦正直播)
+1. [每日优鲜回应解散](https://www.zhihu.com/search?q=每日优鲜回应解散)
+1. [抖音崩了](https://www.zhihu.com/search?q=抖音崩了)
 1. [22 岁女孩连续熬夜加班猝死](https://www.zhihu.com/search?q=22 岁女孩连续熬夜加班猝死)
 1. [钟薛高申请「钟薛低」商标](https://www.zhihu.com/search?q=钟薛高申请「钟薛低」商标)
 1. [张杰谢娜与房产经纪名誉权纠纷案将开庭](https://www.zhihu.com/search?q=张杰谢娜与房产经纪名誉权纠纷案将开庭)
