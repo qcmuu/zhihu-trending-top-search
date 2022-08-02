@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 02 2022 22:14:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 02 2022 23:15:52 GMT+0800 (China Standard Time) -->
 
 1. [美击毙「基地」组织头目](https://www.zhihu.com/search?q=美击毙「基地」组织头目)
 1. [日本美滨核电站泄漏](https://www.zhihu.com/search?q=日本美滨核电站泄漏)
@@ -25,6 +25,7 @@
 1. [独行月球直播](https://www.zhihu.com/search?q=独行月球直播)
 1. [网传 B 站 HR 称核心用户都是 Loser](https://www.zhihu.com/search?q=网传 B 站 HR 称核心用户都是
    Loser)
+1. [解放军苏-35 战机穿越台湾海峡](https://www.zhihu.com/search?q=解放军苏-35 战机穿越台湾海峡)
 1. [东部战区发文](https://www.zhihu.com/search?q=东部战区发文)
 1. [网传周周在西非失联](https://www.zhihu.com/search?q=网传周周在西非失联)
 1. [八月游戏版号下发](https://www.zhihu.com/search?q=八月游戏版号下发)
