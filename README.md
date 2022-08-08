@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 08 2022 16:22:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 08 2022 17:14:53 GMT+0800 (China Standard Time) -->
 
 1. [新番莉可丽丝更新](https://www.zhihu.com/search?q=新番莉可丽丝更新)
 1. [美印将举行联合军演](https://www.zhihu.com/search?q=美印将举行联合军演)
