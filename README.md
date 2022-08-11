@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 11 2022 17:15:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 11 2022 18:16:50 GMT+0800 (China Standard Time) -->
 
 1. [FBI 疑带走特朗普隐藏的涉密文件](https://www.zhihu.com/search?q=FBI 疑带走特朗普隐藏的涉密文件)
 1. [日美 10 架战机在冲绳周边训练](https://www.zhihu.com/search?q=日美 10 架战机在冲绳周边训练)
@@ -25,6 +25,7 @@
 1. [明日方舟夏活皮肤](https://www.zhihu.com/search?q=明日方舟夏活皮肤)
 1. [欢乐颂 3 今日开播](https://www.zhihu.com/search?q=欢乐颂 3 今日开播)
 1. [	山西暴雨引发山洪 5 人失踪](https://www.zhihu.com/search?q=	山西暴雨引发山洪 5 人失踪)
+1. [海军护卫舰赴南海开展实弹射击训练](https://www.zhihu.com/search?q=海军护卫舰赴南海开展实弹射击训练)
 1. [东部战区联合军事行动成功完成各项任务](https://www.zhihu.com/search?q=东部战区联合军事行动成功完成各项任务)
 1. [日本新内阁成立](https://www.zhihu.com/search?q=日本新内阁成立)
 1. [美方挑衅一次，中方就坚决斗争一次](https://www.zhihu.com/search?q=美方挑衅一次，中方就坚决斗争一次)
