@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 12 2022 13:15:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 12 2022 14:19:19 GMT+0800 (China Standard Time) -->
 
 1. [小鹏回应 P7 高架撞人致死](https://www.zhihu.com/search?q=小鹏回应 P7 高架撞人致死)
 1. [	山西暴雨引发山洪 5 人失踪](https://www.zhihu.com/search?q=	山西暴雨引发山洪 5 人失踪)
