@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 19 2022 18:19:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 19 2022 19:13:23 GMT+0800 (China Standard Time) -->
 
 1. [上海经信委回应发函向四川要电](https://www.zhihu.com/search?q=上海经信委回应发函向四川要电)
 1. [EDG 获得冒泡赛资格](https://www.zhihu.com/search?q=EDG 获得冒泡赛资格)
