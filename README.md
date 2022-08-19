@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 19 2022 22:14:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 19 2022 23:18:02 GMT+0800 (China Standard Time) -->
 
-1. [重庆涪陵山火复燃](https://www.zhihu.com/search?q=重庆涪陵山火复燃)
-1. [警方通报四川成雅高速车祸](https://www.zhihu.com/search?q=警方通报四川成雅高速车祸)
 1. [茶颜悦色 致歉](https://www.zhihu.com/search?q=茶颜悦色 致歉)
 1. [百度网盘回应人工审核用户照片](https://www.zhihu.com/search?q=百度网盘回应人工审核用户照片)
 1. [个人医保账户定向使用](https://www.zhihu.com/search?q=个人医保账户定向使用)
 1. [一拳超人 215 话](https://www.zhihu.com/search?q=一拳超人 215 话)
 1. [海外台胞可求助中国驻外使领馆](https://www.zhihu.com/search?q=海外台胞可求助中国驻外使领馆)
+1. [国家卫计委计划生育兼职委员制度撤销](https://www.zhihu.com/search?q=国家卫计委计划生育兼职委员制度撤销)
+1. [美疾控中心承认疫情防控失误](https://www.zhihu.com/search?q=美疾控中心承认疫情防控失误)
 1. [永劫无间新地图火罗国](https://www.zhihu.com/search?q=永劫无间新地图火罗国)
 1. [新秦时明月完结](https://www.zhihu.com/search?q=新秦时明月完结)
-1. [国家卫计委计划生育兼职委员制度撤销](https://www.zhihu.com/search?q=国家卫计委计划生育兼职委员制度撤销)
+1. [北京预售房确需延期每次不超 6 个月](https://www.zhihu.com/search?q=北京预售房确需延期每次不超 6 个月)
+1. [重庆涪陵山火复燃](https://www.zhihu.com/search?q=重庆涪陵山火复燃)
+1. [警方通报四川成雅高速车祸](https://www.zhihu.com/search?q=警方通报四川成雅高速车祸)
 1. [EDG 获得冒泡赛资格](https://www.zhihu.com/search?q=EDG 获得冒泡赛资格)
 1. [上海经信委回应发函向四川要电](https://www.zhihu.com/search?q=上海经信委回应发函向四川要电)
 1. [张北海去世](https://www.zhihu.com/search?q=张北海去世)
