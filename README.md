@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 26 2022 16:20:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 26 2022 17:15:06 GMT+0800 (China Standard Time) -->
 
 1. [EDG 晋级败者组决赛](https://www.zhihu.com/search?q=EDG 晋级败者组决赛)
 1. [安倍遭暗杀调查结果公布](https://www.zhihu.com/search?q=安倍遭暗杀调查结果公布)
