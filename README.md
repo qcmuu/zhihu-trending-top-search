@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 28 2022 06:14:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 28 2022 07:15:04 GMT+0800 (China Standard Time) -->
 
 1. [微软称 Xbox 不会涨价](https://www.zhihu.com/search?q=微软称 Xbox 不会涨价)
 1. [女鬼桥改编游戏](https://www.zhihu.com/search?q=女鬼桥改编游戏)
-1. [湘雅二院刘翔峰调查结果](https://www.zhihu.com/search?q=湘雅二院刘翔峰调查结果)
 1. [唐凯夺羽量级金腰带](https://www.zhihu.com/search?q=唐凯夺羽量级金腰带)
 1. [警方通报女子烧烤店被砍伤](https://www.zhihu.com/search?q=警方通报女子烧烤店被砍伤)
 1. [演员王东被妻子控诉家暴](https://www.zhihu.com/search?q=演员王东被妻子控诉家暴)
@@ -26,6 +25,8 @@
 1. [山西多校以是否购买平板电脑为分班标准](https://www.zhihu.com/search?q=山西多校以是否购买平板电脑为分班标准)
 1. [中国女排晋级亚洲杯四强](https://www.zhihu.com/search?q=中国女排晋级亚洲杯四强)
 1. [安徽一广场雷击致 2 死](https://www.zhihu.com/search?q=安徽一广场雷击致 2 死)
+1. [网友「建议专家不要建议」](https://www.zhihu.com/search?q=网友「建议专家不要建议」)
+1. [湘雅二院刘翔峰调查结果](https://www.zhihu.com/search?q=湘雅二院刘翔峰调查结果)
 
 <!-- END -->
 
