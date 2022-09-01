@@ -14,11 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 01 2022 07:15:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 01 2022 09:24:43 GMT+0800 (China Standard Time) -->
 
 1. [电锯人第二部更新](https://www.zhihu.com/search?q=电锯人第二部更新)
-1. [9 月新规](https://www.zhihu.com/search?q=9 月新规)
-1. [美国出现首例猴痘死亡病例](https://www.zhihu.com/search?q=美国出现首例猴痘死亡病例)
 1. [中国互联网络发展状况统计报告](https://www.zhihu.com/search?q=中国互联网络发展状况统计报告)
 1. [二舅视频作者近期将发布澄清视频](https://www.zhihu.com/search?q=二舅视频作者近期将发布澄清视频)
 1. [多抓鱼 75 元回收的衣服 629 元售卖](https://www.zhihu.com/search?q=多抓鱼 75 元回收的衣服 629 元售卖)
@@ -26,6 +24,9 @@
 1. [辽宁捕获 4 只金色蚊子](https://www.zhihu.com/search?q=辽宁捕获 4 只金色蚊子)
 1. [呷哺呷哺上半年关店 37 家](https://www.zhihu.com/search?q=呷哺呷哺上半年关店 37 家)
 1. [国常会公布新举措](https://www.zhihu.com/search?q=国常会公布新举措)
+1. [青海山体滑坡](https://www.zhihu.com/search?q=青海山体滑坡)
+1. [9 月新规](https://www.zhihu.com/search?q=9 月新规)
+1. [美国出现首例猴痘死亡病例](https://www.zhihu.com/search?q=美国出现首例猴痘死亡病例)
 1. [阿尔忒弥斯 1 号火箭 9 月 3 日重新发射](https://www.zhihu.com/search?q=阿尔忒弥斯 1 号火箭 9 月 3
    日重新发射)
 1. [8 月中国制造业 PMI](https://www.zhihu.com/search?q=8 月中国制造业 PMI)
