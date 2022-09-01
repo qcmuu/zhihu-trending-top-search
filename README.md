@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 01 2022 19:13:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 01 2022 20:30:20 GMT+0800 (China Standard Time) -->
 
 1. [台风轩岚诺](https://www.zhihu.com/search?q=台风轩岚诺)
 1. [国常会公布新举措](https://www.zhihu.com/search?q=国常会公布新举措)
