@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 02 2022 19:14:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 02 2022 20:31:38 GMT+0800 (China Standard Time) -->
 
 1. [反诈骗法通过](https://www.zhihu.com/search?q=反诈骗法通过)
 1. [JDG 夺 LPL 夏季赛总冠军](https://www.zhihu.com/search?q=JDG 夺 LPL 夏季赛总冠军)
