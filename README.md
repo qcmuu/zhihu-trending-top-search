@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 06 2022 12:21:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 06 2022 14:13:20 GMT+0800 (China Standard Time) -->
 
-1. [四川甘孜 6.8 级地震](https://www.zhihu.com/search?q=四川甘孜 6.8 级地震)
 1. [泸定强震已致超 46 人遇难](https://www.zhihu.com/search?q=泸定强震已致超 46 人遇难)
 1. [原神联动高德地图](https://www.zhihu.com/search?q=原神联动高德地图)
 1. [四川绵竹疑现大量蝙蝠](https://www.zhihu.com/search?q=四川绵竹疑现大量蝙蝠)
@@ -26,6 +25,8 @@
 1. [大渡河一级支流湾东河断流](https://www.zhihu.com/search?q=大渡河一级支流湾东河断流)
 1. [网传韩剧鬼怪将翻拍中国版](https://www.zhihu.com/search?q=网传韩剧鬼怪将翻拍中国版)
 1. [苹果或发布儿童手表](https://www.zhihu.com/search?q=苹果或发布儿童手表)
+1. [地震造成中科院观测站垮塌 1 人遇难](https://www.zhihu.com/search?q=地震造成中科院观测站垮塌 1 人遇难)
+1. [四川甘孜 6.8 级地震](https://www.zhihu.com/search?q=四川甘孜 6.8 级地震)
 1. [北京 11 家餐饮单位因使用假健康证被立案](https://www.zhihu.com/search?q=北京 11 家餐饮单位因使用假健康证被立案)
 1. [玩游戏花 17 万致父母卖房](https://www.zhihu.com/search?q=玩游戏花 17 万致父母卖房)
 1. [部分 iPhone 14 机型或移除 SIM 卡槽](https://www.zhihu.com/search?q=部分 iPhone 14 机型或移除
