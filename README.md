@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 08 2022 06:15:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 08 2022 07:18:59 GMT+0800 (China Standard Time) -->
 
+1. [苹果发布会](https://www.zhihu.com/search?q=苹果发布会)
 1. [国庆放假安排](https://www.zhihu.com/search?q=国庆放假安排)
 1. [男子连玩 441 小时游戏被封号](https://www.zhihu.com/search?q=男子连玩 441 小时游戏被封号)
 1. [美国滥用美元霸权输出通胀冲击全球经济](https://www.zhihu.com/search?q=美国滥用美元霸权输出通胀冲击全球经济)
