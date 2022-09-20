@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 20 2022 12:16:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 20 2022 14:02:58 GMT+0800 (China Standard Time) -->
 
-1. [韩国汉江发呆大赛](https://www.zhihu.com/search?q=韩国汉江发呆大赛)
-1. [电锯人动画正式预告](https://www.zhihu.com/search?q=电锯人动画正式预告)
 1. [贵阳连续 3 天社会面感染者为零](https://www.zhihu.com/search?q=贵阳连续 3 天社会面感染者为零)
+1. [电锯人动画正式预告](https://www.zhihu.com/search?q=电锯人动画正式预告)
 1. [华为称正在推进 5.5G 技术](https://www.zhihu.com/search?q=华为称正在推进 5.5G 技术)
 1. [贵阳三名干部被组织处理](https://www.zhihu.com/search?q=贵阳三名干部被组织处理)
 1. [菲律宾警方一周救出 231 名中国人](https://www.zhihu.com/search?q=菲律宾警方一周救出 231 名中国人)
@@ -26,6 +25,8 @@
 1. [墨西哥发生 7.7 级地震](https://www.zhihu.com/search?q=墨西哥发生 7.7 级地震)
 1. [贵州：杜绝「三超一疲劳」](https://www.zhihu.com/search?q=贵州：杜绝「三超一疲劳」)
 1. [江西出现特重气象干旱](https://www.zhihu.com/search?q=江西出现特重气象干旱)
+1. [超八成留学人员学成归国](https://www.zhihu.com/search?q=超八成留学人员学成归国)
+1. [韩国汉江发呆大赛](https://www.zhihu.com/search?q=韩国汉江发呆大赛)
 1. [日本百岁老人数量首破 9 万](https://www.zhihu.com/search?q=日本百岁老人数量首破 9 万)
 1. [汪涵被曝在节目中怼嘉宾](https://www.zhihu.com/search?q=汪涵被曝在节目中怼嘉宾)
 1. [游戏 GTA6 遭泄露](https://www.zhihu.com/search?q=游戏 GTA6 遭泄露)
