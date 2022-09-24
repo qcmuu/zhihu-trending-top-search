@@ -14,8 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 24 2022 09:48:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 24 2022 12:13:53 GMT+0800 (China Standard Time) -->
 
+1. [美不限制从中国进口钕磁体](https://www.zhihu.com/search?q=美不限制从中国进口钕磁体)
+1. [费德勒 谢幕](https://www.zhihu.com/search?q=费德勒 谢幕)
+1. [2023 考研今起预报名](https://www.zhihu.com/search?q=2023 考研今起预报名)
+1. [山艺高彦事件成立调查组](https://www.zhihu.com/search?q=山艺高彦事件成立调查组)
 1. [喜剧大赛 2 开播](https://www.zhihu.com/search?q=喜剧大赛 2 开播)
 1. [多所高校调整国庆放假安排](https://www.zhihu.com/search?q=多所高校调整国庆放假安排)
 1. [女运动员比赛服被指露骨](https://www.zhihu.com/search?q=女运动员比赛服被指露骨)
@@ -25,7 +29,6 @@
 1. [俄罗斯出国机票价格飙升](https://www.zhihu.com/search?q=俄罗斯出国机票价格飙升)
 1. [一人之下 632 话](https://www.zhihu.com/search?q=一人之下 632 话)
 1. [云南保山 4.5 级地震](https://www.zhihu.com/search?q=云南保山 4.5 级地震)
-1. [美不限制从中国进口钕磁体](https://www.zhihu.com/search?q=美不限制从中国进口钕磁体)
 1. [两地发文集中隔离开始收费](https://www.zhihu.com/search?q=两地发文集中隔离开始收费)
 1. [中国电热毯月出口 129 万条](https://www.zhihu.com/search?q=中国电热毯月出口 129 万条)
 1. [中国县域人口密度榜](https://www.zhihu.com/search?q=中国县域人口密度榜)
