@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 28 2022 01:33:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 28 2022 02:27:03 GMT+0800 (China Standard Time) -->
 
 1. [美宇宙飞船撞击小行星](https://www.zhihu.com/search?q=美宇宙飞船撞击小行星)
 1. [一箭三星](https://www.zhihu.com/search?q=一箭三星)
