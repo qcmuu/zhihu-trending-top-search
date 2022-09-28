@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 28 2022 21:49:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 28 2022 22:31:57 GMT+0800 (China Standard Time) -->
 
-1. [北溪管道遭破坏发现 3 处泄露](https://www.zhihu.com/search?q=北溪管道遭破坏发现 3 处泄露)
 1. [波罗的海天然气管道开通](https://www.zhihu.com/search?q=波罗的海天然气管道开通)
 1. [四地公投入俄结果公布](https://www.zhihu.com/search?q=四地公投入俄结果公布)
 1. [北溪管道泄漏或为「蓄意破坏」](https://www.zhihu.com/search?q=北溪管道泄漏或为「蓄意破坏」)
@@ -27,6 +26,8 @@
 1. [	全国农村居民人均可支配收入 4 年实际增长 28.9%](https://www.zhihu.com/search?q=	全国农村居民人均可支配收入
    4 年实际增长 28.9%)
 1. [	默沙东与国药达成新冠口服药合作](https://www.zhihu.com/search?q=	默沙东与国药达成新冠口服药合作)
+1. [电锯人更新](https://www.zhihu.com/search?q=电锯人更新)
+1. [北溪管道遭破坏发现 3 处泄露](https://www.zhihu.com/search?q=北溪管道遭破坏发现 3 处泄露)
 1. [李建平一审被判死刑](https://www.zhihu.com/search?q=李建平一审被判死刑)
 1. [晕车终于有救了](https://www.zhihu.com/search?q=晕车终于有救了)
 1. [底线拍了江歌案](https://www.zhihu.com/search?q=底线拍了江歌案)
