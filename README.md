@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 30 2022 06:18:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 30 2022 07:23:08 GMT+0800 (China Standard Time) -->
 
-1. [欧盟宣布第八轮对俄制裁措施](https://www.zhihu.com/search?q=欧盟宣布第八轮对俄制裁措施)
 1. [海南省槟榔协会发文](https://www.zhihu.com/search?q=海南省槟榔协会发文)
 1. [世界首只北极狼克隆成功](https://www.zhihu.com/search?q=世界首只北极狼克隆成功)
 1. [东方甄选回应下架 6 元助农玉米](https://www.zhihu.com/search?q=东方甄选回应下架 6 元助农玉米)
@@ -26,6 +25,8 @@
 1. [我国科学家证实人由鱼进化而来](https://www.zhihu.com/search?q=我国科学家证实人由鱼进化而来)
 1. [美财长耶伦或将离职](https://www.zhihu.com/search?q=美财长耶伦或将离职)
 1. [官方：隔离时不得采取外锁门方式](https://www.zhihu.com/search?q=官方：隔离时不得采取外锁门方式)
+1. [防止以家教名义开展校外培训](https://www.zhihu.com/search?q=防止以家教名义开展校外培训)
+1. [欧盟宣布第八轮对俄制裁措施](https://www.zhihu.com/search?q=欧盟宣布第八轮对俄制裁措施)
 
 <!-- END -->
 
