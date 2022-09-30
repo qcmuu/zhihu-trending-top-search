@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 30 2022 14:10:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 30 2022 15:39:08 GMT+0800 (China Standard Time) -->
 
 1. [官方：隔离时不得采取外锁门方式](https://www.zhihu.com/search?q=官方：隔离时不得采取外锁门方式)
 1. [防止以家教名义开展校外培训](https://www.zhihu.com/search?q=防止以家教名义开展校外培训)
