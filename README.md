@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 03 2022 17:26:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 03 2022 18:20:17 GMT+0800 (China Standard Time) -->
 
+1. [诺贝尔生理学或医学奖公布](https://www.zhihu.com/search?q=诺贝尔生理学或医学奖公布)
 1. [约 3 亿年后太平洋将消失](https://www.zhihu.com/search?q=约 3 亿年后太平洋将消失)
 1. [河北石家庄市平山县 4.3 级地震](https://www.zhihu.com/search?q=河北石家庄市平山县 4.3 级地震)
 1. [两条北溪天然气管道都已停止泄漏](https://www.zhihu.com/search?q=两条北溪天然气管道都已停止泄漏)
