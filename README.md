@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 05 2022 11:38:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 05 2022 12:48:27 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔物理学奖公布](https://www.zhihu.com/search?q=诺贝尔物理学奖公布)
 1. [谌龙世界排名被移除](https://www.zhihu.com/search?q=谌龙世界排名被移除)
