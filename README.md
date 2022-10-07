@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 07 2022 07:21:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 07 2022 09:48:20 GMT+0800 (China Standard Time) -->
 
 1. [教育部鼓励高校加强恋爱心理教育](https://www.zhihu.com/search?q=教育部鼓励高校加强恋爱心理教育)
 1. [大妈打天价防癌针被骗 21 万](https://www.zhihu.com/search?q=大妈打天价防癌针被骗 21 万)
@@ -25,6 +25,7 @@
 1. [妻子怀孕丈夫一直孕吐](https://www.zhihu.com/search?q=妻子怀孕丈夫一直孕吐)
 1. [美俄重启「红色电话」](https://www.zhihu.com/search?q=美俄重启「红色电话」)
 1. [诺贝尔文学奖公布](https://www.zhihu.com/search?q=诺贝尔文学奖公布)
+1. [梅西确认最后一次参加世界杯](https://www.zhihu.com/search?q=梅西确认最后一次参加世界杯)
 
 <!-- END -->
 
