@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 28 2022 16:24:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 28 2022 17:17:52 GMT+0800 (China Standard Time) -->
 
 1. [天将降大任于是人还是斯人](https://www.zhihu.com/search?q=天将降大任于是人还是斯人)
 1. [如何看待「招弟」们改名](https://www.zhihu.com/search?q=如何看待「招弟」们改名)
