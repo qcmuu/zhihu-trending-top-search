@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 11 2022 21:41:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 11 2022 22:15:58 GMT+0800 (China Standard Time) -->
 
 1. [孩子被同学打伤家长上门掌掴 5 岁幼儿](https://www.zhihu.com/search?q=孩子被同学打伤家长上门掌掴 5 岁幼儿)
 1. [全球人口将达 80 亿](https://www.zhihu.com/search?q=全球人口将达 80 亿)
