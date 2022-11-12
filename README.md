@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 12 2022 11:21:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 12 2022 12:27:16 GMT+0800 (China Standard Time) -->
 
 1. [入境人员阳性判定标准为核酸检测 Ct 值](https://www.zhihu.com/search?q=入境人员阳性判定标准为核酸检测 Ct 值)
 1. [密接者管理调为「5+3」](https://www.zhihu.com/search?q=密接者管理调为「5+3」)
