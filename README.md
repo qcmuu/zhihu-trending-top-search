@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 28 2022 17:14:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 28 2022 18:15:45 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
-1. [兰州通报核酸采样人员阳性](https://www.zhihu.com/search?q=兰州通报核酸采样人员阳性)
-1. [大理寺日志第二季开播](https://www.zhihu.com/search?q=大理寺日志第二季开播)
-1. [日本 0:1 不敌哥斯达黎加](https://www.zhihu.com/search?q=日本 0:1 不敌哥斯达黎加)
 1. [赵丽颖新剧开播](https://www.zhihu.com/search?q=赵丽颖新剧开播)
 1. [比利时爆冷 0:2 不敌摩洛哥](https://www.zhihu.com/search?q=比利时爆冷 0:2 不敌摩洛哥)
 1. [广州海珠近万人有疏解意愿](https://www.zhihu.com/search?q=广州海珠近万人有疏解意愿)
 1. [深圳一公司今年成立 16 家核酸机构](https://www.zhihu.com/search?q=深圳一公司今年成立 16 家核酸机构)
 1. [百面千相实机演示](https://www.zhihu.com/search?q=百面千相实机演示)
 1. [国考延期](https://www.zhihu.com/search?q=国考延期)
+1. [李铁被曝「从武汉俱乐部拿了 4800 万」](https://www.zhihu.com/search?q=李铁被曝「从武汉俱乐部拿了 4800 万」)
+1. [兰州气象局回应网友拍到不明发光体](https://www.zhihu.com/search?q=兰州气象局回应网友拍到不明发光体)
+1. [兰州通报核酸采样人员阳性](https://www.zhihu.com/search?q=兰州通报核酸采样人员阳性)
+1. [大理寺日志第二季开播](https://www.zhihu.com/search?q=大理寺日志第二季开播)
+1. [日本 0:1 不敌哥斯达黎加](https://www.zhihu.com/search?q=日本 0:1 不敌哥斯达黎加)
 1. [李铁被曝仅一家银行的存款就超 1 亿](https://www.zhihu.com/search?q=李铁被曝仅一家银行的存款就超 1 亿)
 1. [奥特曼可查询核酸结果？郑州回应](https://www.zhihu.com/search?q=奥特曼可查询核酸结果？郑州回应)
 1. [官方通报甘肃一医院耽误患者治疗时机](https://www.zhihu.com/search?q=官方通报甘肃一医院耽误患者治疗时机)
