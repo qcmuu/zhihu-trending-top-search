@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 08 2022 09:06:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 08 2022 10:42:28 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [官方：无症状和轻症可居家隔离](https://www.zhihu.com/search?q=官方：无症状和轻症可居家隔离)
@@ -24,6 +24,8 @@
 1. [专家称新冠肺炎应更改名称](https://www.zhihu.com/search?q=专家称新冠肺炎应更改名称)
 1. [核酸结果没出就是「阳」？检测机构回应](https://www.zhihu.com/search?q=核酸结果没出就是「阳」？检测机构回应)
 1. [多地核酸检测采购项目宣告终止](https://www.zhihu.com/search?q=多地核酸检测采购项目宣告终止)
+1. [多地政府组织企业出海抢抓订单](https://www.zhihu.com/search?q=多地政府组织企业出海抢抓订单)
+1. [张文宏团队称阳性后99.5%的人不必去医院](https://www.zhihu.com/search?q=张文宏团队称阳性后99.5%的人不必去医院)
 1. [大雪](https://www.zhihu.com/search?q=大雪)
 1. [西班牙点球大战遭摩洛哥淘汰](https://www.zhihu.com/search?q=西班牙点球大战遭摩洛哥淘汰)
 
