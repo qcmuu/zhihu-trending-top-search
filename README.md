@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 09 2022 07:14:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 09 2022 09:08:48 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
-1. [多地核酸检测采购项目宣告终止](https://www.zhihu.com/search?q=多地核酸检测采购项目宣告终止)
 1. [多地政府组织企业出海抢抓订单](https://www.zhihu.com/search?q=多地政府组织企业出海抢抓订单)
 1. [张文宏团队称阳性后99.5%的人不必去医院](https://www.zhihu.com/search?q=张文宏团队称阳性后99.5%的人不必去医院)
 1. [默克尔接受德媒采访谈俄乌危机](https://www.zhihu.com/search?q=默克尔接受德媒采访谈俄乌危机)
@@ -26,6 +25,8 @@
 1. [专家：感染新冠这五种情况需就医](https://www.zhihu.com/search?q=专家：感染新冠这五种情况需就医)
 1. [多国与新冠的共存之路](https://www.zhihu.com/search?q=多国与新冠的共存之路)
 1. [杞县官方通报女孩举报失联事件](https://www.zhihu.com/search?q=杞县官方通报女孩举报失联事件)
+1. [2023 全年放假安排公布](https://www.zhihu.com/search?q=2023 全年放假安排公布)
+1. [多地核酸检测采购项目宣告终止](https://www.zhihu.com/search?q=多地核酸检测采购项目宣告终止)
 
 <!-- END -->
 
