@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 10 2022 16:16:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 10 2022 17:11:57 GMT+0800 (China Standard Time) -->
 
 1. [克罗地亚点球大战淘汰巴西](https://www.zhihu.com/search?q=克罗地亚点球大战淘汰巴西)
 1. [阿根廷点球大战淘汰荷兰](https://www.zhihu.com/search?q=阿根廷点球大战淘汰荷兰)
@@ -25,6 +25,7 @@
 1. [黎智英被判监禁 5 年 9 个月](https://www.zhihu.com/search?q=黎智英被判监禁 5 年 9 个月)
 1. [N95 口罩搜索热度增长 715%](https://www.zhihu.com/search?q=N95 口罩搜索热度增长 715%)
 1. [一人之下第五季开播](https://www.zhihu.com/search?q=一人之下第五季开播)
+1. [年轻人阳性了可以不吃药吗？](https://www.zhihu.com/search?q=年轻人阳性了可以不吃药吗？)
 1. [官方：把方舱医院改造成亚定点医院](https://www.zhihu.com/search?q=官方：把方舱医院改造成亚定点医院)
 1. [今后所有医疗机构都要接诊新冠阳性患者](https://www.zhihu.com/search?q=今后所有医疗机构都要接诊新冠阳性患者)
 1. [钟南山回应新冠后遗症](https://www.zhihu.com/search?q=钟南山回应新冠后遗症)
