@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 11 2022 07:13:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 11 2022 09:12:58 GMT+0800 (China Standard Time) -->
 
 1. [英语四六级考试](https://www.zhihu.com/search?q=英语四六级考试)
 1. [法国淘汰英格兰晋级 4 强](https://www.zhihu.com/search?q=法国淘汰英格兰晋级 4 强)
@@ -24,6 +24,7 @@
 1. [国产动画三体开播](https://www.zhihu.com/search?q=国产动画三体开播)
 1. [年轻人阳性了可以不吃药吗？](https://www.zhihu.com/search?q=年轻人阳性了可以不吃药吗？)
 1. [黄桃罐头能缓解新冠症状吗？](https://www.zhihu.com/search?q=黄桃罐头能缓解新冠症状吗？)
+1. [钟南山：今年倡导就地过年的可能性很小](https://www.zhihu.com/search?q=钟南山：今年倡导就地过年的可能性很小)
 1. [阿根廷点球大战淘汰荷兰](https://www.zhihu.com/search?q=阿根廷点球大战淘汰荷兰)
 1. [英格兰 vs 法国](https://www.zhihu.com/search?q=英格兰 vs 法国)
 1. [克罗地亚点球大战淘汰巴西](https://www.zhihu.com/search?q=克罗地亚点球大战淘汰巴西)
