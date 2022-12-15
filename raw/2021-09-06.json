@@ -20,6 +20,9 @@
   { "query": "大学生领证", "display_query": "大学生领证 1 小时闹离婚" },
   { "query": "几内亚", "display_query": "几内亚发生军事政变" },
   { "query": "雷军 小米股票", "display_query": "雷军转出 3 亿股小米股票" },
-  { "query": "博士捐出全部存款", "display_query": "25 岁博士设遗嘱捐出全部存款" },
+  {
+    "query": "博士捐出全部存款",
+    "display_query": "25 岁博士设遗嘱捐出全部存款"
+  },
   { "query": "微信 云储存", "display_query": "微信聊天记录付费云存储" }
 ]

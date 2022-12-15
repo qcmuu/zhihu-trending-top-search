@@ -14,7 +14,10 @@
   { "query": "五月天", "display_query": "五月天跨年演唱会" },
   { "query": "湖人", "display_query": "詹姆斯 43 分湖人胜开拓者" },
   { "query": "RCEP", "display_query": "RCEP 正式生效" },
-  { "query": "中国人造太阳", "display_query": "中国「人造太阳」运行时间破千秒" },
+  {
+    "query": "中国人造太阳",
+    "display_query": "中国「人造太阳」运行时间破千秒"
+  },
   { "query": "幻塔", "display_query": "幻塔 PV 疑似抄袭" },
   { "query": "TST成本", "display_query": "TST 百元化妆品成本仅 4 元" },
   { "query": "天问一号", "display_query": "天问一号从火星发回照片" },

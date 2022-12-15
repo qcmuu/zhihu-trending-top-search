@@ -23,7 +23,10 @@
   { "query": "燃气爆炸", "display_query": "丹东燃气爆炸已致 1 死 2 伤" },
   { "query": "台积电N3芯片", "display_query": "台积电试生产 3nm 芯片" },
   { "query": "滴滴", "display_query": "滴滴退市" },
-  { "query": "图书馆停电30秒原文", "display_query": "「图书馆停电许愿 30 秒」" },
+  {
+    "query": "图书馆停电30秒原文",
+    "display_query": "「图书馆停电许愿 30 秒」"
+  },
   { "query": "冬奥会开幕", "display_query": "冬奥会计划 2 月 4 日开幕 " },
   { "query": "国王排名", "display_query": "国王排名第八集" },
   { "query": "一人之下4", "display_query": "一人之下 4 大结局" },

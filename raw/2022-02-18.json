@@ -30,6 +30,9 @@
   { "query": "伊甸启示录", "display_query": "莉莉丝《伊甸启示录》被砍" },
   { "query": "内蒙古新增", "display_query": "内蒙古 3 例核酸阳性" },
   { "query": "江歌案", "display_query": "江歌母亲诉刘鑫案二审开庭" },
-  { "query": "浙江省创业贷款", "display_query": "浙江省将为大学生提供创业贷款" },
+  {
+    "query": "浙江省创业贷款",
+    "display_query": "浙江省将为大学生提供创业贷款"
+  },
   { "query": "索尼耳塞", "display_query": "索尼 Linkbuds 真无线耳机" }
 ]

@@ -24,7 +24,10 @@
   { "query": "马斯克", "display_query": "马斯克面临百亿天价税单" },
   { "query": "新东方", "display_query": "新东方计划成立农业平台" },
   { "query": "神十三出舱", "display_query": "神十三航天员首次出舱" },
-  { "query": "郑州疫情", "display_query": "郑州通报 12 例感染者轨迹 9 名为儿童" },
+  {
+    "query": "郑州疫情",
+    "display_query": "郑州通报 12 例感染者轨迹 9 名为儿童"
+  },
   { "query": "马斯克", "display_query": "马斯克发投票是否出售特斯拉股票" },
   { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画开播" },
   { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },

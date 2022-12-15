@@ -1,6 +1,9 @@
 [
   { "query": "俄乌冲突", "display_query": "俄乌冲突最新进展" },
-  { "query": "俄罗斯乌克兰", "display_query": "俄罗斯战略威慑力量转入特殊战备状态" },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "俄罗斯战略威慑力量转入特殊战备状态"
+  },
   { "query": "俄罗斯乌克兰", "display_query": "俄乌会谈即将开始" },
   { "query": "香港疫情", "display_query": "香港新增确诊病例约 34466 例" },
   { "query": "中国移动没信号", "display_query": "中国移动出现短暂的无信号" },
@@ -16,10 +19,16 @@
   { "query": "前进四", "display_query": "前进四实时更新乌克兰进展" },
   { "query": "香港疫情", "display_query": "香港新增确诊 34466 例" },
   { "query": "乌克兰难民", "display_query": "2.9 万乌克兰难民涌入波兰" },
-  { "query": "香港疫情", "display_query": "香港今日新增新冠肺炎确诊病例 26026 例" },
+  {
+    "query": "香港疫情",
+    "display_query": "香港今日新增新冠肺炎确诊病例 26026 例"
+  },
   { "query": "宝可梦", "display_query": "宝可梦新作《朱 / 紫》" },
   { "query": "勇士", "display_query": "库里 27+10 勇士负独行侠" },
-  { "query": "陆地探测一号", "display_query": "我国成功发射陆地探测一号 01 组 B 星" },
+  {
+    "query": "陆地探测一号",
+    "display_query": "我国成功发射陆地探测一号 01 组 B 星"
+  },
   { "query": "俄乌冲突", "display_query": "俄乌冲突有哪些最新进展需要关注" },
   { "query": "哈登", "display_query": "哈登首秀 27+8+12" },
   { "query": "篮网", "display_query": "欧文 38 分篮网胜雄鹿" },

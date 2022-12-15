@@ -21,7 +21,10 @@
   { "query": "幻塔", "display_query": "幻塔免费送五星" },
   { "query": "湖人", "display_query": "詹威均三双湖人胜火箭" },
   { "query": "年度反腐热词", "display_query": "2021 年度十大反腐热词" },
-  { "query": "微信网页版文件传输", "display_query": "微信「网页版文件传输助手」" },
+  {
+    "query": "微信网页版文件传输",
+    "display_query": "微信「网页版文件传输助手」"
+  },
   { "query": "网易云音乐", "display_query": "2021 网易云音乐听歌报告" },
   { "query": "GimGoon", "display_query": "S9 世界冠军选手退役" },
   { "query": "九价代抢", "display_query": "九价疫苗代抢月入数万" },

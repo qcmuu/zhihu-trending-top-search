@@ -24,7 +24,10 @@
   { "query": "基金亏损", "display_query": "调查称 2021 年 53% 基民亏损" },
   { "query": "勇士", "display_query": "威金斯 21 分勇士负鹈鹕" },
   { "query": "家庭教育令", "display_query": "全国首份《家庭教育令》" },
-  { "query": "数字音乐平台", "display_query": "数字音乐平台不得签署独家版权协议" },
+  {
+    "query": "数字音乐平台",
+    "display_query": "数字音乐平台不得签署独家版权协议"
+  },
   { "query": "小红书崩了", "display_query": "小红书崩了" },
   { "query": "篮网", "display_query": "杜兰特 29 分篮网负雄鹿" },
   { "query": "数字人民币", "display_query": "微信支持数字人民币支付" },

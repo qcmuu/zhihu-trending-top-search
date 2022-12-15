@@ -6,7 +6,10 @@
   { "query": "李佳琦销售额", "display_query": "李佳琦销售额破百亿" },
   { "query": "双十一", "display_query": "双十一攻略" },
   { "query": "小红书", "display_query": "小红书种草笔记 4 元一篇" },
-  { "query": "哈利波特魔法觉醒", "display_query": "哈利波特手游「乌姆里奇」服装" },
+  {
+    "query": "哈利波特魔法觉醒",
+    "display_query": "哈利波特手游「乌姆里奇」服装"
+  },
   { "query": "腾讯", "display_query": "腾讯成立 3A 工作室" },
   { "query": "乌合麒麟", "display_query": "乌合麒麟新作" },
   { "query": "长津湖票房", "display_query": "长津湖票房破 50 亿" },
