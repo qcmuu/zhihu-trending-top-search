@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 16 2022 10:31:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 16 2022 11:13:49 GMT+0800 (China Standard Time) -->
 
 1. [男子开钻机疯狂破坏致1死](https://www.zhihu.com/search?q=男子开钻机疯狂破坏致1死)
 1. [新冠印度仿制药被卖到一盒上千元](https://www.zhihu.com/search?q=新冠印度仿制药被卖到一盒上千元)
