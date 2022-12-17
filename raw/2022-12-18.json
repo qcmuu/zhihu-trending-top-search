@@ -1,5 +1,4 @@
 [
-  { "query": "克罗地亚 vs 摩洛哥", "display_query": "克罗地亚 vs 摩洛哥" },
   {
     "query": "全国多地将现同期少见低温",
     "display_query": "全国多地将现同期少见低温"
@@ -11,5 +10,6 @@
   {
     "query": "国药集团：未代理辉瑞新冠治疗药物",
     "display_query": "国药集团：未代理辉瑞新冠治疗药物"
-  }
+  },
+  { "query": "克罗地亚 vs 摩洛哥", "display_query": "克罗地亚 vs 摩洛哥" }
 ]
