@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 19 2022 09:01:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 19 2022 10:30:45 GMT+0800 (China Standard Time) -->
 
 1. [苏州部分核酸亭改为发热诊疗站](https://www.zhihu.com/search?q=苏州部分核酸亭改为发热诊疗站)
 1. [四川启动居民新冠病毒感染问卷调查](https://www.zhihu.com/search?q=四川启动居民新冠病毒感染问卷调查)
