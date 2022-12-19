@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 19 2022 16:16:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 19 2022 17:13:01 GMT+0800 (China Standard Time) -->
 
-1. [台积电总裁首度回应赴日设厂](https://www.zhihu.com/search?q=台积电总裁首度回应赴日设厂)
 1. [男子自称感染「哭株」全国罕见](https://www.zhihu.com/search?q=男子自称感染「哭株」全国罕见)
 1. [大理寺日志第二季第五集](https://www.zhihu.com/search?q=大理寺日志第二季第五集)
 1. [多地医院报告医护「减员严重」](https://www.zhihu.com/search?q=多地医院报告医护「减员严重」)
@@ -27,6 +26,8 @@
 1. [阳过后的生活用品不用更换](https://www.zhihu.com/search?q=阳过后的生活用品不用更换)
 1. [研究称「锻炼越多得了新冠症状越轻」](https://www.zhihu.com/search?q=研究称「锻炼越多得了新冠症状越轻」)
 1. [退烧药紧缺有望元旦前缓解](https://www.zhihu.com/search?q=退烧药紧缺有望元旦前缓解)
+1. [专家称阳性期间「身上痒」可能是过敏](https://www.zhihu.com/search?q=专家称阳性期间「身上痒」可能是过敏)
+1. [台积电总裁首度回应赴日设厂](https://www.zhihu.com/search?q=台积电总裁首度回应赴日设厂)
 1. [作家西西去世](https://www.zhihu.com/search?q=作家西西去世)
 1. [苏州部分核酸亭改为发热诊疗站](https://www.zhihu.com/search?q=苏州部分核酸亭改为发热诊疗站)
 1. [四川启动居民新冠病毒感染问卷调查](https://www.zhihu.com/search?q=四川启动居民新冠病毒感染问卷调查)
