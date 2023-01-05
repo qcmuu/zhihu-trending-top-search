@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 05 2023 12:16:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 05 2023 13:12:02 GMT+0800 (China Standard Time) -->
 
 1. [XBB 毒株会引发第二轮感染吗？](https://www.zhihu.com/search?q=XBB
    毒株会引发第二轮感染吗？)
