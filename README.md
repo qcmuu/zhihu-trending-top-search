@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 05 2023 22:12:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 05 2023 23:14:47 GMT+0800 (China Standard Time) -->
 
-1. [新冠「乙类乙管」后医保报销新政将出](https://www.zhihu.com/search?q=新冠「乙类乙管」后医保报销新政将出)
 1. [欧盟建议各国要求自中国入境者提供核酸](https://www.zhihu.com/search?q=欧盟建议各国要求自中国入境者提供核酸)
 1. [国产 ECMO 产品获批上市](https://www.zhihu.com/search?q=国产 ECMO
    产品获批上市)
@@ -25,6 +24,7 @@
    中方回应](https://www.zhihu.com/search?q=韩国会副议长等窜台 中方回应)
 1. [我国 ECMO 产品获批上市](https://www.zhihu.com/search?q=我国 ECMO
    产品获批上市)
+1. [新冠「乙类乙管」后医保报销新政将出](https://www.zhihu.com/search?q=新冠「乙类乙管」后医保报销新政将出)
 1. [XBB 毒株会引发第二轮感染吗？](https://www.zhihu.com/search?q=XBB
    毒株会引发第二轮感染吗？)
 1. [中国航母编队首次抵近关岛](https://www.zhihu.com/search?q=中国航母编队首次抵近关岛)
