@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 06 2023 12:15:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 06 2023 13:12:00 GMT+0800 (China Standard Time) -->
 
 1. [韩国会副议长等窜台
    中方回应](https://www.zhihu.com/search?q=韩国会副议长等窜台 中方回应)
