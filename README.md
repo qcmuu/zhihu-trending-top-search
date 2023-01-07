@@ -15,9 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 07 2023 10:35:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 07 2023 11:13:46 GMT+0800 (China Standard Time) -->
 
 1. [第十版新冠诊疗方案](https://www.zhihu.com/search?q=第十版新冠诊疗方案)
+1. [涉疫刑案办理调整：这些人解除羁押](https://www.zhihu.com/search?q=涉疫刑案办理调整：这些人解除羁押)
+1. [警方通报胡某宇失踪事件调查进展](https://www.zhihu.com/search?q=警方通报胡某宇失踪事件调查进展)
 
 <!-- END -->
 
