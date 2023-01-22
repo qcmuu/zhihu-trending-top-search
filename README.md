@@ -15,9 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 22 2023 07:12:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 22 2023 09:09:24 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
+1. [《流浪地球 2》春节档首日夺冠](https://www.zhihu.com/search?q=《流浪地球
+   2》春节档首日夺冠)
 
 <!-- END -->
 
