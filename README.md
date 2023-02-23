@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 24 2023 04:14:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 24 2023 05:12:18 GMT+0800 (China Standard Time) -->
 
 1. [塔吉克斯坦发生 7.2 级地震](https://www.zhihu.com/search?q=塔吉克斯坦发生 7.2
    级地震)
