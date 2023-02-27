@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 27 2023 18:15:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 27 2023 19:11:37 GMT+0800 (China Standard Time) -->
 
 1. [仅 6.1% 应届本科生起薪过万](https://www.zhihu.com/search?q=仅 6.1%
    应届本科生起薪过万)
