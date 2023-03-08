@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 08 2023 17:13:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 08 2023 18:15:14 GMT+0800 (China Standard Time) -->
 
 1. [人民网评鸡你太美是恶俗烂梗](https://www.zhihu.com/search?q=人民网评鸡你太美是恶俗烂梗)
 1. [TES 0:2 不敌 LNG](https://www.zhihu.com/search?q=TES 0:2 不敌 LNG)
