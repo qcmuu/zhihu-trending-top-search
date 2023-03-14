@@ -19,5 +19,6 @@
   {
     "query": "\t瑞信自曝财报程序「重大缺陷」",
     "display_query": "\t瑞信自曝财报程序「重大缺陷」"
-  }
+  },
+  { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" }
 ]
