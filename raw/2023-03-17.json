@@ -1,5 +1,4 @@
 [
-  { "query": "利比亚数吨铀失踪", "display_query": "利比亚数吨铀失踪" },
   {
     "query": "GPT4 全面植入 Office 办公软件",
     "display_query": "GPT4 全面植入 Office 办公软件"
@@ -30,6 +29,11 @@
     "query": "日媒：日本东京湾出现石油泄漏",
     "display_query": "日媒：日本东京湾出现石油泄漏"
   },
+  {
+    "query": "国内成品油迎来年内第二跌",
+    "display_query": "国内成品油迎来年内第二跌"
+  },
+  { "query": "利比亚数吨铀失踪", "display_query": "利比亚数吨铀失踪" },
   { "query": "多国鸡蛋供应紧张", "display_query": "多国鸡蛋供应紧张" },
   {
     "query": "蜜雪冰城食材频改标签过期继续用",
