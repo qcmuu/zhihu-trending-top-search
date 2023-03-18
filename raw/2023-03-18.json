@@ -1,5 +1,4 @@
 [
-  { "query": "中国低龄老人 1.5 亿", "display_query": "中国低龄老人 1.5 亿" },
   {
     "query": "女神异闻录首款手游公布",
     "display_query": "女神异闻录首款手游公布"
@@ -33,6 +32,8 @@
     "query": "央行降低存款准备金率 0.25 个百分点",
     "display_query": "央行降低存款准备金率 0.25 个百分点"
   },
+  { "query": "姜广涛涉嫌刑事犯罪", "display_query": "姜广涛涉嫌刑事犯罪" },
+  { "query": "中国低龄老人 1.5 亿", "display_query": "中国低龄老人 1.5 亿" },
   {
     "query": "GPT4 全面植入 Office 办公软件",
     "display_query": "GPT4 全面植入 Office 办公软件"
