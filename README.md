@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 07 2023 08:57:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 07 2023 10:00:33 GMT+0800 (China Standard Time) -->
 
 1. [首例室温氢负离子导体](https://www.zhihu.com/search?q=首例室温氢负离子导体)
 1. [沙伊两国恢复外交关系](https://www.zhihu.com/search?q=沙伊两国恢复外交关系)
