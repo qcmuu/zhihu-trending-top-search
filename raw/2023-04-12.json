@@ -9,5 +9,13 @@
   },
   { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
   { "query": "沙尘暴蓝色预警", "display_query": "沙尘暴蓝色预警" },
+  {
+    "query": "专家称「子女是长周期的耐用消费品」",
+    "display_query": "专家称「子女是长周期的耐用消费品」"
+  },
+  {
+    "query": "马斯克被曝买 1 万个 GPU 筹备 AI 项目",
+    "display_query": "马斯克被曝买 1 万个 GPU 筹备 AI 项目"
+  },
   { "query": "沙尘天气", "display_query": "沙尘天气" }
 ]
