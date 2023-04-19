@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 19 2023 12:14:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 19 2023 13:11:44 GMT+0800 (China Standard Time) -->
 
 1. [全球最贵纯电动车来了](https://www.zhihu.com/search?q=全球最贵纯电动车来了)
 1. [新冠新变种 Arcturus 传入国内](https://www.zhihu.com/search?q=新冠新变种
    Arcturus 传入国内)
 1. [游戏实体碟遭恶意退款](https://www.zhihu.com/search?q=游戏实体碟遭恶意退款)
+1. [郑渊洁称不再发表作品](https://www.zhihu.com/search?q=郑渊洁称不再发表作品)
 1. [中国连续第 7 个月减持美国债](https://www.zhihu.com/search?q=中国连续第 7
    个月减持美国债)
 1. [金山宣布推出 WPS AI](https://www.zhihu.com/search?q=金山宣布推出 WPS AI)
