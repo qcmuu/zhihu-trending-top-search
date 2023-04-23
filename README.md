@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 23 2023 17:10:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 23 2023 19:09:15 GMT+0800 (China Standard Time) -->
 
+1. [2023世界读书日](https://www.zhihu.com/search?q=2023世界读书日)
 1. [漫长的季节开播](https://www.zhihu.com/search?q=漫长的季节开播)
 1. [瑞幸 罚抄](https://www.zhihu.com/search?q=瑞幸 罚抄)
 1. [深圳二手房参考价或与房贷解绑](https://www.zhihu.com/search?q=深圳二手房参考价或与房贷解绑)
