@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 25 2023 07:11:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 25 2023 09:02:56 GMT+0800 (China Standard Time) -->
 
 1. [中国绘制火星全球影像图首次发布](https://www.zhihu.com/search?q=中国绘制火星全球影像图首次发布)
 1. [人文季](https://www.zhihu.com/search?q=人文季)
