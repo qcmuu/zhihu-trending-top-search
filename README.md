@@ -15,8 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 29 2023 09:00:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 29 2023 10:28:00 GMT+0800 (China Standard Time) -->
 
+1. [今年「五一」假期你去哪儿了？](https://www.zhihu.com/search?q=今年「五一」假期你去哪儿了？)
+1. [国铁 29 日预计发送旅客 1950 万人次](https://www.zhihu.com/search?q=国铁 29
+   日预计发送旅客 1950 万人次)
 1. [一人之下漫画 621 话](https://www.zhihu.com/search?q=一人之下漫画 621 话)
 
 <!-- END -->
