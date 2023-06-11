@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 11 2023 20:21:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 11 2023 21:13:00 GMT+0800 (China Standard Time) -->
 
 1. [杨立昆表示类 GPT
    主流路线存在局限](https://www.zhihu.com/search?q=杨立昆表示类 GPT
