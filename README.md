@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 16 2023 03:09:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 16 2023 04:12:17 GMT+0800 (China Standard Time) -->
 
 1. [美联储连续加息 10 次后暂停](https://www.zhihu.com/search?q=美联储连续加息 10
    次后暂停)
