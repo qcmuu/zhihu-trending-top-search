@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 30 2023 13:10:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 30 2023 14:13:46 GMT+0800 (China Standard Time) -->
 
 1. [舞台 2023 ](https://www.zhihu.com/search?q=舞台 2023 )
 1. [「卡努」强度逐渐增强](https://www.zhihu.com/search?q=「卡努」强度逐渐增强)
+1. [对抗上级后为何主动离职？](https://www.zhihu.com/search?q=对抗上级后为何主动离职？)
 1. [证监会回应离婚「绕道减持」](https://www.zhihu.com/search?q=证监会回应离婚「绕道减持」)
 1. [暴雨橙色预警](https://www.zhihu.com/search?q=暴雨橙色预警)
 
