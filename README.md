@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 25 2023 11:11:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 25 2023 12:13:51 GMT+0800 (China Standard Time) -->
 
 1. [医生暗示你的话你听懂了吗](https://www.zhihu.com/search?q=医生暗示你的话你听懂了吗)
 1. [日本核污染水已进入大海](https://www.zhihu.com/search?q=日本核污染水已进入大海)
@@ -23,6 +23,8 @@
 1. [金砖国家宣布扩员](https://www.zhihu.com/search?q=金砖国家宣布扩员)
 1. [有必要囤盐吗](https://www.zhihu.com/search?q=有必要囤盐吗)
 1. [《中国好声音》停播](https://www.zhihu.com/search?q=《中国好声音》停播)
+1. [荒野 2 生存法则](https://www.zhihu.com/search?q=荒野 2 生存法则)
+1. [你被社会催熟了吗](https://www.zhihu.com/search?q=你被社会催熟了吗)
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [人一定要成熟吗](https://www.zhihu.com/search?q=人一定要成熟吗)
 1. [荒野2：反成熟规训](https://www.zhihu.com/search?q=荒野2：反成熟规训)
