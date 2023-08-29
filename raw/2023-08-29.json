@@ -3,9 +3,12 @@
     "query": "假如福尔摩斯来到霍格沃茨",
     "display_query": "假如福尔摩斯来到霍格沃茨"
   },
+  {
+    "query": "报道称经营贷又「降息」",
+    "display_query": "报道称经营贷又「降息」"
+  },
   { "query": "日式餐厅何去何从", "display_query": "日式餐厅何去何从" },
   { "query": "典型的东北家庭氛围", "display_query": "典型的东北家庭氛围" },
-  { "query": "马斯克直播自动驾驶", "display_query": "马斯克直播自动驾驶" },
   {
     "query": "老板暗示你下班走的太早了",
     "display_query": "老板暗示你下班走的太早了"
@@ -21,6 +24,7 @@
     "display_query": "招商银行 存量房贷利率"
   },
   { "query": "A 股", "display_query": "A 股" },
+  { "query": "马斯克直播自动驾驶", "display_query": "马斯克直播自动驾驶" },
   {
     "query": "大学生暑假打工「陷阱」",
     "display_query": "大学生暑假打工「陷阱」"
