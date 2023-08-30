@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 30 2023 07:10:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 30 2023 08:52:35 GMT+0800 (China Standard Time) -->
 
 1. [假如福尔摩斯来到霍格沃茨](https://www.zhihu.com/search?q=假如福尔摩斯来到霍格沃茨)
+1. [易建联宣布退役](https://www.zhihu.com/search?q=易建联宣布退役)
 1. [医生暗示你的话你听懂了吗](https://www.zhihu.com/search?q=医生暗示你的话你听懂了吗)
 1. [日式餐厅何去何从](https://www.zhihu.com/search?q=日式餐厅何去何从)
 1. [典型的东北家庭氛围](https://www.zhihu.com/search?q=典型的东北家庭氛围)
