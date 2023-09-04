@@ -1,6 +1,10 @@
 [
   { "query": "华为 Mate 60 Pro", "display_query": "华为 Mate 60 Pro" },
   { "query": "命运的齿轮开始倒转", "display_query": "命运的齿轮开始倒转" },
+  {
+    "query": "如何评价瑞幸「酱香拿铁」",
+    "display_query": "如何评价瑞幸「酱香拿铁」"
+  },
   { "query": "中药材价格「狂飙」", "display_query": "中药材价格「狂飙」" },
   { "query": "上海「认房不认贷」", "display_query": "上海「认房不认贷」" },
   { "query": "港深两地通勤", "display_query": "港深两地通勤" },
