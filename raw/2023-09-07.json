@@ -15,9 +15,13 @@
     "query": "日本「京都动画」纵火案首次开庭",
     "display_query": "日本「京都动画」纵火案首次开庭"
   },
-  { "query": "荒野 2 职场动物", "display_query": "荒野 2 职场动物" },
   { "query": "荒野 2 情绪赤字", "display_query": "荒野 2 情绪赤字" },
   { "query": "你是哪种「职场动物」", "display_query": "你是哪种「职场动物」" },
+  {
+    "query": "哪一刻你觉得家里宠物成精了",
+    "display_query": "哪一刻你觉得家里宠物成精了"
+  },
+  { "query": "荒野 2 职场动物", "display_query": "荒野 2 职场动物" },
   { "query": "国乒男团夺亚锦赛冠军", "display_query": "国乒男团夺亚锦赛冠军" },
   { "query": "ChatGPT 课堂使用指南", "display_query": "ChatGPT 课堂使用指南" },
   { "query": "奥本海默", "display_query": "奥本海默" },
