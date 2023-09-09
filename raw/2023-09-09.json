@@ -1,5 +1,4 @@
 [
-  { "query": "职场讨坏型人格", "display_query": "职场讨坏型人格" },
   { "query": "负罪感健身", "display_query": "负罪感健身" },
   { "query": "一个租房小建议", "display_query": "一个租房小建议" },
   {
@@ -15,6 +14,8 @@
     "query": "8 月新增 501 例猴痘病例",
     "display_query": "8 月新增 501 例猴痘病例"
   },
+  { "query": "苹果市值蒸发万亿", "display_query": "苹果市值蒸发万亿" },
+  { "query": "职场讨坏型人格", "display_query": "职场讨坏型人格" },
   {
     "query": "华为Mate 60 Pro出货量",
     "display_query": "华为Mate 60 Pro出货量"
