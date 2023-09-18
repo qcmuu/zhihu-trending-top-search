@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 18 2023 15:11:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 18 2023 16:15:34 GMT+0800 (China Standard Time) -->
 
 1. [苹果官网崩了](https://www.zhihu.com/search?q=苹果官网崩了)
 1. [空气净化器怎么选](https://www.zhihu.com/search?q=空气净化器怎么选)
