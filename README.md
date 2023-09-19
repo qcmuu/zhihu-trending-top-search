@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 19 2023 10:19:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 19 2023 11:12:12 GMT+0800 (China Standard Time) -->
 
+1. [华为 MatePad Pro](https://www.zhihu.com/search?q=华为 MatePad Pro)
 1. [苹果官网崩了](https://www.zhihu.com/search?q=苹果官网崩了)
 1. [为什么双机党多](https://www.zhihu.com/search?q=为什么双机党多)
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=选安卓还是苹果)
