@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 06 2023 09:49:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 06 2023 10:19:11 GMT+0800 (China Standard Time) -->
 
 1. [mate60pro值得买吗](https://www.zhihu.com/search?q=mate60pro值得买吗)
 1. [无线耳机](https://www.zhihu.com/search?q=无线耳机)
