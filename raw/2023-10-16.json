@@ -1,4 +1,5 @@
 [
+  { "query": "法考备考攻略", "display_query": "法考备考攻略" },
   { "query": "选安卓还是苹果", "display_query": "选安卓还是苹果" },
   { "query": "为什么选安卓", "display_query": "为什么选安卓" },
   {
@@ -11,6 +12,5 @@
   { "query": "华为matepad", "display_query": "华为matepad" },
   { "query": "为什么苹果信号差", "display_query": "为什么苹果信号差" },
   { "query": "考研需要买平板吗", "display_query": "考研需要买平板吗" },
-  { "query": "台式机diy", "display_query": "台式机diy" },
-  { "query": "法考备考攻略", "display_query": "法考备考攻略" }
+  { "query": "台式机diy", "display_query": "台式机diy" }
 ]
