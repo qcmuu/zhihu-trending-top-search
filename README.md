@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 18 2023 17:12:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 18 2023 18:12:42 GMT+0800 (China Standard Time) -->
 
 1. [法考备考攻略](https://www.zhihu.com/search?q=法考备考攻略)
 1. [Red Velvet](https://www.zhihu.com/search?q=Red Velvet)
