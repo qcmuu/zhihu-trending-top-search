@@ -1,16 +1,18 @@
 [
   { "query": "双十一手机推荐", "display_query": "双十一手机推荐" },
+  { "query": "2023 按摩椅推荐", "display_query": "2023 按摩椅推荐" },
   { "query": "嵌入式冰箱推荐", "display_query": "嵌入式冰箱推荐" },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "智能手表推荐", "display_query": "智能手表推荐" },
-  { "query": "2023洗地机推荐", "display_query": "2023洗地机推荐" },
   { "query": "平板电脑推荐", "display_query": "平板电脑推荐" },
   {
     "query": "以色列正式向哈马斯宣战",
     "display_query": "以色列正式向哈马斯宣战"
   },
   { "query": "秋招环境更差", "display_query": "秋招环境更差" },
+  { "query": "2023 智能马桶推荐", "display_query": "2023 智能马桶推荐" },
   { "query": "国考备考经验", "display_query": "国考备考经验" },
+  { "query": "2023洗地机推荐", "display_query": "2023洗地机推荐" },
   {
     "query": "买高铁票时可以选静音车厢",
     "display_query": "买高铁票时可以选静音车厢"
