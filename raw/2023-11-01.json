@@ -7,6 +7,8 @@
     "query": "美联储本周维持利率不变",
     "display_query": "美联储本周维持利率不变"
   },
+  { "query": "以色列", "display_query": "以色列" },
+  { "query": "今日a股放量成交", "display_query": "今日a股放量成交" },
   { "query": "考研流程详解", "display_query": "考研流程详解" },
   { "query": "国考备考经验", "display_query": "国考备考经验" },
   {
