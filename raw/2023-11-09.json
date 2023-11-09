@@ -1,4 +1,26 @@
 [
+  {
+    "query": "刘媛媛直播带货被控虚假宣传",
+    "display_query": "刘媛媛直播带货被控虚假宣传"
+  },
+  { "query": "无期迷途 删角色", "display_query": "无期迷途 删角色" },
+  { "query": "刘亦菲张靓颖合照", "display_query": "刘亦菲张靓颖合照" },
+  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
+  {
+    "query": "网红仲尼系生日当天溺亡",
+    "display_query": "网红仲尼系生日当天溺亡"
+  },
+  {
+    "query": "媒体：中山二院患癌事件不寻常",
+    "display_query": "媒体：中山二院患癌事件不寻常"
+  },
+  { "query": "瑞幸 罗翔", "display_query": "瑞幸 罗翔" },
+  {
+    "query": "中山二院黄某家属称其病情严重",
+    "display_query": "中山二院黄某家属称其病情严重"
+  },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "陈建斌蒋勤勤否认离婚", "display_query": "陈建斌蒋勤勤否认离婚" },
   { "query": "10月PPI同比下降 2.6%", "display_query": "10月PPI同比下降 2.6%" },
   {
     "query": "Mac系统是否内存越大越好",
@@ -9,7 +31,6 @@
     "query": "苹果高管回应黄金内存质疑",
     "display_query": "苹果高管回应黄金内存质疑"
   },
-  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
   { "query": "万物皆可 iHome", "display_query": "万物皆可 iHome" },
   { "query": "新职人的智能家图鉴", "display_query": "新职人的智能家图鉴" },
   { "query": "10月CPI同比下降0.2%", "display_query": "10月CPI同比下降0.2%" },
