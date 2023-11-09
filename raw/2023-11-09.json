@@ -1,10 +1,28 @@
 [
+  { "query": "10月PPI同比下降 2.6%", "display_query": "10月PPI同比下降 2.6%" },
+  {
+    "query": "Mac系统是否内存越大越好",
+    "display_query": "Mac系统是否内存越大越好"
+  },
+  { "query": "为什么要买中高端手机", "display_query": "为什么要买中高端手机" },
+  {
+    "query": "苹果高管回应黄金内存质疑",
+    "display_query": "苹果高管回应黄金内存质疑"
+  },
+  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
+  { "query": "万物皆可 iHome", "display_query": "万物皆可 iHome" },
+  { "query": "新职人的智能家图鉴", "display_query": "新职人的智能家图鉴" },
+  { "query": "10月CPI同比下降0.2%", "display_query": "10月CPI同比下降0.2%" },
+  {
+    "query": "国内首次发现23个长新冠标志物",
+    "display_query": "国内首次发现23个长新冠标志物"
+  },
+  { "query": "美军空袭叙利亚", "display_query": "美军空袭叙利亚" },
   { "query": "立冬", "display_query": "立冬" },
   { "query": "记者节", "display_query": "记者节" },
   { "query": "双十一手机推荐", "display_query": "双十一手机推荐" },
   { "query": "华为mate60", "display_query": "华为mate60" },
   { "query": "iphone15", "display_query": "iphone15" },
-  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "华为mate60pro", "display_query": "华为mate60pro" },
   { "query": "欧冠", "display_query": "欧冠" },
@@ -13,12 +31,6 @@
     "query": "日本对华水产品出口额减少",
     "display_query": "日本对华水产品出口额减少"
   },
-  { "query": "10月CPI同比下降0.2%", "display_query": "10月CPI同比下降0.2%" },
-  {
-    "query": "国内首次发现23个长新冠标志物",
-    "display_query": "国内首次发现23个长新冠标志物"
-  },
-  { "query": "美军空袭叙利亚", "display_query": "美军空袭叙利亚" },
   {
     "query": "以军逼近哈马斯指挥中心",
     "display_query": "以军逼近哈马斯指挥中心"
