@@ -1,4 +1,14 @@
 [
+  { "query": "双十一手机推荐", "display_query": "双十一手机推荐" },
+  { "query": "华为mate60", "display_query": "华为mate60" },
+  { "query": "iphone15", "display_query": "iphone15" },
+  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
+  { "query": "华为mate60pro", "display_query": "华为mate60pro" },
+  { "query": "智能手表推荐", "display_query": "智能手表推荐" },
+  { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
+  { "query": "显示器", "display_query": "显示器" },
+  { "query": "游戏显示器推荐", "display_query": "游戏显示器推荐" },
+  { "query": "流量卡", "display_query": "流量卡" },
   { "query": "姜雪宁好拽", "display_query": "姜雪宁好拽" },
   {
     "query": "苏州毒地仍有业主不愿离开",
@@ -12,7 +22,6 @@
     "query": "中山二院多人患癌5大疑云",
     "display_query": "中山二院多人患癌5大疑云"
   },
-  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
   {
     "query": "原来绝经不是一下子就没了",
     "display_query": "原来绝经不是一下子就没了"
@@ -73,12 +82,6 @@
   },
   { "query": "公考备考经验贴", "display_query": "公考备考经验贴" },
   { "query": "记者节", "display_query": "记者节" },
-  { "query": "双十一手机推荐", "display_query": "双十一手机推荐" },
-  { "query": "华为mate60", "display_query": "华为mate60" },
-  { "query": "iphone15", "display_query": "iphone15" },
-  { "query": "华为mate60pro", "display_query": "华为mate60pro" },
-  { "query": "智能手表推荐", "display_query": "智能手表推荐" },
-  { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
   {
     "query": "脸出油应该用哪些化妆品",
     "display_query": "脸出油应该用哪些化妆品"
