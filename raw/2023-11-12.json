@@ -1,5 +1,5 @@
 [
-  { "query": "剪辑音频软件", "display_query": "剪辑音频软件" },
+  { "query": "剪辑视频用什么笔记本", "display_query": "剪辑视频用什么笔记本" },
   {
     "query": "日本知名乳业品牌明治牛奶检出兽药",
     "display_query": "日本知名乳业品牌明治牛奶检出兽药"
@@ -27,6 +27,7 @@
     "query": "网红于文亮直播喊话一起圈钱",
     "display_query": "网红于文亮直播喊话一起圈钱"
   },
+  { "query": "剪辑音频软件", "display_query": "剪辑音频软件" },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "原神芙宁娜", "display_query": "原神芙宁娜" },
   { "query": "A股市场表现", "display_query": "A股市场表现" },
