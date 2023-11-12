@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 12 2023 17:10:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 12 2023 18:11:27 GMT+0800 (China Standard Time) -->
 
-1. [视频剪辑cpu和显卡哪个重要](https://www.zhihu.com/search?q=视频剪辑cpu和显卡哪个重要)
+1. [适合ps和视频剪辑的笔记本电脑](https://www.zhihu.com/search?q=适合ps和视频剪辑的笔记本电脑)
 1. [湖北襄阳医院贩卖出生证 6
    人被批捕](https://www.zhihu.com/search?q=湖北襄阳医院贩卖出生证 6 人被批捕)
 1. [日本知名乳业品牌明治牛奶检出兽药](https://www.zhihu.com/search?q=日本知名乳业品牌明治牛奶检出兽药)
@@ -28,6 +28,7 @@
 1. [温州民房坍塌致3死](https://www.zhihu.com/search?q=温州民房坍塌致3死)
 1. [WBG对战BLG](https://www.zhihu.com/search?q=WBG对战BLG)
 1. [反诈老陈」成吃播博主](https://www.zhihu.com/search?q=反诈老陈」成吃播博主)
+1. [视频剪辑cpu和显卡哪个重要](https://www.zhihu.com/search?q=视频剪辑cpu和显卡哪个重要)
 1. [剪辑视频用什么笔记本](https://www.zhihu.com/search?q=剪辑视频用什么笔记本)
 1. [网红于文亮直播喊话一起圈钱](https://www.zhihu.com/search?q=网红于文亮直播喊话一起圈钱)
 1. [剪辑音频软件](https://www.zhihu.com/search?q=剪辑音频软件)
