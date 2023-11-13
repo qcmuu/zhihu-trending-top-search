@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 13 2023 10:23:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 13 2023 11:12:21 GMT+0800 (China Standard Time) -->
 
-1. [剪辑电脑配置推荐](https://www.zhihu.com/search?q=剪辑电脑配置推荐)
+1. [免费视频剪辑软件](https://www.zhihu.com/search?q=免费视频剪辑软件)
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=内行人眼中的全屋定制)
+1. [冰岛24小时内1400次地震](https://www.zhihu.com/search?q=冰岛24小时内1400次地震)
 1. [希法医院](https://www.zhihu.com/search?q=希法医院)
 1. [57国联合谴责以色列](https://www.zhihu.com/search?q=57国联合谴责以色列)
 1. [加沙数家医院受到直接打击](https://www.zhihu.com/search?q=加沙数家医院受到直接打击)
@@ -27,9 +28,9 @@
 1. [今年双十一冷清的原因找到了](https://www.zhihu.com/search?q=今年双十一冷清的原因找到了)
 1. [湖北襄阳医院贩卖出生证 6
    人被批捕](https://www.zhihu.com/search?q=湖北襄阳医院贩卖出生证 6 人被批捕)
+1. [剪辑电脑配置推荐](https://www.zhihu.com/search?q=剪辑电脑配置推荐)
 1. [日本知名乳业品牌明治牛奶检出兽药](https://www.zhihu.com/search?q=日本知名乳业品牌明治牛奶检出兽药)
 1. [电脑视频剪辑软件](https://www.zhihu.com/search?q=电脑视频剪辑软件)
-1. [免费视频剪辑软件](https://www.zhihu.com/search?q=免费视频剪辑软件)
 1. [T1 晋级总决赛](https://www.zhihu.com/search?q=T1 晋级总决赛)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=蓝牙耳机)
 1. [降噪耳机](https://www.zhihu.com/search?q=降噪耳机)
