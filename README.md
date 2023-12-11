@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 11 2023 13:12:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 11 2023 14:16:47 GMT+0800 (China Standard Time) -->
 
 1. [考研调剂](https://www.zhihu.com/search?q=考研调剂)
+1. [詹姆斯获得季中赛MVP](https://www.zhihu.com/search?q=詹姆斯获得季中赛MVP)
 1. [国考申论怎么复习](https://www.zhihu.com/search?q=国考申论怎么复习)
 1. [雅思词汇](https://www.zhihu.com/search?q=雅思词汇)
 1. [开题报告](https://www.zhihu.com/search?q=开题报告)
