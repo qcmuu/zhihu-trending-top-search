@@ -2,6 +2,7 @@
   { "query": "A股市场", "display_query": "A股市场" },
   { "query": "短视频", "display_query": "短视频" },
   { "query": "赚钱", "display_query": "赚钱" },
+  { "query": "梅西", "display_query": "梅西" },
   { "query": "哪些大学最应该合并", "display_query": "哪些大学最应该合并" },
   { "query": "Gemini", "display_query": "Gemini" },
   { "query": "大学生赚钱的副业", "display_query": "大学生赚钱的副业" },
@@ -14,6 +15,5 @@
   {
     "query": "平平无奇却意外好吃的零食",
     "display_query": "平平无奇却意外好吃的零食"
-  },
-  { "query": "梅西", "display_query": "梅西" }
+  }
 ]
