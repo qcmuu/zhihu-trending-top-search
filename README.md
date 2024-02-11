@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 11 2024 23:12:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 12 2024 00:14:05 GMT+0800 (China Standard Time) -->
 
 1. [短视频](https://www.zhihu.com/search?q=短视频)
 1. [赚钱](https://www.zhihu.com/search?q=赚钱)
@@ -25,13 +25,8 @@
 1. [送到心坎里的新年礼物](https://www.zhihu.com/search?q=送到心坎里的新年礼物)
 1. [过年送礼的护肤礼盒](https://www.zhihu.com/search?q=过年送礼的护肤礼盒)
 1. [贾玲](https://www.zhihu.com/search?q=贾玲)
-1. [热辣滚烫](https://www.zhihu.com/search?q=热辣滚烫)
-1. [第二十条](https://www.zhihu.com/search?q=第二十条)
-1. [卡塔尔亚洲杯](https://www.zhihu.com/search?q=卡塔尔亚洲杯)
-1. [过年送爸妈什么家居好物](https://www.zhihu.com/search?q=过年送爸妈什么家居好物)
-1. [纳入「年货清单」的健康好物](https://www.zhihu.com/search?q=纳入「年货清单」的健康好物)
-1. [](https://www.zhihu.com/search?q=)
-1. [梅西](https://www.zhihu.com/search?q=梅西)
+1. [证监会集中处理多名违法炒股人员](https://www.zhihu.com/search?q=证监会集中处理多名违法炒股人员)
+1. [全球表面升温或已超1.5℃](https://www.zhihu.com/search?q=全球表面升温或已超1.5℃)
 
 <!-- END -->
 
