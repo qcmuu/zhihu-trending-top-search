@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 12 2024 23:12:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 13 2024 00:14:53 GMT+0800 (China Standard Time) -->
 
 1. [白敬亭](https://www.zhihu.com/search?q=白敬亭)
 1. [短视频](https://www.zhihu.com/search?q=短视频)
@@ -27,11 +27,6 @@
 1. [送到心坎里的新年礼物](https://www.zhihu.com/search?q=送到心坎里的新年礼物)
 1. [过年送礼的护肤礼盒](https://www.zhihu.com/search?q=过年送礼的护肤礼盒)
 1. [甘肃积石山县发生3.1级地震](https://www.zhihu.com/search?q=甘肃积石山县发生3.1级地震)
-1. [热辣滚烫](https://www.zhihu.com/search?q=热辣滚烫)
-1. [第二十条](https://www.zhihu.com/search?q=第二十条)
-1. [贾玲](https://www.zhihu.com/search?q=贾玲)
-1. [证监会集中处理多名违法炒股人员](https://www.zhihu.com/search?q=证监会集中处理多名违法炒股人员)
-1. [全球表面升温或已超1.5℃](https://www.zhihu.com/search?q=全球表面升温或已超1.5℃)
 
 <!-- END -->
 
