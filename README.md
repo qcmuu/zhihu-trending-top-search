@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 19 2024 18:13:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 19 2024 19:09:49 GMT+0800 (China Standard Time) -->
 
+1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
 1. [南来北往](https://www.zhihu.com/search?q=南来北往)
 1. [「飞驰人生2」细节](https://www.zhihu.com/search?q=「飞驰人生2」细节)
 1. [为什么大家不再提 5G 了](https://www.zhihu.com/search?q=为什么大家不再提 5G
