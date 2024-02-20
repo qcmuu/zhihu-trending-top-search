@@ -1,4 +1,17 @@
 [
+  { "query": "降息", "display_query": "降息" },
+  { "query": "东方甄选报警", "display_query": "东方甄选报警" },
+  { "query": "上海飞大阪机票仅8元?", "display_query": "上海飞大阪机票仅8元?" },
+  { "query": "梅西录视频回应争议", "display_query": "梅西录视频回应争议" },
+  { "query": "AI生成的西游记短片", "display_query": "AI生成的西游记短片" },
+  { "query": "第二十条票房破15亿", "display_query": "第二十条票房破15亿" },
+  { "query": "Sora概念股大涨", "display_query": "Sora概念股大涨" },
+  { "query": "刘雨欣自曝家被偷空", "display_query": "刘雨欣自曝家被偷空" },
+  { "query": "A股迎龙年开门红", "display_query": "A股迎龙年开门红" },
+  {
+    "query": "女子购物被收银员拒收一毛硬币",
+    "display_query": "女子购物被收银员拒收一毛硬币"
+  },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "南来北往", "display_query": "南来北往" },
   { "query": "「飞驰人生2」细节", "display_query": "「飞驰人生2」细节" },
