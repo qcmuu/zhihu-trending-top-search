@@ -1,5 +1,8 @@
 [
-  { "query": "四六级成绩公布", "display_query": "四六级成绩公布" },
+  {
+    "query": "老师应不应该管学生的QQ昵称",
+    "display_query": "老师应不应该管学生的QQ昵称"
+  },
   { "query": "考研成绩公布", "display_query": "考研成绩公布" },
   { "query": "软件工程", "display_query": "软件工程" },
   {
@@ -15,11 +18,20 @@
     "query": "有哪些瞬间你秒懂了别人的暗示",
     "display_query": "有哪些瞬间你秒懂了别人的暗示"
   },
-  { "query": "低谷医生", "display_query": "低谷医生" },
+  {
+    "query": "韩企员工生娃奖励1亿韩元",
+    "display_query": "韩企员工生娃奖励1亿韩元"
+  },
+  {
+    "query": "双非文科女硕士该何去何从",
+    "display_query": "双非文科女硕士该何去何从"
+  },
   {
     "query": "10大高含金量证书排行榜",
     "display_query": "10大高含金量证书排行榜"
   },
+  { "query": "四六级成绩公布", "display_query": "四六级成绩公布" },
+  { "query": "低谷医生", "display_query": "低谷医生" },
   {
     "query": "pmp和软考哪个含金量高",
     "display_query": "pmp和软考哪个含金量高"
