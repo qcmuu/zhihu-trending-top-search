@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 05 2024 08:53:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 05 2024 09:43:02 GMT+0800 (China Standard Time) -->
 
+1. [惊蛰](https://www.zhihu.com/search?q=惊蛰)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=湖人vs掘金)
 1. [「红毯先生」定档](https://www.zhihu.com/search?q=「红毯先生」定档)
 1. [维斯塔潘夺冠](https://www.zhihu.com/search?q=维斯塔潘夺冠)
