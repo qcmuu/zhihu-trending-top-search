@@ -1,8 +1,4 @@
 [
-  {
-    "query": "第4艘航母仍将以省命名",
-    "display_query": "第4艘航母仍将以省命名"
-  },
   { "query": "cpa如何规划备考", "display_query": "cpa如何规划备考" },
   {
     "query": "cpa证书的含金量到底有多少",
@@ -21,5 +17,6 @@
     "query": "日本人是怎么看待中国人的",
     "display_query": "日本人是怎么看待中国人的"
   },
-  { "query": "pmp证书", "display_query": "pmp证书" }
+  { "query": "pmp证书", "display_query": "pmp证书" },
+  { "query": "第4艘航母仍将以省命名", "display_query": "第4艘航母仍将以省命名" }
 ]
