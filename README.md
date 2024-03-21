@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 21 2024 23:12:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 22 2024 00:16:50 GMT+0800 (China Standard Time) -->
 
 1. [世界睡眠日](https://www.zhihu.com/search?q=世界睡眠日)
 1. [特斯拉涨价](https://www.zhihu.com/search?q=特斯拉涨价)
@@ -27,11 +27,6 @@
 1. [雅思口语](https://www.zhihu.com/search?q=雅思口语)
 1. [雅思听力](https://www.zhihu.com/search?q=雅思听力)
 1. [雅思6.5](https://www.zhihu.com/search?q=雅思6.5)
-1. [雅思备考大概需要多长时间](https://www.zhihu.com/search?q=雅思备考大概需要多长时间)
-1. [今日春分](https://www.zhihu.com/search?q=今日春分)
-1. [三大指数集体低开](https://www.zhihu.com/search?q=三大指数集体低开)
-1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
-1. [春分](https://www.zhihu.com/search?q=春分)
 
 <!-- END -->
 
