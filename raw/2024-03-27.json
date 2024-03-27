@@ -6,8 +6,10 @@
   { "query": "雅思机考", "display_query": "雅思机考" },
   { "query": "雅思报名", "display_query": "雅思报名" },
   { "query": "资料分析", "display_query": "资料分析" },
-  { "query": "选调生报名基本条件", "display_query": "选调生报名基本条件" },
+  { "query": "软件工程", "display_query": "软件工程" },
+  { "query": "openai", "display_query": "openai" },
   { "query": "考公最吃香的十大专业", "display_query": "考公最吃香的十大专业" },
+  { "query": "选调生报名基本条件", "display_query": "选调生报名基本条件" },
   { "query": "非全日制计算机研究生", "display_query": "非全日制计算机研究生" },
   { "query": "今日A股市场", "display_query": "今日A股市场" }
 ]
