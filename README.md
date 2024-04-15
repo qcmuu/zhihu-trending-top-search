@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 15 2024 23:13:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 16 2024 00:15:08 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [行测](https://www.zhihu.com/search?q=行测)
@@ -27,9 +27,6 @@
 1. [十大良心赚钱软件](https://www.zhihu.com/search?q=十大良心赚钱软件)
 1. [月入1万的10个冷门副业](https://www.zhihu.com/search?q=月入1万的10个冷门副业)
 1. [openai](https://www.zhihu.com/search?q=openai)
-1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
-1. [张伟丽卫冕金腰带](https://www.zhihu.com/search?q=张伟丽卫冕金腰带)
-1. [考公备考全流程](https://www.zhihu.com/search?q=考公备考全流程)
 
 <!-- END -->
 
