@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 16 2024 23:12:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 17 2024 00:15:36 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
@@ -27,16 +27,6 @@
 1. [公考常识](https://www.zhihu.com/search?q=公考常识)
 1. [剪辑软件](https://www.zhihu.com/search?q=剪辑软件)
 1. [剪辑素材](https://www.zhihu.com/search?q=剪辑素材)
-1. [剪辑思维](https://www.zhihu.com/search?q=剪辑思维)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [上海海港vs山东泰山](https://www.zhihu.com/search?q=上海海港vs山东泰山)
-1. [考公资料推荐](https://www.zhihu.com/search?q=考公资料推荐)
-1. [兼职副业干什么好](https://www.zhihu.com/search?q=兼职副业干什么好)
-1. [湖人战胜灰熊](https://www.zhihu.com/search?q=湖人战胜灰熊)
-1. [十大冷门暴利生意](https://www.zhihu.com/search?q=十大冷门暴利生意)
-1. [十大良心赚钱软件](https://www.zhihu.com/search?q=十大良心赚钱软件)
-1. [月入1万的10个冷门副业](https://www.zhihu.com/search?q=月入1万的10个冷门副业)
-1. [openai](https://www.zhihu.com/search?q=openai)
 
 <!-- END -->
 
