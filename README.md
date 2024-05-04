@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 04 2024 14:15:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 04 2024 15:11:44 GMT+0800 (China Standard Time) -->
 
 1. [为什么蹭课会被老师赶出来](https://www.zhihu.com/search?q=为什么蹭课会被老师赶出来)
 1. [俄罗斯是不是快赢了](https://www.zhihu.com/search?q=俄罗斯是不是快赢了)
