@@ -5,6 +5,25 @@
     "query": "国羽男队第11次夺得汤姆斯杯冠军",
     "display_query": "国羽男队第11次夺得汤姆斯杯冠军"
   },
+  { "query": "水晶宫4:0曼联", "display_query": "水晶宫4:0曼联" },
+  {
+    "query": "哈马斯宣布同意停火提议",
+    "display_query": "哈马斯宣布同意停火提议"
+  },
+  {
+    "query": "哈马斯称加沙停火谈判没有进展",
+    "display_query": "哈马斯称加沙停火谈判没有进展"
+  },
+  {
+    "query": "软银领投对wayve投资10亿美元",
+    "display_query": "软银领投对wayve投资10亿美元"
+  },
+  { "query": "掘金主场不敌森林狼", "display_query": "掘金主场不敌森林狼" },
+  {
+    "query": "云南持刀伤人事件致2死21伤",
+    "display_query": "云南持刀伤人事件致2死21伤"
+  },
+  { "query": "淘宝免单", "display_query": "淘宝免单" },
   {
     "query": "人民币兑美元中间价报7.0994",
     "display_query": "人民币兑美元中间价报7.0994"
@@ -18,10 +37,5 @@
     "query": "哈马斯回应对斡旋方停火提议",
     "display_query": "哈马斯回应对斡旋方停火提议"
   },
-  { "query": "特斯拉回应金华事故", "display_query": "特斯拉回应金华事故" },
-  { "query": "水晶宫4:0曼联", "display_query": "水晶宫4:0曼联" },
-  {
-    "query": "哈马斯宣布同意停火提议",
-    "display_query": "哈马斯宣布同意停火提议"
-  }
+  { "query": "特斯拉回应金华事故", "display_query": "特斯拉回应金华事故" }
 ]
