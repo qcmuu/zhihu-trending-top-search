@@ -1,9 +1,5 @@
 [
-  {
-    "query": "中方回应梵蒂冈欲在华设办事处",
-    "display_query": "中方回应梵蒂冈欲在华设办事处"
-  },
-  { "query": "韩国医学院将扩招", "display_query": "韩国医学院将扩招" },
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   {
     "query": "30层高的楼有多少年寿命",
     "display_query": "30层高的楼有多少年寿命"
@@ -24,11 +20,15 @@
     "display_query": "女老师揪住男孩头发让全班殴打"
   },
   { "query": "外媒称阿根廷通胀飙升", "display_query": "外媒称阿根廷通胀飙升" },
-  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   {
     "query": "「黑神话悟空」采用D加密",
     "display_query": "「黑神话悟空」采用D加密"
   },
+  {
+    "query": "中方回应梵蒂冈欲在华设办事处",
+    "display_query": "中方回应梵蒂冈欲在华设办事处"
+  },
+  { "query": "韩国医学院将扩招", "display_query": "韩国医学院将扩招" },
   { "query": "贵金属避险情绪被激发", "display_query": "贵金属避险情绪被激发" },
   { "query": "朱婷回归中国女排", "display_query": "朱婷回归中国女排" },
   {
