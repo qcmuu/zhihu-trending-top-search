@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 28 2024 08:58:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 28 2024 10:05:07 GMT+0800 (China Standard Time) -->
 
 1. [梁靖崑男单冠军](https://www.zhihu.com/search?q=梁靖崑男单冠军)
 1. [马龙林高远夺得男双冠军](https://www.zhihu.com/search?q=马龙林高远夺得男双冠军)
@@ -26,6 +26,7 @@
 1. [doge原型去世](https://www.zhihu.com/search?q=doge原型去世)
 1. [俄罗斯首台光刻机制造完成](https://www.zhihu.com/search?q=俄罗斯首台光刻机制造完成)
 1. [陈奕迅杭州演唱会延期](https://www.zhihu.com/search?q=陈奕迅杭州演唱会延期)
+1. [网红王妈塌房](https://www.zhihu.com/search?q=网红王妈塌房)
 1. [京东采销年薪涨至20薪](https://www.zhihu.com/search?q=京东采销年薪涨至20薪)
 1. [女子喂乌龟火龙果喜提炫彩神龟](https://www.zhihu.com/search?q=女子喂乌龟火龙果喜提炫彩神龟)
 
