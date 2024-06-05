@@ -1,5 +1,6 @@
 [
   { "query": "苹果手机", "display_query": "苹果手机" },
+  { "query": "墨雨云间", "display_query": "墨雨云间" },
   { "query": "张志磊vs维尔德", "display_query": "张志磊vs维尔德" },
   {
     "query": "董明珠称打工人想休闲可以辞职",
@@ -31,7 +32,6 @@
     "display_query": "余承东「卷王不是特斯拉是比亚迪」"
   },
   { "query": "高考", "display_query": "高考" },
-  { "query": "墨雨云间", "display_query": "墨雨云间" },
   { "query": "孙颖莎女单夺冠", "display_query": "孙颖莎女单夺冠" },
   { "query": "wbg对战ig", "display_query": "wbg对战ig" },
   { "query": "太阳连续爆发三次耀斑", "display_query": "太阳连续爆发三次耀斑" },
