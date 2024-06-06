@@ -1,7 +1,6 @@
 [
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "OpenAI", "display_query": "OpenAI" },
-  { "query": "墨雨云间", "display_query": "墨雨云间" },
   {
     "query": "「二维码很快会被用完」系谣言",
     "display_query": "「二维码很快会被用完」系谣言"
@@ -25,16 +24,17 @@
     "display_query": "数只美股疑似出现行情异常"
   },
   {
+    "query": "什么是「奥利给」不等式",
+    "display_query": "什么是「奥利给」不等式"
+  },
+  { "query": "墨雨云间", "display_query": "墨雨云间" },
+  {
     "query": "董明珠称打工人想休闲可以辞职",
     "display_query": "董明珠称打工人想休闲可以辞职"
   },
   {
     "query": "逾 7900 人应聘宁夏煤业井下操作工",
     "display_query": "逾 7900 人应聘宁夏煤业井下操作工"
-  },
-  {
-    "query": "什么是「奥利给」不等式",
-    "display_query": "什么是「奥利给」不等式"
   },
   {
     "query": "以为很干净实际很脏的东西",
