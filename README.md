@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 06 2024 18:14:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 06 2024 19:11:35 GMT+0800 (China Standard Time) -->
 
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 1. [OpenAI](https://www.zhihu.com/search?q=OpenAI)
+1. [墨雨云间](https://www.zhihu.com/search?q=墨雨云间)
 1. [「二维码很快会被用完」系谣言](https://www.zhihu.com/search?q=「二维码很快会被用完」系谣言)
 1. [中国女排0:3不敌意大利女排](https://www.zhihu.com/search?q=中国女排0:3不敌意大利女排)
 1. [乌克兰承认巴勒斯坦是一个国家](https://www.zhihu.com/search?q=乌克兰承认巴勒斯坦是一个国家)
@@ -27,7 +28,6 @@
 1. [迪丽热巴新歌首发](https://www.zhihu.com/search?q=迪丽热巴新歌首发)
 1. [数只美股疑似出现行情异常](https://www.zhihu.com/search?q=数只美股疑似出现行情异常)
 1. [什么是「奥利给」不等式](https://www.zhihu.com/search?q=什么是「奥利给」不等式)
-1. [墨雨云间](https://www.zhihu.com/search?q=墨雨云间)
 1. [董明珠称打工人想休闲可以辞职](https://www.zhihu.com/search?q=董明珠称打工人想休闲可以辞职)
 1. [逾 7900 人应聘宁夏煤业井下操作工](https://www.zhihu.com/search?q=逾 7900
    人应聘宁夏煤业井下操作工)
