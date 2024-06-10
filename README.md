@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 10 2024 21:16:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 10 2024 22:14:25 GMT+0800 (China Standard Time) -->
 
 1. [端午节](https://www.zhihu.com/search?q=端午节)
 1. [全国冬小麦收获进度过半](https://www.zhihu.com/search?q=全国冬小麦收获进度过半)
