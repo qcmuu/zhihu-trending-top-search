@@ -15,8 +15,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 27 2024 14:18:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 27 2024 15:12:31 GMT+0800 (China Standard Time) -->
 
+1. [四川绵阳一理科考生高考 710
+   分](https://www.zhihu.com/search?q=四川绵阳一理科考生高考 710 分)
+1. [飞天茅台批价跌破 2100 元](https://www.zhihu.com/search?q=飞天茅台批价跌破
+   2100 元)
+1. [韩国一电池厂发生火灾20余人遇难](https://www.zhihu.com/search?q=韩国一电池厂发生火灾20余人遇难)
+1. [火焰山景区地表最高温度达
+   81℃](https://www.zhihu.com/search?q=火焰山景区地表最高温度达 81℃)
+1. [个税 APP 新增 5 项个人所得](https://www.zhihu.com/search?q=个税 APP 新增 5
+   项个人所得)
+1. [中方对波兰 15 日单方面免签](https://www.zhihu.com/search?q=中方对波兰 15
+   日单方面免签)
+1. [欧洲杯阿尔巴尼亚 VS 西班牙](https://www.zhihu.com/search?q=欧洲杯阿尔巴尼亚
+   VS 西班牙)
+1. [欧洲杯克罗地亚 VS 意大利](https://www.zhihu.com/search?q=欧洲杯克罗地亚 VS
+   意大利)
+1. [意大利战平克罗地亚晋级 16
+   强](https://www.zhihu.com/search?q=意大利战平克罗地亚晋级 16 强)
+1. [维基揭秘创始人已从英国监狱获释](https://www.zhihu.com/search?q=维基揭秘创始人已从英国监狱获释)
 1. [河北高考分数线公布](https://www.zhihu.com/search?q=河北高考分数线公布)
 1. [河南高考分数线公布](https://www.zhihu.com/search?q=河南高考分数线公布)
 1. [国际禁毒日](https://www.zhihu.com/search?q=国际禁毒日)
