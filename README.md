@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 02 2024 19:11:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 02 2024 20:24:11 GMT+0800 (China Standard Time) -->
 
 1. [B 站崩了](https://www.zhihu.com/search?q=B 站崩了)
 1. [A股市场](https://www.zhihu.com/search?q=A股市场)
