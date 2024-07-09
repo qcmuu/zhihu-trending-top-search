@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 09 2024 16:16:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 09 2024 17:14:29 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
@@ -26,9 +26,9 @@
 1. [汪苏泷演唱会](https://www.zhihu.com/search?q=汪苏泷演唱会)
 1. [洞庭湖一线堤防发生决堤险情](https://www.zhihu.com/search?q=洞庭湖一线堤防发生决堤险情)
 1. [李彦宏称「开源是一种智商税」](https://www.zhihu.com/search?q=李彦宏称「开源是一种智商税」)
+1. [「首个有望在火星存活的植物」被发现](https://www.zhihu.com/search?q=「首个有望在火星存活的植物」被发现)
 1. [万吨大驱「延安舰」直面外舰挑衅](https://www.zhihu.com/search?q=万吨大驱「延安舰」直面外舰挑衅)
 1. [中国男篮31分不敌黄蜂](https://www.zhihu.com/search?q=中国男篮31分不敌黄蜂)
-1. [「首个有望在火星存活的植物」被发现](https://www.zhihu.com/search?q=「首个有望在火星存活的植物」被发现)
 1. [欧洲杯四强出炉](https://www.zhihu.com/search?q=欧洲杯四强出炉)
 1. [社交达人初养成](https://www.zhihu.com/search?q=社交达人初养成)
 1. [泰坦尼克号制片人去世](https://www.zhihu.com/search?q=泰坦尼克号制片人去世)
