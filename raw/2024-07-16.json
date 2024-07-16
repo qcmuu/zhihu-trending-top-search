@@ -1,7 +1,11 @@
 [
-  { "query": "河南南阳特大暴雨", "display_query": "河南南阳特大暴雨" },
+  { "query": "阿根廷夺冠", "display_query": "阿根廷夺冠" },
+  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "性价比高的手机推荐", "display_query": "性价比高的手机推荐" },
-  { "query": "北京下雨", "display_query": "北京下雨" },
+  {
+    "query": "以军继续袭击加沙地带多地",
+    "display_query": "以军继续袭击加沙地带多地"
+  },
   {
     "query": "南海发现新物种拟幽灵蛸",
     "display_query": "南海发现新物种拟幽灵蛸"
@@ -17,8 +21,9 @@
     "display_query": "萝卜快跑价格低至网约车3/4"
   },
   { "query": "百度萝卜快跑", "display_query": "百度萝卜快跑" },
+  { "query": "河南南阳特大暴雨", "display_query": "河南南阳特大暴雨" },
+  { "query": "北京下雨", "display_query": "北京下雨" },
   { "query": "2024暑期档票房破35亿", "display_query": "2024暑期档票房破35亿" },
-  { "query": "阿根廷夺冠", "display_query": "阿根廷夺冠" },
   {
     "query": "宝马中国打算退出价格战",
     "display_query": "宝马中国打算退出价格战"
