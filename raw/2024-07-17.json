@@ -1,8 +1,9 @@
 [
-  { "query": "阿根廷夺冠", "display_query": "阿根廷夺冠" },
-  { "query": "河南暴雨", "display_query": "河南暴雨" },
-  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
-  { "query": "性价比高的手机推荐", "display_query": "性价比高的手机推荐" },
+  { "query": "「抓娃娃」观后感", "display_query": "「抓娃娃」观后感" },
+  {
+    "query": "萝卜快跑价格低至网约车3/4",
+    "display_query": "萝卜快跑价格低至网约车3/4"
+  },
   {
     "query": "以军继续袭击加沙地带多地",
     "display_query": "以军继续袭击加沙地带多地"
@@ -15,10 +16,22 @@
     "query": "德国宣布移除中国通信企业组件",
     "display_query": "德国宣布移除中国通信企业组件"
   },
+  {
+    "query": "广州一超市榴莲 15 元一斤遭哄抢",
+    "display_query": "广州一超市榴莲 15 元一斤遭哄抢"
+  },
+  {
+    "query": "男子称坐出租车 7 公里被收 237 元",
+    "display_query": "男子称坐出租车 7 公里被收 237 元"
+  },
+  {
+    "query": "孙颖莎奥运值得关注运动员",
+    "display_query": "孙颖莎奥运值得关注运动员"
+  },
   { "query": "小米获得独立造车资质", "display_query": "小米获得独立造车资质" },
   { "query": "拜登出现离谱口误", "display_query": "拜登出现离谱口误" },
-  {
-    "query": "萝卜快跑价格低至网约车3/4",
-    "display_query": "萝卜快跑价格低至网约车3/4"
-  }
+  { "query": "阿根廷夺冠", "display_query": "阿根廷夺冠" },
+  { "query": "河南暴雨", "display_query": "河南暴雨" },
+  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
+  { "query": "性价比高的手机推荐", "display_query": "性价比高的手机推荐" }
 ]
