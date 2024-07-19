@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 19 2024 14:19:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 19 2024 15:14:01 GMT+0800 (China Standard Time) -->
 
 1. [拜登新冠检测呈阳性](https://www.zhihu.com/search?q=拜登新冠检测呈阳性)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
@@ -25,6 +25,9 @@
 1. [邹市明夫妇创业七年卖掉所有房产](https://www.zhihu.com/search?q=邹市明夫妇创业七年卖掉所有房产)
 1. [抓娃娃](https://www.zhihu.com/search?q=抓娃娃)
 1. [阿尔卡拉斯夺得温网男单冠军](https://www.zhihu.com/search?q=阿尔卡拉斯夺得温网男单冠军)
+1. [农夫山泉、百岁山被指溴酸盐达标准上限](https://www.zhihu.com/search?q=农夫山泉、百岁山被指溴酸盐达标准上限)
+1. [上海三甲医院主任医师自曝年薪 250
+   万](https://www.zhihu.com/search?q=上海三甲医院主任医师自曝年薪 250 万)
 1. [2024暑期档票房破40亿](https://www.zhihu.com/search?q=2024暑期档票房破40亿)
 1. [董宇辉对话余承东](https://www.zhihu.com/search?q=董宇辉对话余承东)
 1. [游戏本推荐](https://www.zhihu.com/search?q=游戏本推荐)
