@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 23 2024 10:31:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 23 2024 11:17:17 GMT+0800 (China Standard Time) -->
 
 1. [SBS歌谣大战](https://www.zhihu.com/search?q=SBS歌谣大战)
 1. [王宁](https://www.zhihu.com/search?q=王宁)
