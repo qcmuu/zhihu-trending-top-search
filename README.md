@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 23 2024 14:19:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 23 2024 15:12:34 GMT+0800 (China Standard Time) -->
 
+1. [SBS歌谣大战](https://www.zhihu.com/search?q=SBS歌谣大战)
+1. [王宁](https://www.zhihu.com/search?q=王宁)
+1. [种地吧](https://www.zhihu.com/search?q=种地吧)
+1. [河南发布高温橙色预警](https://www.zhihu.com/search?q=河南发布高温橙色预警)
+1. [雅安暴雨 30 余人失联](https://www.zhihu.com/search?q=雅安暴雨 30 余人失联)
+1. [抓娃娃票房破 10 亿](https://www.zhihu.com/search?q=抓娃娃票房破 10 亿)
+1. [产妇擅入医院施工场地坠亡](https://www.zhihu.com/search?q=产妇擅入医院施工场地坠亡)
+1. [郭士强担任中国男篮主教练](https://www.zhihu.com/search?q=郭士强担任中国男篮主教练)
+1. [韦世豪踹人被罚红牌](https://www.zhihu.com/search?q=韦世豪踹人被罚红牌)
+1. [广汽丰田否认退出价格战](https://www.zhihu.com/search?q=广汽丰田否认退出价格战)
 1. [如何评价「黑袍纠察队」火车头角色](https://www.zhihu.com/search?q=如何评价「黑袍纠察队」火车头角色)
 1. [美众议院督促拜登立即辞职](https://www.zhihu.com/search?q=美众议院督促拜登立即辞职)
 1. [三星堆玉石器生产车间](https://www.zhihu.com/search?q=三星堆玉石器生产车间)
@@ -27,11 +37,6 @@
 1. [雷军回应造车原因](https://www.zhihu.com/search?q=雷军回应造车原因)
 1. [法塔赫与哈马斯签署北京宣言](https://www.zhihu.com/search?q=法塔赫与哈马斯签署北京宣言)
 1. [国际法院认定以色列非法占领巴领土](https://www.zhihu.com/search?q=国际法院认定以色列非法占领巴领土)
-1. [SBS歌谣大战](https://www.zhihu.com/search?q=SBS歌谣大战)
-1. [王宁](https://www.zhihu.com/search?q=王宁)
-1. [种地吧](https://www.zhihu.com/search?q=种地吧)
-1. [雅安暴雨 30 余人失联](https://www.zhihu.com/search?q=雅安暴雨 30 余人失联)
-1. [抓娃娃票房破 10 亿](https://www.zhihu.com/search?q=抓娃娃票房破 10 亿)
 1. [温州遭持刀伤害医生不幸去世](https://www.zhihu.com/search?q=温州遭持刀伤害医生不幸去世)
 1. [李晟医生去世](https://www.zhihu.com/search?q=李晟医生去世)
 
