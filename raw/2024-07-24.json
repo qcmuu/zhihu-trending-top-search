@@ -1,13 +1,22 @@
 [
-  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
-  { "query": "SBS歌谣大战", "display_query": "SBS歌谣大战" },
-  { "query": "种地吧", "display_query": "种地吧" },
-  { "query": "河南发布高温橙色预警", "display_query": "河南发布高温橙色预警" },
-  { "query": "韦世豪踹人被罚红牌", "display_query": "韦世豪踹人被罚红牌" },
   {
-    "query": "广汽丰田否认退出价格战",
-    "display_query": "广汽丰田否认退出价格战"
+    "query": "福建省提升防台风应急响应为ⅲ级",
+    "display_query": "福建省提升防台风应急响应为ⅲ级"
   },
+  {
+    "query": "尼泊尔一架飞机在机场坠毁",
+    "display_query": "尼泊尔一架飞机在机场坠毁"
+  },
+  {
+    "query": "华润置地大区经理涉嫌暴力侵犯女下属",
+    "display_query": "华润置地大区经理涉嫌暴力侵犯女下属"
+  },
+  {
+    "query": "河北邯郸一民房发生爆炸致 3 死 3 伤",
+    "display_query": "河北邯郸一民房发生爆炸致 3 死 3 伤"
+  },
+  { "query": "歌王之战帮唱阵容官宣", "display_query": "歌王之战帮唱阵容官宣" },
+  { "query": "韦世豪踹人被罚红牌", "display_query": "韦世豪踹人被罚红牌" },
   {
     "query": "《抓娃娃》票房破 14 亿",
     "display_query": "《抓娃娃》票房破 14 亿"
@@ -23,6 +32,14 @@
   {
     "query": "张子墨《登陆日》二公退赛",
     "display_query": "张子墨《登陆日》二公退赛"
+  },
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
+  { "query": "SBS歌谣大战", "display_query": "SBS歌谣大战" },
+  { "query": "种地吧", "display_query": "种地吧" },
+  { "query": "河南发布高温橙色预警", "display_query": "河南发布高温橙色预警" },
+  {
+    "query": "广汽丰田否认退出价格战",
+    "display_query": "广汽丰田否认退出价格战"
   },
   {
     "query": "郭士强担任中国男篮主教练",
