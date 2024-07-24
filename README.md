@@ -15,20 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 24 2024 15:12:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 24 2024 16:17:04 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
+1. [种地吧](https://www.zhihu.com/search?q=种地吧)
 1. [河南发布高温橙色预警](https://www.zhihu.com/search?q=河南发布高温橙色预警)
 1. [你比星光美丽](https://www.zhihu.com/search?q=你比星光美丽)
 1. [如何评价长相思2](https://www.zhihu.com/search?q=如何评价长相思2)
 1. [郭士强担任中国男篮主教练](https://www.zhihu.com/search?q=郭士强担任中国男篮主教练)
 1. [广汽丰田否认退出价格战](https://www.zhihu.com/search?q=广汽丰田否认退出价格战)
+1. [美国飞机坠毁 3 人死亡](https://www.zhihu.com/search?q=美国飞机坠毁 3 人死亡)
+1. [张子墨《登陆日》二公退赛](https://www.zhihu.com/search?q=张子墨《登陆日》二公退赛)
+1. [专家回应网传山东19万文科生滑档](https://www.zhihu.com/search?q=专家回应网传山东19万文科生滑档)
 1. [《抓娃娃》票房破 14 亿](https://www.zhihu.com/search?q=《抓娃娃》票房破 14
    亿)
 1. [陕西洪涝灾害致 21 万人受灾](https://www.zhihu.com/search?q=陕西洪涝灾害致 21
    万人受灾)
-1. [美国飞机坠毁 3 人死亡](https://www.zhihu.com/search?q=美国飞机坠毁 3 人死亡)
-1. [张子墨《登陆日》二公退赛](https://www.zhihu.com/search?q=张子墨《登陆日》二公退赛)
 1. [福建省提升防台风应急响应为ⅲ级](https://www.zhihu.com/search?q=福建省提升防台风应急响应为ⅲ级)
 1. [尼泊尔一架飞机在机场坠毁](https://www.zhihu.com/search?q=尼泊尔一架飞机在机场坠毁)
 1. [华润置地大区经理涉嫌暴力侵犯女下属](https://www.zhihu.com/search?q=华润置地大区经理涉嫌暴力侵犯女下属)
@@ -37,7 +39,6 @@
 1. [歌王之战帮唱阵容官宣](https://www.zhihu.com/search?q=歌王之战帮唱阵容官宣)
 1. [韦世豪踹人被罚红牌](https://www.zhihu.com/search?q=韦世豪踹人被罚红牌)
 1. [SBS歌谣大战](https://www.zhihu.com/search?q=SBS歌谣大战)
-1. [种地吧](https://www.zhihu.com/search?q=种地吧)
 
 <!-- END -->
 
