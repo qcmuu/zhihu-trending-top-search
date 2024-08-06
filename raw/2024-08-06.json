@@ -1,5 +1,4 @@
 [
-  { "query": "A股", "display_query": "A股" },
   {
     "query": "我国成功发射卫星互联网高轨卫星",
     "display_query": "我国成功发射卫星互联网高轨卫星"
@@ -33,6 +32,8 @@
     "query": "中国巴黎奥运会第十四金",
     "display_query": "中国巴黎奥运会第十四金"
   },
+  { "query": "郑钦文夺奥运女单金牌", "display_query": "郑钦文夺奥运女单金牌" },
+  { "query": "A股", "display_query": "A股" },
   {
     "query": "日本奥委会就「选手遭网暴」发警告",
     "display_query": "日本奥委会就「选手遭网暴」发警告"
