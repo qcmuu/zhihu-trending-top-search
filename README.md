@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 22 2024 11:16:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 22 2024 12:16:36 GMT+0800 (China Standard Time) -->
 
 1. [中国医师节](https://www.zhihu.com/search?q=中国医师节)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
@@ -24,9 +24,10 @@
 1. [工商银行股价再创新高](https://www.zhihu.com/search?q=工商银行股价再创新高)
 1. [LV 巧克力引发抢购](https://www.zhihu.com/search?q=LV 巧克力引发抢购)
 1. [樊振东回应退役传闻](https://www.zhihu.com/search?q=樊振东回应退役传闻)
-1. [C罗或被剥夺银牌并罚款](https://www.zhihu.com/search?q=C罗或被剥夺银牌并罚款)
 1. [怎样看待某公司宣传核聚变取之不尽用之不竭](https://www.zhihu.com/search?q=怎样看待某公司宣传核聚变取之不尽用之不竭)
 1. [王皓当年奥运输给柳承敏是什么原因](https://www.zhihu.com/search?q=王皓当年奥运输给柳承敏是什么原因)
+1. [古代可以把一个大人物彻底抹掉存在吗](https://www.zhihu.com/search?q=古代可以把一个大人物彻底抹掉存在吗)
+1. [C罗或被剥夺银牌并罚款](https://www.zhihu.com/search?q=C罗或被剥夺银牌并罚款)
 1. [年轻人抢辽宁阜新低价房](https://www.zhihu.com/search?q=年轻人抢辽宁阜新低价房)
 1. [日本一旅馆大规模食物中毒](https://www.zhihu.com/search?q=日本一旅馆大规模食物中毒)
 1. [日本防卫预算申请或将首超 8
