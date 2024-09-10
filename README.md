@@ -15,19 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 10 2024 16:18:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 10 2024 17:16:27 GMT+0800 (China Standard Time) -->
 
+1. [教师节](https://www.zhihu.com/search?q=教师节)
+1. [教师节快乐](https://www.zhihu.com/search?q=教师节快乐)
+1. [问界 M9](https://www.zhihu.com/search?q=问界 M9)
 1. [真正的狠人是什么样的](https://www.zhihu.com/search?q=真正的狠人是什么样的)
+1. [国人平均每秒喝掉676杯奶茶](https://www.zhihu.com/search?q=国人平均每秒喝掉676杯奶茶)
+1. [C罗900球](https://www.zhihu.com/search?q=C罗900球)
 1. [海南道路受损严重](https://www.zhihu.com/search?q=海南道路受损严重)
 1. [超强台风摩羯登陆](https://www.zhihu.com/search?q=超强台风摩羯登陆)
-1. [华为三折叠屏手机售价19999元起](https://www.zhihu.com/search?q=华为三折叠屏手机售价19999元起)
-1. [东风本田回应计划裁员](https://www.zhihu.com/search?q=东风本田回应计划裁员)
 1. [台风摩羯卫星云图如同骷髅现形](https://www.zhihu.com/search?q=台风摩羯卫星云图如同骷髅现形)
 1. [广西、广东等地将有暴雨](https://www.zhihu.com/search?q=广西、广东等地将有暴雨)
+1. [华为三折叠屏手机售价19999元起](https://www.zhihu.com/search?q=华为三折叠屏手机售价19999元起)
+1. [东风本田回应计划裁员](https://www.zhihu.com/search?q=东风本田回应计划裁员)
 1. [网传东北雨姐视频造假塌房](https://www.zhihu.com/search?q=网传东北雨姐视频造假塌房)
 1. [邓莎给儿子饭里加增高药](https://www.zhihu.com/search?q=邓莎给儿子饭里加增高药)
 1. [东北雨姐承认螃蟹是放到稻田里的](https://www.zhihu.com/search?q=东北雨姐承认螃蟹是放到稻田里的)
-1. [教师节](https://www.zhihu.com/search?q=教师节)
 1. [台风「摩羯」第三次登陆](https://www.zhihu.com/search?q=台风「摩羯」第三次登陆)
 1. [台风摩羯已致3死95伤](https://www.zhihu.com/search?q=台风摩羯已致3死95伤)
 1. [台风摩羯已致3人死亡95人受伤](https://www.zhihu.com/search?q=台风摩羯已致3人死亡95人受伤)
