@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 14 2024 14:22:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 14 2024 15:16:19 GMT+0800 (China Standard Time) -->
 
 1. [存量房贷利率25日起调整](https://www.zhihu.com/search?q=存量房贷利率25日起调整)
 1. [天猫双11攻略](https://www.zhihu.com/search?q=天猫双11攻略)
 1. [G2对战BLG](https://www.zhihu.com/search?q=G2对战BLG)
 1. [油价上调](https://www.zhihu.com/search?q=油价上调)
+1. [为什么都在担心中国的产业转移](https://www.zhihu.com/search?q=为什么都在担心中国的产业转移)
 1. [居民消费价格同比上涨](https://www.zhihu.com/search?q=居民消费价格同比上涨)
 1. [张本智和](https://www.zhihu.com/search?q=张本智和)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
