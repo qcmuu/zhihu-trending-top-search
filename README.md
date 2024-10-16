@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 16 2024 10:50:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 16 2024 11:22:59 GMT+0800 (China Standard Time) -->
 
-1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖揭晓)
-1. [三大指数集体低开](https://www.zhihu.com/search?q=三大指数集体低开)
 1. [存量房贷利率25日起调整](https://www.zhihu.com/search?q=存量房贷利率25日起调整)
 1. [诺贝尔经济学奖公布](https://www.zhihu.com/search?q=诺贝尔经济学奖公布)
 1. [天猫双11攻略](https://www.zhihu.com/search?q=天猫双11攻略)
@@ -27,6 +25,10 @@
 1. [台湾当归](https://www.zhihu.com/search?q=台湾当归)
 1. [居民消费价格同比上涨](https://www.zhihu.com/search?q=居民消费价格同比上涨)
 1. [张本智和](https://www.zhihu.com/search?q=张本智和)
+1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
+1. [英格兰胜芬兰](https://www.zhihu.com/search?q=英格兰胜芬兰)
+1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖揭晓)
+1. [三大指数集体低开](https://www.zhihu.com/search?q=三大指数集体低开)
 
 <!-- END -->
 

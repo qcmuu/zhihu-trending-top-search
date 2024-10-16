@@ -1,6 +1,4 @@
 [
-  { "query": "诺贝尔经济学奖揭晓", "display_query": "诺贝尔经济学奖揭晓" },
-  { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   {
     "query": "存量房贷利率25日起调整",
     "display_query": "存量房贷利率25日起调整"
@@ -14,5 +12,9 @@
   },
   { "query": "台湾当归", "display_query": "台湾当归" },
   { "query": "居民消费价格同比上涨", "display_query": "居民消费价格同比上涨" },
-  { "query": "张本智和", "display_query": "张本智和" }
+  { "query": "张本智和", "display_query": "张本智和" },
+  { "query": "工业克苏鲁什么意思", "display_query": "工业克苏鲁什么意思" },
+  { "query": "英格兰胜芬兰", "display_query": "英格兰胜芬兰" },
+  { "query": "诺贝尔经济学奖揭晓", "display_query": "诺贝尔经济学奖揭晓" },
+  { "query": "三大指数集体低开", "display_query": "三大指数集体低开" }
 ]
