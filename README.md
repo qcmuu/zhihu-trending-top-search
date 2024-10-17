@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 17 2024 17:16:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 17 2024 18:16:06 GMT+0800 (China Standard Time) -->
 
-1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖揭晓)
 1. [诺贝尔经济学奖公布](https://www.zhihu.com/search?q=诺贝尔经济学奖公布)
 1. [自首路上被抓算自首吗](https://www.zhihu.com/search?q=自首路上被抓算自首吗)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=照骗能骗到什么程度)
@@ -28,6 +27,7 @@
 1. [为何大巴车不能和普速铁路形成竞争](https://www.zhihu.com/search?q=为何大巴车不能和普速铁路形成竞争)
 1. [为什么张爱玲会写爱上自己爸爸这样的小说](https://www.zhihu.com/search?q=为什么张爱玲会写爱上自己爸爸这样的小说)
 1. [为何老小区加装电梯虎头蛇尾了](https://www.zhihu.com/search?q=为何老小区加装电梯虎头蛇尾了)
+1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖揭晓)
 1. [三大指数集体低开](https://www.zhihu.com/search?q=三大指数集体低开)
 1. [天猫双11攻略](https://www.zhihu.com/search?q=天猫双11攻略)
 1. [创业板指跌超3%](https://www.zhihu.com/search?q=创业板指跌超3%)
