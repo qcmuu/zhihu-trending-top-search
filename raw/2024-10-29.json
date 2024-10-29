@@ -1,9 +1,9 @@
 [
   {
-    "query": "中国贸促会称坚决反对美欧涉华经贸限制",
-    "display_query": "中国贸促会称坚决反对美欧涉华经贸限制"
+    "query": "T1 3:1 淘汰 GEN 晋级总决赛",
+    "display_query": "T1 3:1 淘汰 GEN 晋级总决赛"
   },
-  { "query": "10 款大路灯终极 PK", "display_query": "10 款大路灯终极 PK" },
+  { "query": "曼联主教练滕哈赫下课", "display_query": "曼联主教练滕哈赫下课" },
   { "query": "自首路上被抓算自首吗", "display_query": "自首路上被抓算自首吗" },
   { "query": "库里受伤", "display_query": "库里受伤" },
   { "query": "t1晋级决赛", "display_query": "t1晋级决赛" },
@@ -24,6 +24,11 @@
     "display_query": "为什么高铁实际运行速度没有达到最高速"
   },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
+  {
+    "query": "中国贸促会称坚决反对美欧涉华经贸限制",
+    "display_query": "中国贸促会称坚决反对美欧涉华经贸限制"
+  },
+  { "query": "10 款大路灯终极 PK", "display_query": "10 款大路灯终极 PK" },
   { "query": "波音考虑出售太空业务", "display_query": "波音考虑出售太空业务" },
   {
     "query": "中小银行长期限存款利率跌破 2 字头",

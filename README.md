@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 29 2024 17:16:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 29 2024 18:17:03 GMT+0800 (China Standard Time) -->
 
-1. [中国贸促会称坚决反对美欧涉华经贸限制](https://www.zhihu.com/search?q=中国贸促会称坚决反对美欧涉华经贸限制)
-1. [10 款大路灯终极 PK](https://www.zhihu.com/search?q=10 款大路灯终极 PK)
+1. [T1 3:1 淘汰 GEN 晋级总决赛](https://www.zhihu.com/search?q=T1 3:1 淘汰 GEN
+   晋级总决赛)
+1. [曼联主教练滕哈赫下课](https://www.zhihu.com/search?q=曼联主教练滕哈赫下课)
 1. [自首路上被抓算自首吗](https://www.zhihu.com/search?q=自首路上被抓算自首吗)
 1. [库里受伤](https://www.zhihu.com/search?q=库里受伤)
 1. [t1晋级决赛](https://www.zhihu.com/search?q=t1晋级决赛)
@@ -27,6 +28,8 @@
 1. [为什么古书出版要印成繁体字并排成竖版](https://www.zhihu.com/search?q=为什么古书出版要印成繁体字并排成竖版)
 1. [为什么高铁实际运行速度没有达到最高速](https://www.zhihu.com/search?q=为什么高铁实际运行速度没有达到最高速)
 1. [双十一买什么](https://www.zhihu.com/search?q=双十一买什么)
+1. [中国贸促会称坚决反对美欧涉华经贸限制](https://www.zhihu.com/search?q=中国贸促会称坚决反对美欧涉华经贸限制)
+1. [10 款大路灯终极 PK](https://www.zhihu.com/search?q=10 款大路灯终极 PK)
 1. [波音考虑出售太空业务](https://www.zhihu.com/search?q=波音考虑出售太空业务)
 1. [中小银行长期限存款利率跌破 2
    字头](https://www.zhihu.com/search?q=中小银行长期限存款利率跌破 2 字头)
