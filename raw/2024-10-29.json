@@ -1,9 +1,6 @@
 [
-  {
-    "query": "T1 3:1 淘汰 GEN 晋级总决赛",
-    "display_query": "T1 3:1 淘汰 GEN 晋级总决赛"
-  },
-  { "query": "曼联主教练滕哈赫下课", "display_query": "曼联主教练滕哈赫下课" },
+  { "query": "金球奖颁奖典礼", "display_query": "金球奖颁奖典礼" },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "自首路上被抓算自首吗", "display_query": "自首路上被抓算自首吗" },
   { "query": "库里受伤", "display_query": "库里受伤" },
   { "query": "t1晋级决赛", "display_query": "t1晋级决赛" },
@@ -25,6 +22,11 @@
   },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
   {
+    "query": "T1 3:1 淘汰 GEN 晋级总决赛",
+    "display_query": "T1 3:1 淘汰 GEN 晋级总决赛"
+  },
+  { "query": "曼联主教练滕哈赫下课", "display_query": "曼联主教练滕哈赫下课" },
+  {
     "query": "中国贸促会称坚决反对美欧涉华经贸限制",
     "display_query": "中国贸促会称坚决反对美欧涉华经贸限制"
   },
@@ -34,8 +36,6 @@
     "query": "中小银行长期限存款利率跌破 2 字头",
     "display_query": "中小银行长期限存款利率跌破 2 字头"
   },
-  { "query": "金球奖颁奖典礼", "display_query": "金球奖颁奖典礼" },
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "2024 好物 100 发布", "display_query": "2024 好物 100 发布" },
   { "query": "永夜星河定档", "display_query": "永夜星河定档" },
   {
