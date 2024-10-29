@@ -1,6 +1,9 @@
 [
-  { "query": "金球奖颁奖典礼", "display_query": "金球奖颁奖典礼" },
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
+  { "query": "波音考虑出售太空业务", "display_query": "波音考虑出售太空业务" },
+  {
+    "query": "中小银行长期限存款利率跌破 2 字头",
+    "display_query": "中小银行长期限存款利率跌破 2 字头"
+  },
   { "query": "自首路上被抓算自首吗", "display_query": "自首路上被抓算自首吗" },
   { "query": "库里受伤", "display_query": "库里受伤" },
   { "query": "t1晋级决赛", "display_query": "t1晋级决赛" },
@@ -21,6 +24,8 @@
     "display_query": "为什么高铁实际运行速度没有达到最高速"
   },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
+  { "query": "金球奖颁奖典礼", "display_query": "金球奖颁奖典礼" },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "2024 好物 100 发布", "display_query": "2024 好物 100 发布" },
   { "query": "永夜星河定档", "display_query": "永夜星河定档" },
   {
