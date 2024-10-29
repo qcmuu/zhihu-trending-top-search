@@ -1,7 +1,8 @@
 [
+  { "query": "永夜星河定档", "display_query": "永夜星河定档" },
   {
-    "query": "新乡女子基因检测发现祖籍广西",
-    "display_query": "新乡女子基因检测发现祖籍广西"
+    "query": "江西上犹奖励三孩家庭 1.3 万",
+    "display_query": "江西上犹奖励三孩家庭 1.3 万"
   },
   { "query": "自首路上被抓算自首吗", "display_query": "自首路上被抓算自首吗" },
   { "query": "库里受伤", "display_query": "库里受伤" },
@@ -23,6 +24,10 @@
     "display_query": "为什么高铁实际运行速度没有达到最高速"
   },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
+  {
+    "query": "新乡女子基因检测发现祖籍广西",
+    "display_query": "新乡女子基因检测发现祖籍广西"
+  },
   { "query": "2024 好物 100 发布", "display_query": "2024 好物 100 发布" },
   { "query": "勇士vs快船", "display_query": "勇士vs快船" }
 ]
