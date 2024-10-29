@@ -15,9 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 29 2024 20:31:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 29 2024 21:23:40 GMT+0800 (China Standard Time) -->
 
-1. [金球奖颁奖典礼](https://www.zhihu.com/search?q=金球奖颁奖典礼)
+1. [小米 SU7 Ultra 纽北最快四门车](https://www.zhihu.com/search?q=小米 SU7 Ultra
+   纽北最快四门车)
+1. [吃麦片可以控制血糖是真的吗？](https://www.zhihu.com/search?q=吃麦片可以控制血糖是真的吗？)
 1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
 1. [自首路上被抓算自首吗](https://www.zhihu.com/search?q=自首路上被抓算自首吗)
 1. [库里受伤](https://www.zhihu.com/search?q=库里受伤)
@@ -26,6 +28,7 @@
 1. [「抽象画」是不是画难看人的借口](https://www.zhihu.com/search?q=「抽象画」是不是画难看人的借口)
 1. [为什么古书出版要印成繁体字并排成竖版](https://www.zhihu.com/search?q=为什么古书出版要印成繁体字并排成竖版)
 1. [为什么高铁实际运行速度没有达到最高速](https://www.zhihu.com/search?q=为什么高铁实际运行速度没有达到最高速)
+1. [金球奖颁奖典礼](https://www.zhihu.com/search?q=金球奖颁奖典礼)
 1. [双十一买什么](https://www.zhihu.com/search?q=双十一买什么)
 1. [T1 3:1 淘汰 GEN 晋级总决赛](https://www.zhihu.com/search?q=T1 3:1 淘汰 GEN
    晋级总决赛)
