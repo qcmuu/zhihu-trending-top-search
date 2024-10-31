@@ -15,20 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 31 2024 15:14:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 31 2024 16:18:03 GMT+0800 (China Standard Time) -->
 
-1. [小巷人家小演员演技](https://www.zhihu.com/search?q=小巷人家小演员演技)
-1. [11 款人体工学枕硬核测评](https://www.zhihu.com/search?q=11
-   款人体工学枕硬核测评)
 1. [什么叫降维打击](https://www.zhihu.com/search?q=什么叫降维打击)
 1. [独行侠力克森林狼](https://www.zhihu.com/search?q=独行侠力克森林狼)
 1. [有没有动物杰作被误会是人为的](https://www.zhihu.com/search?q=有没有动物杰作被误会是人为的)
 1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=中国人玩阳谋到底有多牛)
+1. [斯坦福监狱实验创始人津巴多辞世](https://www.zhihu.com/search?q=斯坦福监狱实验创始人津巴多辞世)
 1. [双十一买什么](https://www.zhihu.com/search?q=双十一买什么)
 1. [2024 好物 100 发布](https://www.zhihu.com/search?q=2024 好物 100 发布)
 1. [答主评审团](https://www.zhihu.com/search?q=答主评审团)
 1. [史上最卷测评](https://www.zhihu.com/search?q=史上最卷测评)
 1. [那些真的「好」的好物](https://www.zhihu.com/search?q=那些真的「好」的好物)
+1. [小巷人家小演员演技](https://www.zhihu.com/search?q=小巷人家小演员演技)
+1. [11 款人体工学枕硬核测评](https://www.zhihu.com/search?q=11
+   款人体工学枕硬核测评)
 1. [今年最「卷」的好物颁奖礼](https://www.zhihu.com/search?q=今年最「卷」的好物颁奖礼)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 1. [自首路上被抓算自首吗](https://www.zhihu.com/search?q=自首路上被抓算自首吗)
