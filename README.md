@@ -15,8 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 01 2024 14:23:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 01 2024 15:15:16 GMT+0800 (China Standard Time) -->
 
+1. [如何评价 S14 选手狐狸换血的操作](https://www.zhihu.com/search?q=如何评价 S14
+   选手狐狸换血的操作)
+1. [野猪为何「泛滥成灾」](https://www.zhihu.com/search?q=野猪为何「泛滥成灾」)
 1. [什么叫降维打击](https://www.zhihu.com/search?q=什么叫降维打击)
 1. [有没有动物杰作被误会是人为的](https://www.zhihu.com/search?q=有没有动物杰作被误会是人为的)
 1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=中国人玩阳谋到底有多牛)
