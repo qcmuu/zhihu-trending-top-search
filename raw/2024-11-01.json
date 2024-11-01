@@ -1,9 +1,5 @@
 [
-  { "query": "美国三季度gdp增2.8%", "display_query": "美国三季度gdp增2.8%" },
-  {
-    "query": "如何评价小米 15 和澎湃 OS2",
-    "display_query": "如何评价小米 15 和澎湃 OS2"
-  },
+  { "query": "永夜星河", "display_query": "永夜星河" },
   { "query": "什么叫降维打击", "display_query": "什么叫降维打击" },
   {
     "query": "有没有动物杰作被误会是人为的",
@@ -24,6 +20,12 @@
   { "query": "双十一买什么", "display_query": "双十一买什么" },
   { "query": "2024 好物 100 发布", "display_query": "2024 好物 100 发布" },
   { "query": "答主评审团", "display_query": "答主评审团" },
+  { "query": "史上最卷测评", "display_query": "史上最卷测评" },
+  { "query": "美国三季度gdp增2.8%", "display_query": "美国三季度gdp增2.8%" },
+  {
+    "query": "如何评价小米 15 和澎湃 OS2",
+    "display_query": "如何评价小米 15 和澎湃 OS2"
+  },
   {
     "query": "如何评价 S14 选手狐狸换血的操作",
     "display_query": "如何评价 S14 选手狐狸换血的操作"
@@ -33,7 +35,6 @@
     "query": "斯坦福监狱实验创始人津巴多辞世",
     "display_query": "斯坦福监狱实验创始人津巴多辞世"
   },
-  { "query": "史上最卷测评", "display_query": "史上最卷测评" },
   { "query": "独行侠力克森林狼", "display_query": "独行侠力克森林狼" },
   { "query": "那些真的「好」的好物", "display_query": "那些真的「好」的好物" },
   {
