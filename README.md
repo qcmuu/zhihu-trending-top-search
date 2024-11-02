@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 02 2024 23:16:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 03 2024 00:18:25 GMT+0800 (China Standard Time) -->
 
 1. [永夜星河](https://www.zhihu.com/search?q=永夜星河)
 1. [什么叫降维打击](https://www.zhihu.com/search?q=什么叫降维打击)
@@ -27,12 +27,6 @@
 1. [答主评审团](https://www.zhihu.com/search?q=答主评审团)
 1. [史上最卷测评](https://www.zhihu.com/search?q=史上最卷测评)
 1. [那些真的「好」的好物](https://www.zhihu.com/search?q=那些真的「好」的好物)
-1. [如何理解天文学中「潮汐锁定」现象](https://www.zhihu.com/search?q=如何理解天文学中「潮汐锁定」现象)
-1. [有没有动物杰作被误会是人为的](https://www.zhihu.com/search?q=有没有动物杰作被误会是人为的)
-1. [中消协痛批不明链接跳转消费陷阱](https://www.zhihu.com/search?q=中消协痛批不明链接跳转消费陷阱)
-1. [男子为林黛玉发 240
-   分钟澄清视频](https://www.zhihu.com/search?q=男子为林黛玉发 240 分钟澄清视频)
-1. [京津冀雾霾为何卷土重来](https://www.zhihu.com/search?q=京津冀雾霾为何卷土重来)
 
 <!-- END -->
 
