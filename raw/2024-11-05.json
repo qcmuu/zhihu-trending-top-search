@@ -1,9 +1,6 @@
 [
-  { "query": "怎样评价金城武", "display_query": "怎样评价金城武" },
-  {
-    "query": "山东一铁矿发生事故致 3 人死亡",
-    "display_query": "山东一铁矿发生事故致 3 人死亡"
-  },
+  { "query": "T1", "display_query": "T1" },
+  { "query": "BLG", "display_query": "BLG" },
   { "query": "Faker", "display_query": "Faker" },
   { "query": "t1夺冠", "display_query": "t1夺冠" },
   { "query": "郑钦文", "display_query": "郑钦文" },
@@ -15,8 +12,11 @@
   { "query": "双十一买什么", "display_query": "双十一买什么" },
   { "query": "答主评审团", "display_query": "答主评审团" },
   { "query": "那些真的「好」的好物", "display_query": "那些真的「好」的好物" },
-  { "query": "T1", "display_query": "T1" },
-  { "query": "BLG", "display_query": "BLG" },
+  { "query": "怎样评价金城武", "display_query": "怎样评价金城武" },
+  {
+    "query": "山东一铁矿发生事故致 3 人死亡",
+    "display_query": "山东一铁矿发生事故致 3 人死亡"
+  },
   { "query": "珠帘玉幕", "display_query": "珠帘玉幕" },
   { "query": "郑钦文vs萨巴伦卡", "display_query": "郑钦文vs萨巴伦卡" }
 ]
