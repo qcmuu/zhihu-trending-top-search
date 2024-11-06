@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 06 2024 10:43:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 06 2024 11:18:03 GMT+0800 (China Standard Time) -->
 
-1. [郭艾伦回应让辽篮赠票给球迷](https://www.zhihu.com/search?q=郭艾伦回应让辽篮赠票给球迷)
+1. [T1](https://www.zhihu.com/search?q=T1)
 1. [BLG](https://www.zhihu.com/search?q=BLG)
 1. [Faker](https://www.zhihu.com/search?q=Faker)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1夺冠)
@@ -27,7 +27,7 @@
 1. [双十一买什么](https://www.zhihu.com/search?q=双十一买什么)
 1. [答主评审团](https://www.zhihu.com/search?q=答主评审团)
 1. [那些真的「好」的好物](https://www.zhihu.com/search?q=那些真的「好」的好物)
-1. [T1](https://www.zhihu.com/search?q=T1)
+1. [郭艾伦回应让辽篮赠票给球迷](https://www.zhihu.com/search?q=郭艾伦回应让辽篮赠票给球迷)
 1. [医保药品追溯码亮剑](https://www.zhihu.com/search?q=医保药品追溯码亮剑)
 1. [T1 3:2 击败 BLG 夺冠](https://www.zhihu.com/search?q=T1 3:2 击败 BLG 夺冠)
 

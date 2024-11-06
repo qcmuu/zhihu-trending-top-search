@@ -1,8 +1,5 @@
 [
-  {
-    "query": "郭艾伦回应让辽篮赠票给球迷",
-    "display_query": "郭艾伦回应让辽篮赠票给球迷"
-  },
+  { "query": "T1", "display_query": "T1" },
   { "query": "BLG", "display_query": "BLG" },
   { "query": "Faker", "display_query": "Faker" },
   { "query": "t1夺冠", "display_query": "t1夺冠" },
@@ -15,7 +12,10 @@
   { "query": "双十一买什么", "display_query": "双十一买什么" },
   { "query": "答主评审团", "display_query": "答主评审团" },
   { "query": "那些真的「好」的好物", "display_query": "那些真的「好」的好物" },
-  { "query": "T1", "display_query": "T1" },
+  {
+    "query": "郭艾伦回应让辽篮赠票给球迷",
+    "display_query": "郭艾伦回应让辽篮赠票给球迷"
+  },
   { "query": "医保药品追溯码亮剑", "display_query": "医保药品追溯码亮剑" },
   { "query": "T1 3:2 击败 BLG 夺冠", "display_query": "T1 3:2 击败 BLG 夺冠" }
 ]
