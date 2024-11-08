@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 08 2024 21:20:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 08 2024 22:13:36 GMT+0800 (China Standard Time) -->
 
-1. [油价下调](https://www.zhihu.com/search?q=油价下调)
+1. [24 万买的国企工作有合同没入职时间](https://www.zhihu.com/search?q=24
+   万买的国企工作有合同没入职时间)
 1. [中国记者节](https://www.zhihu.com/search?q=中国记者节)
 1. [双十一买什么](https://www.zhihu.com/search?q=双十一买什么)
 1. [答主评审团](https://www.zhihu.com/search?q=答主评审团)
@@ -27,6 +28,7 @@
 1. [「答主评审团」到底是什么？](https://www.zhihu.com/search?q=「答主评审团」到底是什么？)
 1. [当测评答主「打直球」](https://www.zhihu.com/search?q=当测评答主「打直球」)
 1. [看完还不知道怎么选，算我输！](https://www.zhihu.com/search?q=看完还不知道怎么选，算我输！)
+1. [油价下调](https://www.zhihu.com/search?q=油价下调)
 1. [马斯克助选之余仍进「暗黑4」天梯榜](https://www.zhihu.com/search?q=马斯克助选之余仍进「暗黑4」天梯榜)
 1. [海军歼 15T 落地珠海](https://www.zhihu.com/search?q=海军歼 15T 落地珠海)
 1. [起猛了，看到「真」的测评了](https://www.zhihu.com/search?q=起猛了，看到「真」的测评了)

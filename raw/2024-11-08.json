@@ -1,5 +1,8 @@
 [
-  { "query": "油价下调", "display_query": "油价下调" },
+  {
+    "query": "24 万买的国企工作有合同没入职时间",
+    "display_query": "24 万买的国企工作有合同没入职时间"
+  },
   { "query": "中国记者节", "display_query": "中国记者节" },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
   { "query": "答主评审团", "display_query": "答主评审团" },
@@ -21,6 +24,7 @@
     "query": "看完还不知道怎么选，算我输！",
     "display_query": "看完还不知道怎么选，算我输！"
   },
+  { "query": "油价下调", "display_query": "油价下调" },
   {
     "query": "马斯克助选之余仍进「暗黑4」天梯榜",
     "display_query": "马斯克助选之余仍进「暗黑4」天梯榜"
