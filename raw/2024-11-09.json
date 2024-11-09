@@ -1,5 +1,4 @@
 [
-  { "query": "立冬", "display_query": "立冬" },
   { "query": "油价下调", "display_query": "油价下调" },
   { "query": "中国记者节", "display_query": "中国记者节" },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
@@ -19,6 +18,11 @@
   },
   { "query": "当测评答主「打直球」", "display_query": "当测评答主「打直球」" },
   {
+    "query": "看完还不知道怎么选，算我输！",
+    "display_query": "看完还不知道怎么选，算我输！"
+  },
+  { "query": "立冬", "display_query": "立冬" },
+  {
     "query": "「流浪地球3」完成备案立项",
     "display_query": "「流浪地球3」完成备案立项"
   },
@@ -29,9 +33,5 @@
   {
     "query": "为什么感觉除了中国其他国家都发展很慢",
     "display_query": "为什么感觉除了中国其他国家都发展很慢"
-  },
-  {
-    "query": "看完还不知道怎么选，算我输！",
-    "display_query": "看完还不知道怎么选，算我输！"
   }
 ]
