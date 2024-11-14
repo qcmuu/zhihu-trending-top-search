@@ -1,6 +1,8 @@
 [
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "王曼昱vs王艺迪", "display_query": "王曼昱vs王艺迪" },
+  {
+    "query": "政府应该如何对待郑州大学生骑行开封",
+    "display_query": "政府应该如何对待郑州大学生骑行开封"
+  },
   {
     "query": "为何古人不用琥珀来给尸体做防腐",
     "display_query": "为何古人不用琥珀来给尸体做防腐"
@@ -25,6 +27,8 @@
     "display_query": "幼儿园招聘需做背景查询和健康检查"
   },
   { "query": "拜登是真傻还是装傻", "display_query": "拜登是真傻还是装傻" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "王曼昱vs王艺迪", "display_query": "王曼昱vs王艺迪" },
   { "query": "双11大战收官", "display_query": "双11大战收官" },
   { "query": "叶珂退网", "display_query": "叶珂退网" },
   {
