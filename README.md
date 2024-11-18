@@ -15,8 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 18 2024 15:16:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 18 2024 16:21:48 GMT+0800 (China Standard Time) -->
 
+1. [捐二战相册小伙被粉丝送军大衣](https://www.zhihu.com/search?q=捐二战相册小伙被粉丝送军大衣)
+1. [雷佳音 金鸡奖最佳男主角](https://www.zhihu.com/search?q=雷佳音
+   金鸡奖最佳男主角)
 1. [湖人vs鹈鹕](https://www.zhihu.com/search?q=湖人vs鹈鹕)
 1. [支付宝崩了](https://www.zhihu.com/search?q=支付宝崩了)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=男人最无声的炫耀是什么)
