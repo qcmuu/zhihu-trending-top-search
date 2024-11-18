@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 18 2024 14:23:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 18 2024 15:16:14 GMT+0800 (China Standard Time) -->
 
-1. [黑龙江老虎进村咬伤村民](https://www.zhihu.com/search?q=黑龙江老虎进村咬伤村民)
-1. [为什么河流能劈开山脉](https://www.zhihu.com/search?q=为什么河流能劈开山脉)
+1. [湖人vs鹈鹕](https://www.zhihu.com/search?q=湖人vs鹈鹕)
+1. [支付宝崩了](https://www.zhihu.com/search?q=支付宝崩了)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=男人最无声的炫耀是什么)
 1. [支付宝致歉](https://www.zhihu.com/search?q=支付宝致歉)
 1. [歼-35A在珠海进行动态展示](https://www.zhihu.com/search?q=歼-35A在珠海进行动态展示)
@@ -31,7 +31,8 @@
 1. [麦琳让《再见爱人》火到了国外](https://www.zhihu.com/search?q=麦琳让《再见爱人》火到了国外)
 1. [腾讯第三季度营收 1672 亿](https://www.zhihu.com/search?q=腾讯第三季度营收
    1672 亿)
-1. [支付宝崩了](https://www.zhihu.com/search?q=支付宝崩了)
+1. [黑龙江老虎进村咬伤村民](https://www.zhihu.com/search?q=黑龙江老虎进村咬伤村民)
+1. [为什么河流能劈开山脉](https://www.zhihu.com/search?q=为什么河流能劈开山脉)
 1. [幼儿园招聘需做背景查询和健康检查](https://www.zhihu.com/search?q=幼儿园招聘需做背景查询和健康检查)
 1. [2024 广州车展](https://www.zhihu.com/search?q=2024 广州车展)
 1. [天舟八号](https://www.zhihu.com/search?q=天舟八号)
