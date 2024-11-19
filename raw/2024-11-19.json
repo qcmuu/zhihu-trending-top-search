@@ -1,8 +1,5 @@
 [
-  {
-    "query": "如何评价李行亮和麦麦的夜聊",
-    "display_query": "如何评价李行亮和麦麦的夜聊"
-  },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "创业板指跌逾1%", "display_query": "创业板指跌逾1%" },
   { "query": "支付宝崩了", "display_query": "支付宝崩了" },
   { "query": "独行侠险胜雷霆", "display_query": "独行侠险胜雷霆" },
@@ -21,7 +18,10 @@
   },
   { "query": "李行亮 求救信号", "display_query": "李行亮 求救信号" },
   { "query": "国足赢了", "display_query": "国足赢了" },
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
+  {
+    "query": "如何评价李行亮和麦麦的夜聊",
+    "display_query": "如何评价李行亮和麦麦的夜聊"
+  },
   {
     "query": "苏-57 上演旱地拔葱落叶飘等高难动作",
     "display_query": "苏-57 上演旱地拔葱落叶飘等高难动作"
