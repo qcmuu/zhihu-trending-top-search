@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 22 2024 18:17:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 22 2024 19:13:32 GMT+0800 (China Standard Time) -->
 
 1. [今日小雪](https://www.zhihu.com/search?q=今日小雪)
 1. [为什么古代紫色稀有](https://www.zhihu.com/search?q=为什么古代紫色稀有)
@@ -23,11 +23,12 @@
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=早期的的网红后来怎么样了)
 1. [乌克兰多地遭导弹袭击](https://www.zhihu.com/search?q=乌克兰多地遭导弹袭击)
 1. [为什么只有中国饮食没有被西化](https://www.zhihu.com/search?q=为什么只有中国饮食没有被西化)
-1. [国足进球了](https://www.zhihu.com/search?q=国足进球了)
 1. [如何看待国企的末尾淘汰制度](https://www.zhihu.com/search?q=如何看待国企的末尾淘汰制度)
 1. [CPU 温度是越低越好吗](https://www.zhihu.com/search?q=CPU 温度是越低越好吗)
 1. [阿根廷 10 月单月通胀率 2.7%](https://www.zhihu.com/search?q=阿根廷 10
    月单月通胀率 2.7%)
+1. [米莱宣布创造阿根廷奇迹](https://www.zhihu.com/search?q=米莱宣布创造阿根廷奇迹)
+1. [国足进球了](https://www.zhihu.com/search?q=国足进球了)
 1. [孙颖莎vs陈幸同](https://www.zhihu.com/search?q=孙颖莎vs陈幸同)
 1. [梁靖崑vs张本智和](https://www.zhihu.com/search?q=梁靖崑vs张本智和)
 1. [吉林一滑冰馆发生坍塌](https://www.zhihu.com/search?q=吉林一滑冰馆发生坍塌)
