@@ -1,6 +1,12 @@
 [
-  { "query": "今日小雪", "display_query": "今日小雪" },
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
+  {
+    "query": "武磊随队出征足协杯决赛",
+    "display_query": "武磊随队出征足协杯决赛"
+  },
+  {
+    "query": "87版红楼梦鸳鸯扮演者去世",
+    "display_query": "87版红楼梦鸳鸯扮演者去世"
+  },
   { "query": "乌克兰多地遭导弹袭击", "display_query": "乌克兰多地遭导弹袭击" },
   {
     "query": "为什么只有中国饮食没有被西化",
@@ -21,5 +27,7 @@
     "query": "良品铺子被举报问题不成立",
     "display_query": "良品铺子被举报问题不成立"
   },
+  { "query": "今日小雪", "display_query": "今日小雪" },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "甄嬛传播出13周年", "display_query": "甄嬛传播出13周年" }
 ]
