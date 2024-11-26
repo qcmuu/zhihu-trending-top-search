@@ -1,12 +1,9 @@
 [
   {
-    "query": "为何中国科技在最近 2-3 年飞速发展",
-    "display_query": "为何中国科技在最近 2-3 年飞速发展"
+    "query": "黑龙江发布暴雪红色预警",
+    "display_query": "黑龙江发布暴雪红色预警"
   },
-  {
-    "query": "我国在全球率实现土地退化零增长",
-    "display_query": "我国在全球率实现土地退化零增长"
-  },
+  { "query": "德云社纲丝节", "display_query": "德云社纲丝节" },
   {
     "query": "胖东来为什么没有走出河南",
     "display_query": "胖东来为什么没有走出河南"
@@ -19,15 +16,18 @@
   { "query": "小红书赚钱技巧", "display_query": "小红书赚钱技巧" },
   { "query": "加入知乎推文团队", "display_query": "加入知乎推文团队" },
   {
+    "query": "为何中国科技在最近 2-3 年飞速发展",
+    "display_query": "为何中国科技在最近 2-3 年飞速发展"
+  },
+  {
+    "query": "我国在全球率实现土地退化零增长",
+    "display_query": "我国在全球率实现土地退化零增长"
+  },
+  {
     "query": "我国手机闲置量将达60亿部",
     "display_query": "我国手机闲置量将达60亿部"
   },
   { "query": "知乎写作赚钱方法", "display_query": "知乎写作赚钱方法" },
-  {
-    "query": "黑龙江发布暴雪红色预警",
-    "display_query": "黑龙江发布暴雪红色预警"
-  },
-  { "query": "德云社纲丝节", "display_query": "德云社纲丝节" },
   { "query": "王曼昱女单冠军", "display_query": "王曼昱女单冠军" },
   { "query": "掘金vs湖人", "display_query": "掘金vs湖人" },
   { "query": "时代少年团演唱会直播", "display_query": "时代少年团演唱会直播" },
