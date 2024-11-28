@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 28 2024 09:17:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 28 2024 10:58:14 GMT+0800 (China Standard Time) -->
 
-1. [王曼昱女单冠军](https://www.zhihu.com/search?q=王曼昱女单冠军)
-1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
+1. [官方通报野猪伤人致死](https://www.zhihu.com/search?q=官方通报野猪伤人致死)
+1. [为什么很多年轻人陷入消费主义](https://www.zhihu.com/search?q=为什么很多年轻人陷入消费主义)
 1. [全国冻手冻脚地图出炉](https://www.zhihu.com/search?q=全国冻手冻脚地图出炉)
 1. [掘金vs湖人](https://www.zhihu.com/search?q=掘金vs湖人)
 1. [韩国](https://www.zhihu.com/search?q=韩国)
@@ -27,6 +27,8 @@
 1. [小说推文授权申请](https://www.zhihu.com/search?q=小说推文授权申请)
 1. [电商运营入门](https://www.zhihu.com/search?q=电商运营入门)
 1. [小红书赚钱技巧](https://www.zhihu.com/search?q=小红书赚钱技巧)
+1. [王曼昱女单冠军](https://www.zhihu.com/search?q=王曼昱女单冠军)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 
 <!-- END -->
 
