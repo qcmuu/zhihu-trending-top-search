@@ -1,9 +1,5 @@
 [
-  { "query": "国乒8:0胜澳大利亚", "display_query": "国乒8:0胜澳大利亚" },
-  {
-    "query": "电吉他孤独患者solo挑战",
-    "display_query": "电吉他孤独患者solo挑战"
-  },
+  { "query": "国考笔试", "display_query": "国考笔试" },
   { "query": "申论", "display_query": "申论" },
   { "query": "申论大作文", "display_query": "申论大作文" },
   { "query": "国考答案", "display_query": "国考答案" },
@@ -17,12 +13,20 @@
     "query": "如何看待女病毒学家用病毒疗法治疗癌症",
     "display_query": "如何看待女病毒学家用病毒疗法治疗癌症"
   },
-  { "query": "红米 K80", "display_query": "红米 K80" },
-  { "query": "国考笔试", "display_query": "国考笔试" },
   {
     "query": "快手电商宣布「废止退款不退货规则」",
     "display_query": "快手电商宣布「废止退款不退货规则」"
   },
+  {
+    "query": "塔克拉玛干沙漠锁边工程顺利合龙",
+    "display_query": "塔克拉玛干沙漠锁边工程顺利合龙"
+  },
+  { "query": "国乒8:0胜澳大利亚", "display_query": "国乒8:0胜澳大利亚" },
+  {
+    "query": "电吉他孤独患者solo挑战",
+    "display_query": "电吉他孤独患者solo挑战"
+  },
+  { "query": "红米 K80", "display_query": "红米 K80" },
   { "query": "华为 Mate 70 价格", "display_query": "华为 Mate 70 价格" },
   {
     "query": "国家医保药品目录新增 91 种药品",

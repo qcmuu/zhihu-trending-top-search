@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 03 2024 14:24:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 03 2024 15:16:29 GMT+0800 (China Standard Time) -->
 
-1. [国乒8:0胜澳大利亚](https://www.zhihu.com/search?q=国乒8:0胜澳大利亚)
-1. [电吉他孤独患者solo挑战](https://www.zhihu.com/search?q=电吉他孤独患者solo挑战)
+1. [国考笔试](https://www.zhihu.com/search?q=国考笔试)
 1. [申论](https://www.zhihu.com/search?q=申论)
 1. [申论大作文](https://www.zhihu.com/search?q=申论大作文)
 1. [国考答案](https://www.zhihu.com/search?q=国考答案)
@@ -26,9 +25,11 @@
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=你见过的狠人有多绝)
 1. [为何诸葛亮墓始终无人敢盗](https://www.zhihu.com/search?q=为何诸葛亮墓始终无人敢盗)
 1. [如何看待女病毒学家用病毒疗法治疗癌症](https://www.zhihu.com/search?q=如何看待女病毒学家用病毒疗法治疗癌症)
-1. [红米 K80](https://www.zhihu.com/search?q=红米 K80)
-1. [国考笔试](https://www.zhihu.com/search?q=国考笔试)
 1. [快手电商宣布「废止退款不退货规则」](https://www.zhihu.com/search?q=快手电商宣布「废止退款不退货规则」)
+1. [塔克拉玛干沙漠锁边工程顺利合龙](https://www.zhihu.com/search?q=塔克拉玛干沙漠锁边工程顺利合龙)
+1. [国乒8:0胜澳大利亚](https://www.zhihu.com/search?q=国乒8:0胜澳大利亚)
+1. [电吉他孤独患者solo挑战](https://www.zhihu.com/search?q=电吉他孤独患者solo挑战)
+1. [红米 K80](https://www.zhihu.com/search?q=红米 K80)
 1. [华为 Mate 70 价格](https://www.zhihu.com/search?q=华为 Mate 70 价格)
 1. [国家医保药品目录新增 91
    种药品](https://www.zhihu.com/search?q=国家医保药品目录新增 91 种药品)
