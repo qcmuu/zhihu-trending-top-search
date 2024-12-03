@@ -1,12 +1,10 @@
 [
-  {
-    "query": "如何看待农村现在流行养女防老",
-    "display_query": "如何看待农村现在流行养女防老"
-  },
-  { "query": "《异环》首测", "display_query": "《异环》首测" },
+  { "query": "国考笔试", "display_query": "国考笔试" },
+  { "query": "申论", "display_query": "申论" },
   { "query": "申论大作文", "display_query": "申论大作文" },
   { "query": "国考弃考", "display_query": "国考弃考" },
-  { "query": "国考笔试", "display_query": "国考笔试" },
+  { "query": "你见过的狠人有多绝", "display_query": "你见过的狠人有多绝" },
+  { "query": "湖人vs森林狼", "display_query": "湖人vs森林狼" },
   {
     "query": "为何诸葛亮墓始终无人敢盗",
     "display_query": "为何诸葛亮墓始终无人敢盗"
@@ -19,6 +17,11 @@
     "query": "快手电商宣布「废止退款不退货规则」",
     "display_query": "快手电商宣布「废止退款不退货规则」"
   },
+  { "query": "《异环》首测", "display_query": "《异环》首测" },
+  {
+    "query": "如何看待农村现在流行养女防老",
+    "display_query": "如何看待农村现在流行养女防老"
+  },
   {
     "query": "特斯拉对供应链公司付款周期缩短",
     "display_query": "特斯拉对供应链公司付款周期缩短"
@@ -27,9 +30,7 @@
     "query": "官方证实 OPPO 杭州全球总部停工",
     "display_query": "官方证实 OPPO 杭州全球总部停工"
   },
-  { "query": "申论", "display_query": "申论" },
   { "query": "国考答案", "display_query": "国考答案" },
-  { "query": "你见过的狠人有多绝", "display_query": "你见过的狠人有多绝" },
   {
     "query": "塔克拉玛干沙漠锁边工程顺利合龙",
     "display_query": "塔克拉玛干沙漠锁边工程顺利合龙"
