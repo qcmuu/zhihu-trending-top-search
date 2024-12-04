@@ -1,6 +1,12 @@
 [
-  { "query": "国考笔试", "display_query": "国考笔试" },
-  { "query": "申论", "display_query": "申论" },
+  {
+    "query": "为什么唐僧扫塔是从下往上扫",
+    "display_query": "为什么唐僧扫塔是从下往上扫"
+  },
+  {
+    "query": "为什么直升机旋翼在运行时可以保持水平",
+    "display_query": "为什么直升机旋翼在运行时可以保持水平"
+  },
   { "query": "申论大作文", "display_query": "申论大作文" },
   { "query": "国考弃考", "display_query": "国考弃考" },
   {
@@ -18,6 +24,8 @@
     "query": "如何看待女病毒学家用病毒疗法治疗癌症",
     "display_query": "如何看待女病毒学家用病毒疗法治疗癌症"
   },
+  { "query": "国考笔试", "display_query": "国考笔试" },
+  { "query": "申论", "display_query": "申论" },
   { "query": "华为纯血鸿蒙平板", "display_query": "华为纯血鸿蒙平板" },
   {
     "query": "乌克兰一半发电能力已丧失",
