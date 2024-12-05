@@ -1,4 +1,6 @@
 [
+  { "query": "国考笔试", "display_query": "国考笔试" },
+  { "query": "国考弃考", "display_query": "国考弃考" },
   {
     "query": "为什么检查上级都会提前通知",
     "display_query": "为什么检查上级都会提前通知"
