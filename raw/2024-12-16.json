@@ -1,9 +1,5 @@
 [
-  { "query": "樊振东3比1林诗栋", "display_query": "樊振东3比1林诗栋" },
-  {
-    "query": "若中国发现特大油田新能源和油车将会如何",
-    "display_query": "若中国发现特大油田新能源和油车将会如何"
-  },
+  { "query": "11 月 70 城房价出炉", "display_query": "11 月 70 城房价出炉" },
   { "query": "石宇奇夺男单冠军", "display_query": "石宇奇夺男单冠军" },
   {
     "query": "为什么现在年轻人存不下钱",
@@ -30,10 +26,14 @@
     "query": "薪酬保密制度是否受法律保护",
     "display_query": "薪酬保密制度是否受法律保护"
   },
-  { "query": "11 月 70 城房价出炉", "display_query": "11 月 70 城房价出炉" },
   {
     "query": "为什么孩子成绩优异却感到内心空虚",
     "display_query": "为什么孩子成绩优异却感到内心空虚"
+  },
+  { "query": "樊振东3比1林诗栋", "display_query": "樊振东3比1林诗栋" },
+  {
+    "query": "若中国发现特大油田新能源和油车将会如何",
+    "display_query": "若中国发现特大油田新能源和油车将会如何"
   },
   { "query": "A股", "display_query": "A股" },
   { "query": "tiktok提交紧急动议", "display_query": "tiktok提交紧急动议" },
