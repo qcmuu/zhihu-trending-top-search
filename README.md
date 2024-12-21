@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 21 2024 13:13:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 21 2024 14:19:40 GMT+0800 (China Standard Time) -->
 
-1. [没文化可以有多可怕](https://www.zhihu.com/search?q=没文化可以有多可怕)
+1. [2024你最喜欢的游戏角色是谁](https://www.zhihu.com/search?q=2024你最喜欢的游戏角色是谁)
+1. [这里是天津](https://www.zhihu.com/search?q=这里是天津)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=美联储宣布降息 25
    个基点)
@@ -28,6 +29,7 @@
 1. [播客为什么那么火](https://www.zhihu.com/search?q=播客为什么那么火)
 1. [美国威斯康辛州发生校园枪击案](https://www.zhihu.com/search?q=美国威斯康辛州发生校园枪击案)
 1. [前11月免签入境外国人同比增长123.3%](https://www.zhihu.com/search?q=前11月免签入境外国人同比增长123.3%)
+1. [没文化可以有多可怕](https://www.zhihu.com/search?q=没文化可以有多可怕)
 1. [王思聪要开 100 家牛排店](https://www.zhihu.com/search?q=王思聪要开 100
    家牛排店)
 1. [古代的状元放到如今是什么水平](https://www.zhihu.com/search?q=古代的状元放到如今是什么水平)
