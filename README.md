@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 22 2024 10:51:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 22 2024 11:22:36 GMT+0800 (China Standard Time) -->
 
-1. [热刺4比3曼联](https://www.zhihu.com/search?q=热刺4比3曼联)
+1. [没文化可以有多可怕](https://www.zhihu.com/search?q=没文化可以有多可怕)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
 1. [小米汽车凭什么后来居上](https://www.zhihu.com/search?q=小米汽车凭什么后来居上)
 1. [过境免签外国人停留时间延长为 240
@@ -30,7 +30,7 @@
    家牛排店)
 1. [《封神第二部》首支预告](https://www.zhihu.com/search?q=《封神第二部》首支预告)
 1. [为什么年轻人越来越热衷玄学](https://www.zhihu.com/search?q=为什么年轻人越来越热衷玄学)
-1. [没文化可以有多可怕](https://www.zhihu.com/search?q=没文化可以有多可怕)
+1. [热刺4比3曼联](https://www.zhihu.com/search?q=热刺4比3曼联)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=美联储宣布降息 25
    个基点)
 
