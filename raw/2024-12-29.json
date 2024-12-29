@@ -1,9 +1,9 @@
 [
-  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
   {
-    "query": "台湾花莲县海域发生4.8级地震",
-    "display_query": "台湾花莲县海域发生4.8级地震"
+    "query": "传可可西里网红狼被大货车压死",
+    "display_query": "传可可西里网红狼被大货车压死"
   },
+  { "query": "现阶段AIPC值得购买吗", "display_query": "现阶段AIPC值得购买吗" },
   { "query": "wbg对战al", "display_query": "wbg对战al" },
   { "query": "加入知乎推文团队", "display_query": "加入知乎推文团队" },
   { "query": "公司倒闭前有什么征兆", "display_query": "公司倒闭前有什么征兆" },
@@ -15,6 +15,11 @@
   { "query": "肯德基中国涨价", "display_query": "肯德基中国涨价" },
   { "query": "滴滴就臭车致歉", "display_query": "滴滴就臭车致歉" },
   { "query": "宁德时代发布磐石底盘", "display_query": "宁德时代发布磐石底盘" },
+  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
+  {
+    "query": "台湾花莲县海域发生4.8级地震",
+    "display_query": "台湾花莲县海域发生4.8级地震"
+  },
   {
     "query": "实控人闫鹏飞被监视居住",
     "display_query": "实控人闫鹏飞被监视居住"
