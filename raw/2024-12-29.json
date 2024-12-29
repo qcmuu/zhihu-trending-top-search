@@ -1,4 +1,9 @@
 [
+  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
+  {
+    "query": "台湾花莲县海域发生4.8级地震",
+    "display_query": "台湾花莲县海域发生4.8级地震"
+  },
   { "query": "wbg对战al", "display_query": "wbg对战al" },
   { "query": "加入知乎推文团队", "display_query": "加入知乎推文团队" },
   { "query": "马保国是真傻还是装傻", "display_query": "马保国是真傻还是装傻" },
@@ -33,11 +38,6 @@
     "display_query": "传可可西里网红狼被大货车压死"
   },
   { "query": "现阶段AIPC值得购买吗", "display_query": "现阶段AIPC值得购买吗" },
-  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
-  {
-    "query": "台湾花莲县海域发生4.8级地震",
-    "display_query": "台湾花莲县海域发生4.8级地震"
-  },
   {
     "query": "实控人闫鹏飞被监视居住",
     "display_query": "实控人闫鹏飞被监视居住"
