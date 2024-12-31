@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 31 2024 17:15:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 31 2024 18:15:45 GMT+0800 (China Standard Time) -->
 
 1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
+1. [央视跨年晚会](https://www.zhihu.com/search?q=央视跨年晚会)
 1. [为什么唐尚珺不继续复读了](https://www.zhihu.com/search?q=为什么唐尚珺不继续复读了)
 1. [加入知乎推文团队](https://www.zhihu.com/search?q=加入知乎推文团队)
 1. [我是真的爱上你翻唱](https://www.zhihu.com/search?q=我是真的爱上你翻唱)
