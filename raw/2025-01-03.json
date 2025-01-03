@@ -1,9 +1,9 @@
 [
   {
-    "query": "韩在野党支持者接到威胁杀害李在明电话",
-    "display_query": "韩在野党支持者接到威胁杀害李在明电话"
+    "query": "为什么钢筋放太多了反而不好",
+    "display_query": "为什么钢筋放太多了反而不好"
   },
-  { "query": "如何加入知乎推文", "display_query": "如何加入知乎推文" },
+  { "query": "短剧推广能否躺赚", "display_query": "短剧推广能否躺赚" },
   {
     "query": "有哪些让你目瞪口呆的 Bug",
     "display_query": "有哪些让你目瞪口呆的 Bug"
@@ -15,8 +15,12 @@
   { "query": "电商小白入门运营", "display_query": "电商小白入门运营" },
   { "query": "年轻人低成本创业项目", "display_query": "年轻人低成本创业项目" },
   { "query": "2025做电商前景", "display_query": "2025做电商前景" },
+  {
+    "query": "韩在野党支持者接到威胁杀害李在明电话",
+    "display_query": "韩在野党支持者接到威胁杀害李在明电话"
+  },
+  { "query": "如何加入知乎推文", "display_query": "如何加入知乎推文" },
   { "query": "央视跨年晚会", "display_query": "央视跨年晚会" },
-  { "query": "短剧推广能否躺赚", "display_query": "短剧推广能否躺赚" },
   { "query": "线上副业与赚钱方法", "display_query": "线上副业与赚钱方法" },
   { "query": "短篇小说投稿平台", "display_query": "短篇小说投稿平台" }
 ]
