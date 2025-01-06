@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 06 2025 22:14:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 06 2025 23:16:02 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [利物浦vs曼联](https://www.zhihu.com/search?q=利物浦vs曼联)
