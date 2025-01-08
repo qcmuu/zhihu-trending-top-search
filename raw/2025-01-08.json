@@ -1,5 +1,12 @@
 [
-  { "query": "腊八节", "display_query": "腊八节" },
+  {
+    "query": "泽连斯基称希望马斯克访乌",
+    "display_query": "泽连斯基称希望马斯克访乌"
+  },
+  {
+    "query": "女子收男友100万分手被判不用还",
+    "display_query": "女子收男友100万分手被判不用还"
+  },
   { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
   { "query": "利物浦vs曼联", "display_query": "利物浦vs曼联" },
   {
@@ -23,6 +30,7 @@
     "query": "一块吧唧被炒到 7 万多",
     "display_query": "一块吧唧被炒到 7 万多"
   },
+  { "query": "腊八节", "display_query": "腊八节" },
   { "query": "视频号赚钱可行性", "display_query": "视频号赚钱可行性" },
   {
     "query": "广州队回应未通过准入名单",
