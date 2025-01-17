@@ -1,5 +1,9 @@
 [
-  { "query": "新格伦火箭", "display_query": "新格伦火箭" },
+  {
+    "query": "为什么检查上级都会提前通知",
+    "display_query": "为什么检查上级都会提前通知"
+  },
+  { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
   {
     "query": "同学聚会最悲哀的是什么",
     "display_query": "同学聚会最悲哀的是什么"
@@ -17,10 +21,6 @@
   { "query": "普通人自媒体赚钱方式", "display_query": "普通人自媒体赚钱方式" },
   { "query": "小红书养号与变现技巧", "display_query": "小红书养号与变现技巧" },
   { "query": "抖音快速涨 1000 粉", "display_query": "抖音快速涨 1000 粉" },
-  { "query": "短剧推广授权获取", "display_query": "短剧推广授权获取" },
-  {
-    "query": "为什么检查上级都会提前通知",
-    "display_query": "为什么检查上级都会提前通知"
-  },
-  { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" }
+  { "query": "新格伦火箭", "display_query": "新格伦火箭" },
+  { "query": "短剧推广授权获取", "display_query": "短剧推广授权获取" }
 ]
