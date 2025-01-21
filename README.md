@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 21 2025 10:41:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 21 2025 11:16:30 GMT+0800 (China Standard Time) -->
 
-1. [阿森纳2比2阿斯顿维拉](https://www.zhihu.com/search?q=阿森纳2比2阿斯顿维拉)
-1. [电压锅会爆炸吗](https://www.zhihu.com/search?q=电压锅会爆炸吗)
+1. [快船轻取湖人](https://www.zhihu.com/search?q=快船轻取湖人)
 1. [曼联1比3布莱顿](https://www.zhihu.com/search?q=曼联1比3布莱顿)
 1. [张之臻晋级](https://www.zhihu.com/search?q=张之臻晋级)
 1. [库里受伤](https://www.zhihu.com/search?q=库里受伤)
@@ -27,8 +26,9 @@
 1. [为什么说以身殉国就罪减一等](https://www.zhihu.com/search?q=为什么说以身殉国就罪减一等)
 1. [抖音直播话术要点](https://www.zhihu.com/search?q=抖音直播话术要点)
 1. [普通人自媒体赚钱方式](https://www.zhihu.com/search?q=普通人自媒体赚钱方式)
-1. [快船轻取湖人](https://www.zhihu.com/search?q=快船轻取湖人)
 1. [小红书养号与变现技巧](https://www.zhihu.com/search?q=小红书养号与变现技巧)
+1. [阿森纳2比2阿斯顿维拉](https://www.zhihu.com/search?q=阿森纳2比2阿斯顿维拉)
+1. [电压锅会爆炸吗](https://www.zhihu.com/search?q=电压锅会爆炸吗)
 
 <!-- END -->
 
