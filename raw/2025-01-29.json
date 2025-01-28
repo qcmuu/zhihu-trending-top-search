@@ -1,10 +1,11 @@
 [
-  {
-    "query": "周鸿祎宣布要送粉丝100辆车",
-    "display_query": "周鸿祎宣布要送粉丝100辆车"
-  },
-  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
   { "query": "掘金vs森林狼", "display_query": "掘金vs森林狼" },
+  { "query": "烂高中到底多差", "display_query": "烂高中到底多差" },
+  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
+  {
+    "query": "为什么很多家庭一到过年就吵架",
+    "display_query": "为什么很多家庭一到过年就吵架"
+  },
   {
     "query": "中国人玩阳谋到底有多牛",
     "display_query": "中国人玩阳谋到底有多牛"
@@ -16,6 +17,14 @@
   },
   { "query": "现在干什么能挣钱", "display_query": "现在干什么能挣钱" },
   { "query": "灰熊战胜鹈鹕", "display_query": "灰熊战胜鹈鹕" },
+  {
+    "query": "冲锋衣软壳和硬壳的区别",
+    "display_query": "冲锋衣软壳和硬壳的区别"
+  },
+  {
+    "query": "周鸿祎宣布要送粉丝100辆车",
+    "display_query": "周鸿祎宣布要送粉丝100辆车"
+  },
   { "query": "金价猛涨逼近840元", "display_query": "金价猛涨逼近840元" },
   {
     "query": "百元和千元的冲锋衣区别在哪",
