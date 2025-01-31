@@ -1,11 +1,8 @@
 [
+  { "query": "最好用的 AI 画图工具", "display_query": "最好用的 AI 画图工具" },
   {
     "query": "为什么很多家庭一到过年就吵架",
     "display_query": "为什么很多家庭一到过年就吵架"
-  },
-  {
-    "query": "美联储宣布维持联邦基金利率不变",
-    "display_query": "美联储宣布维持联邦基金利率不变"
   },
   { "query": "电商运营入门", "display_query": "电商运营入门" },
   {
@@ -23,5 +20,9 @@
   },
   { "query": "冲锋衣平价推荐", "display_query": "冲锋衣平价推荐" },
   { "query": "2025 冲锋衣推荐", "display_query": "2025 冲锋衣推荐" },
-  { "query": "在家用电压锅安全吗", "display_query": "在家用电压锅安全吗" }
+  { "query": "在家用电压锅安全吗", "display_query": "在家用电压锅安全吗" },
+  {
+    "query": "美联储宣布维持联邦基金利率不变",
+    "display_query": "美联储宣布维持联邦基金利率不变"
+  }
 ]
