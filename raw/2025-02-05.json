@@ -1,9 +1,11 @@
 [
-  { "query": "2025电影票房破100亿", "display_query": "2025电影票房破100亿" },
+  { "query": "骑士43分大胜独行侠", "display_query": "骑士43分大胜独行侠" },
+  { "query": "赵本山67岁能打的年纪", "display_query": "赵本山67岁能打的年纪" },
   {
-    "query": "为什么封神 2 口碑两极分化",
-    "display_query": "为什么封神 2 口碑两极分化"
+    "query": "「蛇拿九稳」有奖答题挑战",
+    "display_query": "「蛇拿九稳」有奖答题挑战"
   },
+  { "query": "不想上班", "display_query": "不想上班" },
   { "query": "知乎蛇年活动", "display_query": "知乎蛇年活动" },
   { "query": "知乎春节活动", "display_query": "知乎春节活动" },
   {
@@ -13,8 +15,12 @@
   { "query": "春节答题挑战", "display_query": "春节答题挑战" },
   { "query": "答题分奖金", "display_query": "答题分奖金" },
   { "query": "有趣的过年方式", "display_query": "有趣的过年方式" },
+  { "query": "2025电影票房破100亿", "display_query": "2025电影票房破100亿" },
+  {
+    "query": "为什么封神 2 口碑两极分化",
+    "display_query": "为什么封神 2 口碑两极分化"
+  },
   { "query": "有奖答题 PK 分奖金", "display_query": "有奖答题 PK 分奖金" },
   { "query": "知识王者 PK 分奖金", "display_query": "知识王者 PK 分奖金" },
-  { "query": "不想上班", "display_query": "不想上班" },
   { "query": "知乎新年活动", "display_query": "知乎新年活动" }
 ]
