@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 07 2025 18:16:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 07 2025 19:12:26 GMT+0800 (China Standard Time) -->
 
 1. [北京大风](https://www.zhihu.com/search?q=北京大风)
+1. [新一轮油价调整搁浅](https://www.zhihu.com/search?q=新一轮油价调整搁浅)
 1. [孙颖莎vs何卓佳](https://www.zhihu.com/search?q=孙颖莎vs何卓佳)
 1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=为何马谡置之死地就真死了)
 1. [过年来知乎，蛇么都好玩](https://www.zhihu.com/search?q=过年来知乎，蛇么都好玩)
