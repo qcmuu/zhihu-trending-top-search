@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 07 2025 14:21:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 07 2025 15:14:06 GMT+0800 (China Standard Time) -->
 
 1. [北京大风](https://www.zhihu.com/search?q=北京大风)
 1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=为何马谡置之死地就真死了)
