@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 07 2025 23:15:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 08 2025 00:18:44 GMT+0800 (China Standard Time) -->
 
 1. [北京大风](https://www.zhihu.com/search?q=北京大风)
+1. [大学生兼职](https://www.zhihu.com/search?q=大学生兼职)
 1. [新一轮油价调整搁浅](https://www.zhihu.com/search?q=新一轮油价调整搁浅)
 1. [孙颖莎vs何卓佳](https://www.zhihu.com/search?q=孙颖莎vs何卓佳)
 1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=为何马谡置之死地就真死了)
@@ -26,20 +27,6 @@
 1. [知乎新年活动](https://www.zhihu.com/search?q=知乎新年活动)
 1. [知乎蛇年活动](https://www.zhihu.com/search?q=知乎蛇年活动)
 1. [知乎春节活动](https://www.zhihu.com/search?q=知乎春节活动)
-1. [过年玩什么，好运贪吃蛇](https://www.zhihu.com/search?q=过年玩什么，好运贪吃蛇)
-1. [申真谞谈柯洁 LG 杯事件](https://www.zhihu.com/search?q=申真谞谈柯洁 LG
-   杯事件)
-1. [春节答题挑战](https://www.zhihu.com/search?q=春节答题挑战)
-1. [春节假期全国国内出游人次创新高](https://www.zhihu.com/search?q=春节假期全国国内出游人次创新高)
-1. [答题分奖金](https://www.zhihu.com/search?q=答题分奖金)
-1. [哪吒 2 登顶中国影史票冠](https://www.zhihu.com/search?q=哪吒 2
-   登顶中国影史票冠)
-1. [哪吒2 共鸣](https://www.zhihu.com/search?q=哪吒2 共鸣)
-1. [有趣的过年方式](https://www.zhihu.com/search?q=有趣的过年方式)
-1. [若变色龙趴在变色的灯上会心力交瘁而死吗](https://www.zhihu.com/search?q=若变色龙趴在变色的灯上会心力交瘁而死吗)
-1. [人形机器人 Figure 与 OpenAI
-   终止合作](https://www.zhihu.com/search?q=人形机器人 Figure 与 OpenAI
-   终止合作)
 
 <!-- END -->
 
