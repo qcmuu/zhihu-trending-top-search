@@ -1,9 +1,12 @@
 [
   {
-    "query": "中国男篮确定新队长为赵睿",
-    "display_query": "中国男篮确定新队长为赵睿"
+    "query": "一个男人最大的底气是什么",
+    "display_query": "一个男人最大的底气是什么"
   },
-  { "query": "美国飞机又出事故", "display_query": "美国飞机又出事故" },
+  {
+    "query": "为什么高德地图有那么多人用",
+    "display_query": "为什么高德地图有那么多人用"
+  },
   { "query": "大学生兼职", "display_query": "大学生兼职" },
   { "query": "wbg对战jdg", "display_query": "wbg对战jdg" },
   {
@@ -16,11 +19,8 @@
   { "query": "大学生线上兼职", "display_query": "大学生线上兼职" },
   { "query": "赚钱副业推荐", "display_query": "赚钱副业推荐" },
   {
-    "query": "一个男人最大的底气是什么",
-    "display_query": "一个男人最大的底气是什么"
+    "query": "中国男篮确定新队长为赵睿",
+    "display_query": "中国男篮确定新队长为赵睿"
   },
-  {
-    "query": "为什么高德地图有那么多人用",
-    "display_query": "为什么高德地图有那么多人用"
-  }
+  { "query": "美国飞机又出事故", "display_query": "美国飞机又出事故" }
 ]
