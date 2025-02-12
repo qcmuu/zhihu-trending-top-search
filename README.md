@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 12 2025 23:16:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 13 2025 00:19:55 GMT+0800 (China Standard Time) -->
 
 1. [大学生兼职](https://www.zhihu.com/search?q=大学生兼职)
 1. [元宵节](https://www.zhihu.com/search?q=元宵节)
@@ -27,9 +27,6 @@
 1. [知乎写作计划](https://www.zhihu.com/search?q=知乎写作计划)
 1. [大学生线上兼职](https://www.zhihu.com/search?q=大学生线上兼职)
 1. [赚钱副业推荐](https://www.zhihu.com/search?q=赚钱副业推荐)
-1. [小说推文赚钱](https://www.zhihu.com/search?q=小说推文赚钱)
-1. [推文小说入门](https://www.zhihu.com/search?q=推文小说入门)
-1. [孙颖莎夺冠](https://www.zhihu.com/search?q=孙颖莎夺冠)
 
 <!-- END -->
 
