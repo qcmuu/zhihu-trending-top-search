@@ -1,7 +1,6 @@
 [
   { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
   { "query": "大学生兼职", "display_query": "大学生兼职" },
-  { "query": "元宵节", "display_query": "元宵节" },
   { "query": "独行侠战胜勇士", "display_query": "独行侠战胜勇士" },
   { "query": "有前妻是什么体验", "display_query": "有前妻是什么体验" },
   { "query": "大学生兼职赚钱", "display_query": "大学生兼职赚钱" },
@@ -10,6 +9,7 @@
   { "query": "大学生线上兼职", "display_query": "大学生线上兼职" },
   { "query": "赚钱副业推荐", "display_query": "赚钱副业推荐" },
   { "query": "小说推文赚钱", "display_query": "小说推文赚钱" },
+  { "query": "元宵节", "display_query": "元宵节" },
   {
     "query": "我国成功发射卫星互联网低轨卫星",
     "display_query": "我国成功发射卫星互联网低轨卫星"
