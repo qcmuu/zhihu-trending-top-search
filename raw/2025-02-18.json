@@ -1,8 +1,4 @@
 [
-  {
-    "query": "腾讯文档接入deepseek-r1",
-    "display_query": "腾讯文档接入deepseek-r1"
-  },
   { "query": "雨水", "display_query": "雨水" },
   {
     "query": "你最意外的一笔收入是什么",
@@ -18,6 +14,11 @@
   { "query": "无货源开网店", "display_query": "无货源开网店" },
   { "query": "线上兼职推荐", "display_query": "线上兼职推荐" },
   { "query": "知乎写小说赚钱", "display_query": "知乎写小说赚钱" },
+  { "query": "写作能力提升", "display_query": "写作能力提升" },
+  {
+    "query": "腾讯文档接入deepseek-r1",
+    "display_query": "腾讯文档接入deepseek-r1"
+  },
   { "query": "黄金价格大跳水", "display_query": "黄金价格大跳水" },
   { "query": "小说推文", "display_query": "小说推文" },
   { "query": "nba全明星三分大赛", "display_query": "nba全明星三分大赛" },
