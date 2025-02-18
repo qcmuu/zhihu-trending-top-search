@@ -1,9 +1,6 @@
 [
-  {
-    "query": "乌尔善称希望观众给「封神 3」机会",
-    "display_query": "乌尔善称希望观众给「封神 3」机会"
-  },
-  { "query": "利拉德绝杀帕克队", "display_query": "利拉德绝杀帕克队" },
+  { "query": "黄金价格大跳水", "display_query": "黄金价格大跳水" },
+  { "query": "小说推文", "display_query": "小说推文" },
   { "query": "雨水", "display_query": "雨水" },
   {
     "query": "沪深两市成交额突破5000亿",
@@ -21,8 +18,11 @@
   { "query": "普通人赚钱路子", "display_query": "普通人赚钱路子" },
   { "query": "短剧推广躺赚", "display_query": "短剧推广躺赚" },
   { "query": "无货源开网店", "display_query": "无货源开网店" },
-  { "query": "黄金价格大跳水", "display_query": "黄金价格大跳水" },
-  { "query": "小说推文", "display_query": "小说推文" },
+  {
+    "query": "乌尔善称希望观众给「封神 3」机会",
+    "display_query": "乌尔善称希望观众给「封神 3」机会"
+  },
+  { "query": "利拉德绝杀帕克队", "display_query": "利拉德绝杀帕克队" },
   { "query": "线上兼职推荐", "display_query": "线上兼职推荐" },
   { "query": "知乎写小说赚钱", "display_query": "知乎写小说赚钱" },
   { "query": "写作能力提升", "display_query": "写作能力提升" },
