@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 18 2025 23:16:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 19 2025 00:19:45 GMT+0800 (China Standard Time) -->
 
 1. [黄金价格大跳水](https://www.zhihu.com/search?q=黄金价格大跳水)
 1. [小说推文](https://www.zhihu.com/search?q=小说推文)
@@ -27,19 +27,6 @@
 1. [普通人赚钱路子](https://www.zhihu.com/search?q=普通人赚钱路子)
 1. [短剧推广躺赚](https://www.zhihu.com/search?q=短剧推广躺赚)
 1. [无货源开网店](https://www.zhihu.com/search?q=无货源开网店)
-1. [乌尔善称希望观众给「封神
-   3」机会](https://www.zhihu.com/search?q=乌尔善称希望观众给「封神 3」机会)
-1. [利拉德绝杀帕克队](https://www.zhihu.com/search?q=利拉德绝杀帕克队)
-1. [线上兼职推荐](https://www.zhihu.com/search?q=线上兼职推荐)
-1. [知乎写小说赚钱](https://www.zhihu.com/search?q=知乎写小说赚钱)
-1. [写作能力提升](https://www.zhihu.com/search?q=写作能力提升)
-1. [腾讯文档接入deepseek-r1](https://www.zhihu.com/search?q=腾讯文档接入deepseek-r1)
-1. [nba全明星三分大赛](https://www.zhihu.com/search?q=nba全明星三分大赛)
-1. [gen对战hle](https://www.zhihu.com/search?q=gen对战hle)
-1. [nba全明星扣篮大赛](https://www.zhihu.com/search?q=nba全明星扣篮大赛)
-1. [詹姆斯退出全明星](https://www.zhihu.com/search?q=詹姆斯退出全明星)
-1. [马里一非法金矿坍塌致48人死亡](https://www.zhihu.com/search?q=马里一非法金矿坍塌致48人死亡)
-1. [川航回应老人在飞机上昏迷离世](https://www.zhihu.com/search?q=川航回应老人在飞机上昏迷离世)
 
 <!-- END -->
 
