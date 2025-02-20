@@ -1,9 +1,5 @@
 [
-  {
-    "query": "2025 年国内油价首次下调",
-    "display_query": "2025 年国内油价首次下调"
-  },
-  { "query": "比亚迪车主联合维权", "display_query": "比亚迪车主联合维权" },
+  { "query": "今晚油价下调", "display_query": "今晚油价下调" },
   {
     "query": "你最意外的一笔收入是什么",
     "display_query": "你最意外的一笔收入是什么"
@@ -24,6 +20,15 @@
     "query": "王健林 7702 万股权被冻结",
     "display_query": "王健林 7702 万股权被冻结"
   },
+  {
+    "query": "微信灰度测试接入DeepSeek-R1",
+    "display_query": "微信灰度测试接入DeepSeek-R1"
+  },
+  {
+    "query": "2025 年国内油价首次下调",
+    "display_query": "2025 年国内油价首次下调"
+  },
+  { "query": "比亚迪车主联合维权", "display_query": "比亚迪车主联合维权" },
   {
     "query": "亚特兰大0比3落后布鲁日",
     "display_query": "亚特兰大0比3落后布鲁日"
