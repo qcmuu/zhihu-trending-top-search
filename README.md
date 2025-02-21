@@ -15,13 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 21 2025 13:14:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 21 2025 14:21:37 GMT+0800 (China Standard Time) -->
 
-1. [成品油价或年内首跌](https://www.zhihu.com/search?q=成品油价或年内首跌)
-1. [「哪吒 2」成为全球动画电影票房冠军](https://www.zhihu.com/search?q=「哪吒
-   2」成为全球动画电影票房冠军)
-1. [为什么甲状腺激素一定要用碘来合成](https://www.zhihu.com/search?q=为什么甲状腺激素一定要用碘来合成)
 1. [今晚油价下调](https://www.zhihu.com/search?q=今晚油价下调)
+1. [为什么甲状腺激素一定要用碘来合成](https://www.zhihu.com/search?q=为什么甲状腺激素一定要用碘来合成)
+1. [现货黄金再创新高](https://www.zhihu.com/search?q=现货黄金再创新高)
+1. [为什么全网都在黑土木工程](https://www.zhihu.com/search?q=为什么全网都在黑土木工程)
 1. [《蛟龙行动》宣布撤档](https://www.zhihu.com/search?q=《蛟龙行动》宣布撤档)
 1. [王健林 7702 万股权被冻结](https://www.zhihu.com/search?q=王健林 7702
    万股权被冻结)
@@ -30,6 +29,9 @@
    被批诈骗)
 1. [金赛纶去世](https://www.zhihu.com/search?q=金赛纶去世)
 1. [格力专卖店改名董明珠健康家](https://www.zhihu.com/search?q=格力专卖店改名董明珠健康家)
+1. [成品油价或年内首跌](https://www.zhihu.com/search?q=成品油价或年内首跌)
+1. [「哪吒 2」成为全球动画电影票房冠军](https://www.zhihu.com/search?q=「哪吒
+   2」成为全球动画电影票房冠军)
 1. [蚂蚁下场自研具身智能机器人](https://www.zhihu.com/search?q=蚂蚁下场自研具身智能机器人)
 1. [董明珠健康家](https://www.zhihu.com/search?q=董明珠健康家)
 1. [詹姆斯退出全明星正赛](https://www.zhihu.com/search?q=詹姆斯退出全明星正赛)
