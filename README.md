@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 21 2025 11:20:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 21 2025 12:19:44 GMT+0800 (China Standard Time) -->
 
-1. [今晚油价下调](https://www.zhihu.com/search?q=今晚油价下调)
+1. [蚂蚁下场自研具身智能机器人](https://www.zhihu.com/search?q=蚂蚁下场自研具身智能机器人)
 1. [为什么甲状腺激素一定要用碘来合成](https://www.zhihu.com/search?q=为什么甲状腺激素一定要用碘来合成)
 1. [《蛟龙行动》宣布撤档](https://www.zhihu.com/search?q=《蛟龙行动》宣布撤档)
 1. [王健林 7702 万股权被冻结](https://www.zhihu.com/search?q=王健林 7702
@@ -26,9 +26,11 @@
 1. [《我是哪吒 2》 被批诈骗](https://www.zhihu.com/search?q=《我是哪吒 2》
    被批诈骗)
 1. [金赛纶去世](https://www.zhihu.com/search?q=金赛纶去世)
-1. [中国已开始部署防御小行星撞击地球](https://www.zhihu.com/search?q=中国已开始部署防御小行星撞击地球)
 1. [格力专卖店改名董明珠健康家](https://www.zhihu.com/search?q=格力专卖店改名董明珠健康家)
 1. [董明珠健康家](https://www.zhihu.com/search?q=董明珠健康家)
+1. [詹姆斯退出全明星正赛](https://www.zhihu.com/search?q=詹姆斯退出全明星正赛)
+1. [今晚油价下调](https://www.zhihu.com/search?q=今晚油价下调)
+1. [中国已开始部署防御小行星撞击地球](https://www.zhihu.com/search?q=中国已开始部署防御小行星撞击地球)
 1. [中国男乒突然「恐韩」](https://www.zhihu.com/search?q=中国男乒突然「恐韩」)
 1. [2025 年度总票房破 200 亿](https://www.zhihu.com/search?q=2025 年度总票房破
    200 亿)
