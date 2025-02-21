@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 22 2025 00:19:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 22 2025 01:13:07 GMT+0800 (China Standard Time) -->
 
-1. [王兴兴晒最新机器人跳舞实拍](https://www.zhihu.com/search?q=王兴兴晒最新机器人跳舞实拍)
-1. [为什么洗煤厂叫洗煤厂](https://www.zhihu.com/search?q=为什么洗煤厂叫洗煤厂)
+1. [今晚油价下调](https://www.zhihu.com/search?q=今晚油价下调)
 1. [为什么甲状腺激素一定要用碘来合成](https://www.zhihu.com/search?q=为什么甲状腺激素一定要用碘来合成)
 1. [现货黄金再创新高](https://www.zhihu.com/search?q=现货黄金再创新高)
 1. [沪深京三市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深京三市成交额突破1万亿元)
@@ -28,6 +27,10 @@
 1. [《蛟龙行动》宣布撤档](https://www.zhihu.com/search?q=《蛟龙行动》宣布撤档)
 1. [王健林 7702 万股权被冻结](https://www.zhihu.com/search?q=王健林 7702
    万股权被冻结)
+1. [《我是哪吒 2》 被批诈骗](https://www.zhihu.com/search?q=《我是哪吒 2》
+   被批诈骗)
+1. [王兴兴晒最新机器人跳舞实拍](https://www.zhihu.com/search?q=王兴兴晒最新机器人跳舞实拍)
+1. [为什么洗煤厂叫洗煤厂](https://www.zhihu.com/search?q=为什么洗煤厂叫洗煤厂)
 
 <!-- END -->
 
