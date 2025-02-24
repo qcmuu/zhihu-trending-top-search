@@ -1,13 +1,8 @@
 [
   {
-    "query": "沪深京三市成交额突破1万亿元",
-    "display_query": "沪深京三市成交额突破1万亿元"
-  },
-  {
     "query": "为什么全网都在黑土木工程",
     "display_query": "为什么全网都在黑土木工程"
   },
-  { "query": "快船vs雄鹿", "display_query": "快船vs雄鹿" },
   { "query": "为什么复活哪吒要用藕", "display_query": "为什么复活哪吒要用藕" },
   { "query": "实物黄金疯狂涌入美国", "display_query": "实物黄金疯狂涌入美国" },
   { "query": "百度搜索接入DeepSeek", "display_query": "百度搜索接入DeepSeek" },
@@ -29,6 +24,11 @@
     "query": "胡歌称女儿出生后觉得时间不够用了",
     "display_query": "胡歌称女儿出生后觉得时间不够用了"
   },
+  {
+    "query": "沪深京三市成交额突破1万亿元",
+    "display_query": "沪深京三市成交额突破1万亿元"
+  },
+  { "query": "快船vs雄鹿", "display_query": "快船vs雄鹿" },
   {
     "query": "王兴兴预计年底机器人跑速超博尔特",
     "display_query": "王兴兴预计年底机器人跑速超博尔特"
