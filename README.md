@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 27 2025 18:16:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 27 2025 19:12:58 GMT+0800 (China Standard Time) -->
 
 1. [四六级成绩](https://www.zhihu.com/search?q=四六级成绩)
 1. [独行侠VS湖人](https://www.zhihu.com/search?q=独行侠VS湖人)
@@ -26,6 +26,8 @@
 1. [利物浦2:0曼城](https://www.zhihu.com/search?q=利物浦2:0曼城)
 1. [为何白天只睡一小会就能恢复疲劳](https://www.zhihu.com/search?q=为何白天只睡一小会就能恢复疲劳)
 1. [内存条在电脑中的作用是什么](https://www.zhihu.com/search?q=内存条在电脑中的作用是什么)
+1. [RTX 5070Ti 显卡国行售价 6299 起](https://www.zhihu.com/search?q=RTX 5070Ti
+   显卡国行售价 6299 起)
 1. [OPPO Find N5](https://www.zhihu.com/search?q=OPPO Find N5)
 1. [七星连珠](https://www.zhihu.com/search?q=七星连珠)
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
