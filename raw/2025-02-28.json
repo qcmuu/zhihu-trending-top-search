@@ -1,12 +1,6 @@
 [
-  {
-    "query": "波兰称正为乌订购5000个星链系统",
-    "display_query": "波兰称正为乌订购5000个星链系统"
-  },
-  {
-    "query": "为什么抗日剧中所有缴获都归公",
-    "display_query": "为什么抗日剧中所有缴获都归公"
-  },
+  { "query": "四六级成绩", "display_query": "四六级成绩" },
+  { "query": "湖人vs独行侠", "display_query": "湖人vs独行侠" },
   { "query": "勇士大胜黄蜂", "display_query": "勇士大胜黄蜂" },
   {
     "query": "为什么全网都在黑土木工程",
@@ -30,10 +24,20 @@
     "display_query": "少女花150元文身清洗需76.9万元"
   },
   {
+    "query": "澳军称 055 在悉尼外海实弹开火",
+    "display_query": "澳军称 055 在悉尼外海实弹开火"
+  },
+  {
+    "query": "波兰称正为乌订购5000个星链系统",
+    "display_query": "波兰称正为乌订购5000个星链系统"
+  },
+  {
+    "query": "为什么抗日剧中所有缴获都归公",
+    "display_query": "为什么抗日剧中所有缴获都归公"
+  },
+  {
     "query": "腾讯回应余承东鸿蒙喊话",
     "display_query": "腾讯回应余承东鸿蒙喊话"
   },
-  { "query": "四六级成绩", "display_query": "四六级成绩" },
-  { "query": "湖人vs独行侠", "display_query": "湖人vs独行侠" },
   { "query": "独行侠VS湖人", "display_query": "独行侠VS湖人" }
 ]
