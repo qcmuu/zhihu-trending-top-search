@@ -1,6 +1,9 @@
 [
-  { "query": "快船vs湖人", "display_query": "快船vs湖人" },
-  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
+  {
+    "query": "具俊晔是否如约转让遗产",
+    "display_query": "具俊晔是否如约转让遗产"
+  },
+  { "query": "法拉利在全球赚疯了", "display_query": "法拉利在全球赚疯了" },
   {
     "query": "为什么检查上级都会提前通知",
     "display_query": "为什么检查上级都会提前通知"
@@ -14,6 +17,7 @@
     "query": "你见过最震惊三观事情是什么",
     "display_query": "你见过最震惊三观事情是什么"
   },
+  { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" },
   {
     "query": "DeepSeek 首次公布模型推理优化细节",
     "display_query": "DeepSeek 首次公布模型推理优化细节"
@@ -26,6 +30,8 @@
     "query": "DeepSeek 公布模型推理成本利润细节",
     "display_query": "DeepSeek 公布模型推理成本利润细节"
   },
+  { "query": "快船vs湖人", "display_query": "快船vs湖人" },
+  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
   { "query": "歌手方大同去世", "display_query": "歌手方大同去世" },
   {
     "query": "美国 450 万美元研究给醉酒老鼠喷山猫尿液",
