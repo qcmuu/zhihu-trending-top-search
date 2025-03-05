@@ -1,6 +1,6 @@
 [
-  { "query": "雪天出行8个提醒", "display_query": "雪天出行8个提醒" },
-  { "query": "欧文受伤", "display_query": "欧文受伤" },
+  { "query": "快船vs湖人", "display_query": "快船vs湖人" },
+  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
   {
     "query": "为什么检查上级都会提前通知",
     "display_query": "为什么检查上级都会提前通知"
@@ -21,6 +21,8 @@
     "query": "中国足协发布球员自荐系统",
     "display_query": "中国足协发布球员自荐系统"
   },
+  { "query": "雪天出行8个提醒", "display_query": "雪天出行8个提醒" },
+  { "query": "欧文受伤", "display_query": "欧文受伤" },
   {
     "query": "具俊晔是否如约转让遗产",
     "display_query": "具俊晔是否如约转让遗产"
@@ -38,8 +40,6 @@
     "query": "DeepSeek 公布模型推理成本利润细节",
     "display_query": "DeepSeek 公布模型推理成本利润细节"
   },
-  { "query": "快船vs湖人", "display_query": "快船vs湖人" },
-  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
   {
     "query": "美国 450 万美元研究给醉酒老鼠喷山猫尿液",
     "display_query": "美国 450 万美元研究给醉酒老鼠喷山猫尿液"
