@@ -1,4 +1,5 @@
 [
+  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
   { "query": "你捡过最大的漏是什么", "display_query": "你捡过最大的漏是什么" },
   {
     "query": "为什么检查上级都会提前通知",
@@ -25,7 +26,6 @@
   },
   { "query": "第 97 届奥斯卡金像奖", "display_query": "第 97 届奥斯卡金像奖" },
   { "query": "快船vs湖人", "display_query": "快船vs湖人" },
-  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
   {
     "query": "大学师生逛菜场发现新物种山柰菖蒲",
     "display_query": "大学师生逛菜场发现新物种山柰菖蒲"
