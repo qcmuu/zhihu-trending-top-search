@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 10 2025 14:19:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 10 2025 15:14:10 GMT+0800 (China Standard Time) -->
 
 1. [世界上有多少个和弦](https://www.zhihu.com/search?q=世界上有多少个和弦)
 1. [男人有胡子和没胡子颜值差距有多大](https://www.zhihu.com/search?q=男人有胡子和没胡子颜值差距有多大)
@@ -26,9 +26,10 @@
 1. [为何 AI 火之后人们想到的是大量裁员](https://www.zhihu.com/search?q=为何 AI
    火之后人们想到的是大量裁员)
 1. [金融监管总局将研究提高消费贷款额度](https://www.zhihu.com/search?q=金融监管总局将研究提高消费贷款额度)
-1. [短剧顶流何健麒被定为劣迹演员](https://www.zhihu.com/search?q=短剧顶流何健麒被定为劣迹演员)
 1. [全球首款通用智能体 Manus
    上线](https://www.zhihu.com/search?q=全球首款通用智能体 Manus 上线)
+1. [美国在月球实现人类首次导航](https://www.zhihu.com/search?q=美国在月球实现人类首次导航)
+1. [短剧顶流何健麒被定为劣迹演员](https://www.zhihu.com/search?q=短剧顶流何健麒被定为劣迹演员)
 1. [美国暂停对乌克兰军事援助](https://www.zhihu.com/search?q=美国暂停对乌克兰军事援助)
 1. [逐步推行免费学前教育](https://www.zhihu.com/search?q=逐步推行免费学前教育)
 1. [韩国迎来双胞胎时代](https://www.zhihu.com/search?q=韩国迎来双胞胎时代)
