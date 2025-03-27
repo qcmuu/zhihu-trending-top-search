@@ -1,17 +1,12 @@
 [
-  {
-    "query": "广西三月三的非遗DNA动了",
-    "display_query": "广西三月三的非遗DNA动了"
-  },
-  { "query": "中国科学十大进展发布", "display_query": "中国科学十大进展发布" },
+  { "query": "全能型寒潮来袭", "display_query": "全能型寒潮来袭" },
   {
     "query": "你最讨厌微信朋友圈什么行为",
     "display_query": "你最讨厌微信朋友圈什么行为"
   },
-  { "query": "郑钦文vs萨巴伦卡", "display_query": "郑钦文vs萨巴伦卡" },
   {
-    "query": "香飘飘奶茶涨价至16元一杯",
-    "display_query": "香飘飘奶茶涨价至16元一杯"
+    "query": "郑钦文0比2不敌萨巴伦卡",
+    "display_query": "郑钦文0比2不敌萨巴伦卡"
   },
   {
     "query": "你见过哪些令人尴尬的名字",
@@ -24,7 +19,18 @@
   },
   { "query": "AWE 未来生活家", "display_query": "AWE 未来生活家" },
   { "query": "卷出新高度的 AI 家电", "display_query": "卷出新高度的 AI 家电" },
-  { "query": "全能型寒潮来袭", "display_query": "全能型寒潮来袭" },
+  { "query": "看见未来家", "display_query": "看见未来家" },
+  { "query": "让家电回归工具本质", "display_query": "让家电回归工具本质" },
+  {
+    "query": "广西三月三的非遗DNA动了",
+    "display_query": "广西三月三的非遗DNA动了"
+  },
+  { "query": "中国科学十大进展发布", "display_query": "中国科学十大进展发布" },
+  { "query": "郑钦文vs萨巴伦卡", "display_query": "郑钦文vs萨巴伦卡" },
+  {
+    "query": "香飘飘奶茶涨价至16元一杯",
+    "display_query": "香飘飘奶茶涨价至16元一杯"
+  },
   { "query": "今日辟谣", "display_query": "今日辟谣" },
   {
     "query": "以前的铁道部算是一个超级大部门吗",
