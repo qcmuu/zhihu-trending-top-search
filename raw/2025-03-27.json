@@ -1,18 +1,34 @@
 [
-  { "query": "全能型寒潮来袭", "display_query": "全能型寒潮来袭" },
-  { "query": "今日辟谣", "display_query": "今日辟谣" },
   {
-    "query": "以前的铁道部算是一个超级大部门吗",
-    "display_query": "以前的铁道部算是一个超级大部门吗"
+    "query": "广西三月三的非遗DNA动了",
+    "display_query": "广西三月三的非遗DNA动了"
   },
+  { "query": "中国科学十大进展发布", "display_query": "中国科学十大进展发布" },
   {
     "query": "你最讨厌微信朋友圈什么行为",
     "display_query": "你最讨厌微信朋友圈什么行为"
   },
   { "query": "郑钦文vs萨巴伦卡", "display_query": "郑钦文vs萨巴伦卡" },
   {
+    "query": "香飘飘奶茶涨价至16元一杯",
+    "display_query": "香飘飘奶茶涨价至16元一杯"
+  },
+  {
     "query": "你见过哪些令人尴尬的名字",
     "display_query": "你见过哪些令人尴尬的名字"
+  },
+  { "query": "AI 给家电带来了什么", "display_query": "AI 给家电带来了什么" },
+  {
+    "query": "冷藏冷冻不串味的 AI 冰箱",
+    "display_query": "冷藏冷冻不串味的 AI 冰箱"
+  },
+  { "query": "AWE 未来生活家", "display_query": "AWE 未来生活家" },
+  { "query": "卷出新高度的 AI 家电", "display_query": "卷出新高度的 AI 家电" },
+  { "query": "全能型寒潮来袭", "display_query": "全能型寒潮来袭" },
+  { "query": "今日辟谣", "display_query": "今日辟谣" },
+  {
+    "query": "以前的铁道部算是一个超级大部门吗",
+    "display_query": "以前的铁道部算是一个超级大部门吗"
   },
   {
     "query": "国际乒联公布徐克与女运动员聊天记录",
@@ -21,10 +37,5 @@
   {
     "query": "上海博物馆海外分馆将落户美国",
     "display_query": "上海博物馆海外分馆将落户美国"
-  },
-  { "query": "AI 给家电带来了什么", "display_query": "AI 给家电带来了什么" },
-  {
-    "query": "冷藏冷冻不串味的 AI 冰箱",
-    "display_query": "冷藏冷冻不串味的 AI 冰箱"
   }
 ]
