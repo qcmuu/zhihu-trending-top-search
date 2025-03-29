@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 29 2025 02:23:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 29 2025 16:19:33 GMT+0800 (China Standard Time) -->
 
-1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 1. [为什么只有中国饮食没有被西化](https://www.zhihu.com/search?q=为什么只有中国饮食没有被西化)
 1. [郑钦文0比2不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文0比2不敌萨巴伦卡)
 1. [AI 给家电带来了什么](https://www.zhihu.com/search?q=AI 给家电带来了什么)
@@ -29,6 +28,8 @@
 1. [让家电回归工具本质](https://www.zhihu.com/search?q=让家电回归工具本质)
 1. [月球最古老撞击遗迹形成于 42.5
    亿年前](https://www.zhihu.com/search?q=月球最古老撞击遗迹形成于 42.5 亿年前)
+1. [海南10岁男孩出海钓鱼一天一夜漂流到三亚后获救](https://www.zhihu.com/search?q=海南10岁男孩出海钓鱼一天一夜漂流到三亚后获救)
+1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 
 <!-- END -->
 
