@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 31 2025 03:12:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 31 2025 07:15:21 GMT+0800 (China Standard Time) -->
 
 1. [为什么只有中国饮食没有被西化](https://www.zhihu.com/search?q=为什么只有中国饮食没有被西化)
 1. [郑钦文0比2不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文0比2不敌萨巴伦卡)
