@@ -1,6 +1,12 @@
 [
+  { "query": "油价上涨", "display_query": "油价上涨" },
   { "query": "湖人战胜火箭", "display_query": "湖人战胜火箭" },
+  {
+    "query": "中国成功发射卫星互联网技术试验卫星",
+    "display_query": "中国成功发射卫星互联网技术试验卫星"
+  },
   { "query": "国内油价上调", "display_query": "国内油价上调" },
+  { "query": "世界孤独症日", "display_query": "世界孤独症日" },
   {
     "query": "多家银行宣布下调存款利率",
     "display_query": "多家银行宣布下调存款利率"
