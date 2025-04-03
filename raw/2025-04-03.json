@@ -5,12 +5,7 @@
     "query": "中国成功发射卫星互联网技术试验卫星",
     "display_query": "中国成功发射卫星互联网技术试验卫星"
   },
-  { "query": "国内油价上调", "display_query": "国内油价上调" },
   { "query": "世界孤独症日", "display_query": "世界孤独症日" },
-  {
-    "query": "多家银行宣布下调存款利率",
-    "display_query": "多家银行宣布下调存款利率"
-  },
   {
     "query": "你干过最牛的一件事是什么",
     "display_query": "你干过最牛的一件事是什么"
@@ -29,5 +24,10 @@
     "display_query": "家电行业的「科技平权」"
   },
   { "query": "AWE 未来生活家", "display_query": "AWE 未来生活家" },
+  { "query": "国内油价上调", "display_query": "国内油价上调" },
+  {
+    "query": "多家银行宣布下调存款利率",
+    "display_query": "多家银行宣布下调存款利率"
+  },
   { "query": "卷出新高度的 AI 家电", "display_query": "卷出新高度的 AI 家电" }
 ]
