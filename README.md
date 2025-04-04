@@ -15,13 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 04 2025 06:15:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 04 2025 16:21:29 GMT+0800 (China Standard Time) -->
 
 1. [油价上涨](https://www.zhihu.com/search?q=油价上涨)
 1. [湖人战胜火箭](https://www.zhihu.com/search?q=湖人战胜火箭)
 1. [滴滴崩了](https://www.zhihu.com/search?q=滴滴崩了)
 1. [中国成功发射卫星互联网技术试验卫星](https://www.zhihu.com/search?q=中国成功发射卫星互联网技术试验卫星)
 1. [世界孤独症日](https://www.zhihu.com/search?q=世界孤独症日)
+1. [清明节](https://www.zhihu.com/search?q=清明节)
 1. [为什么月薪 2 万的沈琳愿意卖卤肉](https://www.zhihu.com/search?q=为什么月薪 2
    万的沈琳愿意卖卤肉)
 1. [AI 时代下的家电智能化](https://www.zhihu.com/search?q=AI 时代下的家电智能化)
