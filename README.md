@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 07 2025 01:13:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 07 2025 04:16:34 GMT+0800 (China Standard Time) -->
 
 1. [AI 时代下的家电智能化](https://www.zhihu.com/search?q=AI 时代下的家电智能化)
 1. [家电行业的「科技平权」](https://www.zhihu.com/search?q=家电行业的「科技平权」)
