@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 07 2025 19:14:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 08 2025 00:19:36 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [有什么著名的阳谋](https://www.zhihu.com/search?q=有什么著名的阳谋)
@@ -27,13 +27,6 @@
 1. [AI 时代下的家电智能化](https://www.zhihu.com/search?q=AI 时代下的家电智能化)
 1. [家电行业的「科技平权」](https://www.zhihu.com/search?q=家电行业的「科技平权」)
 1. [AWE 未来生活家](https://www.zhihu.com/search?q=AWE 未来生活家)
-1. [卷出新高度的 AI 家电](https://www.zhihu.com/search?q=卷出新高度的 AI 家电)
-1. [看见未来家](https://www.zhihu.com/search?q=看见未来家)
-1. [让家电回归工具本质](https://www.zhihu.com/search?q=让家电回归工具本质)
-1. [扑面而来的家电科技](https://www.zhihu.com/search?q=扑面而来的家电科技)
-1. [「甲亢哥」中国行直播](https://www.zhihu.com/search?q=「甲亢哥」中国行直播)
-1. [甲亢哥中国行](https://www.zhihu.com/search?q=甲亢哥中国行)
-1. [未来 AI 生活图鉴](https://www.zhihu.com/search?q=未来 AI 生活图鉴)
 
 <!-- END -->
 
