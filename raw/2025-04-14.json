@@ -1,9 +1,25 @@
 [
+  {
+    "query": "塔吉克斯坦发生6.1级地震",
+    "display_query": "塔吉克斯坦发生6.1级地震"
+  },
+  { "query": "武汉三镇胜云南玉昆", "display_query": "武汉三镇胜云南玉昆" },
+  { "query": "全国大学生英语竞赛", "display_query": "全国大学生英语竞赛" },
+  {
+    "query": "你的学校发生过最扯的事是什么",
+    "display_query": "你的学校发生过最扯的事是什么"
+  },
+  {
+    "query": "世界经济进入大停滞了吗",
+    "display_query": "世界经济进入大停滞了吗"
+  },
+  { "query": "华为成本真的这么高吗", "display_query": "华为成本真的这么高吗" },
+  { "query": "美国重新工业化有多难", "display_query": "美国重新工业化有多难" },
+  { "query": "有没有比亿还大的单位", "display_query": "有没有比亿还大的单位" },
+  { "query": "为什么河流能劈开山脉", "display_query": "为什么河流能劈开山脉" },
+  { "query": "我们奉陪到底", "display_query": "我们奉陪到底" },
   { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
   { "query": "a股", "display_query": "a股" },
-  { "query": "全国大学生英语竞赛", "display_query": "全国大学生英语竞赛" },
-  { "query": "美国重新工业化有多难", "display_query": "美国重新工业化有多难" },
-  { "query": "为什么河流能劈开山脉", "display_query": "为什么河流能劈开山脉" },
   {
     "query": "男子在山姆采购550万元商品遭冒领",
     "display_query": "男子在山姆采购550万元商品遭冒领"
