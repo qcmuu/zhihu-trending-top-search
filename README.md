@@ -15,24 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 21 2025 14:24:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 22 2025 07:15:30 GMT+0800 (China Standard Time) -->
 
-1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
 1. [孙颖莎夺冠](https://www.zhihu.com/search?q=孙颖莎夺冠)
 1. [教资成绩](https://www.zhihu.com/search?q=教资成绩)
+1. [金价狂飙](https://www.zhihu.com/search?q=金价狂飙)
 1. [曼城2比0埃弗顿](https://www.zhihu.com/search?q=曼城2比0埃弗顿)
+1. [金价再创新高](https://www.zhihu.com/search?q=金价再创新高)
 1. [王楚钦vs雨果](https://www.zhihu.com/search?q=王楚钦vs雨果)
 1. [孙颖莎vs陈幸同](https://www.zhihu.com/search?q=孙颖莎vs陈幸同)
 1. [湖人vs森林狼](https://www.zhihu.com/search?q=湖人vs森林狼)
-1. [湖南一医院误把内部用人需求备注公开发布](https://www.zhihu.com/search?q=湖南一医院误把内部用人需求备注公开发布)
-1. [钟自然一审宣判](https://www.zhihu.com/search?q=钟自然一审宣判)
-1. [曝黄仁勋与DeepSeek梁文锋见面](https://www.zhihu.com/search?q=曝黄仁勋与DeepSeek梁文锋见面)
-1. [王楚钦晋级八强](https://www.zhihu.com/search?q=王楚钦晋级八强)
-1. [被惊艳到是一种什么体验](https://www.zhihu.com/search?q=被惊艳到是一种什么体验)
-1. [中国市场对英伟达有多重要](https://www.zhihu.com/search?q=中国市场对英伟达有多重要)
-1. [王者荣耀联动哪吒](https://www.zhihu.com/search?q=王者荣耀联动哪吒)
-1. [玉珠峰南坡3名登山者已确认死亡](https://www.zhihu.com/search?q=玉珠峰南坡3名登山者已确认死亡)
-1. [三星李在镕痛失韩国首富](https://www.zhihu.com/search?q=三星李在镕痛失韩国首富)
+1. [16岁奥数天才坠楼去世](https://www.zhihu.com/search?q=16岁奥数天才坠楼去世)
+1. [独立游戏《沙拉的黑店》疑被上市公司抄袭](https://www.zhihu.com/search?q=独立游戏《沙拉的黑店》疑被上市公司抄袭)
 
 <!-- END -->
 
