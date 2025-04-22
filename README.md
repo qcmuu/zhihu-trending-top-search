@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 22 2025 07:15:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 22 2025 09:19:36 GMT+0800 (China Standard Time) -->
 
 1. [孙颖莎夺冠](https://www.zhihu.com/search?q=孙颖莎夺冠)
 1. [教资成绩](https://www.zhihu.com/search?q=教资成绩)
