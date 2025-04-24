@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 24 2025 16:22:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 24 2025 18:18:31 GMT+0800 (China Standard Time) -->
 
 1. [金价下跌](https://www.zhihu.com/search?q=金价下跌)
 1. [世界读书日](https://www.zhihu.com/search?q=世界读书日)
