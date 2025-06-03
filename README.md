@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 02 2025 14:27:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 03 2025 14:26:58 GMT+0800 (China Standard Time) -->
 
 1. [世界无烟日](https://www.zhihu.com/search?q=世界无烟日)
-1. [比亚迪降价](https://www.zhihu.com/search?q=比亚迪降价)
+1. [小沈阳演唱会](https://www.zhihu.com/search?q=小沈阳演唱会)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618 洗衣机推荐)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618 家电推荐)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618 价格暴降家电)
