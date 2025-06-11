@@ -15,19 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 08 2025 05:15:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 11 2025 17:19:16 GMT+0800 (China Standard Time) -->
 
-1. [北京高考作文](https://www.zhihu.com/search?q=北京高考作文)
-1. [国足首发](https://www.zhihu.com/search?q=国足首发)
-1. [如何看待美国识字率只有
-   79％](https://www.zhihu.com/search?q=如何看待美国识字率只有 79％)
-1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=我国成功发射卫星互联网低轨卫星)
-1. [「妈妈岗」在全国各地兴起](https://www.zhihu.com/search?q=「妈妈岗」在全国各地兴起)
+1. [高考结束](https://www.zhihu.com/search?q=高考结束)
+1. [如何评价大冰](https://www.zhihu.com/search?q=如何评价大冰)
+1. [国足vs巴林](https://www.zhihu.com/search?q=国足vs巴林)
+1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=体制内着装最忌讳的是什么)
+1. [AL战胜BLG](https://www.zhihu.com/search?q=AL战胜BLG)
+1. [娶自己的发小是什么感觉](https://www.zhihu.com/search?q=娶自己的发小是什么感觉)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618 洗衣机推荐)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618 家电推荐)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618 价格暴降家电)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618 护眼灯选购)
-1. [618 洗烘套装推荐](https://www.zhihu.com/search?q=618 洗烘套装推荐)
 
 <!-- END -->
 
