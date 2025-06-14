@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 12 2025 21:31:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 14 2025 16:20:31 GMT+0800 (China Standard Time) -->
 
-1. [歌手第五期歌单](https://www.zhihu.com/search?q=歌手第五期歌单)
-1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=体制内着装最忌讳的是什么)
+1. [四六级](https://www.zhihu.com/search?q=四六级)
+1. [B站崩了](https://www.zhihu.com/search?q=B站崩了)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618 洗衣机推荐)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618 家电推荐)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618 价格暴降家电)
