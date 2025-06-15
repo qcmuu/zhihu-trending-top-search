@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 14 2025 16:20:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 15 2025 09:41:37 GMT+0800 (China Standard Time) -->
 
 1. [四六级](https://www.zhihu.com/search?q=四六级)
 1. [B站崩了](https://www.zhihu.com/search?q=B站崩了)
