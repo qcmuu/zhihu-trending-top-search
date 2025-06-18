@@ -15,11 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 18 2025 03:13:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 18 2025 22:17:54 GMT+0800 (China Standard Time) -->
 
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=你的学校发生过最扯的事是什么)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=男人最无声的炫耀是什么)
+1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=发明魔芋的前辈是经历了什么)
+1. [健身为什么比较花钱呢](https://www.zhihu.com/search?q=健身为什么比较花钱呢)
 1. [中年夫妻有多少是生活和谐的](https://www.zhihu.com/search?q=中年夫妻有多少是生活和谐的)
 1. [云南蘑菇能不能让盲人看到小人](https://www.zhihu.com/search?q=云南蘑菇能不能让盲人看到小人)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618 洗衣机推荐)
