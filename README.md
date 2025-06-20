@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 20 2025 09:24:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 20 2025 12:24:58 GMT+0800 (China Standard Time) -->
 
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=你的学校发生过最扯的事是什么)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
