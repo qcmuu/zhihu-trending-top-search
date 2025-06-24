@@ -1,0 +1,18 @@
+[
+  { "query": "河南高考出分", "display_query": "河南高考出分" },
+  { "query": "成都地震", "display_query": "成都地震" },
+  { "query": "高考查分", "display_query": "高考查分" },
+  { "query": "皇马vs帕丘卡", "display_query": "皇马vs帕丘卡" },
+  { "query": "虾是海蟑螂吗", "display_query": "虾是海蟑螂吗" },
+  { "query": "广州震感", "display_query": "广州震感" },
+  {
+    "query": "城市客运站迎「关停潮」",
+    "display_query": "城市客运站迎「关停潮」"
+  },
+  {
+    "query": "以军称做好与伊朗打持久战准备",
+    "display_query": "以军称做好与伊朗打持久战准备"
+  },
+  { "query": "韩国4.5天工作制", "display_query": "韩国4.5天工作制" },
+  { "query": "苏超常州vs南京", "display_query": "苏超常州vs南京" }
+]

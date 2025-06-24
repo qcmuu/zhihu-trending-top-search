@@ -15,26 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 20 2025 22:16:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 25 2025 01:17:34 GMT+0800 (China Standard Time) -->
 
-1. [金价跌跌不休](https://www.zhihu.com/search?q=金价跌跌不休)
-1. [胖真的是一件很丢人的事吗](https://www.zhihu.com/search?q=胖真的是一件很丢人的事吗)
-1. [英国央行维持利率不变](https://www.zhihu.com/search?q=英国央行维持利率不变)
-1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=发明魔芋的前辈是经历了什么)
-1. [英伟达计划在欧洲建超20座AI工厂](https://www.zhihu.com/search?q=英伟达计划在欧洲建超20座AI工厂)
-1. [苏超看重职业水平还是娱乐性](https://www.zhihu.com/search?q=苏超看重职业水平还是娱乐性)
-1. [印度亿万富翁误吞蜜蜂身亡](https://www.zhihu.com/search?q=印度亿万富翁误吞蜜蜂身亡)
-1. [韩国掀起打「增高针」风潮](https://www.zhihu.com/search?q=韩国掀起打「增高针」风潮)
-1. [伊朗国家电视台大楼遭以色列袭击](https://www.zhihu.com/search?q=伊朗国家电视台大楼遭以色列袭击)
-1. [人民日报谈单依纯改编歌曲李白](https://www.zhihu.com/search?q=人民日报谈单依纯改编歌曲李白)
-1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=你的学校发生过最扯的事是什么)
-1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
-1. [美联储继续维持利率不变](https://www.zhihu.com/search?q=美联储继续维持利率不变)
-1. [中年夫妻有多少是生活和谐的](https://www.zhihu.com/search?q=中年夫妻有多少是生活和谐的)
-1. [罗帅宇举报材料或涉及多名医生](https://www.zhihu.com/search?q=罗帅宇举报材料或涉及多名医生)
-1. [罗帅宇坠楼前曾发两条短信](https://www.zhihu.com/search?q=罗帅宇坠楼前曾发两条短信)
-1. [湘雅二医院两年间给罗帅宇转账40多万](https://www.zhihu.com/search?q=湘雅二医院两年间给罗帅宇转账40多万)
-1. [罗帅宇爸爸:有人想用1500万封口](https://www.zhihu.com/search?q=罗帅宇爸爸:有人想用1500万封口)
+1. [河南高考出分](https://www.zhihu.com/search?q=河南高考出分)
+1. [成都地震](https://www.zhihu.com/search?q=成都地震)
+1. [高考查分](https://www.zhihu.com/search?q=高考查分)
+1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=皇马vs帕丘卡)
+1. [虾是海蟑螂吗](https://www.zhihu.com/search?q=虾是海蟑螂吗)
+1. [广州震感](https://www.zhihu.com/search?q=广州震感)
+1. [城市客运站迎「关停潮」](https://www.zhihu.com/search?q=城市客运站迎「关停潮」)
+1. [以军称做好与伊朗打持久战准备](https://www.zhihu.com/search?q=以军称做好与伊朗打持久战准备)
+1. [韩国4.5天工作制](https://www.zhihu.com/search?q=韩国4.5天工作制)
+1. [苏超常州vs南京](https://www.zhihu.com/search?q=苏超常州vs南京)
 
 <!-- END -->
 
