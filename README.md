@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 27 2025 00:22:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 27 2025 07:16:55 GMT+0800 (China Standard Time) -->
 
-1. [如何十日内让贵妃吃上荔枝](https://www.zhihu.com/search?q=如何十日内让贵妃吃上荔枝)
-1. [小米市值大涨](https://www.zhihu.com/search?q=小米市值大涨)
+1. [高考失利怎么办](https://www.zhihu.com/search?q=高考失利怎么办)
+1. [高考失利](https://www.zhihu.com/search?q=高考失利)
 1. [为何中国象棋中要设置马脚](https://www.zhihu.com/search?q=为何中国象棋中要设置马脚)
 1. [高考查分](https://www.zhihu.com/search?q=高考查分)
 1. [你心目中最伟大的十部小说是什么](https://www.zhihu.com/search?q=你心目中最伟大的十部小说是什么)
@@ -27,6 +27,8 @@
 1. [网传那尔那茜高考定向委培违约](https://www.zhihu.com/search?q=网传那尔那茜高考定向委培违约)
 1. [上海高考出分](https://www.zhihu.com/search?q=上海高考出分)
 1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=全国高考成绩陆续公布)
+1. [如何十日内让贵妃吃上荔枝](https://www.zhihu.com/search?q=如何十日内让贵妃吃上荔枝)
+1. [小米市值大涨](https://www.zhihu.com/search?q=小米市值大涨)
 
 <!-- END -->
 
