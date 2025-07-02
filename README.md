@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 02 2025 21:30:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 03 2025 02:25:39 GMT+0800 (China Standard Time) -->
 
 1. [特斯拉涨价](https://www.zhihu.com/search?q=特斯拉涨价)
 1. [中年夫妻有多少生活和谐的](https://www.zhihu.com/search?q=中年夫妻有多少生活和谐的)
@@ -27,10 +27,6 @@
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025 清凉智选季)
 1. [我的清凉家](https://www.zhihu.com/search?q=我的清凉家)
 1. [消暑家电选购清单](https://www.zhihu.com/search?q=消暑家电选购清单)
-1. [建党节](https://www.zhihu.com/search?q=建党节)
-1. [尊界s800](https://www.zhihu.com/search?q=尊界s800)
-1. [韩雪被指文物前使用强光拍摄](https://www.zhihu.com/search?q=韩雪被指文物前使用强光拍摄)
-1. [不靠心静靠硬实力](https://www.zhihu.com/search?q=不靠心静靠硬实力)
 
 <!-- END -->
 
