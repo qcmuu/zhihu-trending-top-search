@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 07 2025 18:20:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 09 2025 03:14:06 GMT+0800 (China Standard Time) -->
 
-1. [上海交大冲突事件引校门开放之争](https://www.zhihu.com/search?q=上海交大冲突事件引校门开放之争)
-1. [医生提醒高温天别舍不得开空调](https://www.zhihu.com/search?q=医生提醒高温天别舍不得开空调)
+1. [国足vs韩国](https://www.zhihu.com/search?q=国足vs韩国)
+1. [美团崩了](https://www.zhihu.com/search?q=美团崩了)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=我家这样过夏天)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025 清凉智选季)
 1. [我的清凉家](https://www.zhihu.com/search?q=我的清凉家)
