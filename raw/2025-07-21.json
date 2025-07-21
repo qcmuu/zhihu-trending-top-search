@@ -1,5 +1,12 @@
 [
-  { "query": "薛之谦新歌", "display_query": "薛之谦新歌" },
+  {
+    "query": "湖北一处地表温度超73度",
+    "display_query": "湖北一处地表温度超73度"
+  },
+  {
+    "query": "记者返乡发现预制菜全面「攻占」 农村宴席",
+    "display_query": "记者返乡发现预制菜全面「攻占」 农村宴席"
+  },
   { "query": "郑钦文退赛", "display_query": "郑钦文退赛" },
   { "query": "火箭vs开拓者", "display_query": "火箭vs开拓者" },
   { "query": "南京照相馆定档", "display_query": "南京照相馆定档" },
@@ -8,5 +15,6 @@
   { "query": "我的清凉家", "display_query": "我的清凉家" },
   { "query": "消暑家电选购清单", "display_query": "消暑家电选购清单" },
   { "query": "不靠心静靠硬实力", "display_query": "不靠心静靠硬实力" },
+  { "query": "薛之谦新歌", "display_query": "薛之谦新歌" },
   { "query": "全场景消暑指南", "display_query": "全场景消暑指南" }
 ]
