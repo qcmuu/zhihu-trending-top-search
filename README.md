@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 22 2025 13:23:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 22 2025 14:28:51 GMT+0800 (China Standard Time) -->
 
 1. [过量运动会让人衰老加快吗](https://www.zhihu.com/search?q=过量运动会让人衰老加快吗)
 1. [暑期档票房破40亿](https://www.zhihu.com/search?q=暑期档票房破40亿)
