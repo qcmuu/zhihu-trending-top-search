@@ -3,6 +3,11 @@
     "query": "过量运动会让人衰老加快吗",
     "display_query": "过量运动会让人衰老加快吗"
   },
+  { "query": "公积金是否能视为收入", "display_query": "公积金是否能视为收入" },
+  {
+    "query": "男女力量差距真的那么大么",
+    "display_query": "男女力量差距真的那么大么"
+  },
   { "query": "暑期档票房破40亿", "display_query": "暑期档票房破40亿" },
   { "query": "入伏", "display_query": "入伏" },
   {
@@ -10,6 +15,7 @@
     "display_query": "什么是人生的最顶级享受"
   },
   { "query": "石宇奇夺冠", "display_query": "石宇奇夺冠" },
+  { "query": "天赋到底是什么东西", "display_query": "天赋到底是什么东西" },
   { "query": "蒋振邦魏雅欣夺冠", "display_query": "蒋振邦魏雅欣夺冠" },
   { "query": "南京照相馆定档", "display_query": "南京照相馆定档" },
   { "query": "我家这样过夏天", "display_query": "我家这样过夏天" },
