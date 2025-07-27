@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 26 2025 20:35:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 28 2025 06:17:33 GMT+0800 (China Standard Time) -->
 
-1. [不鸡娃的结果是什么](https://www.zhihu.com/search?q=不鸡娃的结果是什么)
+1. [BLG战胜AL](https://www.zhihu.com/search?q=BLG战胜AL)
 1. [樊振东vs林诗栋](https://www.zhihu.com/search?q=樊振东vs林诗栋)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=我家这样过夏天)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025 清凉智选季)
