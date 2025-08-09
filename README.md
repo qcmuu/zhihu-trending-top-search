@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 09 2025 18:17:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 09 2025 22:16:21 GMT+0800 (China Standard Time) -->
 
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=你卡过最厉害的 bug
    是什么)
@@ -25,13 +25,15 @@
    潜水员3小时赚3500)
 1. [华为宣布CANN全面开源开放](https://www.zhihu.com/search?q=华为宣布CANN全面开源开放)
 1. [深圳华强北叫停小孩哥代送外卖](https://www.zhihu.com/search?q=深圳华强北叫停小孩哥代送外卖)
-1. [贾冰暴瘦被说面相吓人不宜演喜剧](https://www.zhihu.com/search?q=贾冰暴瘦被说面相吓人不宜演喜剧)
-1. [韩国羽协指责陈雨菲](https://www.zhihu.com/search?q=韩国羽协指责陈雨菲)
 1. [谷歌发布世界模型Genie
    3](https://www.zhihu.com/search?q=谷歌发布世界模型Genie 3)
 1. [曹云金感谢郭德纲持续教他做人](https://www.zhihu.com/search?q=曹云金感谢郭德纲持续教他做人)
 1. [ChatGPT 周活跃用户将达 7 亿](https://www.zhihu.com/search?q=ChatGPT
    周活跃用户将达 7 亿)
+1. [奔驰亮证姐被行政拘留5日](https://www.zhihu.com/search?q=奔驰亮证姐被行政拘留5日)
+1. [张芷溪向银河酷娱维权](https://www.zhihu.com/search?q=张芷溪向银河酷娱维权)
+1. [贾冰暴瘦被说面相吓人不宜演喜剧](https://www.zhihu.com/search?q=贾冰暴瘦被说面相吓人不宜演喜剧)
+1. [韩国羽协指责陈雨菲](https://www.zhihu.com/search?q=韩国羽协指责陈雨菲)
 
 <!-- END -->
 

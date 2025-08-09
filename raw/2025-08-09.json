@@ -20,11 +20,6 @@
     "display_query": "深圳华强北叫停小孩哥代送外卖"
   },
   {
-    "query": "贾冰暴瘦被说面相吓人不宜演喜剧",
-    "display_query": "贾冰暴瘦被说面相吓人不宜演喜剧"
-  },
-  { "query": "韩国羽协指责陈雨菲", "display_query": "韩国羽协指责陈雨菲" },
-  {
     "query": "谷歌发布世界模型Genie 3",
     "display_query": "谷歌发布世界模型Genie 3"
   },
@@ -35,5 +30,15 @@
   {
     "query": "ChatGPT 周活跃用户将达 7 亿",
     "display_query": "ChatGPT 周活跃用户将达 7 亿"
-  }
+  },
+  {
+    "query": "奔驰亮证姐被行政拘留5日",
+    "display_query": "奔驰亮证姐被行政拘留5日"
+  },
+  { "query": "张芷溪向银河酷娱维权", "display_query": "张芷溪向银河酷娱维权" },
+  {
+    "query": "贾冰暴瘦被说面相吓人不宜演喜剧",
+    "display_query": "贾冰暴瘦被说面相吓人不宜演喜剧"
+  },
+  { "query": "韩国羽协指责陈雨菲", "display_query": "韩国羽协指责陈雨菲" }
 ]
