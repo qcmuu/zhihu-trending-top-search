@@ -15,11 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 21 2025 09:20:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 21 2025 15:19:52 GMT+0800 (China Standard Time) -->
 
+1. [明星现实中真的很漂亮吗](https://www.zhihu.com/search?q=明星现实中真的很漂亮吗)
 1. [东方甄选报警](https://www.zhihu.com/search?q=东方甄选报警)
 1. [有哪些童言童行惊艳到你](https://www.zhihu.com/search?q=有哪些童言童行惊艳到你)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
+1. [为什么虾皮里总能发现小螃蟹](https://www.zhihu.com/search?q=为什么虾皮里总能发现小螃蟹)
 1. [著名的设计失败的汽车有哪些](https://www.zhihu.com/search?q=著名的设计失败的汽车有哪些)
 1. [蜜雪冰城为什么能火这么多年](https://www.zhihu.com/search?q=蜜雪冰城为什么能火这么多年)
 1. [中国男篮亚军](https://www.zhihu.com/search?q=中国男篮亚军)
