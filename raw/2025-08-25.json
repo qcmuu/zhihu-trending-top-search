@@ -1,9 +1,9 @@
 [
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   {
-    "query": "女童学游泳被教练按进水里数秒",
-    "display_query": "女童学游泳被教练按进水里数秒"
+    "query": "你最意外的一笔收入是什么",
+    "display_query": "你最意外的一笔收入是什么"
   },
-  { "query": "曾卓君街霸 6卫冕成功", "display_query": "曾卓君街霸 6卫冕成功" },
   {
     "query": "你是什么时候发现上班是没有意义的",
     "display_query": "你是什么时候发现上班是没有意义的"
@@ -30,11 +30,11 @@
     "display_query": "员工提前下班遇车祸身亡被认定为工伤"
   },
   { "query": "宫百万会攻击人类吗", "display_query": "宫百万会攻击人类吗" },
-  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   {
-    "query": "你最意外的一笔收入是什么",
-    "display_query": "你最意外的一笔收入是什么"
+    "query": "女童学游泳被教练按进水里数秒",
+    "display_query": "女童学游泳被教练按进水里数秒"
   },
+  { "query": "曾卓君街霸 6卫冕成功", "display_query": "曾卓君街霸 6卫冕成功" },
   { "query": "DeepSeek更新V3.1", "display_query": "DeepSeek更新V3.1" },
   {
     "query": "哲学教授苏德超为文科发声",
