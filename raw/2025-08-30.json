@@ -1,13 +1,8 @@
 [
   {
-    "query": "我国成功发射卫星互联网低轨卫星",
-    "display_query": "我国成功发射卫星互联网低轨卫星"
-  },
-  {
     "query": "你去过最离谱的景区是什么",
     "display_query": "你去过最离谱的景区是什么"
   },
-  { "query": "欧冠抽签", "display_query": "欧冠抽签" },
   {
     "query": "人的大脑会不会出现「过拟合」病",
     "display_query": "人的大脑会不会出现「过拟合」病"
@@ -22,12 +17,27 @@
   },
   { "query": "老潘财商 虞书欣", "display_query": "老潘财商 虞书欣" },
   {
-    "query": "大学生谈起「理性恋爱」",
-    "display_query": "大学生谈起「理性恋爱」"
-  },
-  {
     "query": "日本呼吁各国不要参加九三阅兵",
     "display_query": "日本呼吁各国不要参加九三阅兵"
+  },
+  {
+    "query": "《三体》重构了什么样的宇宙",
+    "display_query": "《三体》重构了什么样的宇宙"
+  },
+  {
+    "query": "SpaceX星舰第十次试飞圆满结束",
+    "display_query": "SpaceX星舰第十次试飞圆满结束"
+  },
+  { "query": "罕见天象血月将现身", "display_query": "罕见天象血月将现身" },
+  { "query": "为啥西瓜这么好成活", "display_query": "为啥西瓜这么好成活" },
+  {
+    "query": "我国成功发射卫星互联网低轨卫星",
+    "display_query": "我国成功发射卫星互联网低轨卫星"
+  },
+  { "query": "欧冠抽签", "display_query": "欧冠抽签" },
+  {
+    "query": "大学生谈起「理性恋爱」",
+    "display_query": "大学生谈起「理性恋爱」"
   },
   {
     "query": "何小鹏称车企淘汰赛还有五年",
