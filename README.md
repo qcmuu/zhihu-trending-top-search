@@ -15,19 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 01 2025 14:28:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 01 2025 19:14:36 GMT+0800 (China Standard Time) -->
 
 1. [王楚钦2比3徐瑛彬](https://www.zhihu.com/search?q=王楚钦2比3徐瑛彬)
+1. [为什么父母会把两三万的学费非常当回事](https://www.zhihu.com/search?q=为什么父母会把两三万的学费非常当回事)
+1. [长的漂亮真的很有优势吗](https://www.zhihu.com/search?q=长的漂亮真的很有优势吗)
 1. [《三体》重构了什么样的宇宙](https://www.zhihu.com/search?q=《三体》重构了什么样的宇宙)
-1. [安徽最大蝗虫现身合肥](https://www.zhihu.com/search?q=安徽最大蝗虫现身合肥)
-1. [蜜雪冰城回应网友玩梗「蜜鼠冰城」](https://www.zhihu.com/search?q=蜜雪冰城回应网友玩梗「蜜鼠冰城」)
-1. [家长建议禁止学生带电话手表上学](https://www.zhihu.com/search?q=家长建议禁止学生带电话手表上学)
 1. [如何看待花 168 元去讲 PPT](https://www.zhihu.com/search?q=如何看待花 168
    元去讲 PPT)
 1. [你对泰勒·斯威夫特订婚有哪些祝福](https://www.zhihu.com/search?q=你对泰勒·斯威夫特订婚有哪些祝福)
 1. [网红过沙漠刀锋车辆侧翻身亡](https://www.zhihu.com/search?q=网红过沙漠刀锋车辆侧翻身亡)
 1. [钟馗是个什么实力的神仙](https://www.zhihu.com/search?q=钟馗是个什么实力的神仙)
 1. [网友称池塘里鱼的身首分离后仍在游动](https://www.zhihu.com/search?q=网友称池塘里鱼的身首分离后仍在游动)
+1. [为什么老板在骨干研发离职后才意识到重要性](https://www.zhihu.com/search?q=为什么老板在骨干研发离职后才意识到重要性)
+1. [安徽最大蝗虫现身合肥](https://www.zhihu.com/search?q=安徽最大蝗虫现身合肥)
+1. [蜜雪冰城回应网友玩梗「蜜鼠冰城」](https://www.zhihu.com/search?q=蜜雪冰城回应网友玩梗「蜜鼠冰城」)
+1. [家长建议禁止学生带电话手表上学](https://www.zhihu.com/search?q=家长建议禁止学生带电话手表上学)
 
 <!-- END -->
 
