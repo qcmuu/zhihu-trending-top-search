@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 11 2025 05:14:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 11 2025 09:17:21 GMT+0800 (China Standard Time) -->
 
 1. [教师节祝福语](https://www.zhihu.com/search?q=教师节祝福语)
 1. [教师节](https://www.zhihu.com/search?q=教师节)
