@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 11 2025 09:17:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 11 2025 12:19:34 GMT+0800 (China Standard Time) -->
 
 1. [教师节祝福语](https://www.zhihu.com/search?q=教师节祝福语)
 1. [教师节](https://www.zhihu.com/search?q=教师节)
@@ -26,6 +26,7 @@
 1. [面相长的凶是什么体验](https://www.zhihu.com/search?q=面相长的凶是什么体验)
 1. [你住过最贵的酒店是哪家](https://www.zhihu.com/search?q=你住过最贵的酒店是哪家)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
+1. [写西幻该如何避免写成中式西幻](https://www.zhihu.com/search?q=写西幻该如何避免写成中式西幻)
 1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=一个人可以蠢到什么程度)
 
 <!-- END -->
