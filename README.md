@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 12 2025 02:19:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 12 2025 14:25:09 GMT+0800 (China Standard Time) -->
 
-1. [河南暴雨](https://www.zhihu.com/search?q=河南暴雨)
-1. [为什么要实行薪酬保密](https://www.zhihu.com/search?q=为什么要实行薪酬保密)
+1. [李嘉格宣布与车澈离婚](https://www.zhihu.com/search?q=李嘉格宣布与车澈离婚)
+1. [男子因楼上邻居发出噪音捅死邻居](https://www.zhihu.com/search?q=男子因楼上邻居发出噪音捅死邻居)
 1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=老师怎么看出来作文是抄的)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=你的学校发生过最扯的事是什么)
@@ -27,6 +27,8 @@
 1. [你听过最野的野史有多野](https://www.zhihu.com/search?q=你听过最野的野史有多野)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
 1. [孩子为什么越大越不愿意跟我们说话](https://www.zhihu.com/search?q=孩子为什么越大越不愿意跟我们说话)
+1. [河南暴雨](https://www.zhihu.com/search?q=河南暴雨)
+1. [为什么要实行薪酬保密](https://www.zhihu.com/search?q=为什么要实行薪酬保密)
 
 <!-- END -->
 
