@@ -1,7 +1,6 @@
 [
   { "query": "北京暴雨", "display_query": "北京暴雨" },
   { "query": "王楚钦男单夺冠", "display_query": "王楚钦男单夺冠" },
-  { "query": "艾美奖获奖名单", "display_query": "艾美奖获奖名单" },
   {
     "query": "莫斯科交易所暂停股票交易",
     "display_query": "莫斯科交易所暂停股票交易"
@@ -18,6 +17,11 @@
     "query": "西贝承认部分菜品是隔夜菜",
     "display_query": "西贝承认部分菜品是隔夜菜"
   },
+  {
+    "query": "西贝公开13道菜制作过程又删除",
+    "display_query": "西贝公开13道菜制作过程又删除"
+  },
+  { "query": "艾美奖获奖名单", "display_query": "艾美奖获奖名单" },
   {
     "query": "西贝创始人：预制和预制菜是两回事",
     "display_query": "西贝创始人：预制和预制菜是两回事"
