@@ -7,6 +7,7 @@
     "display_query": "莫斯科交易所暂停股票交易"
   },
   { "query": "什么是顶级的思维", "display_query": "什么是顶级的思维" },
+  { "query": "钓鱼佬最接受不了什么", "display_query": "钓鱼佬最接受不了什么" },
   { "query": "于朦胧", "display_query": "于朦胧" },
   { "query": "于朦胧确认去世", "display_query": "于朦胧确认去世" },
   {
@@ -14,11 +15,11 @@
     "display_query": "很多人开始反思「临时生活」"
   },
   {
-    "query": "西贝创始人：预制和预制菜是两回事",
-    "display_query": "西贝创始人：预制和预制菜是两回事"
-  },
-  {
     "query": "西贝承认部分菜品是隔夜菜",
     "display_query": "西贝承认部分菜品是隔夜菜"
+  },
+  {
+    "query": "西贝创始人：预制和预制菜是两回事",
+    "display_query": "西贝创始人：预制和预制菜是两回事"
   }
 ]
