@@ -15,18 +15,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 29 2025 00:17:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 29 2025 22:17:15 GMT+0800 (China Standard Time) -->
 
-1. [雷军年度演讲](https://www.zhihu.com/search?q=雷军年度演讲)
+1. [A股](https://www.zhihu.com/search?q=A股)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [你什么时候意识到自己没见过世面](https://www.zhihu.com/search?q=你什么时候意识到自己没见过世面)
+1. [湾区升明月](https://www.zhihu.com/search?q=湾区升明月)
+1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
+1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=数学是从什么时候开始反直觉的)
+1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=你有什么解压的小众爱好)
+1. [为什么枯山水在中国不流行](https://www.zhihu.com/search?q=为什么枯山水在中国不流行)
+1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
+1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=黄金到底能涨到什么地步)
+1. [雷军年度演讲](https://www.zhihu.com/search?q=雷军年度演讲)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [中国的城堡是不是很少](https://www.zhihu.com/search?q=中国的城堡是不是很少)
 1. [外国人如何看待中国美食](https://www.zhihu.com/search?q=外国人如何看待中国美食)
-1. [湾区升明月](https://www.zhihu.com/search?q=湾区升明月)
 1. [刘邦凭什么这么听萧何的话](https://www.zhihu.com/search?q=刘邦凭什么这么听萧何的话)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=我国成功发射卫星互联网低轨卫星)
-1. [为什么枯山水在中国不流行](https://www.zhihu.com/search?q=为什么枯山水在中国不流行)
 
 <!-- END -->
 
