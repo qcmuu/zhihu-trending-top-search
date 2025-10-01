@@ -1,5 +1,4 @@
 [
-  { "query": "今日辟谣", "display_query": "今日辟谣" },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
@@ -20,11 +19,24 @@
     "query": "为什么在中国邮箱不流行",
     "display_query": "为什么在中国邮箱不流行"
   },
-  { "query": "现货黄金再创新高", "display_query": "现货黄金再创新高" },
   { "query": "湾区升明月", "display_query": "湾区升明月" },
   {
     "query": "为什么现在那么多小孩得抑郁",
     "display_query": "为什么现在那么多小孩得抑郁"
   },
+  {
+    "query": "刘邦凭什么这么听萧何的话",
+    "display_query": "刘邦凭什么这么听萧何的话"
+  },
+  {
+    "query": "数学是从什么时候开始反直觉的",
+    "display_query": "数学是从什么时候开始反直觉的"
+  },
+  {
+    "query": "你有什么解压的小众爱好",
+    "display_query": "你有什么解压的小众爱好"
+  },
+  { "query": "今日辟谣", "display_query": "今日辟谣" },
+  { "query": "现货黄金再创新高", "display_query": "现货黄金再创新高" },
   { "query": "郑钦文退赛", "display_query": "郑钦文退赛" }
 ]
