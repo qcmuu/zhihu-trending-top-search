@@ -1,0 +1,27 @@
+[
+  { "query": "诺贝尔化学奖", "display_query": "诺贝尔化学奖" },
+  { "query": "诺贝尔文学奖", "display_query": "诺贝尔文学奖" },
+  { "query": "假期最后一天", "display_query": "假期最后一天" },
+  {
+    "query": "为什么有些人的预判能力这么强",
+    "display_query": "为什么有些人的预判能力这么强"
+  },
+  {
+    "query": "为什么说男人至死都是少年",
+    "display_query": "为什么说男人至死都是少年"
+  },
+  {
+    "query": "为什么优秀员工往往最先离职",
+    "display_query": "为什么优秀员工往往最先离职"
+  },
+  { "query": "假期综合征", "display_query": "假期综合征" },
+  {
+    "query": "早期的的网红后来怎么样了",
+    "display_query": "早期的的网红后来怎么样了"
+  },
+  { "query": "发现孩子很普通怎么办", "display_query": "发现孩子很普通怎么办" },
+  {
+    "query": "演员知道自己正在拍一部烂片吗",
+    "display_query": "演员知道自己正在拍一部烂片吗"
+  }
+]
