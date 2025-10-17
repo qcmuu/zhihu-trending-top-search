@@ -1,4 +1,9 @@
 [
+  { "query": "世界粮食日", "display_query": "世界粮食日" },
+  {
+    "query": "哪一刻让你终于意识到了这就是命",
+    "display_query": "哪一刻让你终于意识到了这就是命"
+  },
   {
     "query": "人的意识究竟是怎么产生的",
     "display_query": "人的意识究竟是怎么产生的"
@@ -32,10 +37,5 @@
     "query": "如何用最少的钱打扮自己",
     "display_query": "如何用最少的钱打扮自己"
   },
-  { "query": "极简真的养人吗", "display_query": "极简真的养人吗" },
-  { "query": "世界粮食日", "display_query": "世界粮食日" },
-  {
-    "query": "哪一刻让你终于意识到了这就是命",
-    "display_query": "哪一刻让你终于意识到了这就是命"
-  }
+  { "query": "极简真的养人吗", "display_query": "极简真的养人吗" }
 ]
