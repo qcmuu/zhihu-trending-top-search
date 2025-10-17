@@ -1,6 +1,5 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "世界粮食日", "display_query": "世界粮食日" },
+  { "query": "一笑随歌凤戏阳怀孕了", "display_query": "一笑随歌凤戏阳怀孕了" },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
@@ -31,14 +30,16 @@
     "display_query": "常年独居的人靠什么抵抗孤独"
   },
   {
+    "query": "你有什么解压的小众爱好",
+    "display_query": "你有什么解压的小众爱好"
+  },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "世界粮食日", "display_query": "世界粮食日" },
+  {
     "query": "移动联通电信均已开通eSIM",
     "display_query": "移动联通电信均已开通eSIM"
   },
   { "query": "亚锦赛国乒女团夺冠", "display_query": "亚锦赛国乒女团夺冠" },
-  {
-    "query": "你有什么解压的小众爱好",
-    "display_query": "你有什么解压的小众爱好"
-  },
   {
     "query": "你在家闯过最大的祸是什么",
     "display_query": "你在家闯过最大的祸是什么"
