@@ -1,8 +1,6 @@
 [
-  {
-    "query": "年轻人迷上在线下交换自制周边",
-    "display_query": "年轻人迷上在线下交换自制周边"
-  },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "世界粮食日", "display_query": "世界粮食日" },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
@@ -32,7 +30,9 @@
     "query": "德国的工业已经退到什么地步了",
     "display_query": "德国的工业已经退到什么地步了"
   },
-  { "query": "如何评价《战地6》", "display_query": "如何评价《战地6》" },
-  { "query": "A股", "display_query": "A股" },
-  { "query": "世界粮食日", "display_query": "世界粮食日" }
+  {
+    "query": "年轻人迷上在线下交换自制周边",
+    "display_query": "年轻人迷上在线下交换自制周边"
+  },
+  { "query": "如何评价《战地6》", "display_query": "如何评价《战地6》" }
 ]
