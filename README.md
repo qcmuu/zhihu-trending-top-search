@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 20 2025 16:23:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 20 2025 17:20:07 GMT+0800 (China Standard Time) -->
 
-1. [苏超半决赛南通vs无锡](https://www.zhihu.com/search?q=苏超半决赛南通vs无锡)
+1. [南京野猪为什么如此泛滥](https://www.zhihu.com/search?q=南京野猪为什么如此泛滥)
+1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=你去过最离谱的景区是什么)
 1. [有哪些信、达、不雅的翻译](https://www.zhihu.com/search?q=有哪些信、达、不雅的翻译)
 1. [你见过最不会点菜的人是什么样子的](https://www.zhihu.com/search?q=你见过最不会点菜的人是什么样子的)
 1. [为什么杂鱼这个词在日本很有攻击力](https://www.zhihu.com/search?q=为什么杂鱼这个词在日本很有攻击力)
@@ -27,9 +28,8 @@
 1. [《再见爱人 第五季》第一期](https://www.zhihu.com/search?q=《再见爱人
    第五季》第一期)
 1. [何炅自曝精力大不如前](https://www.zhihu.com/search?q=何炅自曝精力大不如前)
+1. [苏超半决赛南通vs无锡](https://www.zhihu.com/search?q=苏超半决赛南通vs无锡)
 1. [高速服务区现「野人小孩」](https://www.zhihu.com/search?q=高速服务区现「野人小孩」)
-1. [南京野猪为什么如此泛滥](https://www.zhihu.com/search?q=南京野猪为什么如此泛滥)
-1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=你去过最离谱的景区是什么)
 1. [固态电池新突破：新能源车续航有望翻倍](https://www.zhihu.com/search?q=固态电池新突破：新能源车续航有望翻倍)
 1. [何美延梁淞回应家暴事件](https://www.zhihu.com/search?q=何美延梁淞回应家暴事件)
 1. [国考报考首日近19万人报名](https://www.zhihu.com/search?q=国考报考首日近19万人报名)
