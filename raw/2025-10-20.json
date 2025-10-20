@@ -1,5 +1,8 @@
 [
-  { "query": "英超双红会", "display_query": "英超双红会" },
+  {
+    "query": "多家银行清理 「沉睡账户」 ",
+    "display_query": "多家银行清理 「沉睡账户」 "
+  },
   { "query": "考研倒计时", "display_query": "考研倒计时" },
   {
     "query": "为什么有些人的预判能力这么强",
@@ -27,6 +30,7 @@
     "query": "现在的大学生到底是什么状态",
     "display_query": "现在的大学生到底是什么状态"
   },
+  { "query": "英超双红会", "display_query": "英超双红会" },
   {
     "query": "有哪些信、达、不雅的翻译",
     "display_query": "有哪些信、达、不雅的翻译"
