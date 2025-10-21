@@ -1,5 +1,9 @@
 [
-  { "query": "英超双红会", "display_query": "英超双红会" },
+  {
+    "query": "野人孩子出现动物化特征",
+    "display_query": "野人孩子出现动物化特征"
+  },
+  { "query": "陈伟霆何穗官宣生子", "display_query": "陈伟霆何穗官宣生子" },
   { "query": "考研倒计时", "display_query": "考研倒计时" },
   {
     "query": "为什么有些人的预判能力这么强",
@@ -23,6 +27,7 @@
     "query": "你喝多了都干过什么蠢事",
     "display_query": "你喝多了都干过什么蠢事"
   },
+  { "query": "英超双红会", "display_query": "英超双红会" },
   {
     "query": "你去过最离谱的景区是什么",
     "display_query": "你去过最离谱的景区是什么"
