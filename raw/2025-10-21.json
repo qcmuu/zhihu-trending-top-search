@@ -1,5 +1,12 @@
 [
-  { "query": "英超双红会", "display_query": "英超双红会" },
+  {
+    "query": "能推荐下你心中的top10动漫吗",
+    "display_query": "能推荐下你心中的top10动漫吗"
+  },
+  {
+    "query": "红山动物园放弃抵抗采用野菜F4",
+    "display_query": "红山动物园放弃抵抗采用野菜F4"
+  },
   { "query": "考研倒计时", "display_query": "考研倒计时" },
   {
     "query": "为什么有些人的预判能力这么强",
@@ -23,6 +30,7 @@
     "query": "你喝多了都干过什么蠢事",
     "display_query": "你喝多了都干过什么蠢事"
   },
+  { "query": "英超双红会", "display_query": "英超双红会" },
   {
     "query": "你去过最离谱的景区是什么",
     "display_query": "你去过最离谱的景区是什么"
