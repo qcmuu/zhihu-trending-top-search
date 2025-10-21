@@ -15,12 +15,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 21 2025 18:18:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 21 2025 19:14:26 GMT+0800 (China Standard Time) -->
 
 1. [英超双红会](https://www.zhihu.com/search?q=英超双红会)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [蔚来李斌内部讲话流出](https://www.zhihu.com/search?q=蔚来李斌内部讲话流出)
 1. [考研倒计时](https://www.zhihu.com/search?q=考研倒计时)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [利物浦vs曼联](https://www.zhihu.com/search?q=利物浦vs曼联)
+1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=中国有多少城市能撑起来七日游)
+1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
 1. [有哪些逆天的微生物](https://www.zhihu.com/search?q=有哪些逆天的微生物)
 1. [南京野猪为什么如此泛滥](https://www.zhihu.com/search?q=南京野猪为什么如此泛滥)
