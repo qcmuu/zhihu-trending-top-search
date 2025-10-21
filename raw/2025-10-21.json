@@ -2,7 +2,6 @@
   { "query": "英超双红会", "display_query": "英超双红会" },
   { "query": "A股", "display_query": "A股" },
   { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
-  { "query": "考研倒计时", "display_query": "考研倒计时" },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
@@ -25,6 +24,7 @@
     "query": "南京野猪为什么如此泛滥",
     "display_query": "南京野猪为什么如此泛滥"
   },
+  { "query": "考研倒计时", "display_query": "考研倒计时" },
   {
     "query": "你有什么解压的小众爱好",
     "display_query": "你有什么解压的小众爱好"
