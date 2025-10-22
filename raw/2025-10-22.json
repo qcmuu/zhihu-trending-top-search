@@ -1,5 +1,8 @@
 [
-  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "抽象思维方法的局限性是什么",
+    "display_query": "抽象思维方法的局限性是什么"
+  },
   { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   {
@@ -27,6 +30,7 @@
     "query": "你去过最离谱的景区是什么",
     "display_query": "你去过最离谱的景区是什么"
   },
+  { "query": "A股", "display_query": "A股" },
   {
     "query": "现在的大学生到底是什么状态",
     "display_query": "现在的大学生到底是什么状态"
