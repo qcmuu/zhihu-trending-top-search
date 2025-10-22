@@ -1,12 +1,5 @@
 [
-  {
-    "query": "如何评价瑞士轮AL2:1CFO",
-    "display_query": "如何评价瑞士轮AL2:1CFO"
-  },
-  {
-    "query": "媒体称蔡威泽代周杰伦投资比特币后人间蒸发",
-    "display_query": "媒体称蔡威泽代周杰伦投资比特币后人间蒸发"
-  },
+  { "query": "A股", "display_query": "A股" },
   { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   {
@@ -27,10 +20,17 @@
     "display_query": "南京野猪为什么如此泛滥"
   },
   { "query": "日本石破内阁集体辞职", "display_query": "日本石破内阁集体辞职" },
-  { "query": "A股", "display_query": "A股" },
   {
     "query": "你有什么解压的小众爱好",
     "display_query": "你有什么解压的小众爱好"
+  },
+  {
+    "query": "如何评价瑞士轮AL2:1CFO",
+    "display_query": "如何评价瑞士轮AL2:1CFO"
+  },
+  {
+    "query": "媒体称蔡威泽代周杰伦投资比特币后人间蒸发",
+    "display_query": "媒体称蔡威泽代周杰伦投资比特币后人间蒸发"
   },
   {
     "query": "你喝多了都干过什么蠢事",
