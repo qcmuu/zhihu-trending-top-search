@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 24 2025 20:37:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 24 2025 21:28:20 GMT+0800 (China Standard Time) -->
 
 1. [今日霜降](https://www.zhihu.com/search?q=今日霜降)
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=你对什么食物是无法接受的)
