@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 24 2025 10:58:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 24 2025 11:35:15 GMT+0800 (China Standard Time) -->
 
-1. [印尼被暂时剥夺所有国际大赛办赛资格](https://www.zhihu.com/search?q=印尼被暂时剥夺所有国际大赛办赛资格)
-1. [孩子抗拒客人带走玩具要怎么开导](https://www.zhihu.com/search?q=孩子抗拒客人带走玩具要怎么开导)
+1. [今日霜降](https://www.zhihu.com/search?q=今日霜降)
 1. [什么叫中国人的浪漫](https://www.zhihu.com/search?q=什么叫中国人的浪漫)
 1. [被查房时怎么证明是情侣关系](https://www.zhihu.com/search?q=被查房时怎么证明是情侣关系)
 1. [沪深两市成交额突破5000亿](https://www.zhihu.com/search?q=沪深两市成交额突破5000亿)
@@ -27,8 +26,9 @@
 1. [GEN对战TES](https://www.zhihu.com/search?q=GEN对战TES)
 1. [王源演唱会](https://www.zhihu.com/search?q=王源演唱会)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
-1. [今日霜降](https://www.zhihu.com/search?q=今日霜降)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=你有什么解压的小众爱好)
+1. [印尼被暂时剥夺所有国际大赛办赛资格](https://www.zhihu.com/search?q=印尼被暂时剥夺所有国际大赛办赛资格)
+1. [孩子抗拒客人带走玩具要怎么开导](https://www.zhihu.com/search?q=孩子抗拒客人带走玩具要怎么开导)
 
 <!-- END -->
 
