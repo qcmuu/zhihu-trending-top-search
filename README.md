@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 28 2025 14:27:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 28 2025 15:16:47 GMT+0800 (China Standard Time) -->
 
-1. [为什么北方不善水战呢](https://www.zhihu.com/search?q=为什么北方不善水战呢)
-1. [网红曾医生呼吁「不要评价同行的手术」](https://www.zhihu.com/search?q=网红曾医生呼吁「不要评价同行的手术」)
+1. [阿斯顿维拉1比0曼城](https://www.zhihu.com/search?q=阿斯顿维拉1比0曼城)
+1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=中年男人最大的悲哀是什么)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=照骗能骗到什么程度)
 1. [皇马vs巴萨](https://www.zhihu.com/search?q=皇马vs巴萨)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
@@ -27,8 +27,8 @@
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=现在的大学生到底是什么状态)
 1. [为什么都说人生的容错率大到无法想象](https://www.zhihu.com/search?q=为什么都说人生的容错率大到无法想象)
 1. [人真的一定要上班吗](https://www.zhihu.com/search?q=人真的一定要上班吗)
-1. [阿斯顿维拉1比0曼城](https://www.zhihu.com/search?q=阿斯顿维拉1比0曼城)
-1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=中年男人最大的悲哀是什么)
+1. [为什么北方不善水战呢](https://www.zhihu.com/search?q=为什么北方不善水战呢)
+1. [网红曾医生呼吁「不要评价同行的手术」](https://www.zhihu.com/search?q=网红曾医生呼吁「不要评价同行的手术」)
 1. [有什么震惊了你的名言](https://www.zhihu.com/search?q=有什么震惊了你的名言)
 1. [你心目中排名第一的饮料是什么](https://www.zhihu.com/search?q=你心目中排名第一的饮料是什么)
 
