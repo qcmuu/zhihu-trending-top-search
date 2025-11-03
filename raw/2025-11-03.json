@@ -1,9 +1,9 @@
 [
+  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   {
-    "query": "台风海鸥已加强为强热带风暴级",
-    "display_query": "台风海鸥已加强为强热带风暴级"
+    "query": "哪句话让你突然沉默了很久",
+    "display_query": "哪句话让你突然沉默了很久"
   },
-  { "query": "片仔癀价格暴跌", "display_query": "片仔癀价格暴跌" },
   { "query": "TES对战T1", "display_query": "TES对战T1" },
   {
     "query": "有哪些非常冷门且令人意外的知识",
@@ -25,9 +25,10 @@
     "display_query": "钱可以成为一个人的底气吗"
   },
   {
-    "query": "哪句话让你突然沉默了很久",
-    "display_query": "哪句话让你突然沉默了很久"
+    "query": "台风海鸥已加强为强热带风暴级",
+    "display_query": "台风海鸥已加强为强热带风暴级"
   },
+  { "query": "片仔癀价格暴跌", "display_query": "片仔癀价格暴跌" },
   {
     "query": "为什么现在的员工都不爱公司",
     "display_query": "为什么现在的员工都不爱公司"
