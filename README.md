@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 03 2025 17:21:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 03 2025 18:21:03 GMT+0800 (China Standard Time) -->
 
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=哪句话让你突然沉默了很久)
 1. [有什么尴尬到爆的经历](https://www.zhihu.com/search?q=有什么尴尬到爆的经历)
