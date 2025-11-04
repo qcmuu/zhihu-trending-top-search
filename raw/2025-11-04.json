@@ -1,7 +1,8 @@
 [
+  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   {
-    "query": "倾家荡产治疗患癌老人值得吗",
-    "display_query": "倾家荡产治疗患癌老人值得吗"
+    "query": "哪句话让你突然沉默了很久",
+    "display_query": "哪句话让你突然沉默了很久"
   },
   { "query": "你见过的狠人有多绝", "display_query": "你见过的狠人有多绝" },
   {
@@ -23,12 +24,11 @@
     "display_query": "被保护得太好的人是怎样的"
   },
   { "query": "有什么尴尬到爆的经历", "display_query": "有什么尴尬到爆的经历" },
-  { "query": "不鸡娃的结果是什么", "display_query": "不鸡娃的结果是什么" },
-  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   {
-    "query": "哪句话让你突然沉默了很久",
-    "display_query": "哪句话让你突然沉默了很久"
+    "query": "倾家荡产治疗患癌老人值得吗",
+    "display_query": "倾家荡产治疗患癌老人值得吗"
   },
+  { "query": "不鸡娃的结果是什么", "display_query": "不鸡娃的结果是什么" },
   {
     "query": "你心目中排名第一的饮料是什么",
     "display_query": "你心目中排名第一的饮料是什么"
