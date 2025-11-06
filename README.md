@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 06 2025 20:37:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 06 2025 21:29:37 GMT+0800 (China Standard Time) -->
 
-1. [太阳vs勇士](https://www.zhihu.com/search?q=太阳vs勇士)
-1. [史上最长春节假期](https://www.zhihu.com/search?q=史上最长春节假期)
+1. [金靖否认“背刺”传言](https://www.zhihu.com/search?q=金靖否认“背刺”传言)
+1. [重庆市调整部分行政区划](https://www.zhihu.com/search?q=重庆市调整部分行政区划)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=你见过的狠人有多绝)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=职业运动员究竟有多厉害)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=为什么老一辈人厌恶游戏)
@@ -27,6 +27,8 @@
 1. [硬币为什么取消中间的方孔](https://www.zhihu.com/search?q=硬币为什么取消中间的方孔)
 1. [利物浦vs皇马](https://www.zhihu.com/search?q=利物浦vs皇马)
 1. [被保护得太好的人是怎样的](https://www.zhihu.com/search?q=被保护得太好的人是怎样的)
+1. [太阳vs勇士](https://www.zhihu.com/search?q=太阳vs勇士)
+1. [史上最长春节假期](https://www.zhihu.com/search?q=史上最长春节假期)
 1. [白百何 春树](https://www.zhihu.com/search?q=白百何 春树)
 1. [你有结账时发现太贵的尴尬经历吗](https://www.zhihu.com/search?q=你有结账时发现太贵的尴尬经历吗)
 1. [中国人到底有多能吃](https://www.zhihu.com/search?q=中国人到底有多能吃)
