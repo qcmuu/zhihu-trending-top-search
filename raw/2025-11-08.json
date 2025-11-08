@@ -1,5 +1,9 @@
 [
-  { "query": "今日立冬", "display_query": "今日立冬" },
+  {
+    "query": "鱼塘称用辣椒喂鱼会更漂亮",
+    "display_query": "鱼塘称用辣椒喂鱼会更漂亮"
+  },
+  { "query": "国漫的主要缺点是什么", "display_query": "国漫的主要缺点是什么" },
   {
     "query": "你知道的最震惊的冷知识是什么",
     "display_query": "你知道的最震惊的冷知识是什么"
@@ -26,6 +30,7 @@
     "query": "如何评价电影新少林五祖",
     "display_query": "如何评价电影新少林五祖"
   },
+  { "query": "今日立冬", "display_query": "今日立冬" },
   {
     "query": "你心目中排名第一的饮料是什么",
     "display_query": "你心目中排名第一的饮料是什么"
