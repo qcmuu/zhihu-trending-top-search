@@ -1,9 +1,6 @@
 [
-  {
-    "query": "巨型吊牌揭开女装高退货率痛点",
-    "display_query": "巨型吊牌揭开女装高退货率痛点"
-  },
-  { "query": "疑似白百何朋友圈", "display_query": "疑似白百何朋友圈" },
+  { "query": "今日立冬", "display_query": "今日立冬" },
+  { "query": "T1夺冠", "display_query": "T1夺冠" },
   {
     "query": "你知道的最震惊的冷知识是什么",
     "display_query": "你知道的最震惊的冷知识是什么"
@@ -33,7 +30,11 @@
     "query": "周末你允许孩子睡懒觉吗",
     "display_query": "周末你允许孩子睡懒觉吗"
   },
-  { "query": "今日立冬", "display_query": "今日立冬" },
+  {
+    "query": "巨型吊牌揭开女装高退货率痛点",
+    "display_query": "巨型吊牌揭开女装高退货率痛点"
+  },
+  { "query": "疑似白百何朋友圈", "display_query": "疑似白百何朋友圈" },
   {
     "query": "大家提升自己最快的方式是什么",
     "display_query": "大家提升自己最快的方式是什么"
