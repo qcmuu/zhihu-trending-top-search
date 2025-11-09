@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 09 2025 22:13:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 09 2025 23:14:59 GMT+0800 (China Standard Time) -->
 
 1. [今日立冬](https://www.zhihu.com/search?q=今日立冬)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
