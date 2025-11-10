@@ -1,5 +1,8 @@
 [
-  { "query": "T1夺冠", "display_query": "T1夺冠" },
+  {
+    "query": "我国已进入呼吸道传染病高发季",
+    "display_query": "我国已进入呼吸道传染病高发季"
+  },
   {
     "query": "你知道的最震惊的冷知识是什么",
     "display_query": "你知道的最震惊的冷知识是什么"
@@ -33,6 +36,7 @@
     "query": "预防老人跌倒 助行设备",
     "display_query": "预防老人跌倒 助行设备"
   },
+  { "query": "T1夺冠", "display_query": "T1夺冠" },
   {
     "query": "老年人独立出行 辅助工具",
     "display_query": "老年人独立出行 辅助工具"

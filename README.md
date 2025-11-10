@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 10 2025 13:18:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 10 2025 14:29:02 GMT+0800 (China Standard Time) -->
 
-1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
+1. [我国已进入呼吸道传染病高发季](https://www.zhihu.com/search?q=我国已进入呼吸道传染病高发季)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=你知道的最震惊的冷知识是什么)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [你见过最真实的商战是什么](https://www.zhihu.com/search?q=你见过最真实的商战是什么)
@@ -29,6 +29,7 @@
 1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=长辈上下楼梯困难
    解决方案)
 1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=预防老人跌倒 助行设备)
+1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
 1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=老年人独立出行
    辅助工具)
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=医生测评外骨骼机器人)
