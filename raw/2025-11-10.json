@@ -1,9 +1,5 @@
 [
-  { "query": "王楚钦首战迎魏世皓", "display_query": "王楚钦首战迎魏世皓" },
-  {
-    "query": "「周末到河北」上好物100榜单了",
-    "display_query": "「周末到河北」上好物100榜单了"
-  },
+  { "query": "记者节", "display_query": "记者节" },
   { "query": "T1夺冠", "display_query": "T1夺冠" },
   { "query": "火箭战胜雄鹿", "display_query": "火箭战胜雄鹿" },
   {
@@ -27,8 +23,12 @@
     "display_query": "你见过最真实的商战是什么"
   },
   { "query": "颛顼为什么要绝地天通", "display_query": "颛顼为什么要绝地天通" },
-  { "query": "记者节", "display_query": "记者节" },
   { "query": "灰熊vs雷霆", "display_query": "灰熊vs雷霆" },
+  { "query": "王楚钦首战迎魏世皓", "display_query": "王楚钦首战迎魏世皓" },
+  {
+    "query": "「周末到河北」上好物100榜单了",
+    "display_query": "「周末到河北」上好物100榜单了"
+  },
   { "query": "为什么会人走茶凉", "display_query": "为什么会人走茶凉" },
   {
     "query": "你受过最狠的羞辱是什么",
