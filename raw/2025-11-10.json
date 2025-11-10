@@ -1,5 +1,12 @@
 [
-  { "query": "记者节", "display_query": "记者节" },
+  {
+    "query": "崩铁新角色大丽花引争议",
+    "display_query": "崩铁新角色大丽花引争议"
+  },
+  {
+    "query": "大家提升自己最快的方式是什么",
+    "display_query": "大家提升自己最快的方式是什么"
+  },
   { "query": "T1夺冠", "display_query": "T1夺冠" },
   { "query": "火箭战胜雄鹿", "display_query": "火箭战胜雄鹿" },
   {
@@ -23,6 +30,7 @@
     "display_query": "你见过最真实的商战是什么"
   },
   { "query": "颛顼为什么要绝地天通", "display_query": "颛顼为什么要绝地天通" },
+  { "query": "记者节", "display_query": "记者节" },
   { "query": "灰熊vs雷霆", "display_query": "灰熊vs雷霆" },
   { "query": "王楚钦首战迎魏世皓", "display_query": "王楚钦首战迎魏世皓" },
   {

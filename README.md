@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 10 2025 22:18:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 10 2025 23:19:35 GMT+0800 (China Standard Time) -->
 
-1. [记者节](https://www.zhihu.com/search?q=记者节)
+1. [崩铁新角色大丽花引争议](https://www.zhihu.com/search?q=崩铁新角色大丽花引争议)
+1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=大家提升自己最快的方式是什么)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
 1. [火箭战胜雄鹿](https://www.zhihu.com/search?q=火箭战胜雄鹿)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=你知道的最震惊的冷知识是什么)
@@ -26,6 +27,7 @@
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
 1. [你见过最真实的商战是什么](https://www.zhihu.com/search?q=你见过最真实的商战是什么)
 1. [颛顼为什么要绝地天通](https://www.zhihu.com/search?q=颛顼为什么要绝地天通)
+1. [记者节](https://www.zhihu.com/search?q=记者节)
 1. [灰熊vs雷霆](https://www.zhihu.com/search?q=灰熊vs雷霆)
 1. [王楚钦首战迎魏世皓](https://www.zhihu.com/search?q=王楚钦首战迎魏世皓)
 1. [「周末到河北」上好物100榜单了](https://www.zhihu.com/search?q=「周末到河北」上好物100榜单了)
