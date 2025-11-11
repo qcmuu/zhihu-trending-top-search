@@ -1,5 +1,8 @@
 [
-  { "query": "记者节", "display_query": "记者节" },
+  {
+    "query": "为啥小米造车不再打性价比了",
+    "display_query": "为啥小米造车不再打性价比了"
+  },
   { "query": "火箭战胜雄鹿", "display_query": "火箭战胜雄鹿" },
   {
     "query": "你最讨厌微信朋友圈什么行为",
@@ -24,6 +27,7 @@
   },
   { "query": "颛顼为什么要绝地天通", "display_query": "颛顼为什么要绝地天通" },
   { "query": "灰熊vs雷霆", "display_query": "灰熊vs雷霆" },
+  { "query": "记者节", "display_query": "记者节" },
   { "query": "T1夺冠", "display_query": "T1夺冠" },
   {
     "query": "你知道的最震惊的冷知识是什么",
