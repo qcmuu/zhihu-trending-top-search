@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 11 2025 17:19:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 11 2025 18:19:53 GMT+0800 (China Standard Time) -->
 
-1. [记者节](https://www.zhihu.com/search?q=记者节)
+1. [如何评价电影铁血战士杀戮之地](https://www.zhihu.com/search?q=如何评价电影铁血战士杀戮之地)
+1. [「技能四子棋」上好物100榜单了](https://www.zhihu.com/search?q=「技能四子棋」上好物100榜单了)
 1. [火箭战胜雄鹿](https://www.zhihu.com/search?q=火箭战胜雄鹿)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
@@ -26,6 +27,7 @@
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
 1. [你见过最真实的商战是什么](https://www.zhihu.com/search?q=你见过最真实的商战是什么)
 1. [颛顼为什么要绝地天通](https://www.zhihu.com/search?q=颛顼为什么要绝地天通)
+1. [记者节](https://www.zhihu.com/search?q=记者节)
 1. [灰熊vs雷霆](https://www.zhihu.com/search?q=灰熊vs雷霆)
 1. [为啥小米造车不再打性价比了](https://www.zhihu.com/search?q=为啥小米造车不再打性价比了)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
