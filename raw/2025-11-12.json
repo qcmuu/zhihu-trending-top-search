@@ -1,9 +1,6 @@
 [
-  { "query": "全球化浪潮要结束了吗", "display_query": "全球化浪潮要结束了吗" },
-  {
-    "query": "马斯克与特斯拉的万亿赌局",
-    "display_query": "马斯克与特斯拉的万亿赌局"
-  },
+  { "query": "快船五连败", "display_query": "快船五连败" },
+  { "query": "火箭战胜雄鹿", "display_query": "火箭战胜雄鹿" },
   { "query": "你们闻过最臭的是什么", "display_query": "你们闻过最臭的是什么" },
   {
     "query": "你最讨厌微信朋友圈什么行为",
@@ -27,8 +24,11 @@
     "query": "你见过最真实的商战是什么",
     "display_query": "你见过最真实的商战是什么"
   },
-  { "query": "快船五连败", "display_query": "快船五连败" },
-  { "query": "火箭战胜雄鹿", "display_query": "火箭战胜雄鹿" },
+  { "query": "全球化浪潮要结束了吗", "display_query": "全球化浪潮要结束了吗" },
+  {
+    "query": "马斯克与特斯拉的万亿赌局",
+    "display_query": "马斯克与特斯拉的万亿赌局"
+  },
   {
     "query": "美国暂停对华造船301调查中方回应",
     "display_query": "美国暂停对华造船301调查中方回应"
