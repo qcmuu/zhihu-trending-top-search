@@ -15,15 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 13 2025 18:20:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 13 2025 19:16:01 GMT+0800 (China Standard Time) -->
 
-1. [美国 BBQ 和中国烧烤有什么区别](https://www.zhihu.com/search?q=美国 BBQ
-   和中国烧烤有什么区别)
-1. [300亩树被划到保护区禁止砍伐](https://www.zhihu.com/search?q=300亩树被划到保护区禁止砍伐)
+1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
+1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
+1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=你都见过哪些不动声色的善良)
+1. [王楚钦晋级八强](https://www.zhihu.com/search?q=王楚钦晋级八强)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
+1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
 1. [你见过最真实的商战是什么](https://www.zhihu.com/search?q=你见过最真实的商战是什么)
+1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
+1. [美国 BBQ 和中国烧烤有什么区别](https://www.zhihu.com/search?q=美国 BBQ
+   和中国烧烤有什么区别)
+1. [300亩树被划到保护区禁止砍伐](https://www.zhihu.com/search?q=300亩树被划到保护区禁止砍伐)
 1. [有哪些古籍是近现代才被重新发现的](https://www.zhihu.com/search?q=有哪些古籍是近现代才被重新发现的)
 1. [为什么会人走茶凉](https://www.zhihu.com/search?q=为什么会人走茶凉)
 1. [你受过最狠的羞辱是什么](https://www.zhihu.com/search?q=你受过最狠的羞辱是什么)
@@ -31,8 +37,6 @@
 1. [如何教育十四五岁满身死气沉沉的学生](https://www.zhihu.com/search?q=如何教育十四五岁满身死气沉沉的学生)
 1. [日本饮食为什么一餐的量那么少](https://www.zhihu.com/search?q=日本饮食为什么一餐的量那么少)
 1. [男子开车时嘴里叼牙线棒被处罚](https://www.zhihu.com/search?q=男子开车时嘴里叼牙线棒被处罚)
-1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
-1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 1. [美宣布暂停实施出口管制穿透性规则一年](https://www.zhihu.com/search?q=美宣布暂停实施出口管制穿透性规则一年)
 
 <!-- END -->
