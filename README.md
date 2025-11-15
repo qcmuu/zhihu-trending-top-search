@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 15 2025 21:22:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 15 2025 22:14:59 GMT+0800 (China Standard Time) -->
 
-1. [10月70城房价出炉](https://www.zhihu.com/search?q=10月70城房价出炉)
+1. [九阳哈基米南北绿豆浆](https://www.zhihu.com/search?q=九阳哈基米南北绿豆浆)
+1. [古二录音曝王家卫让其来做剧本主线](https://www.zhihu.com/search?q=古二录音曝王家卫让其来做剧本主线)
 1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [孙颖莎晋级女单四强](https://www.zhihu.com/search?q=孙颖莎晋级女单四强)
@@ -26,6 +27,7 @@
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [四川舰](https://www.zhihu.com/search?q=四川舰)
 1. [比特币跌破10万美元](https://www.zhihu.com/search?q=比特币跌破10万美元)
+1. [10月70城房价出炉](https://www.zhihu.com/search?q=10月70城房价出炉)
 1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=黄金到底能涨到什么地步)
 1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
 1. [蓝战非车祸伤口感染](https://www.zhihu.com/search?q=蓝战非车祸伤口感染)
