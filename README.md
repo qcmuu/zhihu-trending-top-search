@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 16 2025 19:12:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 16 2025 20:32:51 GMT+0800 (China Standard Time) -->
 
 1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
 1. [10月70城房价出炉](https://www.zhihu.com/search?q=10月70城房价出炉)
-1. [孙颖莎晋级女单四强](https://www.zhihu.com/search?q=孙颖莎晋级女单四强)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [四川舰](https://www.zhihu.com/search?q=四川舰)
@@ -27,6 +26,8 @@
 1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=黄金到底能涨到什么地步)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=大家提升自己最快的方式是什么)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=炒股让你明白了什么真理)
+1. [孙颖莎晋级女单四强](https://www.zhihu.com/search?q=孙颖莎晋级女单四强)
 1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
