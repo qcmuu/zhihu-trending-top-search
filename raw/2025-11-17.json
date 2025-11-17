@@ -1,6 +1,13 @@
 [
-  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
-  { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
+  { "query": "京东上线点评功能", "display_query": "京东上线点评功能" },
+  {
+    "query": "玛莎拉蒂纯电车骨折式降价",
+    "display_query": "玛莎拉蒂纯电车骨折式降价"
+  },
+  {
+    "query": "影视作品中哪个武器最奇葩",
+    "display_query": "影视作品中哪个武器最奇葩"
+  },
   {
     "query": "父母腿脚不便 辅助工具",
     "display_query": "父母腿脚不便 辅助工具"
@@ -26,6 +33,8 @@
     "query": "女歌手意外受到电动座椅架挤压身亡",
     "display_query": "女歌手意外受到电动座椅架挤压身亡"
   },
+  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
+  { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
   { "query": "唐朝诡事录之长安", "display_query": "唐朝诡事录之长安" },
   {
     "query": "神舟二十号乘组将于今日返回",

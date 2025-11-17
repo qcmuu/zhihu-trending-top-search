@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 17 2025 11:14:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 17 2025 12:24:33 GMT+0800 (China Standard Time) -->
 
-1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
-1. [孙颖莎vs王曼昱](https://www.zhihu.com/search?q=孙颖莎vs王曼昱)
+1. [京东上线点评功能](https://www.zhihu.com/search?q=京东上线点评功能)
+1. [玛莎拉蒂纯电车骨折式降价](https://www.zhihu.com/search?q=玛莎拉蒂纯电车骨折式降价)
+1. [影视作品中哪个武器最奇葩](https://www.zhihu.com/search?q=影视作品中哪个武器最奇葩)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=父母腿脚不便 辅助工具)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=老人走路累
    外骨骼有用吗)
@@ -29,6 +30,8 @@
    辅助工具)
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=医生测评外骨骼机器人)
 1. [女歌手意外受到电动座椅架挤压身亡](https://www.zhihu.com/search?q=女歌手意外受到电动座椅架挤压身亡)
+1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
+1. [孙颖莎vs王曼昱](https://www.zhihu.com/search?q=孙颖莎vs王曼昱)
 1. [唐朝诡事录之长安](https://www.zhihu.com/search?q=唐朝诡事录之长安)
 1. [神舟二十号乘组将于今日返回](https://www.zhihu.com/search?q=神舟二十号乘组将于今日返回)
 
