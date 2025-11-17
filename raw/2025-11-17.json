@@ -1,6 +1,12 @@
 [
-  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
-  { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
+  {
+    "query": "拉索首次揭示黑洞在宇宙线起源中的作用",
+    "display_query": "拉索首次揭示黑洞在宇宙线起源中的作用"
+  },
+  {
+    "query": "大牌尾货被曝是按吨回收的二手衣服",
+    "display_query": "大牌尾货被曝是按吨回收的二手衣服"
+  },
   {
     "query": "影视作品中哪个武器最奇葩",
     "display_query": "影视作品中哪个武器最奇葩"
@@ -30,6 +36,8 @@
     "query": "女歌手意外受到电动座椅架挤压身亡",
     "display_query": "女歌手意外受到电动座椅架挤压身亡"
   },
+  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
+  { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
   { "query": "京东上线点评功能", "display_query": "京东上线点评功能" },
   {
     "query": "玛莎拉蒂纯电车骨折式降价",
