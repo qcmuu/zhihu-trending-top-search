@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 19 2025 15:17:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 19 2025 16:24:31 GMT+0800 (China Standard Time) -->
 
 1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
 1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=为什么中国选择发展高铁而不是廉价航空)
