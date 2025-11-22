@@ -1,9 +1,6 @@
 [
-  {
-    "query": "余承东官宣鸿蒙智行旗舰mpv",
-    "display_query": "余承东官宣鸿蒙智行旗舰mpv"
-  },
-  { "query": "陈梦发长文告别全运会", "display_query": "陈梦发长文告别全运会" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "可以一次性给孩子一年的生活费吗",
     "display_query": "可以一次性给孩子一年的生活费吗"
@@ -30,6 +27,9 @@
     "query": "为什么流萤的人气这么高",
     "display_query": "为什么流萤的人气这么高"
   },
-  { "query": "A股", "display_query": "A股" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" }
+  {
+    "query": "余承东官宣鸿蒙智行旗舰mpv",
+    "display_query": "余承东官宣鸿蒙智行旗舰mpv"
+  },
+  { "query": "陈梦发长文告别全运会", "display_query": "陈梦发长文告别全运会" }
 ]
