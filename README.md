@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 25 2025 22:18:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 25 2025 23:20:39 GMT+0800 (China Standard Time) -->
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
-1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
+1. [商朝拥有的马车技术来源哪里](https://www.zhihu.com/search?q=商朝拥有的马车技术来源哪里)
+1. [乌克兰现在打成什么样了](https://www.zhihu.com/search?q=乌克兰现在打成什么样了)
 1. [你吃过最奢侈的一道菜](https://www.zhihu.com/search?q=你吃过最奢侈的一道菜)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=新疆到底有多干燥)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=你有哪些当初没听出来的弦外之音)
@@ -27,6 +27,8 @@
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=炒股让你明白了什么真理)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [怎么提升解决问题的能力](https://www.zhihu.com/search?q=怎么提升解决问题的能力)
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=如何看待健身锻炼到最后一身伤病)
 1. [喝过最好喝的酒](https://www.zhihu.com/search?q=喝过最好喝的酒)
