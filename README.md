@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 27 2025 07:16:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 27 2025 09:22:04 GMT+0800 (China Standard Time) -->
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [如何看待「崩老头」](https://www.zhihu.com/search?q=如何看待「崩老头」)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=新疆到底有多干燥)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=你有哪些当初没听出来的弦外之音)
@@ -27,6 +27,7 @@
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 1. [为什么木叶会允许玖辛奈怀孕生子](https://www.zhihu.com/search?q=为什么木叶会允许玖辛奈怀孕生子)
 1. [有哪些你无法理解的行为](https://www.zhihu.com/search?q=有哪些你无法理解的行为)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 
 <!-- END -->
 
