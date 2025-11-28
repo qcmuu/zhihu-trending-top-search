@@ -1,9 +1,5 @@
 [
-  { "query": "如何评价疯狂动物城2", "display_query": "如何评价疯狂动物城2" },
-  {
-    "query": "「癸酉本石头记」是否是真本",
-    "display_query": "「癸酉本石头记」是否是真本"
-  },
+  { "query": "A股", "display_query": "A股" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "为什么有些人的预判能力这么强",
@@ -27,9 +23,13 @@
     "display_query": "为什么销冠一般最先离职"
   },
   { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
-  { "query": "A股", "display_query": "A股" },
   {
     "query": "酒店为什么会有三小时钟点房",
     "display_query": "酒店为什么会有三小时钟点房"
+  },
+  { "query": "如何评价疯狂动物城2", "display_query": "如何评价疯狂动物城2" },
+  {
+    "query": "「癸酉本石头记」是否是真本",
+    "display_query": "「癸酉本石头记」是否是真本"
   }
 ]
