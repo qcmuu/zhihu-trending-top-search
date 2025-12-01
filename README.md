@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 01 2025 11:49:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 01 2025 12:47:50 GMT+0800 (China Standard Time) -->
 
 1. [行测](https://www.zhihu.com/search?q=行测)
 1. [申论](https://www.zhihu.com/search?q=申论)
