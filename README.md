@@ -15,16 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 02 2025 15:20:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 02 2025 16:27:37 GMT+0800 (China Standard Time) -->
 
-1. [Uzi 复出](https://www.zhihu.com/search?q=Uzi 复出)
+1. [让人震撼的考古发现](https://www.zhihu.com/search?q=让人震撼的考古发现)
+1. [明年起存取现超5万元不用再登记](https://www.zhihu.com/search?q=明年起存取现超5万元不用再登记)
 1. [A股](https://www.zhihu.com/search?q=A股)
+1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
 1. [行测](https://www.zhihu.com/search?q=行测)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [申论](https://www.zhihu.com/search?q=申论)
 1. [12月新规来了](https://www.zhihu.com/search?q=12月新规来了)
 1. [湖人vs鹈鹕](https://www.zhihu.com/search?q=湖人vs鹈鹕)
 1. [独行侠险胜快船](https://www.zhihu.com/search?q=独行侠险胜快船)
+1. [Uzi 复出](https://www.zhihu.com/search?q=Uzi 复出)
 1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=有没有可以笑上一年的笑话)
 1. [跑步真的会越跑越年轻吗](https://www.zhihu.com/search?q=跑步真的会越跑越年轻吗)
 1. [红牛杯](https://www.zhihu.com/search?q=红牛杯)
