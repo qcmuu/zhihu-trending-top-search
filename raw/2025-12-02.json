@@ -1,11 +1,13 @@
 [
-  { "query": "Uzi 复出", "display_query": "Uzi 复出" },
+  { "query": "拜仁3比1圣保利", "display_query": "拜仁3比1圣保利" },
+  {
+    "query": "为何跨过低谷的人越来越厉害",
+    "display_query": "为何跨过低谷的人越来越厉害"
+  },
   { "query": "A股", "display_query": "A股" },
   { "query": "人间清醒是什么样子", "display_query": "人间清醒是什么样子" },
-  { "query": "行测", "display_query": "行测" },
   { "query": "太阳vs湖人", "display_query": "太阳vs湖人" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "申论", "display_query": "申论" },
   { "query": "12月新规来了", "display_query": "12月新规来了" },
   {
     "query": "12月起这些新规开始施行",
@@ -13,6 +15,9 @@
   },
   { "query": "湖人vs鹈鹕", "display_query": "湖人vs鹈鹕" },
   { "query": "独行侠险胜快船", "display_query": "独行侠险胜快船" },
+  { "query": "Uzi 复出", "display_query": "Uzi 复出" },
+  { "query": "行测", "display_query": "行测" },
+  { "query": "申论", "display_query": "申论" },
   {
     "query": "有没有可以笑上一年的笑话",
     "display_query": "有没有可以笑上一年的笑话"
