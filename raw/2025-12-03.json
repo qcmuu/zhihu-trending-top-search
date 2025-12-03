@@ -1,5 +1,12 @@
 [
-  { "query": "人间清醒是什么样子", "display_query": "人间清醒是什么样子" },
+  {
+    "query": "航旅纵横误发航班取消信息",
+    "display_query": "航旅纵横误发航班取消信息"
+  },
+  {
+    "query": "女性生育3到4个子女死亡风险低",
+    "display_query": "女性生育3到4个子女死亡风险低"
+  },
   { "query": "行测", "display_query": "行测" },
   { "query": "太阳vs湖人", "display_query": "太阳vs湖人" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
@@ -17,6 +24,7 @@
     "query": "前两年冲动买房的人怎么样了",
     "display_query": "前两年冲动买房的人怎么样了"
   },
+  { "query": "人间清醒是什么样子", "display_query": "人间清醒是什么样子" },
   { "query": "12月第一天", "display_query": "12月第一天" },
   {
     "query": "小伙仅剩2元买米饭店主给炒菜",
