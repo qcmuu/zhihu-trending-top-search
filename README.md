@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 03 2025 11:15:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 03 2025 12:27:08 GMT+0800 (China Standard Time) -->
 
-1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
+1. [如何评价疯狂动物城2](https://www.zhihu.com/search?q=如何评价疯狂动物城2)
 1. [行测](https://www.zhihu.com/search?q=行测)
 1. [太阳vs湖人](https://www.zhihu.com/search?q=太阳vs湖人)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
@@ -27,6 +27,7 @@
 1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=有没有可以笑上一年的笑话)
 1. [12月第一天](https://www.zhihu.com/search?q=12月第一天)
 1. [如何看待美国网友咆哮物价太高](https://www.zhihu.com/search?q=如何看待美国网友咆哮物价太高)
+1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
 
 <!-- END -->
 
