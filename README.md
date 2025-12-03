@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 03 2025 18:21:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 03 2025 19:17:10 GMT+0800 (China Standard Time) -->
 
-1. [售价 3499 元中兴豆包手机一天卖光](https://www.zhihu.com/search?q=售价 3499
-   元中兴豆包手机一天卖光)
+1. [国际残疾人日](https://www.zhihu.com/search?q=国际残疾人日)
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
 1. [行测](https://www.zhihu.com/search?q=行测)
 1. [太阳vs湖人](https://www.zhihu.com/search?q=太阳vs湖人)
@@ -28,6 +27,8 @@
 1. [12月起这些新规开始施行](https://www.zhihu.com/search?q=12月起这些新规开始施行)
 1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=有没有可以笑上一年的笑话)
 1. [前两年冲动买房的人怎么样了](https://www.zhihu.com/search?q=前两年冲动买房的人怎么样了)
+1. [售价 3499 元中兴豆包手机一天卖光](https://www.zhihu.com/search?q=售价 3499
+   元中兴豆包手机一天卖光)
 1. [航旅纵横误发航班取消信息](https://www.zhihu.com/search?q=航旅纵横误发航班取消信息)
 1. [女性生育3到4个子女死亡风险低](https://www.zhihu.com/search?q=女性生育3到4个子女死亡风险低)
 1. [12月第一天](https://www.zhihu.com/search?q=12月第一天)

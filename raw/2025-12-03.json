@@ -1,8 +1,5 @@
 [
-  {
-    "query": "售价 3499 元中兴豆包手机一天卖光",
-    "display_query": "售价 3499 元中兴豆包手机一天卖光"
-  },
+  { "query": "国际残疾人日", "display_query": "国际残疾人日" },
   { "query": "人间清醒是什么样子", "display_query": "人间清醒是什么样子" },
   { "query": "行测", "display_query": "行测" },
   { "query": "太阳vs湖人", "display_query": "太阳vs湖人" },
@@ -20,6 +17,10 @@
   {
     "query": "前两年冲动买房的人怎么样了",
     "display_query": "前两年冲动买房的人怎么样了"
+  },
+  {
+    "query": "售价 3499 元中兴豆包手机一天卖光",
+    "display_query": "售价 3499 元中兴豆包手机一天卖光"
   },
   {
     "query": "航旅纵横误发航班取消信息",
