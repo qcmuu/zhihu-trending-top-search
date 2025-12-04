@@ -1,6 +1,10 @@
 [
-  { "query": "国际残疾人日", "display_query": "国际残疾人日" },
+  {
+    "query": "NBA公布东西部周最佳球员",
+    "display_query": "NBA公布东西部周最佳球员"
+  },
   { "query": "人间清醒是什么样子", "display_query": "人间清醒是什么样子" },
+  { "query": "新疆地震", "display_query": "新疆地震" },
   {
     "query": "你身边有年纪轻轻就去世的人吗",
     "display_query": "你身边有年纪轻轻就去世的人吗"
@@ -29,6 +33,7 @@
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
   },
+  { "query": "国际残疾人日", "display_query": "国际残疾人日" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
     "query": "38岁想把英语学好还有必要吗",
