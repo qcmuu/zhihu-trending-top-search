@@ -1,7 +1,12 @@
 [
-  { "query": "爱奇艺尖叫之夜", "display_query": "爱奇艺尖叫之夜" },
-  { "query": "中法发布联合声明", "display_query": "中法发布联合声明" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  {
+    "query": "为什么千禧年后TVB不再翻拍金庸剧",
+    "display_query": "为什么千禧年后TVB不再翻拍金庸剧"
+  },
+  {
+    "query": "喜欢开倍速看视频的人天塌了",
+    "display_query": "喜欢开倍速看视频的人天塌了"
+  },
   { "query": "有哪些好用的开源软件", "display_query": "有哪些好用的开源软件" },
   { "query": "新疆地震", "display_query": "新疆地震" },
   {
@@ -14,5 +19,12 @@
     "query": "你给孩子最大的托底是什么",
     "display_query": "你给孩子最大的托底是什么"
   },
-  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" }
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "如何看待健身锻炼到最后一身伤病",
+    "display_query": "如何看待健身锻炼到最后一身伤病"
+  },
+  { "query": "爱奇艺尖叫之夜", "display_query": "爱奇艺尖叫之夜" },
+  { "query": "中法发布联合声明", "display_query": "中法发布联合声明" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" }
 ]
