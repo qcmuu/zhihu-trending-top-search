@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 06:16:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 07:15:58 GMT+0800 (China Standard Time) -->
 
 1. [爱奇艺尖叫之夜](https://www.zhihu.com/search?q=爱奇艺尖叫之夜)
+1. [F1](https://www.zhihu.com/search?q=F1)
 1. [省考](https://www.zhihu.com/search?q=省考)
 1. [爱奇艺道歉](https://www.zhihu.com/search?q=爱奇艺道歉)
 1. [为什么人会在短期内多次感冒](https://www.zhihu.com/search?q=为什么人会在短期内多次感冒)
