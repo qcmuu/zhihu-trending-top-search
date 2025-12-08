@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 13:20:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 14:31:59 GMT+0800 (China Standard Time) -->
 
+1. [爱奇艺尖叫之夜](https://www.zhihu.com/search?q=爱奇艺尖叫之夜)
+1. [F1](https://www.zhihu.com/search?q=F1)
 1. [省考](https://www.zhihu.com/search?q=省考)
 1. [爱奇艺道歉](https://www.zhihu.com/search?q=爱奇艺道歉)
 1. [你认为最失败的 Logo
@@ -26,11 +28,10 @@
 1. [詹姆斯连续 1297 场上双神迹终结](https://www.zhihu.com/search?q=詹姆斯连续
    1297 场上双神迹终结)
 1. [22岁小伙吃红烧肘子后进ICU](https://www.zhihu.com/search?q=22岁小伙吃红烧肘子后进ICU)
+1. [网飞赢得收购华纳竞标](https://www.zhihu.com/search?q=网飞赢得收购华纳竞标)
 1. [《喜人奇妙夜》第二季总决赛](https://www.zhihu.com/search?q=《喜人奇妙夜》第二季总决赛)
 1. [胖东来再招人年薪不低于100万](https://www.zhihu.com/search?q=胖东来再招人年薪不低于100万)
 1. [中法发表多份联合声明](https://www.zhihu.com/search?q=中法发表多份联合声明)
-1. [爱奇艺尖叫之夜](https://www.zhihu.com/search?q=爱奇艺尖叫之夜)
-1. [F1](https://www.zhihu.com/search?q=F1)
 1. [中国自行车协会回应新国标相关问题](https://www.zhihu.com/search?q=中国自行车协会回应新国标相关问题)
 1. [为什么人会在短期内多次感冒](https://www.zhihu.com/search?q=为什么人会在短期内多次感冒)
 1. [保安证成大厂人考证新顶流](https://www.zhihu.com/search?q=保安证成大厂人考证新顶流)
