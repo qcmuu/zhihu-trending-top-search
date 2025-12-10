@@ -1,7 +1,8 @@
 [
+  { "query": "塞尔比英锦赛夺冠", "display_query": "塞尔比英锦赛夺冠" },
   {
-    "query": "沧州杀妻案被告被判死刑",
-    "display_query": "沧州杀妻案被告被判死刑"
+    "query": "什么样的人算是中了基因彩票",
+    "display_query": "什么样的人算是中了基因彩票"
   },
   { "query": "勇士vs骑士", "display_query": "勇士vs骑士" },
   { "query": "男人的快乐有多简单", "display_query": "男人的快乐有多简单" },
@@ -23,6 +24,10 @@
     "display_query": "普通家庭对孩子最好的托举是什么"
   },
   { "query": "今晚下调油价", "display_query": "今晚下调油价" },
+  {
+    "query": "沧州杀妻案被告被判死刑",
+    "display_query": "沧州杀妻案被告被判死刑"
+  },
   {
     "query": "人在什么情况下成长最快",
     "display_query": "人在什么情况下成长最快"
