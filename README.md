@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 11 2025 14:31:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 11 2025 15:22:28 GMT+0800 (China Standard Time) -->
 
 1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=导师会翻看你的朋友圈吗)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
@@ -23,6 +23,7 @@
 1. [创业板指涨逾1%](https://www.zhihu.com/search?q=创业板指涨逾1%)
 1. [男人的快乐有多简单](https://www.zhihu.com/search?q=男人的快乐有多简单)
 1. [尼克斯vs猛龙](https://www.zhihu.com/search?q=尼克斯vs猛龙)
+1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=孙颖莎vs王艺迪)
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
 1. [大家都是怎么驯服狸花猫的](https://www.zhihu.com/search?q=大家都是怎么驯服狸花猫的)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
