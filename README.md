@@ -15,12 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 12 2025 22:17:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 12 2025 23:20:34 GMT+0800 (China Standard Time) -->
 
+1. [四六级考试](https://www.zhihu.com/search?q=四六级考试)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=导师会翻看你的朋友圈吗)
 1. [皇马vs曼城](https://www.zhihu.com/search?q=皇马vs曼城)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
+1. [美联储降息25个基点](https://www.zhihu.com/search?q=美联储降息25个基点)
 1. [男人的快乐有多简单](https://www.zhihu.com/search?q=男人的快乐有多简单)
 1. [哪些演员的表演可以称为教科书式的演技](https://www.zhihu.com/search?q=哪些演员的表演可以称为教科书式的演技)
 1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=孙颖莎vs王艺迪)
@@ -28,7 +30,6 @@
 1. [光伏真的不行了吗](https://www.zhihu.com/search?q=光伏真的不行了吗)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [meta使用阿里千问优化其最新ai模型](https://www.zhihu.com/search?q=meta使用阿里千问优化其最新ai模型)
-1. [美联储降息25个基点](https://www.zhihu.com/search?q=美联储降息25个基点)
 1. [李丰是怎么从币圈辗转到 AI
    圈的](https://www.zhihu.com/search?q=李丰是怎么从币圈辗转到 AI 圈的)
 1. [成龙回应龙叔老了](https://www.zhihu.com/search?q=成龙回应龙叔老了)
