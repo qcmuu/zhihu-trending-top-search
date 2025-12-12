@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 12 2025 15:21:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 12 2025 16:27:31 GMT+0800 (China Standard Time) -->
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [meta使用阿里千问优化其最新ai模型](https://www.zhihu.com/search?q=meta使用阿里千问优化其最新ai模型)
 1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=导师会翻看你的朋友圈吗)
 1. [皇马vs曼城](https://www.zhihu.com/search?q=皇马vs曼城)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
@@ -27,6 +27,7 @@
 1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=孙颖莎vs王艺迪)
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
 1. [光伏真的不行了吗](https://www.zhihu.com/search?q=光伏真的不行了吗)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [李丰是怎么从币圈辗转到 AI
    圈的](https://www.zhihu.com/search?q=李丰是怎么从币圈辗转到 AI 圈的)
 1. [成龙回应龙叔老了](https://www.zhihu.com/search?q=成龙回应龙叔老了)
