@@ -1,9 +1,5 @@
 [
-  {
-    "query": "李丰是怎么从币圈辗转到 AI 圈的",
-    "display_query": "李丰是怎么从币圈辗转到 AI 圈的"
-  },
-  { "query": "成龙回应龙叔老了", "display_query": "成龙回应龙叔老了" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "导师会翻看你的朋友圈吗",
     "display_query": "导师会翻看你的朋友圈吗"
@@ -21,8 +17,12 @@
   },
   { "query": "孙颖莎vs王艺迪", "display_query": "孙颖莎vs王艺迪" },
   { "query": "泡馍为什么走不出西安", "display_query": "泡馍为什么走不出西安" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "光伏真的不行了吗", "display_query": "光伏真的不行了吗" },
+  {
+    "query": "李丰是怎么从币圈辗转到 AI 圈的",
+    "display_query": "李丰是怎么从币圈辗转到 AI 圈的"
+  },
+  { "query": "成龙回应龙叔老了", "display_query": "成龙回应龙叔老了" },
   {
     "query": "你给孩子最大的托底是什么",
     "display_query": "你给孩子最大的托底是什么"
