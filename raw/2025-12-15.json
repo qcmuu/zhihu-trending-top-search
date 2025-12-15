@@ -1,6 +1,9 @@
 [
-  { "query": "四级作文", "display_query": "四级作文" },
-  { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" },
+  { "query": "林诗栋 vs 张本智和", "display_query": "林诗栋 vs 张本智和" },
+  {
+    "query": "韩国特检组对尹锡悦等 24 人提起诉讼",
+    "display_query": "韩国特检组对尹锡悦等 24 人提起诉讼"
+  },
   {
     "query": "中国贸易顺差首次超1万亿美元",
     "display_query": "中国贸易顺差首次超1万亿美元"
@@ -24,6 +27,8 @@
     "display_query": "全国首家现代骑手学院成立"
   },
   { "query": "日本发生 6.8 级地震", "display_query": "日本发生 6.8 级地震" },
+  { "query": "四级作文", "display_query": "四级作文" },
+  { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" },
   {
     "query": "男子每天吃40个水煮蛋持续5年",
     "display_query": "男子每天吃40个水煮蛋持续5年"
