@@ -15,20 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 15 2025 15:22:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 15 2025 17:29:59 GMT+0800 (China Standard Time) -->
 
-1. [GPT-5.2上线后差评如潮](https://www.zhihu.com/search?q=GPT-5.2上线后差评如潮)
-1. [T1 击败 HLE](https://www.zhihu.com/search?q=T1 击败 HLE)
-1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=哪一刻让你终于意识到了这就是命)
 1. [四级作文](https://www.zhihu.com/search?q=四级作文)
+1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
+1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=哪一刻让你终于意识到了这就是命)
+1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=你见过最恶心的邻居是什么样子)
 1. [王楚钦 vs 莫雷加德](https://www.zhihu.com/search?q=王楚钦 vs 莫雷加德)
 1. [泰柬冲突](https://www.zhihu.com/search?q=泰柬冲突)
 1. [爱你老己 明天见](https://www.zhihu.com/search?q=爱你老己 明天见)
 1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=中国贸易顺差首次超1万亿美元)
 1. [美军扣押委内瑞拉油轮](https://www.zhihu.com/search?q=美军扣押委内瑞拉油轮)
 1. [护士称电子体温计不准是使用方法不对](https://www.zhihu.com/search?q=护士称电子体温计不准是使用方法不对)
-1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
-1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=你见过最恶心的邻居是什么样子)
+1. [GPT-5.2上线后差评如潮](https://www.zhihu.com/search?q=GPT-5.2上线后差评如潮)
+1. [T1 击败 HLE](https://www.zhihu.com/search?q=T1 击败 HLE)
 1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI 正式发布
    GPT-5.2)
 1. [4斤黄金凤冠被毁业内称重做20万起](https://www.zhihu.com/search?q=4斤黄金凤冠被毁业内称重做20万起)
