@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 15 2025 23:22:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 16 2025 00:28:21 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
@@ -27,28 +27,6 @@
 1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=你见过最恶心的邻居是什么样子)
 1. [王楚钦 vs 莫雷加德](https://www.zhihu.com/search?q=王楚钦 vs 莫雷加德)
 1. [勇士vs开拓者](https://www.zhihu.com/search?q=勇士vs开拓者)
-1. [何晴生前一直拿李雪健给自己打气](https://www.zhihu.com/search?q=何晴生前一直拿李雪健给自己打气)
-1. [泰柬冲突](https://www.zhihu.com/search?q=泰柬冲突)
-1. [爱你老己 明天见](https://www.zhihu.com/search?q=爱你老己 明天见)
-1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=中国贸易顺差首次超1万亿美元)
-1. [美军扣押委内瑞拉油轮](https://www.zhihu.com/search?q=美军扣押委内瑞拉油轮)
-1. [护士称电子体温计不准是使用方法不对](https://www.zhihu.com/search?q=护士称电子体温计不准是使用方法不对)
-1. [GPT-5.2上线后差评如潮](https://www.zhihu.com/search?q=GPT-5.2上线后差评如潮)
-1. [T1 击败 HLE](https://www.zhihu.com/search?q=T1 击败 HLE)
-1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI 正式发布
-   GPT-5.2)
-1. [4斤黄金凤冠被毁业内称重做20万起](https://www.zhihu.com/search?q=4斤黄金凤冠被毁业内称重做20万起)
-1. [迪士尼对OpenAI进行10亿美元股权投资](https://www.zhihu.com/search?q=迪士尼对OpenAI进行10亿美元股权投资)
-1. [林诗栋 vs 张本智和](https://www.zhihu.com/search?q=林诗栋 vs 张本智和)
-1. [韩国特检组对尹锡悦等 24
-   人提起诉讼](https://www.zhihu.com/search?q=韩国特检组对尹锡悦等 24
-   人提起诉讼)
-1. [《再见爱人 5》第九期](https://www.zhihu.com/search?q=《再见爱人 5》第九期)
-1. [全国首家现代骑手学院成立](https://www.zhihu.com/search?q=全国首家现代骑手学院成立)
-1. [日本发生 6.8 级地震](https://www.zhihu.com/search?q=日本发生 6.8 级地震)
-1. [男子每天吃40个水煮蛋持续5年](https://www.zhihu.com/search?q=男子每天吃40个水煮蛋持续5年)
-1. [用东方树叶养茶菌当宠物](https://www.zhihu.com/search?q=用东方树叶养茶菌当宠物)
-1. [蜜雪冰城卖早餐被吐槽有点贵](https://www.zhihu.com/search?q=蜜雪冰城卖早餐被吐槽有点贵)
 
 <!-- END -->
 
