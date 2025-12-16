@@ -1,7 +1,8 @@
 [
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
-  { "query": "T1夺冠", "display_query": "T1夺冠" },
+  { "query": "t1夺冠", "display_query": "t1夺冠" },
+  { "query": "世界强化免疫日", "display_query": "世界强化免疫日" },
   { "query": "麦当劳回应涨价", "display_query": "麦当劳回应涨价" },
   { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
   {
@@ -16,6 +17,8 @@
     "query": "你干过最牛的一件事是什么",
     "display_query": "你干过最牛的一件事是什么"
   },
+  { "query": "金价又涨了", "display_query": "金价又涨了" },
+  { "query": "T1夺冠", "display_query": "T1夺冠" },
   { "query": "勇士vs开拓者", "display_query": "勇士vs开拓者" },
   {
     "query": "为什么人不能靠意志力戒毒",

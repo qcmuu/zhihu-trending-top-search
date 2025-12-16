@@ -15,16 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 16 2025 18:22:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 16 2025 19:17:46 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
-1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
+1. [t1夺冠](https://www.zhihu.com/search?q=t1夺冠)
+1. [世界强化免疫日](https://www.zhihu.com/search?q=世界强化免疫日)
 1. [麦当劳回应涨价](https://www.zhihu.com/search?q=麦当劳回应涨价)
 1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
 1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=哪一刻让你终于意识到了这就是命)
 1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=你见过最恶心的邻居是什么样子)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
+1. [金价又涨了](https://www.zhihu.com/search?q=金价又涨了)
+1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
 1. [勇士vs开拓者](https://www.zhihu.com/search?q=勇士vs开拓者)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [真正的数学大佬怎么学数学](https://www.zhihu.com/search?q=真正的数学大佬怎么学数学)
