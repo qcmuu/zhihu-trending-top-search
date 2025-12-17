@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 17 2025 09:23:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 17 2025 11:18:26 GMT+0800 (China Standard Time) -->
 
-1. [为什么中国的牛肉这么贵](https://www.zhihu.com/search?q=为什么中国的牛肉这么贵)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1夺冠)
 1. [世界强化免疫日](https://www.zhihu.com/search?q=世界强化免疫日)
 1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
@@ -25,10 +26,9 @@
 1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=你见过最恶心的邻居是什么样子)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
 1. [金价又涨了](https://www.zhihu.com/search?q=金价又涨了)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
-1. [成都女子家门口遇害案今日开庭](https://www.zhihu.com/search?q=成都女子家门口遇害案今日开庭)
-1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
+1. [为什么中国的牛肉这么贵](https://www.zhihu.com/search?q=为什么中国的牛肉这么贵)
+1. [成都女子家门口遇害案今日开庭](https://www.zhihu.com/search?q=成都女子家门口遇害案今日开庭)
 
 <!-- END -->
 
