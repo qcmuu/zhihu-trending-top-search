@@ -1,5 +1,6 @@
 [
-  { "query": "张水华式难题怎么解", "display_query": "张水华式难题怎么解" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
   {
     "query": "哪一刻让你终于意识到了这就是命",
     "display_query": "哪一刻让你终于意识到了这就是命"
@@ -29,10 +30,9 @@
     "query": "你给孩子最大的托底是什么",
     "display_query": "你给孩子最大的托底是什么"
   },
+  { "query": "张水华式难题怎么解", "display_query": "张水华式难题怎么解" },
   {
     "query": "用DeepSeek选股炒股可行吗",
     "display_query": "用DeepSeek选股炒股可行吗"
-  },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" }
+  }
 ]

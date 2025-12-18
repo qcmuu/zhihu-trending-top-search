@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 18 2025 09:24:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 18 2025 11:18:55 GMT+0800 (China Standard Time) -->
 
-1. [张水华式难题怎么解](https://www.zhihu.com/search?q=张水华式难题怎么解)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
 1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=哪一刻让你终于意识到了这就是命)
 1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=你见过最恶心的邻居是什么样子)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
@@ -26,9 +27,8 @@
 1. [大家都是怎么驯服狸花猫的](https://www.zhihu.com/search?q=大家都是怎么驯服狸花猫的)
 1. [钱可以成为一个人的底气吗](https://www.zhihu.com/search?q=钱可以成为一个人的底气吗)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
+1. [张水华式难题怎么解](https://www.zhihu.com/search?q=张水华式难题怎么解)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=用DeepSeek选股炒股可行吗)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
-1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
 
 <!-- END -->
 
