@@ -1,5 +1,4 @@
 [
-  { "query": "哈工大暖廊", "display_query": "哈工大暖廊" },
   { "query": "鞠婧祎 丝芭", "display_query": "鞠婧祎 丝芭" },
   {
     "query": "你干过最牛的一件事是什么",
@@ -26,5 +25,10 @@
   {
     "query": "用DeepSeek选股炒股可行吗",
     "display_query": "用DeepSeek选股炒股可行吗"
-  }
+  },
+  {
+    "query": "人在什么情况下成长的最快",
+    "display_query": "人在什么情况下成长的最快"
+  },
+  { "query": "哈工大暖廊", "display_query": "哈工大暖廊" }
 ]
