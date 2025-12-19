@@ -1,8 +1,7 @@
 [
-  { "query": "鞠婧祎 丝芭", "display_query": "鞠婧祎 丝芭" },
   {
-    "query": "你干过最牛的一件事是什么",
-    "display_query": "你干过最牛的一件事是什么"
+    "query": "中欧就电动汽车案开展磋商",
+    "display_query": "中欧就电动汽车案开展磋商"
   },
   { "query": "有什么震惊了你的名言", "display_query": "有什么震惊了你的名言" },
   {
@@ -29,6 +28,12 @@
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
+  },
+  { "query": "如何成为逻辑清晰的人", "display_query": "如何成为逻辑清晰的人" },
+  { "query": "鞠婧祎 丝芭", "display_query": "鞠婧祎 丝芭" },
+  {
+    "query": "你干过最牛的一件事是什么",
+    "display_query": "你干过最牛的一件事是什么"
   },
   { "query": "哈工大暖廊", "display_query": "哈工大暖廊" }
 ]
