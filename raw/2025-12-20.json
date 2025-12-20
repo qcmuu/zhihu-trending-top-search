@@ -1,7 +1,9 @@
 [
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "考研政治", "display_query": "考研政治" },
-  { "query": "考研英语", "display_query": "考研英语" },
+  { "query": "中戏院长郝戎被查", "display_query": "中戏院长郝戎被查" },
+  {
+    "query": "南京博物院回应馆藏现拍卖市场",
+    "display_query": "南京博物院回应馆藏现拍卖市场"
+  },
   { "query": "有什么震惊了你的名言", "display_query": "有什么震惊了你的名言" },
   {
     "query": "为什么人不能靠意志力戒毒",
@@ -25,5 +27,8 @@
     "display_query": "2025世界人形机器人运动会"
   },
   { "query": "如何通俗解释大数定律", "display_query": "如何通俗解释大数定律" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "考研政治", "display_query": "考研政治" },
+  { "query": "考研英语", "display_query": "考研英语" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" }
 ]
