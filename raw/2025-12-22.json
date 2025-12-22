@@ -1,6 +1,4 @@
 [
-  { "query": "考研数学", "display_query": "考研数学" },
-  { "query": "今日冬至", "display_query": "今日冬至" },
   { "query": "有哪些世界地理冷知识", "display_query": "有哪些世界地理冷知识" },
   {
     "query": "生活中你们见过最愚蠢的设计是啥",
@@ -27,6 +25,13 @@
     "query": "宁波通报女婴术后离世医疗事件调查进展",
     "display_query": "宁波通报女婴术后离世医疗事件调查进展"
   },
+  {
+    "query": "OpenAI 被曝正寻求千亿美元融资",
+    "display_query": "OpenAI 被曝正寻求千亿美元融资"
+  },
+  { "query": "新概念英语过时了吗", "display_query": "新概念英语过时了吗" },
+  { "query": "考研数学", "display_query": "考研数学" },
+  { "query": "今日冬至", "display_query": "今日冬至" },
   { "query": "宠物狗上桌吃餐盘食物", "display_query": "宠物狗上桌吃餐盘食物" },
   { "query": "星光大赏红毯", "display_query": "星光大赏红毯" },
   {
@@ -42,11 +47,6 @@
     "display_query": "摩尔线程发布新一代GPU架构花港"
   },
   { "query": "周杰伦代言美团外卖", "display_query": "周杰伦代言美团外卖" },
-  {
-    "query": "OpenAI 被曝正寻求千亿美元融资",
-    "display_query": "OpenAI 被曝正寻求千亿美元融资"
-  },
-  { "query": "新概念英语过时了吗", "display_query": "新概念英语过时了吗" },
   {
     "query": "小车刹车失灵狂奔490公里油耗尽才停",
     "display_query": "小车刹车失灵狂奔490公里油耗尽才停"
