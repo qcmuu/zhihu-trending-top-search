@@ -15,13 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 22 2025 11:40:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 22 2025 12:38:07 GMT+0800 (China Standard Time) -->
 
+1. [宠物狗上桌吃餐盘食物](https://www.zhihu.com/search?q=宠物狗上桌吃餐盘食物)
+1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=有哪些世界地理冷知识)
+1. [星光大赏红毯](https://www.zhihu.com/search?q=星光大赏红毯)
+1. [中国古代画家为何不追求「画得像」](https://www.zhihu.com/search?q=中国古代画家为何不追求「画得像」)
+1. [结账时发现东西很贵怎么办](https://www.zhihu.com/search?q=结账时发现东西很贵怎么办)
+1. [小型的地级市会有建地铁那天么](https://www.zhihu.com/search?q=小型的地级市会有建地铁那天么)
+1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
+1. [你知道有哪些信息差](https://www.zhihu.com/search?q=你知道有哪些信息差)
+1. [宁波通报女婴术后离世医疗事件调查进展](https://www.zhihu.com/search?q=宁波通报女婴术后离世医疗事件调查进展)
+1. [阿维塔智驾状态下撞大货车](https://www.zhihu.com/search?q=阿维塔智驾状态下撞大货车)
 1. [全球首台「超碳一号」示范工程商运](https://www.zhihu.com/search?q=全球首台「超碳一号」示范工程商运)
 1. [摩尔线程发布新一代GPU架构花港](https://www.zhihu.com/search?q=摩尔线程发布新一代GPU架构花港)
-1. [宁波通报女婴术后离世医疗事件调查进展](https://www.zhihu.com/search?q=宁波通报女婴术后离世医疗事件调查进展)
 1. [周杰伦代言美团外卖](https://www.zhihu.com/search?q=周杰伦代言美团外卖)
-1. [阿维塔智驾状态下撞大货车](https://www.zhihu.com/search?q=阿维塔智驾状态下撞大货车)
 1. [OpenAI 被曝正寻求千亿美元融资](https://www.zhihu.com/search?q=OpenAI
    被曝正寻求千亿美元融资)
 1. [新概念英语过时了吗](https://www.zhihu.com/search?q=新概念英语过时了吗)
