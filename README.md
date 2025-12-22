@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 22 2025 23:20:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 23 2025 00:23:59 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
@@ -27,28 +27,6 @@
 1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=生活中你们见过最愚蠢的设计是啥)
 1. [湖人vs快船](https://www.zhihu.com/search?q=湖人vs快船)
 1. [雄鹿vs森林狼](https://www.zhihu.com/search?q=雄鹿vs森林狼)
-1. [中国古代画家为何不追求「画得像」](https://www.zhihu.com/search?q=中国古代画家为何不追求「画得像」)
-1. [结账时发现东西很贵怎么办](https://www.zhihu.com/search?q=结账时发现东西很贵怎么办)
-1. [小型的地级市会有建地铁那天么](https://www.zhihu.com/search?q=小型的地级市会有建地铁那天么)
-1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
-1. [你知道有哪些信息差](https://www.zhihu.com/search?q=你知道有哪些信息差)
-1. [宁波通报女婴术后离世医疗事件调查进展](https://www.zhihu.com/search?q=宁波通报女婴术后离世医疗事件调查进展)
-1. [OpenAI 被曝正寻求千亿美元融资](https://www.zhihu.com/search?q=OpenAI
-   被曝正寻求千亿美元融资)
-1. [新概念英语过时了吗](https://www.zhihu.com/search?q=新概念英语过时了吗)
-1. [宠物狗上桌吃餐盘食物](https://www.zhihu.com/search?q=宠物狗上桌吃餐盘食物)
-1. [星光大赏红毯](https://www.zhihu.com/search?q=星光大赏红毯)
-1. [阿维塔智驾状态下撞大货车](https://www.zhihu.com/search?q=阿维塔智驾状态下撞大货车)
-1. [全球首台「超碳一号」示范工程商运](https://www.zhihu.com/search?q=全球首台「超碳一号」示范工程商运)
-1. [摩尔线程发布新一代GPU架构花港](https://www.zhihu.com/search?q=摩尔线程发布新一代GPU架构花港)
-1. [周杰伦代言美团外卖](https://www.zhihu.com/search?q=周杰伦代言美团外卖)
-1. [小车刹车失灵狂奔490公里油耗尽才停](https://www.zhihu.com/search?q=小车刹车失灵狂奔490公里油耗尽才停)
-1. [南博出示专家鉴定记录](https://www.zhihu.com/search?q=南博出示专家鉴定记录)
-1. [独身女子去世存款无法支付医疗费](https://www.zhihu.com/search?q=独身女子去世存款无法支付医疗费)
-1. [泰柬冲突](https://www.zhihu.com/search?q=泰柬冲突)
-1. [谷歌发布 Gemini 3 Flash](https://www.zhihu.com/search?q=谷歌发布 Gemini 3
-   Flash)
-1. [《再见爱人 5》第十期](https://www.zhihu.com/search?q=《再见爱人 5》第十期)
 
 <!-- END -->
 
