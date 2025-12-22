@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 22 2025 16:28:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 22 2025 17:26:36 GMT+0800 (China Standard Time) -->
 
+1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=有哪些世界地理冷知识)
 1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=生活中你们见过最愚蠢的设计是啥)
 1. [中国古代画家为何不追求「画得像」](https://www.zhihu.com/search?q=中国古代画家为何不追求「画得像」)
@@ -29,7 +30,6 @@
    被曝正寻求千亿美元融资)
 1. [新概念英语过时了吗](https://www.zhihu.com/search?q=新概念英语过时了吗)
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
-1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [宠物狗上桌吃餐盘食物](https://www.zhihu.com/search?q=宠物狗上桌吃餐盘食物)
 1. [星光大赏红毯](https://www.zhihu.com/search?q=星光大赏红毯)
 1. [阿维塔智驾状态下撞大货车](https://www.zhihu.com/search?q=阿维塔智驾状态下撞大货车)
