@@ -1,4 +1,6 @@
 [
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   { "query": "考研数学", "display_query": "考研数学" },
   { "query": "今日冬至", "display_query": "今日冬至" },
   {
@@ -15,8 +17,6 @@
   },
   { "query": "黄蜂vs骑士", "display_query": "黄蜂vs骑士" },
   { "query": "魔术vs勇士", "display_query": "魔术vs勇士" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   { "query": "湖人vs快船", "display_query": "湖人vs快船" },
   {
     "query": "为什么古代老虎被称为大虫",
