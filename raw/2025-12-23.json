@@ -1,9 +1,6 @@
 [
-  {
-    "query": "为什么古代老虎被称为大虫",
-    "display_query": "为什么古代老虎被称为大虫"
-  },
-  { "query": "德甲乒乓球联赛", "display_query": "德甲乒乓球联赛" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "考研数学", "display_query": "考研数学" },
   { "query": "今日冬至", "display_query": "今日冬至" },
   {
     "query": "有哪些瞬间你秒懂了别人的暗示",
@@ -18,8 +15,11 @@
     "display_query": "生活中你们见过最愚蠢的设计是啥"
   },
   { "query": "湖人vs快船", "display_query": "湖人vs快船" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "考研数学", "display_query": "考研数学" },
+  {
+    "query": "为什么古代老虎被称为大虫",
+    "display_query": "为什么古代老虎被称为大虫"
+  },
+  { "query": "德甲乒乓球联赛", "display_query": "德甲乒乓球联赛" },
   {
     "query": "演技封神究竟是个什么水平",
     "display_query": "演技封神究竟是个什么水平"
