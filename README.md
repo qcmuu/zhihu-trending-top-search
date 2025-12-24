@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 24 2025 18:20:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 24 2025 19:17:04 GMT+0800 (China Standard Time) -->
 
-1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
+1. [吉利汽车与极氪整合完成](https://www.zhihu.com/search?q=吉利汽车与极氪整合完成)
+1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=有哪些世界地理冷知识)
 1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=生活中你们见过最愚蠢的设计是啥)
@@ -26,6 +27,7 @@
 1. [中国古代画家为何不追求「画得像」](https://www.zhihu.com/search?q=中国古代画家为何不追求「画得像」)
 1. [结账时发现东西很贵怎么办](https://www.zhihu.com/search?q=结账时发现东西很贵怎么办)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 1. [小型的地级市会有建地铁那天么](https://www.zhihu.com/search?q=小型的地级市会有建地铁那天么)
 1. [北京范儿短视频传播持续破圈](https://www.zhihu.com/search?q=北京范儿短视频传播持续破圈)
 1. [英国将禁止将活龙虾直接投入沸水煮](https://www.zhihu.com/search?q=英国将禁止将活龙虾直接投入沸水煮)
