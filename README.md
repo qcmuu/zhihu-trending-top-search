@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 25 2025 11:24:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 25 2025 12:36:06 GMT+0800 (China Standard Time) -->
 
-1. [宁波女婴事件涉事医院住院服务仍正常进行](https://www.zhihu.com/search?q=宁波女婴事件涉事医院住院服务仍正常进行)
+1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=有哪些世界地理冷知识)
@@ -27,7 +27,7 @@
 1. [小型的地级市会有建地铁那天么](https://www.zhihu.com/search?q=小型的地级市会有建地铁那天么)
 1. [为何现在的成年人都没有大人的感觉](https://www.zhihu.com/search?q=为何现在的成年人都没有大人的感觉)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=你觉得学英语最大的阻碍是什么)
-1. [考研数学](https://www.zhihu.com/search?q=考研数学)
+1. [宁波女婴事件涉事医院住院服务仍正常进行](https://www.zhihu.com/search?q=宁波女婴事件涉事医院住院服务仍正常进行)
 
 <!-- END -->
 
