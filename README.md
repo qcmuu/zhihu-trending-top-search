@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 29 2025 19:17:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 29 2025 20:41:20 GMT+0800 (China Standard Time) -->
 
-1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=深圳大学乒超女团夺冠)
+1. [世界上最伟大的水果是什么](https://www.zhihu.com/search?q=世界上最伟大的水果是什么)
+1. [什么食物吃过一次后就会爱上](https://www.zhihu.com/search?q=什么食物吃过一次后就会爱上)
 1. [跨年朋友圈文案](https://www.zhihu.com/search?q=跨年朋友圈文案)
 1. [沪指8连阳](https://www.zhihu.com/search?q=沪指8连阳)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
@@ -26,6 +27,7 @@
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=你觉得学英语最大的阻碍是什么)
 1. [钱可以成为一个人的底气吗](https://www.zhihu.com/search?q=钱可以成为一个人的底气吗)
+1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=深圳大学乒超女团夺冠)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [霸王茶姬咖啡因含量遭质疑](https://www.zhihu.com/search?q=霸王茶姬咖啡因含量遭质疑)
 1. [同事总说我有「学生思维」](https://www.zhihu.com/search?q=同事总说我有「学生思维」)
