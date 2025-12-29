@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 29 2025 13:26:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 29 2025 14:32:44 GMT+0800 (China Standard Time) -->
 
 1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=深圳大学乒超女团夺冠)
 1. [字节120名员工因触犯红线被辞](https://www.zhihu.com/search?q=字节120名员工因触犯红线被辞)
@@ -29,6 +29,7 @@
    岁失独女子已怀孕 6 个月)
 1. [浙江多地高额补贴专科生](https://www.zhihu.com/search?q=浙江多地高额补贴专科生)
 1. [男子每天穿破损羽绒服确诊「羽绒肺」](https://www.zhihu.com/search?q=男子每天穿破损羽绒服确诊「羽绒肺」)
+1. [欣旺达子公司因电芯质量被起诉](https://www.zhihu.com/search?q=欣旺达子公司因电芯质量被起诉)
 1. [汽车高速耗尽电量 2
    人推车被撞身亡](https://www.zhihu.com/search?q=汽车高速耗尽电量 2
    人推车被撞身亡)
