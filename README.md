@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 02 2026 16:27:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 02 2026 17:22:36 GMT+0800 (China Standard Time) -->
 
-1. [北京通州站正式投用](https://www.zhihu.com/search?q=北京通州站正式投用)
-1. [回望2025](https://www.zhihu.com/search?q=回望2025)
+1. [台积电：2纳米技术已量产](https://www.zhihu.com/search?q=台积电：2纳米技术已量产)
+1. [知乎年度盘点](https://www.zhihu.com/search?q=知乎年度盘点)
 1. [央视跨年晚会](https://www.zhihu.com/search?q=央视跨年晚会)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=一个人最大的底气来自哪里)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
@@ -27,6 +27,8 @@
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
+1. [北京通州站正式投用](https://www.zhihu.com/search?q=北京通州站正式投用)
+1. [回望2025](https://www.zhihu.com/search?q=回望2025)
 1. [湖人vs活塞](https://www.zhihu.com/search?q=湖人vs活塞)
 1. [跨年晚会](https://www.zhihu.com/search?q=跨年晚会)
 
