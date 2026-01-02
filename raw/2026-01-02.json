@@ -1,6 +1,6 @@
 [
-  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
-  { "query": "跨年晚会", "display_query": "跨年晚会" },
+  { "query": "北京通州站正式投用", "display_query": "北京通州站正式投用" },
+  { "query": "回望2025", "display_query": "回望2025" },
   { "query": "央视跨年晚会", "display_query": "央视跨年晚会" },
   {
     "query": "一个人最大的底气来自哪里",
@@ -23,5 +23,7 @@
   {
     "query": "最顶级的情绪价值是什么",
     "display_query": "最顶级的情绪价值是什么"
-  }
+  },
+  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
+  { "query": "跨年晚会", "display_query": "跨年晚会" }
 ]
