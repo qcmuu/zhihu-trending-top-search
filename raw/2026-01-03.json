@@ -1,8 +1,8 @@
 [
-  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
+  { "query": "元旦吃什么", "display_query": "元旦吃什么" },
   {
-    "query": "一个人最大的底气来自哪里",
-    "display_query": "一个人最大的底气来自哪里"
+    "query": "1月1日起 一批新规将施行",
+    "display_query": "1月1日起 一批新规将施行"
   },
   {
     "query": "为什么现在不创造新的汉字了",
@@ -22,12 +22,17 @@
     "query": "最顶级的情绪价值是什么",
     "display_query": "最顶级的情绪价值是什么"
   },
-  {
-    "query": "明白什么道理后你就不再焦虑了",
-    "display_query": "明白什么道理后你就不再焦虑了"
-  },
+  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
+  },
+  {
+    "query": "一个人最大的底气来自哪里",
+    "display_query": "一个人最大的底气来自哪里"
+  },
+  {
+    "query": "明白什么道理后你就不再焦虑了",
+    "display_query": "明白什么道理后你就不再焦虑了"
   }
 ]
