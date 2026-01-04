@@ -1,4 +1,5 @@
 [
+  { "query": "超级月亮", "display_query": "超级月亮" },
   { "query": "知乎个人年度报告", "display_query": "知乎个人年度报告" },
   { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
   { "query": "知乎年终盘点", "display_query": "知乎年终盘点" },
@@ -9,7 +10,6 @@
   { "query": "2025知乎年度视频", "display_query": "2025知乎年度视频" },
   { "query": "年度报告", "display_query": "年度报告" },
   { "query": "知乎个人报告", "display_query": "知乎个人报告" },
-  { "query": "超级月亮", "display_query": "超级月亮" },
   {
     "query": "山姆与小象超市共享供应商引质疑",
     "display_query": "山姆与小象超市共享供应商引质疑"
