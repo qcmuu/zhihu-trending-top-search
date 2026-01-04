@@ -15,22 +15,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 04 2026 14:29:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 04 2026 15:19:39 GMT+0800 (China Standard Time) -->
 
-1. [小米辟谣17 Ultra徕卡版变焦环造假](https://www.zhihu.com/search?q=小米辟谣17
-   Ultra徕卡版变焦环造假)
+1. [上海春考](https://www.zhihu.com/search?q=上海春考)
+1. [元旦假期最后一天](https://www.zhihu.com/search?q=元旦假期最后一天)
+1. [超级月亮](https://www.zhihu.com/search?q=超级月亮)
+1. [雷霆vs勇士](https://www.zhihu.com/search?q=雷霆vs勇士)
+1. [灰熊vs湖人](https://www.zhihu.com/search?q=灰熊vs湖人)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=知乎个人年度报告)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=知乎年度盘点)
 1. [知乎年终盘点](https://www.zhihu.com/search?q=知乎年终盘点)
 1. [知乎2025年度盘点](https://www.zhihu.com/search?q=知乎2025年度盘点)
 1. [到底什么是真的](https://www.zhihu.com/search?q=到底什么是真的)
+1. [小米辟谣17 Ultra徕卡版变焦环造假](https://www.zhihu.com/search?q=小米辟谣17
+   Ultra徕卡版变焦环造假)
 1. [2025年终小问](https://www.zhihu.com/search?q=2025年终小问)
 1. [知乎年度视频](https://www.zhihu.com/search?q=知乎年度视频)
 1. [2025知乎年度视频](https://www.zhihu.com/search?q=2025知乎年度视频)
 1. [年度报告](https://www.zhihu.com/search?q=年度报告)
 1. [护士晒男友帮忙贴药瓶标签写报告](https://www.zhihu.com/search?q=护士晒男友帮忙贴药瓶标签写报告)
 1. [茅台1499元直销成黄牛噩梦](https://www.zhihu.com/search?q=茅台1499元直销成黄牛噩梦)
-1. [超级月亮](https://www.zhihu.com/search?q=超级月亮)
 1. [知乎个人报告](https://www.zhihu.com/search?q=知乎个人报告)
 1. [山姆与小象超市共享供应商引质疑](https://www.zhihu.com/search?q=山姆与小象超市共享供应商引质疑)
 1. [黑龙江景区现 3 米高「冰封鱼墙」](https://www.zhihu.com/search?q=黑龙江景区现
