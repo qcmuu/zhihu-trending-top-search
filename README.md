@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 05 2026 07:17:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 05 2026 09:47:34 GMT+0800 (China Standard Time) -->
 
 1. [上海春考](https://www.zhihu.com/search?q=上海春考)
 1. [元旦假期最后一天](https://www.zhihu.com/search?q=元旦假期最后一天)
