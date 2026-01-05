@@ -1,6 +1,5 @@
 [
-  { "query": "上海春考", "display_query": "上海春考" },
-  { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
+  { "query": "黛玉是否有性格缺陷", "display_query": "黛玉是否有性格缺陷" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "一个人最大的底气来自哪里",
@@ -22,6 +21,8 @@
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
   },
+  { "query": "上海春考", "display_query": "上海春考" },
+  { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   { "query": "灰熊vs湖人", "display_query": "灰熊vs湖人" },
   {
