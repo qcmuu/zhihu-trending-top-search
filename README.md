@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 05 2026 15:26:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 05 2026 16:30:27 GMT+0800 (China Standard Time) -->
 
+1. [上海春考](https://www.zhihu.com/search?q=上海春考)
+1. [元旦假期最后一天](https://www.zhihu.com/search?q=元旦假期最后一天)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=一个人最大的底气来自哪里)
 1. [76人vs尼克斯](https://www.zhihu.com/search?q=76人vs尼克斯)
@@ -27,8 +29,6 @@
 1. [为什么读英语长难句那么辛苦](https://www.zhihu.com/search?q=为什么读英语长难句那么辛苦)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
-1. [上海春考](https://www.zhihu.com/search?q=上海春考)
-1. [元旦假期最后一天](https://www.zhihu.com/search?q=元旦假期最后一天)
 1. [灰熊vs湖人](https://www.zhihu.com/search?q=灰熊vs湖人)
 1. [切尔西主帅马雷斯卡离任](https://www.zhihu.com/search?q=切尔西主帅马雷斯卡离任)
 1. [为什么昆虫都长得很离谱](https://www.zhihu.com/search?q=为什么昆虫都长得很离谱)
