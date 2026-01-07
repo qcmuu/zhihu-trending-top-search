@@ -1,7 +1,11 @@
 [
   {
-    "query": "日本「四大台柱」女演员全部成家",
-    "display_query": "日本「四大台柱」女演员全部成家"
+    "query": "有哪些瞬间你秒懂了别人的暗示",
+    "display_query": "有哪些瞬间你秒懂了别人的暗示"
+  },
+  {
+    "query": "哪个角色小时候讨厌长大就理解了",
+    "display_query": "哪个角色小时候讨厌长大就理解了"
   },
   { "query": "哪些演员演什么像什么", "display_query": "哪些演员演什么像什么" },
   {
@@ -14,6 +18,10 @@
   { "query": "知乎年终盘点", "display_query": "知乎年终盘点" },
   { "query": "知乎2025年度盘点", "display_query": "知乎2025年度盘点" },
   { "query": "到底什么是真的", "display_query": "到底什么是真的" },
+  {
+    "query": "日本「四大台柱」女演员全部成家",
+    "display_query": "日本「四大台柱」女演员全部成家"
+  },
   { "query": "2025年终小问", "display_query": "2025年终小问" },
   {
     "query": "住房公积金可能将拓宽使用范围",
@@ -24,14 +32,6 @@
     "display_query": "最快女护士张水华辞职是怎么考虑的"
   },
   { "query": "新的芯片架构Rubin", "display_query": "新的芯片架构Rubin" },
-  {
-    "query": "有哪些瞬间你秒懂了别人的暗示",
-    "display_query": "有哪些瞬间你秒懂了别人的暗示"
-  },
-  {
-    "query": "哪个角色小时候讨厌长大就理解了",
-    "display_query": "哪个角色小时候讨厌长大就理解了"
-  },
   { "query": "电视 RGB 同台 PK", "display_query": "电视 RGB 同台 PK" },
   { "query": "箱根驿传", "display_query": "箱根驿传" },
   {
