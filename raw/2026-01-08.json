@@ -1,12 +1,9 @@
 [
   {
-    "query": "有哪些瞬间你秒懂了别人的暗示",
-    "display_query": "有哪些瞬间你秒懂了别人的暗示"
+    "query": "女子以油养肤导致面部疯狂掉皮",
+    "display_query": "女子以油养肤导致面部疯狂掉皮"
   },
-  {
-    "query": "哪个角色小时候讨厌长大就理解了",
-    "display_query": "哪个角色小时候讨厌长大就理解了"
-  },
+  { "query": "知乎年终盘点", "display_query": "知乎年终盘点" },
   { "query": "哪些演员演什么像什么", "display_query": "哪些演员演什么像什么" },
   {
     "query": "为什么有很多人连基本的常识都没有",
@@ -15,9 +12,20 @@
   { "query": "怎么在 40 岁成为副厅", "display_query": "怎么在 40 岁成为副厅" },
   { "query": "知乎个人年度报告", "display_query": "知乎个人年度报告" },
   { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
-  { "query": "知乎年终盘点", "display_query": "知乎年终盘点" },
+  {
+    "query": "《闪灵》确认引进中国内地",
+    "display_query": "《闪灵》确认引进中国内地"
+  },
   { "query": "知乎2025年度盘点", "display_query": "知乎2025年度盘点" },
   { "query": "到底什么是真的", "display_query": "到底什么是真的" },
+  {
+    "query": "有哪些瞬间你秒懂了别人的暗示",
+    "display_query": "有哪些瞬间你秒懂了别人的暗示"
+  },
+  {
+    "query": "哪个角色小时候讨厌长大就理解了",
+    "display_query": "哪个角色小时候讨厌长大就理解了"
+  },
   { "query": "竖屏审美 VS 横屏审美", "display_query": "竖屏审美 VS 横屏审美" },
   { "query": "日本梅毒感染扩散", "display_query": "日本梅毒感染扩散" },
   { "query": "认知低的人有哪些特征", "display_query": "认知低的人有哪些特征" },
