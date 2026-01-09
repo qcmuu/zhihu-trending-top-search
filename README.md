@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 09 2026 11:37:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 09 2026 12:38:33 GMT+0800 (China Standard Time) -->
 
-1. [多地裁判文书隐去法官姓名和案号](https://www.zhihu.com/search?q=多地裁判文书隐去法官姓名和案号)
-1. [疯狂动物城2成中国影史进口片票房冠军](https://www.zhihu.com/search?q=疯狂动物城2成中国影史进口片票房冠军)
+1. [如何评价「再见爱人5」第12期](https://www.zhihu.com/search?q=如何评价「再见爱人5」第12期)
 1. [哪个角色小时候讨厌长大就理解了](https://www.zhihu.com/search?q=哪个角色小时候讨厌长大就理解了)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [火箭vs开拓者](https://www.zhihu.com/search?q=火箭vs开拓者)
@@ -27,6 +26,9 @@
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=大家提升自己最快的方式是什么)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
+1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
+1. [多地裁判文书隐去法官姓名和案号](https://www.zhihu.com/search?q=多地裁判文书隐去法官姓名和案号)
+1. [疯狂动物城2成中国影史进口片票房冠军](https://www.zhihu.com/search?q=疯狂动物城2成中国影史进口片票房冠军)
 1. [湖人vs鹈鹕](https://www.zhihu.com/search?q=湖人vs鹈鹕)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 
