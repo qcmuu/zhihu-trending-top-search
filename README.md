@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 12 2026 09:44:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 12 2026 11:47:28 GMT+0800 (China Standard Time) -->
 
-1. [美军空袭委内瑞拉首都加拉加斯](https://www.zhihu.com/search?q=美军空袭委内瑞拉首都加拉加斯)
+1. [超20家车企卷入降价促销潮](https://www.zhihu.com/search?q=超20家车企卷入降价促销潮)
+1. [爬楼扫地机](https://www.zhihu.com/search?q=爬楼扫地机)
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=美军强掳马杜罗)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=委内瑞拉发生了什么)
 1. [美国活捉马杜罗细节](https://www.zhihu.com/search?q=美国活捉马杜罗细节)
@@ -26,6 +27,7 @@
 1. [委内瑞拉防空力量为何形同虚设](https://www.zhihu.com/search?q=委内瑞拉防空力量为何形同虚设)
 1. [CES2026](https://www.zhihu.com/search?q=CES2026)
 1. [上知乎，看 CES](https://www.zhihu.com/search?q=上知乎，看 CES)
+1. [美军空袭委内瑞拉首都加拉加斯](https://www.zhihu.com/search?q=美军空袭委内瑞拉首都加拉加斯)
 1. [无孔不入的 AI](https://www.zhihu.com/search?q=无孔不入的 AI)
 
 <!-- END -->
