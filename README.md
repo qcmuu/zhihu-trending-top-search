@@ -15,22 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 12 2026 17:30:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 12 2026 18:23:33 GMT+0800 (China Standard Time) -->
 
-1. [蓝箭航天亏损局势未变](https://www.zhihu.com/search?q=蓝箭航天亏损局势未变)
-1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
+1. [上汽为什么需要华为](https://www.zhihu.com/search?q=上汽为什么需要华为)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [巴萨vs皇马](https://www.zhihu.com/search?q=巴萨vs皇马)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [黎曼猜想为什么难以解决](https://www.zhihu.com/search?q=黎曼猜想为什么难以解决)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
-1. [上汽为什么需要华为](https://www.zhihu.com/search?q=上汽为什么需要华为)
+1. [烟台暴雪「下冒烟」特殊在哪](https://www.zhihu.com/search?q=烟台暴雪「下冒烟」特殊在哪)
+1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
+1. [邓布利多为什么要让海格成为老师](https://www.zhihu.com/search?q=邓布利多为什么要让海格成为老师)
+1. [蓝箭航天亏损局势未变](https://www.zhihu.com/search?q=蓝箭航天亏损局势未变)
 1. [男子胸背痛疑心梗被误诊后去世](https://www.zhihu.com/search?q=男子胸背痛疑心梗被误诊后去世)
 1. [陈幸同 4-0 蒯曼](https://www.zhihu.com/search?q=陈幸同 4-0 蒯曼)
 1. [飞行扫地机](https://www.zhihu.com/search?q=飞行扫地机)
 1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=为什么优秀员工往往最先离职)
-1. [邓布利多为什么要让海格成为老师](https://www.zhihu.com/search?q=邓布利多为什么要让海格成为老师)
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=美军强掳马杜罗)
 1. [美国活捉马杜罗细节](https://www.zhihu.com/search?q=美国活捉马杜罗细节)
 1. [CES2026](https://www.zhihu.com/search?q=CES2026)
