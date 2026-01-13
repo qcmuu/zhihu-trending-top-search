@@ -1,8 +1,7 @@
 [
-  { "query": "小澈", "display_query": "小澈" },
   {
-    "query": "LOL韩服惊现93%胜率神秘玩家",
-    "display_query": "LOL韩服惊现93%胜率神秘玩家"
+    "query": "为什么优秀员工往往最先离职",
+    "display_query": "为什么优秀员工往往最先离职"
   },
   {
     "query": "为什么现在不创造新的汉字了",
@@ -25,11 +24,12 @@
     "display_query": "最顶级的情绪价值是什么"
   },
   {
-    "query": "为什么优秀员工往往最先离职",
-    "display_query": "为什么优秀员工往往最先离职"
-  },
-  {
     "query": "邓布利多为什么要让海格成为老师",
     "display_query": "邓布利多为什么要让海格成为老师"
+  },
+  { "query": "小澈", "display_query": "小澈" },
+  {
+    "query": "LOL韩服惊现93%胜率神秘玩家",
+    "display_query": "LOL韩服惊现93%胜率神秘玩家"
   }
 ]
