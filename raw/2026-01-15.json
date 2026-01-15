@@ -1,10 +1,8 @@
 [
-  {
-    "query": "赛力斯三年半采购华为 750 亿",
-    "display_query": "赛力斯三年半采购华为 750 亿"
-  },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "国考成绩", "display_query": "国考成绩" },
   { "query": "国考分数线公布", "display_query": "国考分数线公布" },
+  { "query": "降息", "display_query": "降息" },
   { "query": "WBG对战IG", "display_query": "WBG对战IG" },
   { "query": "TES对战JDG", "display_query": "TES对战JDG" },
   { "query": "掘金vs鹈鹕", "display_query": "掘金vs鹈鹕" },
@@ -18,10 +16,13 @@
     "display_query": "普通家庭怎么带孩子见世面"
   },
   {
+    "query": "赛力斯三年半采购华为 750 亿",
+    "display_query": "赛力斯三年半采购华为 750 亿"
+  },
+  {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
   },
-  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   {
     "query": "普通家庭对孩子最好的托举是什么",
     "display_query": "普通家庭对孩子最好的托举是什么"
