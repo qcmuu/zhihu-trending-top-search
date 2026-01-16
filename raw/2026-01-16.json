@@ -8,6 +8,7 @@
     "display_query": "原神月之四少女值得抽吗"
   },
   { "query": "国考分数线公布", "display_query": "国考分数线公布" },
+  { "query": "降息", "display_query": "降息" },
   { "query": "WBG对战IG", "display_query": "WBG对战IG" },
   { "query": "TES对战JDG", "display_query": "TES对战JDG" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
@@ -23,7 +24,6 @@
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "国考成绩", "display_query": "国考成绩" },
-  { "query": "降息", "display_query": "降息" },
   {
     "query": "联发科发布天玑8500、9500s芯片",
     "display_query": "联发科发布天玑8500、9500s芯片"
