@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 16 2026 14:31:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 16 2026 15:22:41 GMT+0800 (China Standard Time) -->
 
 1. [国考成绩公布](https://www.zhihu.com/search?q=国考成绩公布)
 1. [国考成绩](https://www.zhihu.com/search?q=国考成绩)
@@ -24,6 +24,7 @@
 1. [WBG对战IG](https://www.zhihu.com/search?q=WBG对战IG)
 1. [TES对战JDG](https://www.zhihu.com/search?q=TES对战JDG)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [iG对战AL](https://www.zhihu.com/search?q=iG对战AL)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 1. [汇报工作时如何做到清晰有条理](https://www.zhihu.com/search?q=汇报工作时如何做到清晰有条理)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
