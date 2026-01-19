@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 20 2026 03:17:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 20 2026 04:22:08 GMT+0800 (China Standard Time) -->
 
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=河南进入雨雪最强时段)
 1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG战胜AL)
