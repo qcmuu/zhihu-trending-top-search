@@ -2,10 +2,6 @@
   { "query": "JDG战胜AL", "display_query": "JDG战胜AL" },
   { "query": "湖人vs开拓者", "display_query": "湖人vs开拓者" },
   {
-    "query": "坐高铁再也不用扛行李了",
-    "display_query": "坐高铁再也不用扛行李了"
-  },
-  {
     "query": "新能源车废旧动力电池回收利用新规发布",
     "display_query": "新能源车废旧动力电池回收利用新规发布"
   },
@@ -34,6 +30,14 @@
     "display_query": "李湘名下近 7 成企业已注销"
   },
   {
+    "query": "胖东来599元羽绒服充绒量213克",
+    "display_query": "胖东来599元羽绒服充绒量213克"
+  },
+  {
+    "query": "坐高铁再也不用扛行李了",
+    "display_query": "坐高铁再也不用扛行李了"
+  },
+  {
     "query": "尹锡悦涉内乱案一审被判 5 年",
     "display_query": "尹锡悦涉内乱案一审被判 5 年"
   },
@@ -42,10 +46,6 @@
     "display_query": "短剧剧组让小孩淋雨近半小时"
   },
   { "query": "嫣然医院", "display_query": "嫣然医院" },
-  {
-    "query": "胖东来599元羽绒服充绒量213克",
-    "display_query": "胖东来599元羽绒服充绒量213克"
-  },
   {
     "query": "胖东来599元羽绒服进价457.9元",
     "display_query": "胖东来599元羽绒服进价457.9元"
