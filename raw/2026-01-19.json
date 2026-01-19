@@ -1,20 +1,29 @@
 [
+  { "query": "JDG战胜AL", "display_query": "JDG战胜AL" },
+  { "query": "湖人vs开拓者", "display_query": "湖人vs开拓者" },
   {
-    "query": "短剧剧组让小孩淋雨近半小时",
-    "display_query": "短剧剧组让小孩淋雨近半小时"
+    "query": "坐高铁再也不用扛行李了",
+    "display_query": "坐高铁再也不用扛行李了"
   },
   {
     "query": "新能源车废旧动力电池回收利用新规发布",
     "display_query": "新能源车废旧动力电池回收利用新规发布"
   },
   {
+    "query": "嫣然医院欠款 李亚鹏获捐 800 万",
+    "display_query": "嫣然医院欠款 李亚鹏获捐 800 万"
+  },
+  {
     "query": "大学生偷外卖被拘通报公示外卖架边",
     "display_query": "大学生偷外卖被拘通报公示外卖架边"
   },
-  { "query": "嫣然医院", "display_query": "嫣然医院" },
   {
     "query": "尹锡悦涉内乱案一审被判 5 年",
     "display_query": "尹锡悦涉内乱案一审被判 5 年"
+  },
+  {
+    "query": "国考笔试成绩和合格分数线公布",
+    "display_query": "国考笔试成绩和合格分数线公布"
   },
   {
     "query": "全国每 12 个高校毕业生就有一个来广东",
@@ -24,6 +33,11 @@
     "query": "特斯拉与小米推出低息购车政策",
     "display_query": "特斯拉与小米推出低息购车政策"
   },
+  {
+    "query": "短剧剧组让小孩淋雨近半小时",
+    "display_query": "短剧剧组让小孩淋雨近半小时"
+  },
+  { "query": "嫣然医院", "display_query": "嫣然医院" },
   {
     "query": "李湘名下近 7 成企业已注销",
     "display_query": "李湘名下近 7 成企业已注销"
@@ -36,20 +50,12 @@
     "query": "胖东来599元羽绒服进价457.9元",
     "display_query": "胖东来599元羽绒服进价457.9元"
   },
-  {
-    "query": "坐高铁再也不用扛行李了",
-    "display_query": "坐高铁再也不用扛行李了"
-  },
   { "query": "聂卫平", "display_query": "聂卫平" },
   {
     "query": "聂卫平战日本特意穿了国乒球衣",
     "display_query": "聂卫平战日本特意穿了国乒球衣"
   },
   { "query": "聂卫平去世", "display_query": "聂卫平去世" },
-  {
-    "query": "嫣然医院欠款 李亚鹏获捐 800 万",
-    "display_query": "嫣然医院欠款 李亚鹏获捐 800 万"
-  },
   {
     "query": "10 款儿童面霜被曝违规添加",
     "display_query": "10 款儿童面霜被曝违规添加"
