@@ -1,9 +1,5 @@
 [
-  { "query": "轧戏封面", "display_query": "轧戏封面" },
-  {
-    "query": "短剧演员吐槽剧组让婴儿一直淋雨",
-    "display_query": "短剧演员吐槽剧组让婴儿一直淋雨"
-  },
+  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
   {
     "query": "为什么现在不创造新的汉字了",
@@ -24,10 +20,14 @@
     "display_query": "如何用最少的钱打扮自己"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
-  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   {
     "query": "最顶级的情绪价值是什么",
     "display_query": "最顶级的情绪价值是什么"
+  },
+  { "query": "轧戏封面", "display_query": "轧戏封面" },
+  {
+    "query": "短剧演员吐槽剧组让婴儿一直淋雨",
+    "display_query": "短剧演员吐槽剧组让婴儿一直淋雨"
   },
   {
     "query": "取4万元遭盘问报警男子起诉银行",
