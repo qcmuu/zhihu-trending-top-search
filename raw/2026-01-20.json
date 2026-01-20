@@ -1,6 +1,12 @@
 [
-  { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
-  { "query": "JDG战胜AL", "display_query": "JDG战胜AL" },
+  {
+    "query": "河南多地因极端暴雪停课",
+    "display_query": "河南多地因极端暴雪停课"
+  },
+  {
+    "query": "13类食品在直播间里坚决不能卖",
+    "display_query": "13类食品在直播间里坚决不能卖"
+  },
   { "query": "湖人vs开拓者", "display_query": "湖人vs开拓者" },
   {
     "query": "力与能量哪一个更为本质",
@@ -23,5 +29,7 @@
     "query": "什么样的版图可以称为美观",
     "display_query": "什么样的版图可以称为美观"
   },
-  { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" }
+  { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
+  { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
+  { "query": "JDG战胜AL", "display_query": "JDG战胜AL" }
 ]
