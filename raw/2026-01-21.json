@@ -1,12 +1,5 @@
 [
-  {
-    "query": "德国重启电动汽车购车补贴",
-    "display_query": "德国重启电动汽车购车补贴"
-  },
-  {
-    "query": "呼啸山庄内地定档 3 月 13 日",
-    "display_query": "呼啸山庄内地定档 3 月 13 日"
-  },
+  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
   {
     "query": "为什么现在不创造新的汉字了",
@@ -27,9 +20,16 @@
   },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
   { "query": "挣钱的本质是什么", "display_query": "挣钱的本质是什么" },
-  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   {
     "query": "从体制内出去的人会后悔吗",
     "display_query": "从体制内出去的人会后悔吗"
+  },
+  {
+    "query": "德国重启电动汽车购车补贴",
+    "display_query": "德国重启电动汽车购车补贴"
+  },
+  {
+    "query": "呼啸山庄内地定档 3 月 13 日",
+    "display_query": "呼啸山庄内地定档 3 月 13 日"
   }
 ]
