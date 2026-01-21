@@ -15,19 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 21 2026 14:34:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 21 2026 15:26:48 GMT+0800 (China Standard Time) -->
 
-1. [blg战胜tes](https://www.zhihu.com/search?q=blg战胜tes)
-1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=河南进入雨雪最强时段)
-1. [黄金价格再创新高](https://www.zhihu.com/search?q=黄金价格再创新高)
+1. [买法拍房的人后来怎么样了](https://www.zhihu.com/search?q=买法拍房的人后来怎么样了)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
 1. [如何用最少的钱打扮自己](https://www.zhihu.com/search?q=如何用最少的钱打扮自己)
+1. [田羽生称算法扼杀电影创作创新力](https://www.zhihu.com/search?q=田羽生称算法扼杀电影创作创新力)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
 1. [挣钱的本质是什么](https://www.zhihu.com/search?q=挣钱的本质是什么)
 1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=从体制内出去的人会后悔吗)
+1. [blg战胜tes](https://www.zhihu.com/search?q=blg战胜tes)
+1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=河南进入雨雪最强时段)
+1. [黄金价格再创新高](https://www.zhihu.com/search?q=黄金价格再创新高)
 1. [德国重启电动汽车购车补贴](https://www.zhihu.com/search?q=德国重启电动汽车购车补贴)
 1. [呼啸山庄内地定档 3 月 13 日](https://www.zhihu.com/search?q=呼啸山庄内地定档
    3 月 13 日)
