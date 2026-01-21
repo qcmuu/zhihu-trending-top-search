@@ -1,0 +1,21 @@
+[
+  { "query": "A股", "display_query": "A股" },
+  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
+  { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
+  { "query": "黄金价格再创新高", "display_query": "黄金价格再创新高" },
+  { "query": "如何评价大冰", "display_query": "如何评价大冰" },
+  { "query": "快船vs公牛", "display_query": "快船vs公牛" },
+  {
+    "query": "哪些东西已经贵到不值得买了",
+    "display_query": "哪些东西已经贵到不值得买了"
+  },
+  {
+    "query": "你觉得学英语最大的阻碍是什么",
+    "display_query": "你觉得学英语最大的阻碍是什么"
+  },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "人在什么情况下成长的最快",
+    "display_query": "人在什么情况下成长的最快"
+  }
+]
