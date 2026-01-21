@@ -15,14 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 21 2026 18:26:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 21 2026 19:22:16 GMT+0800 (China Standard Time) -->
 
+1. [A股](https://www.zhihu.com/search?q=A股)
 1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
 1. [blg战胜tes](https://www.zhihu.com/search?q=blg战胜tes)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=河南进入雨雪最强时段)
 1. [黄金价格再创新高](https://www.zhihu.com/search?q=黄金价格再创新高)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
+1. [如何评价大冰](https://www.zhihu.com/search?q=如何评价大冰)
+1. [快船vs公牛](https://www.zhihu.com/search?q=快船vs公牛)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
+1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=你觉得学英语最大的阻碍是什么)
 1. [如何用最少的钱打扮自己](https://www.zhihu.com/search?q=如何用最少的钱打扮自己)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
