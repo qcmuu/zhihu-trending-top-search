@@ -1,5 +1,7 @@
 [
   { "query": "A股", "display_query": "A股" },
+  { "query": "明日方舟终末地", "display_query": "明日方舟终末地" },
+  { "query": "给动物喝白酒会怎样", "display_query": "给动物喝白酒会怎样" },
   { "query": "lv大秀", "display_query": "lv大秀" },
   { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
   { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
