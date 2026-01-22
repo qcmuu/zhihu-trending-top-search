@@ -1,6 +1,5 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
+  { "query": "国际金银价又创新高", "display_query": "国际金银价又创新高" },
   { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
   { "query": "黄金价格再创新高", "display_query": "黄金价格再创新高" },
   { "query": "如何评价大冰", "display_query": "如何评价大冰" },
@@ -17,5 +16,8 @@
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
-  }
+  },
+  { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" }
 ]
