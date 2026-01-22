@@ -15,9 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 22 2026 14:32:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 22 2026 15:25:48 GMT+0800 (China Standard Time) -->
 
-1. [国际金银价又创新高](https://www.zhihu.com/search?q=国际金银价又创新高)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [lv大秀](https://www.zhihu.com/search?q=lv大秀)
+1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=河南进入雨雪最强时段)
 1. [黄金价格再创新高](https://www.zhihu.com/search?q=黄金价格再创新高)
 1. [如何评价大冰](https://www.zhihu.com/search?q=如何评价大冰)
@@ -25,10 +27,9 @@
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=你觉得学英语最大的阻碍是什么)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [国际金银价又创新高](https://www.zhihu.com/search?q=国际金银价又创新高)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
 
 <!-- END -->
 
