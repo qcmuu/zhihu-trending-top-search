@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 22 2026 19:21:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 22 2026 20:45:43 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [明日方舟终末地](https://www.zhihu.com/search?q=明日方舟终末地)
 1. [给动物喝白酒会怎样](https://www.zhihu.com/search?q=给动物喝白酒会怎样)
+1. [肯德基崩了](https://www.zhihu.com/search?q=肯德基崩了)
 1. [lv大秀](https://www.zhihu.com/search?q=lv大秀)
 1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=河南进入雨雪最强时段)
