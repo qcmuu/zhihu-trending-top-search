@@ -1,7 +1,6 @@
 [
   { "query": "明日方舟终末地", "display_query": "明日方舟终末地" },
   { "query": "给动物喝白酒会怎样", "display_query": "给动物喝白酒会怎样" },
-  { "query": "肯德基崩了", "display_query": "肯德基崩了" },
   { "query": "lv大秀", "display_query": "lv大秀" },
   { "query": "黄金价格再创新高", "display_query": "黄金价格再创新高" },
   { "query": "如何评价大冰", "display_query": "如何评价大冰" },
@@ -19,6 +18,7 @@
     "display_query": "真正的管理高手是如何管理的"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  { "query": "肯德基崩了", "display_query": "肯德基崩了" },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
   {
     "query": "从体制内出去的人会后悔吗",

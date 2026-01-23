@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 23 2026 19:19:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 23 2026 20:43:06 GMT+0800 (China Standard Time) -->
 
 1. [明日方舟终末地](https://www.zhihu.com/search?q=明日方舟终末地)
 1. [给动物喝白酒会怎样](https://www.zhihu.com/search?q=给动物喝白酒会怎样)
-1. [肯德基崩了](https://www.zhihu.com/search?q=肯德基崩了)
 1. [lv大秀](https://www.zhihu.com/search?q=lv大秀)
 1. [黄金价格再创新高](https://www.zhihu.com/search?q=黄金价格再创新高)
 1. [如何评价大冰](https://www.zhihu.com/search?q=如何评价大冰)
@@ -28,6 +27,7 @@
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
 1. [真正的管理高手是如何管理的](https://www.zhihu.com/search?q=真正的管理高手是如何管理的)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [肯德基崩了](https://www.zhihu.com/search?q=肯德基崩了)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
 1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=从体制内出去的人会后悔吗)
 1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=什么家庭能养出松弛感的孩子)
