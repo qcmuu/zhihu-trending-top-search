@@ -1,5 +1,4 @@
 [
-  { "query": "黄金价格再创新高", "display_query": "黄金价格再创新高" },
   { "query": "如何评价大冰", "display_query": "如何评价大冰" },
   {
     "query": "你看过最感动的短篇漫画是什么",
@@ -20,5 +19,10 @@
     "display_query": "人在什么情况下成长的最快"
   },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
-  { "query": "挣钱的本质是什么", "display_query": "挣钱的本质是什么" }
+  { "query": "挣钱的本质是什么", "display_query": "挣钱的本质是什么" },
+  {
+    "query": "从体制内出去的人会后悔吗",
+    "display_query": "从体制内出去的人会后悔吗"
+  },
+  { "query": "黄金价格再创新高", "display_query": "黄金价格再创新高" }
 ]
