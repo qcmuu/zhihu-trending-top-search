@@ -1,8 +1,6 @@
 [
-  {
-    "query": "U23亚洲杯决赛国足首发出炉",
-    "display_query": "U23亚洲杯决赛国足首发出炉"
-  },
+  { "query": "腊八节", "display_query": "腊八节" },
+  { "query": "亚洲杯", "display_query": "亚洲杯" },
   {
     "query": "贾国龙回应罗永浩污蔑诽谤",
     "display_query": "贾国龙回应罗永浩污蔑诽谤"
@@ -28,12 +26,15 @@
     "query": "90后小伙靠卖饺子年入25亿",
     "display_query": "90后小伙靠卖饺子年入25亿"
   },
+  { "query": "甜茶小李子争影帝", "display_query": "甜茶小李子争影帝" },
+  {
+    "query": "U23亚洲杯决赛国足首发出炉",
+    "display_query": "U23亚洲杯决赛国足首发出炉"
+  },
   {
     "query": "年轻人为何愿为香气买单",
     "display_query": "年轻人为何愿为香气买单"
   },
-  { "query": "甜茶小李子争影帝", "display_query": "甜茶小李子争影帝" },
-  { "query": "亚洲杯", "display_query": "亚洲杯" },
   { "query": "黄景瑜将上太空", "display_query": "黄景瑜将上太空" },
   {
     "query": "腾讯反舞弊通报2025解聘90余人",
