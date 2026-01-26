@@ -1,9 +1,6 @@
 [
-  {
-    "query": "云冈石窟保洁员厕所坐地休息引争议",
-    "display_query": "云冈石窟保洁员厕所坐地休息引争议"
-  },
-  { "query": "牢A三通一达是什么", "display_query": "牢A三通一达是什么" },
+  { "query": "腊八节", "display_query": "腊八节" },
+  { "query": "亚洲杯", "display_query": "亚洲杯" },
   {
     "query": "贾国龙回应罗永浩污蔑诽谤",
     "display_query": "贾国龙回应罗永浩污蔑诽谤"
@@ -30,8 +27,11 @@
     "query": "黄金价格逼近 5000 美元目标",
     "display_query": "黄金价格逼近 5000 美元目标"
   },
-  { "query": "腊八节", "display_query": "腊八节" },
-  { "query": "亚洲杯", "display_query": "亚洲杯" },
+  {
+    "query": "云冈石窟保洁员厕所坐地休息引争议",
+    "display_query": "云冈石窟保洁员厕所坐地休息引争议"
+  },
+  { "query": "牢A三通一达是什么", "display_query": "牢A三通一达是什么" },
   {
     "query": "不会用AI的家庭将是新寒门",
     "display_query": "不会用AI的家庭将是新寒门"
