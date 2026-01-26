@@ -1,6 +1,9 @@
 [
-  { "query": "腊八节", "display_query": "腊八节" },
-  { "query": "亚洲杯", "display_query": "亚洲杯" },
+  {
+    "query": "云冈石窟保洁员厕所坐地休息引争议",
+    "display_query": "云冈石窟保洁员厕所坐地休息引争议"
+  },
+  { "query": "牢A三通一达是什么", "display_query": "牢A三通一达是什么" },
   {
     "query": "贾国龙回应罗永浩污蔑诽谤",
     "display_query": "贾国龙回应罗永浩污蔑诽谤"
@@ -18,6 +21,17 @@
     "query": "明日方舟终末地正式上线",
     "display_query": "明日方舟终末地正式上线"
   },
+  { "query": "甜茶小李子争影帝", "display_query": "甜茶小李子争影帝" },
+  {
+    "query": "多地取消非毕业年级期末考统考",
+    "display_query": "多地取消非毕业年级期末考统考"
+  },
+  {
+    "query": "黄金价格逼近 5000 美元目标",
+    "display_query": "黄金价格逼近 5000 美元目标"
+  },
+  { "query": "腊八节", "display_query": "腊八节" },
+  { "query": "亚洲杯", "display_query": "亚洲杯" },
   {
     "query": "不会用AI的家庭将是新寒门",
     "display_query": "不会用AI的家庭将是新寒门"
@@ -26,7 +40,6 @@
     "query": "90后小伙靠卖饺子年入25亿",
     "display_query": "90后小伙靠卖饺子年入25亿"
   },
-  { "query": "甜茶小李子争影帝", "display_query": "甜茶小李子争影帝" },
   {
     "query": "U23亚洲杯决赛国足首发出炉",
     "display_query": "U23亚洲杯决赛国足首发出炉"
