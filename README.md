@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 27 2026 16:31:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 27 2026 17:30:51 GMT+0800 (China Standard Time) -->
 
 1. [亚洲杯](https://www.zhihu.com/search?q=亚洲杯)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=勇士vs森林狼)
@@ -25,9 +25,10 @@
 1. [程序员周末猝死后还收到工作消息](https://www.zhihu.com/search?q=程序员周末猝死后还收到工作消息)
 1. [中国U23对日本U23](https://www.zhihu.com/search?q=中国U23对日本U23)
 1. [U23](https://www.zhihu.com/search?q=U23)
-1. [U23国足门将李昊身价飙升至两千万](https://www.zhihu.com/search?q=U23国足门将李昊身价飙升至两千万)
 1. [iPhone Air官方价格暴跌2000元](https://www.zhihu.com/search?q=iPhone
    Air官方价格暴跌2000元)
+1. [美国冬季风暴来袭](https://www.zhihu.com/search?q=美国冬季风暴来袭)
+1. [U23国足门将李昊身价飙升至两千万](https://www.zhihu.com/search?q=U23国足门将李昊身价飙升至两千万)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
 1. [腊八美食图鉴](https://www.zhihu.com/search?q=腊八美食图鉴)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)
