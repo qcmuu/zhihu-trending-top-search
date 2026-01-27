@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 27 2026 19:21:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 27 2026 20:46:35 GMT+0800 (China Standard Time) -->
 
 1. [亚洲杯](https://www.zhihu.com/search?q=亚洲杯)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
