@@ -1,5 +1,12 @@
 [
-  { "query": "亚洲杯", "display_query": "亚洲杯" },
+  {
+    "query": "国产顶刊Vita首篇论文上线",
+    "display_query": "国产顶刊Vita首篇论文上线"
+  },
+  {
+    "query": "王欣瑜无缘澳网女单8强",
+    "display_query": "王欣瑜无缘澳网女单8强"
+  },
   { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
   { "query": "阿森纳vs曼联", "display_query": "阿森纳vs曼联" },
   { "query": "湖人战胜独行侠", "display_query": "湖人战胜独行侠" },
@@ -14,6 +21,7 @@
     "query": "iPhone Air官方价格暴跌2000元",
     "display_query": "iPhone Air官方价格暴跌2000元"
   },
+  { "query": "亚洲杯", "display_query": "亚洲杯" },
   { "query": "美国冬季风暴来袭", "display_query": "美国冬季风暴来袭" },
   {
     "query": "U23国足门将李昊身价飙升至两千万",
