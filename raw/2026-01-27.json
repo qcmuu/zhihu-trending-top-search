@@ -1,5 +1,4 @@
 [
-  { "query": "腊八节", "display_query": "腊八节" },
   { "query": "亚洲杯", "display_query": "亚洲杯" },
   {
     "query": "你看过最感动的短篇漫画是什么",
@@ -18,6 +17,8 @@
     "query": "北方用饺子接待客人是重视吗",
     "display_query": "北方用饺子接待客人是重视吗"
   },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  { "query": "腊八节", "display_query": "腊八节" },
   {
     "query": "印尼山体滑坡已致16人死亡",
     "display_query": "印尼山体滑坡已致16人死亡"
@@ -27,6 +28,5 @@
   {
     "query": "印尼山体滑坡已致10人死亡",
     "display_query": "印尼山体滑坡已致10人死亡"
-  },
-  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" }
+  }
 ]
