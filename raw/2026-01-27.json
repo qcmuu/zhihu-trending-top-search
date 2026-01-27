@@ -1,4 +1,23 @@
 [
+  { "query": "亚洲杯", "display_query": "亚洲杯" },
+  {
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
+  },
+  { "query": "如何评价大冰", "display_query": "如何评价大冰" },
+  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
+  { "query": "腊八美食图鉴", "display_query": "腊八美食图鉴" },
+  { "query": "火箭vs灰熊", "display_query": "火箭vs灰熊" },
+  { "query": "阿森纳vs曼联", "display_query": "阿森纳vs曼联" },
+  {
+    "query": "哪些东西已经贵到不值得买了",
+    "display_query": "哪些东西已经贵到不值得买了"
+  },
+  { "query": "湖人战胜独行侠", "display_query": "湖人战胜独行侠" },
+  {
+    "query": "你觉得学英语最大的阻碍是什么",
+    "display_query": "你觉得学英语最大的阻碍是什么"
+  },
   {
     "query": "国产顶刊Vita首篇论文上线",
     "display_query": "国产顶刊Vita首篇论文上线"
@@ -7,9 +26,6 @@
     "query": "王欣瑜无缘澳网女单8强",
     "display_query": "王欣瑜无缘澳网女单8强"
   },
-  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
-  { "query": "阿森纳vs曼联", "display_query": "阿森纳vs曼联" },
-  { "query": "湖人战胜独行侠", "display_query": "湖人战胜独行侠" },
   { "query": "JDG战胜BLG", "display_query": "JDG战胜BLG" },
   {
     "query": "程序员周末猝死后还收到工作消息",
@@ -21,7 +37,6 @@
     "query": "iPhone Air官方价格暴跌2000元",
     "display_query": "iPhone Air官方价格暴跌2000元"
   },
-  { "query": "亚洲杯", "display_query": "亚洲杯" },
   { "query": "美国冬季风暴来袭", "display_query": "美国冬季风暴来袭" },
   {
     "query": "U23国足门将李昊身价飙升至两千万",
@@ -31,7 +46,6 @@
     "query": "你看过最感动的短篇漫画是什么",
     "display_query": "你看过最感动的短篇漫画是什么"
   },
-  { "query": "腊八美食图鉴", "display_query": "腊八美食图鉴" },
   { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
   {
     "query": "大家提升自己最快的方式是什么",
