@@ -1,14 +1,29 @@
 [
   { "query": "亚洲杯", "display_query": "亚洲杯" },
+  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
+  { "query": "阿森纳vs曼联", "display_query": "阿森纳vs曼联" },
+  { "query": "湖人战胜独行侠", "display_query": "湖人战胜独行侠" },
+  { "query": "JDG战胜BLG", "display_query": "JDG战胜BLG" },
+  {
+    "query": "程序员周末猝死后还收到工作消息",
+    "display_query": "程序员周末猝死后还收到工作消息"
+  },
+  { "query": "中国U23对日本U23", "display_query": "中国U23对日本U23" },
+  { "query": "U23", "display_query": "U23" },
+  {
+    "query": "U23国足门将李昊身价飙升至两千万",
+    "display_query": "U23国足门将李昊身价飙升至两千万"
+  },
+  {
+    "query": "iPhone Air官方价格暴跌2000元",
+    "display_query": "iPhone Air官方价格暴跌2000元"
+  },
   {
     "query": "你看过最感动的短篇漫画是什么",
     "display_query": "你看过最感动的短篇漫画是什么"
   },
-  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
   { "query": "腊八美食图鉴", "display_query": "腊八美食图鉴" },
-  { "query": "阿森纳vs曼联", "display_query": "阿森纳vs曼联" },
   { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
-  { "query": "湖人战胜独行侠", "display_query": "湖人战胜独行侠" },
   {
     "query": "大家提升自己最快的方式是什么",
     "display_query": "大家提升自己最快的方式是什么"
