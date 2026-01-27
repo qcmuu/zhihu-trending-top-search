@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 27 2026 11:46:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 27 2026 12:45:08 GMT+0800 (China Standard Time) -->
 
-1. [印尼山体滑坡已致16人死亡](https://www.zhihu.com/search?q=印尼山体滑坡已致16人死亡)
-1. [金价突破 5000 美元](https://www.zhihu.com/search?q=金价突破 5000 美元)
+1. [腊八节](https://www.zhihu.com/search?q=腊八节)
 1. [亚洲杯](https://www.zhihu.com/search?q=亚洲杯)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=勇士vs森林狼)
@@ -27,11 +26,12 @@
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)
 1. [湖人战胜独行侠](https://www.zhihu.com/search?q=湖人战胜独行侠)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=大家提升自己最快的方式是什么)
+1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=北方用饺子接待客人是重视吗)
+1. [印尼山体滑坡已致16人死亡](https://www.zhihu.com/search?q=印尼山体滑坡已致16人死亡)
+1. [金价突破 5000 美元](https://www.zhihu.com/search?q=金价突破 5000 美元)
 1. [杭州歌剧舞剧院](https://www.zhihu.com/search?q=杭州歌剧舞剧院)
 1. [印尼山体滑坡已致10人死亡](https://www.zhihu.com/search?q=印尼山体滑坡已致10人死亡)
-1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=北方用饺子接待客人是重视吗)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
-1. [腊八节](https://www.zhihu.com/search?q=腊八节)
 
 <!-- END -->
 
