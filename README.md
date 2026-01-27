@@ -15,20 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 27 2026 22:27:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 27 2026 23:28:56 GMT+0800 (China Standard Time) -->
 
-1. [陈汉典lulu婚礼](https://www.zhihu.com/search?q=陈汉典lulu婚礼)
-1. [勇士vs森林狼](https://www.zhihu.com/search?q=勇士vs森林狼)
+1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [如何评价大冰](https://www.zhihu.com/search?q=如何评价大冰)
-1. [火箭vs活塞](https://www.zhihu.com/search?q=火箭vs活塞)
+1. [勇士vs森林狼](https://www.zhihu.com/search?q=勇士vs森林狼)
 1. [腊八美食图鉴](https://www.zhihu.com/search?q=腊八美食图鉴)
 1. [火箭vs灰熊](https://www.zhihu.com/search?q=火箭vs灰熊)
 1. [阿森纳vs曼联](https://www.zhihu.com/search?q=阿森纳vs曼联)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
 1. [湖人战胜独行侠](https://www.zhihu.com/search?q=湖人战胜独行侠)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=你觉得学英语最大的阻碍是什么)
-1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=北方用饺子接待客人是重视吗)
+1. [陈汉典lulu婚礼](https://www.zhihu.com/search?q=陈汉典lulu婚礼)
+1. [火箭vs活塞](https://www.zhihu.com/search?q=火箭vs活塞)
 1. [亚洲杯](https://www.zhihu.com/search?q=亚洲杯)
 1. [国产顶刊Vita首篇论文上线](https://www.zhihu.com/search?q=国产顶刊Vita首篇论文上线)
 1. [王欣瑜无缘澳网女单8强](https://www.zhihu.com/search?q=王欣瑜无缘澳网女单8强)
