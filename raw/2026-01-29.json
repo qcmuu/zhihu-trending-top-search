@@ -1,8 +1,7 @@
 [
-  {
-    "query": "10岁抗癌“小王子”豪豪离世",
-    "display_query": "10岁抗癌“小王子”豪豪离世"
-  },
+  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
+  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
+  { "query": "湖人vs骑士", "display_query": "湖人vs骑士" },
   { "query": "火箭vs灰熊", "display_query": "火箭vs灰熊" },
   {
     "query": "哪些东西已经贵到不值得买了",
@@ -25,11 +24,13 @@
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
   },
+  {
+    "query": "10岁抗癌“小王子”豪豪离世",
+    "display_query": "10岁抗癌“小王子”豪豪离世"
+  },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
   {
     "query": "为什么欧洲人画不出动人的写意画",
     "display_query": "为什么欧洲人画不出动人的写意画"
-  },
-  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
-  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" }
+  }
 ]
