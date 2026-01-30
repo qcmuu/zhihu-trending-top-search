@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 30 2026 17:36:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 30 2026 18:31:58 GMT+0800 (China Standard Time) -->
 
 1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=沪深两市成交额突破5000亿元)
 1. [美联储宣布维持基准利率不变](https://www.zhihu.com/search?q=美联储宣布维持基准利率不变)
+1. [奇拉比为什么能打过佐助](https://www.zhihu.com/search?q=奇拉比为什么能打过佐助)
 1. [如何评价大冰](https://www.zhihu.com/search?q=如何评价大冰)
 1. [湖人vs骑士](https://www.zhihu.com/search?q=湖人vs骑士)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)
