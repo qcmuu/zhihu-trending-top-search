@@ -1,9 +1,6 @@
 [
-  { "query": "马刺vs火箭", "display_query": "马刺vs火箭" },
-  {
-    "query": "刘强东宿迁光明村送万件年货",
-    "display_query": "刘强东宿迁光明村送万件年货"
-  },
+  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "沪深两市成交额突破5000亿元",
     "display_query": "沪深两市成交额突破5000亿元"
@@ -24,8 +21,11 @@
     "display_query": "哪些东西已经贵到不值得买了"
   },
   { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
-  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "马刺vs火箭", "display_query": "马刺vs火箭" },
+  {
+    "query": "刘强东宿迁光明村送万件年货",
+    "display_query": "刘强东宿迁光明村送万件年货"
+  },
   {
     "query": "北方用饺子接待客人是重视吗",
     "display_query": "北方用饺子接待客人是重视吗"
