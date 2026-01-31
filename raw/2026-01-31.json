@@ -1,6 +1,5 @@
 [
-  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "本菲卡4比2皇马", "display_query": "本菲卡4比2皇马" },
   {
     "query": "美联储宣布维持基准利率不变",
     "display_query": "美联储宣布维持基准利率不变"
@@ -26,5 +25,8 @@
   {
     "query": "什么样的版图可以称为美观",
     "display_query": "什么样的版图可以称为美观"
-  }
+  },
+  { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
+  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" }
 ]
