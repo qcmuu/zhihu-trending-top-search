@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 31 2026 16:28:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 31 2026 17:25:48 GMT+0800 (China Standard Time) -->
 
-1. [本菲卡4比2皇马](https://www.zhihu.com/search?q=本菲卡4比2皇马)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [美联储宣布维持基准利率不变](https://www.zhihu.com/search?q=美联储宣布维持基准利率不变)
 1. [奇拉比为什么能打过佐助](https://www.zhihu.com/search?q=奇拉比为什么能打过佐助)
 1. [湖人vs骑士](https://www.zhihu.com/search?q=湖人vs骑士)
@@ -27,8 +27,8 @@
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 1. [什么样的版图可以称为美观](https://www.zhihu.com/search?q=什么样的版图可以称为美观)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
+1. [本菲卡4比2皇马](https://www.zhihu.com/search?q=本菲卡4比2皇马)
 1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 
 <!-- END -->
 
