@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 02 2026 00:27:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 02 2026 01:22:39 GMT+0800 (China Standard Time) -->
 
 1. [网传陕西某高校买卖职称评教授](https://www.zhihu.com/search?q=网传陕西某高校买卖职称评教授)
 1. [女子「上班头痛，下班就缓解」](https://www.zhihu.com/search?q=女子「上班头痛，下班就缓解」)
@@ -28,6 +28,7 @@
 1. [好想来回应被质疑称不准](https://www.zhihu.com/search?q=好想来回应被质疑称不准)
 1. [「反向春运」火了](https://www.zhihu.com/search?q=「反向春运」火了)
 1. [快递小哥反对春节不打烊](https://www.zhihu.com/search?q=快递小哥反对春节不打烊)
+1. [黄金、白银暴跌](https://www.zhihu.com/search?q=黄金、白银暴跌)
 1. [Redis 之父称「手写代码不再必要」](https://www.zhihu.com/search?q=Redis
    之父称「手写代码不再必要」)
 
