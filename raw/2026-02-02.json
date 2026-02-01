@@ -8,10 +8,6 @@
     "display_query": "女子「上班头痛，下班就缓解」"
   },
   {
-    "query": "Redmi Turbo 5 系列发布",
-    "display_query": "Redmi Turbo 5 系列发布"
-  },
-  {
     "query": "大学生东北冻伤 手指或截肢",
     "display_query": "大学生东北冻伤 手指或截肢"
   },
@@ -33,6 +29,14 @@
     "display_query": "快递小哥反对春节不打烊"
   },
   { "query": "黄金、白银暴跌", "display_query": "黄金、白银暴跌" },
+  {
+    "query": "恋综《日落时分说爱你》热播",
+    "display_query": "恋综《日落时分说爱你》热播"
+  },
+  {
+    "query": "Redmi Turbo 5 系列发布",
+    "display_query": "Redmi Turbo 5 系列发布"
+  },
   {
     "query": "Redis 之父称「手写代码不再必要」",
     "display_query": "Redis 之父称「手写代码不再必要」"

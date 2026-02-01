@@ -15,12 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 02 2026 04:24:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 02 2026 06:22:23 GMT+0800 (China Standard Time) -->
 
 1. [网传陕西某高校买卖职称评教授](https://www.zhihu.com/search?q=网传陕西某高校买卖职称评教授)
 1. [女子「上班头痛，下班就缓解」](https://www.zhihu.com/search?q=女子「上班头痛，下班就缓解」)
-1. [Redmi Turbo 5 系列发布](https://www.zhihu.com/search?q=Redmi Turbo 5
-   系列发布)
 1. [大学生东北冻伤 手指或截肢](https://www.zhihu.com/search?q=大学生东北冻伤
    手指或截肢)
 1. [146光年外发现一颗冰冻地球](https://www.zhihu.com/search?q=146光年外发现一颗冰冻地球)
@@ -29,6 +27,9 @@
 1. [「反向春运」火了](https://www.zhihu.com/search?q=「反向春运」火了)
 1. [快递小哥反对春节不打烊](https://www.zhihu.com/search?q=快递小哥反对春节不打烊)
 1. [黄金、白银暴跌](https://www.zhihu.com/search?q=黄金、白银暴跌)
+1. [恋综《日落时分说爱你》热播](https://www.zhihu.com/search?q=恋综《日落时分说爱你》热播)
+1. [Redmi Turbo 5 系列发布](https://www.zhihu.com/search?q=Redmi Turbo 5
+   系列发布)
 1. [Redis 之父称「手写代码不再必要」](https://www.zhihu.com/search?q=Redis
    之父称「手写代码不再必要」)
 
