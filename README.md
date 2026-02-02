@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 02 2026 20:56:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 02 2026 22:01:40 GMT+0800 (China Standard Time) -->
 
-1. [阿尔卡拉斯澳网男单夺冠](https://www.zhihu.com/search?q=阿尔卡拉斯澳网男单夺冠)
-1. [男子带400万黄金坐高铁](https://www.zhihu.com/search?q=男子带400万黄金坐高铁)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
 1. [公牛vs热火](https://www.zhihu.com/search?q=公牛vs热火)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen战胜hle)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=中餐和西餐哪个油腻)
@@ -27,8 +27,8 @@
 1. [星链真的可以取代5G吗](https://www.zhihu.com/search?q=星链真的可以取代5G吗)
 1. [为什么要频繁记录自己](https://www.zhihu.com/search?q=为什么要频繁记录自己)
 1. [猪肉好吃又简单的做法](https://www.zhihu.com/search?q=猪肉好吃又简单的做法)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
+1. [阿尔卡拉斯澳网男单夺冠](https://www.zhihu.com/search?q=阿尔卡拉斯澳网男单夺冠)
+1. [男子带400万黄金坐高铁](https://www.zhihu.com/search?q=男子带400万黄金坐高铁)
 1. [网传陕西某高校买卖职称评教授](https://www.zhihu.com/search?q=网传陕西某高校买卖职称评教授)
 1. [女子「上班头痛，下班就缓解」](https://www.zhihu.com/search?q=女子「上班头痛，下班就缓解」)
 1. [高盛 CEO 建议年轻人多投股票少投金](https://www.zhihu.com/search?q=高盛 CEO
