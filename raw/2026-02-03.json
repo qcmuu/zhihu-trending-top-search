@@ -1,0 +1,18 @@
+[
+  { "query": "A股", "display_query": "A股" },
+  { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
+  { "query": "公牛vs热火", "display_query": "公牛vs热火" },
+  { "query": "gen战胜hle", "display_query": "gen战胜hle" },
+  { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
+  {
+    "query": "人在什么情况下成长的最快",
+    "display_query": "人在什么情况下成长的最快"
+  },
+  {
+    "query": "从体制内出去的人会后悔吗",
+    "display_query": "从体制内出去的人会后悔吗"
+  },
+  { "query": "星链真的可以取代5G吗", "display_query": "星链真的可以取代5G吗" },
+  { "query": "为什么要频繁记录自己", "display_query": "为什么要频繁记录自己" },
+  { "query": "猪肉好吃又简单的做法", "display_query": "猪肉好吃又简单的做法" }
+]
