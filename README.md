@@ -15,11 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 03 2026 17:38:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 03 2026 18:37:51 GMT+0800 (China Standard Time) -->
 
-1. [概率的本质是什么](https://www.zhihu.com/search?q=概率的本质是什么)
-1. [湖南永兴银楼拍卖价折算纯银 6.88
-   元/克](https://www.zhihu.com/search?q=湖南永兴银楼拍卖价折算纯银 6.88 元/克)
+1. [格莱美红毯](https://www.zhihu.com/search?q=格莱美红毯)
 1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
 1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=北方用饺子接待客人是重视吗)
@@ -28,6 +26,10 @@
 1. [什么样的版图可以称为美观](https://www.zhihu.com/search?q=什么样的版图可以称为美观)
 1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=黄金什么时候会暴跌)
 1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=从体制内出去的人会后悔吗)
+1. [如何戒掉完美主义](https://www.zhihu.com/search?q=如何戒掉完美主义)
+1. [概率的本质是什么](https://www.zhihu.com/search?q=概率的本质是什么)
+1. [湖南永兴银楼拍卖价折算纯银 6.88
+   元/克](https://www.zhihu.com/search?q=湖南永兴银楼拍卖价折算纯银 6.88 元/克)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [公牛vs热火](https://www.zhihu.com/search?q=公牛vs热火)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen战胜hle)

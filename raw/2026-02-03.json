@@ -1,9 +1,5 @@
 [
-  { "query": "概率的本质是什么", "display_query": "概率的本质是什么" },
-  {
-    "query": "湖南永兴银楼拍卖价折算纯银 6.88 元/克",
-    "display_query": "湖南永兴银楼拍卖价折算纯银 6.88 元/克"
-  },
+  { "query": "格莱美红毯", "display_query": "格莱美红毯" },
   { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
   {
     "query": "你看过最感动的短篇漫画是什么",
@@ -26,6 +22,12 @@
   {
     "query": "从体制内出去的人会后悔吗",
     "display_query": "从体制内出去的人会后悔吗"
+  },
+  { "query": "如何戒掉完美主义", "display_query": "如何戒掉完美主义" },
+  { "query": "概率的本质是什么", "display_query": "概率的本质是什么" },
+  {
+    "query": "湖南永兴银楼拍卖价折算纯银 6.88 元/克",
+    "display_query": "湖南永兴银楼拍卖价折算纯银 6.88 元/克"
   },
   { "query": "A股", "display_query": "A股" },
   { "query": "公牛vs热火", "display_query": "公牛vs热火" },
