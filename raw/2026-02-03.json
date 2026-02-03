@@ -1,17 +1,36 @@
 [
-  { "query": "A股", "display_query": "A股" },
+  { "query": "概率的本质是什么", "display_query": "概率的本质是什么" },
+  {
+    "query": "湖南永兴银楼拍卖价折算纯银 6.88 元/克",
+    "display_query": "湖南永兴银楼拍卖价折算纯银 6.88 元/克"
+  },
   { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
-  { "query": "公牛vs热火", "display_query": "公牛vs热火" },
-  { "query": "gen战胜hle", "display_query": "gen战胜hle" },
-  { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
+  {
+    "query": "你看过最感动的短篇漫画是什么",
+    "display_query": "你看过最感动的短篇漫画是什么"
+  },
+  {
+    "query": "北方用饺子接待客人是重视吗",
+    "display_query": "北方用饺子接待客人是重视吗"
+  },
+  { "query": "极简真的养人吗", "display_query": "极简真的养人吗" },
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
   },
   {
+    "query": "什么样的版图可以称为美观",
+    "display_query": "什么样的版图可以称为美观"
+  },
+  { "query": "黄金什么时候会暴跌", "display_query": "黄金什么时候会暴跌" },
+  {
     "query": "从体制内出去的人会后悔吗",
     "display_query": "从体制内出去的人会后悔吗"
   },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "公牛vs热火", "display_query": "公牛vs热火" },
+  { "query": "gen战胜hle", "display_query": "gen战胜hle" },
+  { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
   { "query": "星链真的可以取代5G吗", "display_query": "星链真的可以取代5G吗" },
   { "query": "为什么要频繁记录自己", "display_query": "为什么要频繁记录自己" },
   { "query": "猪肉好吃又简单的做法", "display_query": "猪肉好吃又简单的做法" },
