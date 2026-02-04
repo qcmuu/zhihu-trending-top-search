@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 04 2026 23:40:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 05 2026 00:44:16 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
 1. [春运第一天](https://www.zhihu.com/search?q=春运第一天)
@@ -25,35 +25,8 @@
 1. [今晚油价上调](https://www.zhihu.com/search?q=今晚油价上调)
 1. [星穹铁道千星纪游PV](https://www.zhihu.com/search?q=星穹铁道千星纪游PV)
 1. [美国斩杀线是什么](https://www.zhihu.com/search?q=美国斩杀线是什么)
-1. [「反向春运」火了](https://www.zhihu.com/search?q=「反向春运」火了)
-1. [金晨道歉](https://www.zhihu.com/search?q=金晨道歉)
-1. [AI建立社交网络Moltbook](https://www.zhihu.com/search?q=AI建立社交网络Moltbook)
-1. [女孩感染烟曲霉 脑子被啃20个洞](https://www.zhihu.com/search?q=女孩感染烟曲霉
-   脑子被啃20个洞)
-1. [比亚迪大幅减产30%新产线延期](https://www.zhihu.com/search?q=比亚迪大幅减产30%新产线延期)
-1. [40岁东北独生女回家11个家人接站](https://www.zhihu.com/search?q=40岁东北独生女回家11个家人接站)
-1. [四川都江堰3.3级地震](https://www.zhihu.com/search?q=四川都江堰3.3级地震)
-1. [中国男篮公布21人集训名单](https://www.zhihu.com/search?q=中国男篮公布21人集训名单)
-1. [《异环》三测爆火](https://www.zhihu.com/search?q=《异环》三测爆火)
-1. [阶跃星辰开源 step 3.5 Flash](https://www.zhihu.com/search?q=阶跃星辰开源
-   step 3.5 Flash)
-1. [春节假期火车票开售](https://www.zhihu.com/search?q=春节假期火车票开售)
-1. [极氪8X泄密事件声明](https://www.zhihu.com/search?q=极氪8X泄密事件声明)
-1. [老年人沉迷刷视频赚钱](https://www.zhihu.com/search?q=老年人沉迷刷视频赚钱)
-1. [员工单日如厕6小时21分钟被解雇](https://www.zhihu.com/search?q=员工单日如厕6小时21分钟被解雇)
-1. [小鹏机器人首秀摔趴被抬走](https://www.zhihu.com/search?q=小鹏机器人首秀摔趴被抬走)
-1. [在大银幕看《闪灵》是什么体验](https://www.zhihu.com/search?q=在大银幕看《闪灵》是什么体验)
-1. [2026 年春运正式开启](https://www.zhihu.com/search?q=2026 年春运正式开启)
-1. [三大运营商电信服务增值税率调至9%](https://www.zhihu.com/search?q=三大运营商电信服务增值税率调至9%)
-1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
-1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=北方用饺子接待客人是重视吗)
-1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
-1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
-1. [什么样的版图可以称为美观](https://www.zhihu.com/search?q=什么样的版图可以称为美观)
-1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=黄金什么时候会暴跌)
-1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=从体制内出去的人会后悔吗)
-1. [赵睿道歉](https://www.zhihu.com/search?q=赵睿道歉)
-1. [如何戒掉完美主义](https://www.zhihu.com/search?q=如何戒掉完美主义)
+1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=贾国龙回应罗永浩污蔑诽谤)
+1. [贾国龙第二篇回应](https://www.zhihu.com/search?q=贾国龙第二篇回应)
 
 <!-- END -->
 
