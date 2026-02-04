@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 04 2026 19:31:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 04 2026 20:55:34 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
 1. [春运第一天](https://www.zhihu.com/search?q=春运第一天)
@@ -24,6 +24,7 @@
 1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
 1. [今晚油价上调](https://www.zhihu.com/search?q=今晚油价上调)
 1. [星穹铁道千星纪游PV](https://www.zhihu.com/search?q=星穹铁道千星纪游PV)
+1. [美国斩杀线是什么](https://www.zhihu.com/search?q=美国斩杀线是什么)
 1. [「反向春运」火了](https://www.zhihu.com/search?q=「反向春运」火了)
 1. [金晨道歉](https://www.zhihu.com/search?q=金晨道歉)
 1. [AI建立社交网络Moltbook](https://www.zhihu.com/search?q=AI建立社交网络Moltbook)
