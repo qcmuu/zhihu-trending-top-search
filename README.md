@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 04 2026 15:42:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 04 2026 16:38:56 GMT+0800 (China Standard Time) -->
 
-1. [赵睿道歉](https://www.zhihu.com/search?q=赵睿道歉)
+1. [立春](https://www.zhihu.com/search?q=立春)
 1. [格莱美红毯](https://www.zhihu.com/search?q=格莱美红毯)
 1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
@@ -27,7 +27,7 @@
 1. [什么样的版图可以称为美观](https://www.zhihu.com/search?q=什么样的版图可以称为美观)
 1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=黄金什么时候会暴跌)
 1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=从体制内出去的人会后悔吗)
-1. [立春](https://www.zhihu.com/search?q=立春)
+1. [赵睿道歉](https://www.zhihu.com/search?q=赵睿道歉)
 1. [如何戒掉完美主义](https://www.zhihu.com/search?q=如何戒掉完美主义)
 
 <!-- END -->
