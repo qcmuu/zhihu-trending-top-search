@@ -1,4 +1,13 @@
 [
+  { "query": "立春", "display_query": "立春" },
+  { "query": "春运第一天", "display_query": "春运第一天" },
+  { "query": "格莱美红毯", "display_query": "格莱美红毯" },
+  { "query": "湖人vs篮网", "display_query": "湖人vs篮网" },
+  { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
+  { "query": "今晚油价上调", "display_query": "今晚油价上调" },
+  { "query": "星穹铁道千星纪游PV", "display_query": "星穹铁道千星纪游PV" },
+  { "query": "「反向春运」火了", "display_query": "「反向春运」火了" },
+  { "query": "金晨道歉", "display_query": "金晨道歉" },
   {
     "query": "AI建立社交网络Moltbook",
     "display_query": "AI建立社交网络Moltbook"
@@ -7,7 +16,6 @@
     "query": "女孩感染烟曲霉 脑子被啃20个洞",
     "display_query": "女孩感染烟曲霉 脑子被啃20个洞"
   },
-  { "query": "立春", "display_query": "立春" },
   {
     "query": "比亚迪大幅减产30%新产线延期",
     "display_query": "比亚迪大幅减产30%新产线延期"
@@ -46,8 +54,6 @@
     "query": "三大运营商电信服务增值税率调至9%",
     "display_query": "三大运营商电信服务增值税率调至9%"
   },
-  { "query": "格莱美红毯", "display_query": "格莱美红毯" },
-  { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
   {
     "query": "你看过最感动的短篇漫画是什么",
     "display_query": "你看过最感动的短篇漫画是什么"
