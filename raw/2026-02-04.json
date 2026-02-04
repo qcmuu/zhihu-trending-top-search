@@ -1,6 +1,4 @@
 [
-  { "query": "极氪8X泄密事件声明", "display_query": "极氪8X泄密事件声明" },
-  { "query": "老年人沉迷刷视频赚钱", "display_query": "老年人沉迷刷视频赚钱" },
   {
     "query": "AI建立社交网络Moltbook",
     "display_query": "AI建立社交网络Moltbook"
@@ -9,7 +7,28 @@
     "query": "女孩感染烟曲霉 脑子被啃20个洞",
     "display_query": "女孩感染烟曲霉 脑子被啃20个洞"
   },
+  { "query": "立春", "display_query": "立春" },
+  {
+    "query": "比亚迪大幅减产30%新产线延期",
+    "display_query": "比亚迪大幅减产30%新产线延期"
+  },
+  {
+    "query": "40岁东北独生女回家11个家人接站",
+    "display_query": "40岁东北独生女回家11个家人接站"
+  },
+  { "query": "四川都江堰3.3级地震", "display_query": "四川都江堰3.3级地震" },
+  {
+    "query": "中国男篮公布21人集训名单",
+    "display_query": "中国男篮公布21人集训名单"
+  },
+  { "query": "《异环》三测爆火", "display_query": "《异环》三测爆火" },
+  {
+    "query": "阶跃星辰开源 step 3.5 Flash",
+    "display_query": "阶跃星辰开源 step 3.5 Flash"
+  },
   { "query": "春节假期火车票开售", "display_query": "春节假期火车票开售" },
+  { "query": "极氪8X泄密事件声明", "display_query": "极氪8X泄密事件声明" },
+  { "query": "老年人沉迷刷视频赚钱", "display_query": "老年人沉迷刷视频赚钱" },
   {
     "query": "员工单日如厕6小时21分钟被解雇",
     "display_query": "员工单日如厕6小时21分钟被解雇"
@@ -27,7 +46,6 @@
     "query": "三大运营商电信服务增值税率调至9%",
     "display_query": "三大运营商电信服务增值税率调至9%"
   },
-  { "query": "立春", "display_query": "立春" },
   { "query": "格莱美红毯", "display_query": "格莱美红毯" },
   { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
   {
