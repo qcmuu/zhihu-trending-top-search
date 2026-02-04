@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 04 2026 09:56:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 04 2026 12:10:51 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
 1. [格莱美红毯](https://www.zhihu.com/search?q=格莱美红毯)
