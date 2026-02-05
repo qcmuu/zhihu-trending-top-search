@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 06 2026 04:31:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 06 2026 05:26:51 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
 1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=阿森纳vs切尔西)
