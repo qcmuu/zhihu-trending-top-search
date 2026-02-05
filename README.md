@@ -15,24 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 05 2026 23:38:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 06 2026 00:44:48 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
-1. [春运第一天](https://www.zhihu.com/search?q=春运第一天)
-1. [格莱美红毯](https://www.zhihu.com/search?q=格莱美红毯)
-1. [湖人vs篮网](https://www.zhihu.com/search?q=湖人vs篮网)
 1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=阿森纳vs切尔西)
-1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)
 1. [骑士vs快船](https://www.zhihu.com/search?q=骑士vs快船)
-1. [今晚油价上调](https://www.zhihu.com/search?q=今晚油价上调)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=中餐和西餐哪个油腻)
-1. [星穹铁道千星纪游PV](https://www.zhihu.com/search?q=星穹铁道千星纪游PV)
-1. [美国斩杀线是什么](https://www.zhihu.com/search?q=美国斩杀线是什么)
-1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=贾国龙回应罗永浩污蔑诽谤)
-1. [贾国龙第二篇回应](https://www.zhihu.com/search?q=贾国龙第二篇回应)
-1. [卡扎菲次子在住处被武装分子杀害](https://www.zhihu.com/search?q=卡扎菲次子在住处被武装分子杀害)
-1. [油价调整加满1箱油将多花8元](https://www.zhihu.com/search?q=油价调整加满1箱油将多花8元)
+1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
+1. [什么样的版图可以称为美观](https://www.zhihu.com/search?q=什么样的版图可以称为美观)
+1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
+1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=黄金什么时候会暴跌)
+1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=如何评价电视剧新三国)
 
 <!-- END -->
 
