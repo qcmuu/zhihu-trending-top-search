@@ -1,6 +1,12 @@
 [
-  { "query": "立春", "display_query": "立春" },
-  { "query": "春运第一天", "display_query": "春运第一天" },
+  {
+    "query": "卡扎菲次子在住处被武装分子杀害",
+    "display_query": "卡扎菲次子在住处被武装分子杀害"
+  },
+  {
+    "query": "油价调整加满1箱油将多花8元",
+    "display_query": "油价调整加满1箱油将多花8元"
+  },
   { "query": "格莱美红毯", "display_query": "格莱美红毯" },
   { "query": "湖人vs篮网", "display_query": "湖人vs篮网" },
   { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
@@ -11,5 +17,7 @@
     "query": "贾国龙回应罗永浩污蔑诽谤",
     "display_query": "贾国龙回应罗永浩污蔑诽谤"
   },
-  { "query": "贾国龙第二篇回应", "display_query": "贾国龙第二篇回应" }
+  { "query": "贾国龙第二篇回应", "display_query": "贾国龙第二篇回应" },
+  { "query": "立春", "display_query": "立春" },
+  { "query": "春运第一天", "display_query": "春运第一天" }
 ]

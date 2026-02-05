@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 05 2026 07:25:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 05 2026 09:58:01 GMT+0800 (China Standard Time) -->
 
-1. [立春](https://www.zhihu.com/search?q=立春)
-1. [春运第一天](https://www.zhihu.com/search?q=春运第一天)
+1. [卡扎菲次子在住处被武装分子杀害](https://www.zhihu.com/search?q=卡扎菲次子在住处被武装分子杀害)
+1. [油价调整加满1箱油将多花8元](https://www.zhihu.com/search?q=油价调整加满1箱油将多花8元)
 1. [格莱美红毯](https://www.zhihu.com/search?q=格莱美红毯)
 1. [湖人vs篮网](https://www.zhihu.com/search?q=湖人vs篮网)
 1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
@@ -27,6 +27,8 @@
 1. [美国斩杀线是什么](https://www.zhihu.com/search?q=美国斩杀线是什么)
 1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=贾国龙回应罗永浩污蔑诽谤)
 1. [贾国龙第二篇回应](https://www.zhihu.com/search?q=贾国龙第二篇回应)
+1. [立春](https://www.zhihu.com/search?q=立春)
+1. [春运第一天](https://www.zhihu.com/search?q=春运第一天)
 
 <!-- END -->
 
