@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 06 2026 17:40:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 06 2026 18:37:01 GMT+0800 (China Standard Time) -->
 
-1. [同事之间真的没有真诚的友谊吗](https://www.zhihu.com/search?q=同事之间真的没有真诚的友谊吗)
-1. [徒手能画出多有趣的马](https://www.zhihu.com/search?q=徒手能画出多有趣的马)
+1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=阿森纳vs切尔西)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)
 1. [骑士vs快船](https://www.zhihu.com/search?q=骑士vs快船)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=中餐和西餐哪个油腻)
@@ -27,8 +26,9 @@
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
 1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=黄金什么时候会暴跌)
 1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=如何评价电视剧新三国)
-1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=阿森纳vs切尔西)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=为什么一定要频繁记录自己)
+1. [同事之间真的没有真诚的友谊吗](https://www.zhihu.com/search?q=同事之间真的没有真诚的友谊吗)
+1. [徒手能画出多有趣的马](https://www.zhihu.com/search?q=徒手能画出多有趣的马)
 1. [为什么猫的形状没有狗多](https://www.zhihu.com/search?q=为什么猫的形状没有狗多)
 1. [立春](https://www.zhihu.com/search?q=立春)
 
