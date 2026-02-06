@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 06 2026 13:51:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 06 2026 14:52:33 GMT+0800 (China Standard Time) -->
 
 1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=阿森纳vs切尔西)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)
