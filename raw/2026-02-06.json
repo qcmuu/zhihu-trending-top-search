@@ -1,5 +1,8 @@
 [
-  { "query": "阿森纳vs切尔西", "display_query": "阿森纳vs切尔西" },
+  {
+    "query": "为什么猫的形状没有狗多",
+    "display_query": "为什么猫的形状没有狗多"
+  },
   { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
   { "query": "骑士vs快船", "display_query": "骑士vs快船" },
   { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
@@ -15,5 +18,6 @@
     "query": "为什么一定要频繁记录自己",
     "display_query": "为什么一定要频繁记录自己"
   },
+  { "query": "阿森纳vs切尔西", "display_query": "阿森纳vs切尔西" },
   { "query": "立春", "display_query": "立春" }
 ]
