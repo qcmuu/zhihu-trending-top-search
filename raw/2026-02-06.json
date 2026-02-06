@@ -1,5 +1,4 @@
 [
-  { "query": "立春", "display_query": "立春" },
   { "query": "阿森纳vs切尔西", "display_query": "阿森纳vs切尔西" },
   { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
   { "query": "骑士vs快船", "display_query": "骑士vs快船" },
@@ -11,5 +10,10 @@
   },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
   { "query": "黄金什么时候会暴跌", "display_query": "黄金什么时候会暴跌" },
-  { "query": "如何评价电视剧新三国", "display_query": "如何评价电视剧新三国" }
+  { "query": "如何评价电视剧新三国", "display_query": "如何评价电视剧新三国" },
+  {
+    "query": "为什么一定要频繁记录自己",
+    "display_query": "为什么一定要频繁记录自己"
+  },
+  { "query": "立春", "display_query": "立春" }
 ]
