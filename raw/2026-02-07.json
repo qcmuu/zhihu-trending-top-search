@@ -1,5 +1,9 @@
 [
   { "query": "苏翊鸣晋级大跳台决赛", "display_query": "苏翊鸣晋级大跳台决赛" },
+  {
+    "query": "我国成功发射可重复使用试验航天器",
+    "display_query": "我国成功发射可重复使用试验航天器"
+  },
   { "query": "A股", "display_query": "A股" },
   {
     "query": "暴雪寒潮大风三预警齐发",
