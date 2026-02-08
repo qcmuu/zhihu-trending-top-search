@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 09 2026 06:25:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 09 2026 07:28:49 GMT+0800 (China Standard Time) -->
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
 1. [王楚钦 vs 张本智和](https://www.zhihu.com/search?q=王楚钦 vs 张本智和)
