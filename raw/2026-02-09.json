@@ -10,6 +10,10 @@
   },
   { "query": "2025微博之夜", "display_query": "2025微博之夜" },
   {
+    "query": "OpenAI发布GPT-5.3-Codex",
+    "display_query": "OpenAI发布GPT-5.3-Codex"
+  },
+  {
     "query": "我国明年起禁隐藏式车门把手",
     "display_query": "我国明年起禁隐藏式车门把手"
   },
