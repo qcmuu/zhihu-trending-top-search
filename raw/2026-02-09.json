@@ -5,7 +5,6 @@
   },
   { "query": "王楚钦 vs 张本智和", "display_query": "王楚钦 vs 张本智和" },
   { "query": "2026 米兰冬奥会", "display_query": "2026 米兰冬奥会" },
-  { "query": "c罗罢赛", "display_query": "c罗罢赛" },
   { "query": "取消中高考是早晚的事", "display_query": "取消中高考是早晚的事" },
   {
     "query": "OpenAI发布GPT-5.3-Codex",
@@ -21,9 +20,14 @@
     "display_query": "高铁购票分静音车厢家长提心吊胆"
   },
   {
+    "query": "《夜王》春节在两广地区限定上映",
+    "display_query": "《夜王》春节在两广地区限定上映"
+  },
+  {
     "query": "室内种植蘑菇有真菌入肺风险吗",
     "display_query": "室内种植蘑菇有真菌入肺风险吗"
   },
+  { "query": "c罗罢赛", "display_query": "c罗罢赛" },
   { "query": "任天堂直面会", "display_query": "任天堂直面会" },
   { "query": "2025微博之夜", "display_query": "2025微博之夜" },
   {
