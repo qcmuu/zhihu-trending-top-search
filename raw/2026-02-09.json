@@ -1,15 +1,21 @@
 [
-  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
+  {
+    "query": "我国成功发射可重复使用试验航天器",
+    "display_query": "我国成功发射可重复使用试验航天器"
+  },
   { "query": "王楚钦 vs 张本智和", "display_query": "王楚钦 vs 张本智和" },
   { "query": "2026 米兰冬奥会", "display_query": "2026 米兰冬奥会" },
   { "query": "c罗罢赛", "display_query": "c罗罢赛" },
   { "query": "取消中高考是早晚的事", "display_query": "取消中高考是早晚的事" },
-  { "query": "2025微博之夜", "display_query": "2025微博之夜" },
   {
     "query": "OpenAI发布GPT-5.3-Codex",
     "display_query": "OpenAI发布GPT-5.3-Codex"
   },
   { "query": "比特币跌破6.5万美元 ", "display_query": "比特币跌破6.5万美元 " },
+  {
+    "query": "米兰冬奥会爆发诺如病毒 部分比赛延迟",
+    "display_query": "米兰冬奥会爆发诺如病毒 部分比赛延迟"
+  },
   {
     "query": "高铁购票分静音车厢家长提心吊胆",
     "display_query": "高铁购票分静音车厢家长提心吊胆"
@@ -18,6 +24,8 @@
     "query": "室内种植蘑菇有真菌入肺风险吗",
     "display_query": "室内种植蘑菇有真菌入肺风险吗"
   },
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
+  { "query": "2025微博之夜", "display_query": "2025微博之夜" },
   {
     "query": "男子住40层因每天等电梯20分钟卖房",
     "display_query": "男子住40层因每天等电梯20分钟卖房"
