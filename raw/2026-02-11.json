@@ -1,0 +1,21 @@
+[
+  { "query": "回家过年", "display_query": "回家过年" },
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
+  { "query": "多家快递春节不打烊", "display_query": "多家快递春节不打烊" },
+  { "query": "春节档预售票房", "display_query": "春节档预售票房" },
+  {
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
+  },
+  {
+    "query": "沪深两市成交额突破1万亿元",
+    "display_query": "沪深两市成交额突破1万亿元"
+  },
+  { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
+  {
+    "query": "你看过最感动的短篇漫画是什么",
+    "display_query": "你看过最感动的短篇漫画是什么"
+  },
+  { "query": "iG对战NIP", "display_query": "iG对战NIP" },
+  { "query": "二十三糖瓜粘", "display_query": "二十三糖瓜粘" }
+]
