@@ -1,4 +1,6 @@
 [
+  { "query": "回家过年", "display_query": "回家过年" },
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
   { "query": "苏翊鸣晋级大跳台决赛", "display_query": "苏翊鸣晋级大跳台决赛" },
   {
     "query": "我国成功发射可重复使用试验航天器",
@@ -6,10 +8,15 @@
   },
   { "query": "多家银行上调存款利率", "display_query": "多家银行上调存款利率" },
   { "query": "多家快递春节不打烊", "display_query": "多家快递春节不打烊" },
+  { "query": "春节档预售票房", "display_query": "春节档预售票房" },
   { "query": "回家是最好的礼物", "display_query": "回家是最好的礼物" },
   {
     "query": "为什么现在不创造新的汉字了",
     "display_query": "为什么现在不创造新的汉字了"
+  },
+  {
+    "query": "沪深两市成交额突破1万亿元",
+    "display_query": "沪深两市成交额突破1万亿元"
   },
   { "query": "王楚钦vs张本智和", "display_query": "王楚钦vs张本智和" },
   { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },

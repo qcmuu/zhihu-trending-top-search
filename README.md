@@ -15,14 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 10 2026 16:53:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 10 2026 19:01:50 GMT+0800 (China Standard Time) -->
 
+1. [回家过年](https://www.zhihu.com/search?q=回家过年)
+1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
 1. [苏翊鸣晋级大跳台决赛](https://www.zhihu.com/search?q=苏翊鸣晋级大跳台决赛)
 1. [我国成功发射可重复使用试验航天器](https://www.zhihu.com/search?q=我国成功发射可重复使用试验航天器)
 1. [多家银行上调存款利率](https://www.zhihu.com/search?q=多家银行上调存款利率)
 1. [多家快递春节不打烊](https://www.zhihu.com/search?q=多家快递春节不打烊)
+1. [春节档预售票房](https://www.zhihu.com/search?q=春节档预售票房)
 1. [回家是最好的礼物](https://www.zhihu.com/search?q=回家是最好的礼物)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
+1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [王楚钦vs张本智和](https://www.zhihu.com/search?q=王楚钦vs张本智和)
 1. [孙颖莎vs王曼昱](https://www.zhihu.com/search?q=孙颖莎vs王曼昱)
 1. [快船vs森林狼](https://www.zhihu.com/search?q=快船vs森林狼)
