@@ -15,15 +15,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 11 2026 17:52:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 11 2026 19:42:31 GMT+0800 (China Standard Time) -->
 
 1. [回家过年](https://www.zhihu.com/search?q=回家过年)
 1. [多家快递春节不打烊](https://www.zhihu.com/search?q=多家快递春节不打烊)
 1. [春节档预售票房](https://www.zhihu.com/search?q=春节档预售票房)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
+1. [步行者vs尼克斯](https://www.zhihu.com/search?q=步行者vs尼克斯)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
+1. [马刺大胜湖人](https://www.zhihu.com/search?q=马刺大胜湖人)
 1. [iG对战NIP](https://www.zhihu.com/search?q=iG对战NIP)
 1. [二十三糖瓜粘](https://www.zhihu.com/search?q=二十三糖瓜粘)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)
