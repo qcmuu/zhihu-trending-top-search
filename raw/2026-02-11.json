@@ -1,6 +1,5 @@
 [
   { "query": "回家过年", "display_query": "回家过年" },
-  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
   { "query": "多家快递春节不打烊", "display_query": "多家快递春节不打烊" },
   { "query": "春节档预售票房", "display_query": "春节档预售票房" },
   {
@@ -17,5 +16,7 @@
     "display_query": "你看过最感动的短篇漫画是什么"
   },
   { "query": "iG对战NIP", "display_query": "iG对战NIP" },
-  { "query": "二十三糖瓜粘", "display_query": "二十三糖瓜粘" }
+  { "query": "二十三糖瓜粘", "display_query": "二十三糖瓜粘" },
+  { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" }
 ]
