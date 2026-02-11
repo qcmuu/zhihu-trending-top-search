@@ -1,6 +1,8 @@
 [
-  { "query": "回家过年", "display_query": "回家过年" },
-  { "query": "多家快递春节不打烊", "display_query": "多家快递春节不打烊" },
+  {
+    "query": "海清因儿子生病想过捐肾",
+    "display_query": "海清因儿子生病想过捐肾"
+  },
   { "query": "春节档预售票房", "display_query": "春节档预售票房" },
   {
     "query": "为什么现在不创造新的汉字了",
@@ -18,6 +20,9 @@
   },
   { "query": "马刺大胜湖人", "display_query": "马刺大胜湖人" },
   { "query": "iG对战NIP", "display_query": "iG对战NIP" },
+  { "query": "二十四扫房子", "display_query": "二十四扫房子" },
+  { "query": "回家过年", "display_query": "回家过年" },
+  { "query": "多家快递春节不打烊", "display_query": "多家快递春节不打烊" },
   { "query": "二十三糖瓜粘", "display_query": "二十三糖瓜粘" },
   { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
   { "query": "任天堂直面会", "display_query": "任天堂直面会" }
