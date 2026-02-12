@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 12 2026 10:04:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 12 2026 12:56:07 GMT+0800 (China Standard Time) -->
 
-1. [春节档预售票房](https://www.zhihu.com/search?q=春节档预售票房)
+1. [26 春节档新片预售开启](https://www.zhihu.com/search?q=26 春节档新片预售开启)
+1. [马刺 136:108 湖人](https://www.zhihu.com/search?q=马刺 136:108 湖人)
 1. [步行者vs尼克斯](https://www.zhihu.com/search?q=步行者vs尼克斯)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
 1. [马刺大胜湖人](https://www.zhihu.com/search?q=马刺大胜湖人)
@@ -26,6 +27,7 @@
 1. [马刺vs湖人](https://www.zhihu.com/search?q=马刺vs湖人)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=中餐和西餐哪个油腻)
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=钓鱼佬最接受不了什么)
+1. [春节档预售票房](https://www.zhihu.com/search?q=春节档预售票房)
 1. [有哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=有哪些东西已经贵到不值得买了)
 
 <!-- END -->

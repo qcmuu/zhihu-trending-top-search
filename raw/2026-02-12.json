@@ -1,5 +1,9 @@
 [
-  { "query": "春节档预售票房", "display_query": "春节档预售票房" },
+  {
+    "query": "26 春节档新片预售开启",
+    "display_query": "26 春节档新片预售开启"
+  },
+  { "query": "马刺 136:108 湖人", "display_query": "马刺 136:108 湖人" },
   { "query": "步行者vs尼克斯", "display_query": "步行者vs尼克斯" },
   {
     "query": "你看过最感动的短篇漫画是什么",
@@ -11,6 +15,7 @@
   { "query": "马刺vs湖人", "display_query": "马刺vs湖人" },
   { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
   { "query": "钓鱼佬最接受不了什么", "display_query": "钓鱼佬最接受不了什么" },
+  { "query": "春节档预售票房", "display_query": "春节档预售票房" },
   {
     "query": "有哪些东西已经贵到不值得买了",
     "display_query": "有哪些东西已经贵到不值得买了"
