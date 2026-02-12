@@ -15,11 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 12 2026 21:03:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 12 2026 22:45:09 GMT+0800 (China Standard Time) -->
 
 1. [春节档预售票房](https://www.zhihu.com/search?q=春节档预售票房)
 1. [步行者vs尼克斯](https://www.zhihu.com/search?q=步行者vs尼克斯)
+1. [郑钦文vs莱巴金娜](https://www.zhihu.com/search?q=郑钦文vs莱巴金娜)
+1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
+1. [步行者vs篮网](https://www.zhihu.com/search?q=步行者vs篮网)
 1. [马刺大胜湖人](https://www.zhihu.com/search?q=马刺大胜湖人)
 1. [二十四扫房子](https://www.zhihu.com/search?q=二十四扫房子)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)

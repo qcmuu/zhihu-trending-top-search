@@ -1,10 +1,16 @@
 [
   { "query": "春节档预售票房", "display_query": "春节档预售票房" },
   { "query": "步行者vs尼克斯", "display_query": "步行者vs尼克斯" },
+  { "query": "郑钦文vs莱巴金娜", "display_query": "郑钦文vs莱巴金娜" },
+  {
+    "query": "沪深两市成交额突破1万亿元",
+    "display_query": "沪深两市成交额突破1万亿元"
+  },
   {
     "query": "你看过最感动的短篇漫画是什么",
     "display_query": "你看过最感动的短篇漫画是什么"
   },
+  { "query": "步行者vs篮网", "display_query": "步行者vs篮网" },
   { "query": "马刺大胜湖人", "display_query": "马刺大胜湖人" },
   { "query": "二十四扫房子", "display_query": "二十四扫房子" },
   { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
