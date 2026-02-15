@@ -1,5 +1,4 @@
 [
-  { "query": "情人节", "display_query": "情人节" },
   {
     "query": "沪深两市成交额突破1万亿元",
     "display_query": "沪深两市成交额突破1万亿元"
@@ -17,5 +16,7 @@
   {
     "query": "如何评价VisualStudio2026",
     "display_query": "如何评价VisualStudio2026"
-  }
+  },
+  { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
+  { "query": "情人节", "display_query": "情人节" }
 ]
