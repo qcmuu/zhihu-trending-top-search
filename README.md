@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 16 2026 10:02:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 16 2026 12:57:02 GMT+0800 (China Standard Time) -->
 
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=古人过春节有什么风雅的习俗)
@@ -23,8 +23,11 @@
 1. [林孝埈摔倒](https://www.zhihu.com/search?q=林孝埈摔倒)
 1. [nba全明星扣篮大赛](https://www.zhihu.com/search?q=nba全明星扣篮大赛)
 1. [1月70城房价出炉](https://www.zhihu.com/search?q=1月70城房价出炉)
-1. [孙俪杨幂获总台视后](https://www.zhihu.com/search?q=孙俪杨幂获总台视后)
 1. [「反向春运」火了](https://www.zhihu.com/search?q=「反向春运」火了)
+1. [四川大学硕博举报导师王竹卿](https://www.zhihu.com/search?q=四川大学硕博举报导师王竹卿)
+1. [四川大学已成立工作专班](https://www.zhihu.com/search?q=四川大学已成立工作专班)
+1. [我的马年祝福](https://www.zhihu.com/search?q=我的马年祝福)
+1. [孙俪杨幂获总台视后](https://www.zhihu.com/search?q=孙俪杨幂获总台视后)
 1. [2025微博之夜](https://www.zhihu.com/search?q=2025微博之夜)
 1. [沈腾冲上去扶杨幂](https://www.zhihu.com/search?q=沈腾冲上去扶杨幂)
 
