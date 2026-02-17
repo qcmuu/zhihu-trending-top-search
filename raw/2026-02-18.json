@@ -1,6 +1,8 @@
 [
-  { "query": "显脸小的发型秘诀", "display_query": "显脸小的发型秘诀" },
-  { "query": "定格新年的绚烂瞬间", "display_query": "定格新年的绚烂瞬间" },
+  {
+    "query": "古人过春节有什么风雅的习俗",
+    "display_query": "古人过春节有什么风雅的习俗"
+  },
   { "query": "你心目中的年味是什么", "display_query": "你心目中的年味是什么" },
   { "query": "nba全明星扣篮大赛", "display_query": "nba全明星扣篮大赛" },
   {
@@ -23,5 +25,11 @@
   {
     "query": "认知水平高的人有什么特征",
     "display_query": "认知水平高的人有什么特征"
-  }
+  },
+  {
+    "query": "你每天坚持的事情是什么",
+    "display_query": "你每天坚持的事情是什么"
+  },
+  { "query": "显脸小的发型秘诀", "display_query": "显脸小的发型秘诀" },
+  { "query": "定格新年的绚烂瞬间", "display_query": "定格新年的绚烂瞬间" }
 ]
