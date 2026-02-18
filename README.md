@@ -15,22 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 18 2026 23:50:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 19 2026 01:01:08 GMT+0800 (China Standard Time) -->
 
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=古人过春节有什么风雅的习俗)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=你心目中的年味是什么)
-1. [nba全明星扣篮大赛](https://www.zhihu.com/search?q=nba全明星扣篮大赛)
-1. [为什么成功人士的精力都非常旺盛](https://www.zhihu.com/search?q=为什么成功人士的精力都非常旺盛)
-1. [日本的汽车产业还能支撑多久](https://www.zhihu.com/search?q=日本的汽车产业还能支撑多久)
-1. [汇报工作时如何做到清晰有条理](https://www.zhihu.com/search?q=汇报工作时如何做到清晰有条理)
-1. [为何老外喜欢发布开源代码](https://www.zhihu.com/search?q=为何老外喜欢发布开源代码)
-1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=黄金什么时候会暴跌)
-1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
-1. [你每天坚持的事情是什么](https://www.zhihu.com/search?q=你每天坚持的事情是什么)
-1. [许我再少年](https://www.zhihu.com/search?q=许我再少年)
-1. [625亿国补落地春节市场](https://www.zhihu.com/search?q=625亿国补落地春节市场)
-1. [显脸小的发型秘诀](https://www.zhihu.com/search?q=显脸小的发型秘诀)
-1. [定格新年的绚烂瞬间](https://www.zhihu.com/search?q=定格新年的绚烂瞬间)
+1. [机票价格大跳水](https://www.zhihu.com/search?q=机票价格大跳水)
+1. [我的马年祝福](https://www.zhihu.com/search?q=我的马年祝福)
+1. [搜索马年祝福集卡](https://www.zhihu.com/search?q=搜索马年祝福集卡)
+1. [ai马年祝福](https://www.zhihu.com/search?q=ai马年祝福)
+1. [ai 马年祝福](https://www.zhihu.com/search?q=ai 马年祝福)
+1. [AI 搜索马年祝福集卡](https://www.zhihu.com/search?q=AI 搜索马年祝福集卡)
+1. [ai 搜索集卡享大礼](https://www.zhihu.com/search?q=ai 搜索集卡享大礼)
+1. [ai搜索集卡享大礼](https://www.zhihu.com/search?q=ai搜索集卡享大礼)
 
 <!-- END -->
 
