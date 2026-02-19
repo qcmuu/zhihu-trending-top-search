@@ -1,5 +1,4 @@
 [
-  { "query": "川渝正月初一吃汤圆", "display_query": "川渝正月初一吃汤圆" },
   {
     "query": "古人过春节有什么风雅的习俗",
     "display_query": "古人过春节有什么风雅的习俗"
@@ -31,6 +30,7 @@
     "query": "如何变成一个特别会说话的人",
     "display_query": "如何变成一个特别会说话的人"
   },
+  { "query": "川渝正月初一吃汤圆", "display_query": "川渝正月初一吃汤圆" },
   { "query": "我的马年祝福", "display_query": "我的马年祝福" },
   { "query": "搜索马年祝福集卡", "display_query": "搜索马年祝福集卡" },
   { "query": "ai马年祝福", "display_query": "ai马年祝福" },
