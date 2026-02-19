@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 19 2026 21:01:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 19 2026 22:44:16 GMT+0800 (China Standard Time) -->
 
+1. [川渝正月初一吃汤圆](https://www.zhihu.com/search?q=川渝正月初一吃汤圆)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=古人过春节有什么风雅的习俗)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=你心目中的年味是什么)
 1. [为什么成功人士的精力都非常旺盛](https://www.zhihu.com/search?q=为什么成功人士的精力都非常旺盛)
