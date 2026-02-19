@@ -1,13 +1,5 @@
 [
   {
-    "query": "吴京称现在培养功夫明星太难",
-    "display_query": "吴京称现在培养功夫明星太难"
-  },
-  {
-    "query": "林孝埈无缘500米半决赛",
-    "display_query": "林孝埈无缘500米半决赛"
-  },
-  {
     "query": "古人过春节有什么风雅的习俗",
     "display_query": "古人过春节有什么风雅的习俗"
   },
@@ -20,5 +12,13 @@
   { "query": "ai 搜索集卡享大礼", "display_query": "ai 搜索集卡享大礼" },
   { "query": "ai搜索集卡享大礼", "display_query": "ai搜索集卡享大礼" },
   { "query": "马上集卡分大礼", "display_query": "马上集卡分大礼" },
+  {
+    "query": "吴京称现在培养功夫明星太难",
+    "display_query": "吴京称现在培养功夫明星太难"
+  },
+  {
+    "query": "林孝埈无缘500米半决赛",
+    "display_query": "林孝埈无缘500米半决赛"
+  },
   { "query": "机票价格大跳水", "display_query": "机票价格大跳水" }
 ]
