@@ -15,23 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 20 2026 23:35:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 21 2026 00:36:39 GMT+0800 (China Standard Time) -->
 
 1. [掘金vs快船](https://www.zhihu.com/search?q=掘金vs快船)
 1. [初五迎财神](https://www.zhihu.com/search?q=初五迎财神)
 1. [快船战胜掘金](https://www.zhihu.com/search?q=快船战胜掘金)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=古人过春节有什么风雅的习俗)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=你心目中的年味是什么)
-1. [为什么成功人士的精力都非常旺盛](https://www.zhihu.com/search?q=为什么成功人士的精力都非常旺盛)
-1. [为什么基础科学很久没有重大突破了](https://www.zhihu.com/search?q=为什么基础科学很久没有重大突破了)
-1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=黄金什么时候会暴跌)
-1. [河北为啥不讲究吃](https://www.zhihu.com/search?q=河北为啥不讲究吃)
-1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
-1. [为什么只有中国人吃炒菜](https://www.zhihu.com/search?q=为什么只有中国人吃炒菜)
-1. [为什么葡萄酒在中国火不起来](https://www.zhihu.com/search?q=为什么葡萄酒在中国火不起来)
-1. [为什么社会反感独处的人](https://www.zhihu.com/search?q=为什么社会反感独处的人)
-1. [如何变成一个特别会说话的人](https://www.zhihu.com/search?q=如何变成一个特别会说话的人)
-1. [河南兄弟拼年终奖](https://www.zhihu.com/search?q=河南兄弟拼年终奖)
+1. [我的马年祝福](https://www.zhihu.com/search?q=我的马年祝福)
+1. [搜索马年祝福集卡](https://www.zhihu.com/search?q=搜索马年祝福集卡)
+1. [ai马年祝福](https://www.zhihu.com/search?q=ai马年祝福)
+1. [ai 马年祝福](https://www.zhihu.com/search?q=ai 马年祝福)
+1. [AI 搜索马年祝福集卡](https://www.zhihu.com/search?q=AI 搜索马年祝福集卡)
 
 <!-- END -->
 
