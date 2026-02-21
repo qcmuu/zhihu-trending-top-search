@@ -1,6 +1,8 @@
 [
-  { "query": "掘金vs快船", "display_query": "掘金vs快船" },
-  { "query": "正月初五接财神", "display_query": "正月初五接财神" },
+  {
+    "query": "春节你发现了哪些反常现象",
+    "display_query": "春节你发现了哪些反常现象"
+  },
   { "query": "初五迎财神", "display_query": "初五迎财神" },
   { "query": "快船战胜掘金", "display_query": "快船战胜掘金" },
   {
@@ -12,7 +14,9 @@
   { "query": "搜索马年祝福集卡", "display_query": "搜索马年祝福集卡" },
   { "query": "ai马年祝福", "display_query": "ai马年祝福" },
   { "query": "ai 马年祝福", "display_query": "ai 马年祝福" },
-  { "query": "谷歌发布lyria3模型", "display_query": "谷歌发布lyria3模型" },
   { "query": "AI 搜索马年祝福集卡", "display_query": "AI 搜索马年祝福集卡" },
+  { "query": "掘金vs快船", "display_query": "掘金vs快船" },
+  { "query": "正月初五接财神", "display_query": "正月初五接财神" },
+  { "query": "谷歌发布lyria3模型", "display_query": "谷歌发布lyria3模型" },
   { "query": "ai 搜索集卡享大礼", "display_query": "ai 搜索集卡享大礼" }
 ]
