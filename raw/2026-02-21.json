@@ -1,9 +1,6 @@
 [
-  { "query": "好好的时光今日定档", "display_query": "好好的时光今日定档" },
-  {
-    "query": "现代人如何度过一个有意义的春节",
-    "display_query": "现代人如何度过一个有意义的春节"
-  },
+  { "query": "沙尘暴", "display_query": "沙尘暴" },
+  { "query": "掘金vs快船", "display_query": "掘金vs快船" },
   { "query": "正月初五接财神", "display_query": "正月初五接财神" },
   { "query": "初五迎财神", "display_query": "初五迎财神" },
   { "query": "快船战胜掘金", "display_query": "快船战胜掘金" },
@@ -15,8 +12,11 @@
   { "query": "湖人vs快船", "display_query": "湖人vs快船" },
   { "query": "步行者vs奇才", "display_query": "步行者vs奇才" },
   { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
-  { "query": "沙尘暴", "display_query": "沙尘暴" },
-  { "query": "掘金vs快船", "display_query": "掘金vs快船" },
+  { "query": "好好的时光今日定档", "display_query": "好好的时光今日定档" },
+  {
+    "query": "现代人如何度过一个有意义的春节",
+    "display_query": "现代人如何度过一个有意义的春节"
+  },
   {
     "query": "春节你发现了哪些反常现象",
     "display_query": "春节你发现了哪些反常现象"
