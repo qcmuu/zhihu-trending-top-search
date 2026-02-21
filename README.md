@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 21 2026 23:22:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 22 2026 00:27:04 GMT+0800 (China Standard Time) -->
 
 1. [沙尘暴](https://www.zhihu.com/search?q=沙尘暴)
-1. [掘金vs快船](https://www.zhihu.com/search?q=掘金vs快船)
 1. [正月初五接财神](https://www.zhihu.com/search?q=正月初五接财神)
 1. [初五迎财神](https://www.zhihu.com/search?q=初五迎财神)
 1. [快船战胜掘金](https://www.zhihu.com/search?q=快船战胜掘金)
@@ -27,16 +26,7 @@
 1. [湖人vs快船](https://www.zhihu.com/search?q=湖人vs快船)
 1. [步行者vs奇才](https://www.zhihu.com/search?q=步行者vs奇才)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)
-1. [好好的时光今日定档](https://www.zhihu.com/search?q=好好的时光今日定档)
-1. [现代人如何度过一个有意义的春节](https://www.zhihu.com/search?q=现代人如何度过一个有意义的春节)
-1. [春节你发现了哪些反常现象](https://www.zhihu.com/search?q=春节你发现了哪些反常现象)
-1. [我的马年祝福](https://www.zhihu.com/search?q=我的马年祝福)
-1. [搜索马年祝福集卡](https://www.zhihu.com/search?q=搜索马年祝福集卡)
-1. [ai马年祝福](https://www.zhihu.com/search?q=ai马年祝福)
-1. [ai 马年祝福](https://www.zhihu.com/search?q=ai 马年祝福)
-1. [AI 搜索马年祝福集卡](https://www.zhihu.com/search?q=AI 搜索马年祝福集卡)
-1. [谷歌发布lyria3模型](https://www.zhihu.com/search?q=谷歌发布lyria3模型)
-1. [ai 搜索集卡享大礼](https://www.zhihu.com/search?q=ai 搜索集卡享大礼)
+1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=乐队打架什么乐器伤害最高)
 
 <!-- END -->
 
