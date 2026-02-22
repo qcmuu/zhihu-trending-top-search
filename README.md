@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 22 2026 18:22:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 22 2026 19:19:22 GMT+0800 (China Standard Time) -->
 
 1. [沙尘暴](https://www.zhihu.com/search?q=沙尘暴)
+1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=多地气温断崖式下跌)
 1. [初五迎财神](https://www.zhihu.com/search?q=初五迎财神)
 1. [快船战胜掘金](https://www.zhihu.com/search?q=快船战胜掘金)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=古人过春节有什么风雅的习俗)
