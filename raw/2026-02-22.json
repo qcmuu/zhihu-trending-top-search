@@ -1,9 +1,6 @@
 [
-  {
-    "query": "亚马逊成全球营收最高企业",
-    "display_query": "亚马逊成全球营收最高企业"
-  },
   { "query": "沙尘暴", "display_query": "沙尘暴" },
+  { "query": "初五迎财神", "display_query": "初五迎财神" },
   { "query": "快船战胜掘金", "display_query": "快船战胜掘金" },
   {
     "query": "古人过春节有什么风雅的习俗",
@@ -21,6 +18,9 @@
     "query": "在幼儿园当幼师是什么感觉",
     "display_query": "在幼儿园当幼师是什么感觉"
   },
-  { "query": "正月初五接财神", "display_query": "正月初五接财神" },
-  { "query": "初五迎财神", "display_query": "初五迎财神" }
+  {
+    "query": "亚马逊成全球营收最高企业",
+    "display_query": "亚马逊成全球营收最高企业"
+  },
+  { "query": "正月初五接财神", "display_query": "正月初五接财神" }
 ]
