@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 23 2026 19:38:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 23 2026 21:00:35 GMT+0800 (China Standard Time) -->
 
 1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=多地气温断崖式下跌)
+1. [黄景瑜演技](https://www.zhihu.com/search?q=黄景瑜演技)
 1. [2026 米兰冬奥会](https://www.zhihu.com/search?q=2026 米兰冬奥会)
 1. [我的马年祝福](https://www.zhihu.com/search?q=我的马年祝福)
 1. [搜索马年祝福集卡](https://www.zhihu.com/search?q=搜索马年祝福集卡)
