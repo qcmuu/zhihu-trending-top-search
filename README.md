@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 24 2026 17:50:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 24 2026 18:46:56 GMT+0800 (China Standard Time) -->
 
 1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=多地气温断崖式下跌)
 1. [孙颖莎晋级32强](https://www.zhihu.com/search?q=孙颖莎晋级32强)
