@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 24 2026 21:01:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 24 2026 22:47:07 GMT+0800 (China Standard Time) -->
 
 1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=多地气温断崖式下跌)
 1. [考研初试](https://www.zhihu.com/search?q=考研初试)
