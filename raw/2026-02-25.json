@@ -1,10 +1,12 @@
 [
+  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
   { "query": "考研初试", "display_query": "考研初试" },
   { "query": "jdg对战tes", "display_query": "jdg对战tes" },
   { "query": "今晚油价上涨", "display_query": "今晚油价上涨" },
   { "query": "孙颖莎晋级32强", "display_query": "孙颖莎晋级32强" },
   { "query": "A股行情", "display_query": "A股行情" },
   { "query": "王楚钦3比0户上隼辅", "display_query": "王楚钦3比0户上隼辅" },
+  { "query": "魔术vs湖人", "display_query": "魔术vs湖人" },
   { "query": "火箭vs尼克斯", "display_query": "火箭vs尼克斯" },
   {
     "query": "乐队打架什么乐器伤害最高",
