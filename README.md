@@ -15,26 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 25 2026 22:45:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 26 2026 01:54:57 GMT+0800 (China Standard Time) -->
 
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
-1. [考研初试](https://www.zhihu.com/search?q=考研初试)
 1. [jdg对战tes](https://www.zhihu.com/search?q=jdg对战tes)
 1. [今晚油价上涨](https://www.zhihu.com/search?q=今晚油价上涨)
-1. [孙颖莎晋级32强](https://www.zhihu.com/search?q=孙颖莎晋级32强)
-1. [A股行情](https://www.zhihu.com/search?q=A股行情)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=王楚钦3比0户上隼辅)
 1. [魔术vs湖人](https://www.zhihu.com/search?q=魔术vs湖人)
-1. [火箭vs尼克斯](https://www.zhihu.com/search?q=火箭vs尼克斯)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=乐队打架什么乐器伤害最高)
-1. [你身边有没有资产A12的人](https://www.zhihu.com/search?q=你身边有没有资产A12的人)
+1. [独行侠战胜篮网](https://www.zhihu.com/search?q=独行侠战胜篮网)
+1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=中餐和西餐哪个油腻)
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
-1. [马年开工顺顺顺顺顺](https://www.zhihu.com/search?q=马年开工顺顺顺顺顺)
-1. [36斤羊烤完剩6.9斤](https://www.zhihu.com/search?q=36斤羊烤完剩6.9斤)
-1. [汇报工作时如何做到清晰有条理](https://www.zhihu.com/search?q=汇报工作时如何做到清晰有条理)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
-1. [王楚钦鹰眼挑战失败](https://www.zhihu.com/search?q=王楚钦鹰眼挑战失败)
-1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=什么家庭能养出松弛感的孩子)
 
 <!-- END -->
 
