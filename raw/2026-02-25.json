@@ -1,8 +1,10 @@
 [
-  { "query": "马年开工顺顺顺顺顺", "display_query": "马年开工顺顺顺顺顺" },
-  { "query": "36斤羊烤完剩6.9斤", "display_query": "36斤羊烤完剩6.9斤" },
+  { "query": "考研初试", "display_query": "考研初试" },
+  { "query": "jdg对战tes", "display_query": "jdg对战tes" },
+  { "query": "今晚油价上涨", "display_query": "今晚油价上涨" },
   { "query": "孙颖莎晋级32强", "display_query": "孙颖莎晋级32强" },
   { "query": "A股行情", "display_query": "A股行情" },
+  { "query": "王楚钦3比0户上隼辅", "display_query": "王楚钦3比0户上隼辅" },
   { "query": "火箭vs尼克斯", "display_query": "火箭vs尼克斯" },
   {
     "query": "乐队打架什么乐器伤害最高",
@@ -16,12 +18,13 @@
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
   },
+  { "query": "马年开工顺顺顺顺顺", "display_query": "马年开工顺顺顺顺顺" },
+  { "query": "36斤羊烤完剩6.9斤", "display_query": "36斤羊烤完剩6.9斤" },
   {
     "query": "汇报工作时如何做到清晰有条理",
     "display_query": "汇报工作时如何做到清晰有条理"
   },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
-  { "query": "考研初试", "display_query": "考研初试" },
   { "query": "王楚钦鹰眼挑战失败", "display_query": "王楚钦鹰眼挑战失败" },
   {
     "query": "什么家庭能养出松弛感的孩子",
