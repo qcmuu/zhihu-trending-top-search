@@ -1,10 +1,22 @@
 [
+  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
+  { "query": "jdg对战tes", "display_query": "jdg对战tes" },
+  { "query": "今晚油价上涨", "display_query": "今晚油价上涨" },
+  { "query": "WBG战胜IG", "display_query": "WBG战胜IG" },
+  { "query": "王楚钦3比0户上隼辅", "display_query": "王楚钦3比0户上隼辅" },
+  { "query": "魔术vs湖人", "display_query": "魔术vs湖人" },
+  { "query": "正月初十十全十美", "display_query": "正月初十十全十美" },
+  { "query": "高考倒计时100天", "display_query": "高考倒计时100天" },
+  {
+    "query": "乐队打架什么乐器伤害最高",
+    "display_query": "乐队打架什么乐器伤害最高"
+  },
+  { "query": "独行侠战胜篮网", "display_query": "独行侠战胜篮网" },
   {
     "query": "电视剧生命树有哪些看点",
     "display_query": "电视剧生命树有哪些看点"
   },
   { "query": "夜王豆瓣开分7.8", "display_query": "夜王豆瓣开分7.8" },
-  { "query": "今晚油价上涨", "display_query": "今晚油价上涨" },
   {
     "query": "携程集团总裁董事双双辞职",
     "display_query": "携程集团总裁董事双双辞职"
@@ -13,17 +25,7 @@
     "query": "春节 AI 大战到底谁赢了",
     "display_query": "春节 AI 大战到底谁赢了"
   },
-  { "query": "魔术vs湖人", "display_query": "魔术vs湖人" },
   { "query": "津巴布韦暂停锂矿出口", "display_query": "津巴布韦暂停锂矿出口" },
-  { "query": "高考倒计时100天", "display_query": "高考倒计时100天" },
-  {
-    "query": "乐队打架什么乐器伤害最高",
-    "display_query": "乐队打架什么乐器伤害最高"
-  },
-  { "query": "独行侠战胜篮网", "display_query": "独行侠战胜篮网" },
-  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
-  { "query": "jdg对战tes", "display_query": "jdg对战tes" },
-  { "query": "王楚钦3比0户上隼辅", "display_query": "王楚钦3比0户上隼辅" },
   { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
   {
     "query": "明白什么道理后你就不再焦虑了",
