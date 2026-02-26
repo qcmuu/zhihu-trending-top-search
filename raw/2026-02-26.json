@@ -1,12 +1,6 @@
 [
-  {
-    "query": "刘强东造游艇为何选广东",
-    "display_query": "刘强东造游艇为何选广东"
-  },
-  {
-    "query": "为什么一定要频繁记录自己",
-    "display_query": "为什么一定要频繁记录自己"
-  },
+  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
+  { "query": "新品驾到", "display_query": "新品驾到" },
   { "query": "jdg对战tes", "display_query": "jdg对战tes" },
   { "query": "今晚油价上涨", "display_query": "今晚油价上涨" },
   { "query": "WBG战胜IG", "display_query": "WBG战胜IG" },
@@ -18,8 +12,14 @@
     "query": "乐队打架什么乐器伤害最高",
     "display_query": "乐队打架什么乐器伤害最高"
   },
-  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
-  { "query": "新品驾到", "display_query": "新品驾到" },
+  {
+    "query": "刘强东造游艇为何选广东",
+    "display_query": "刘强东造游艇为何选广东"
+  },
+  {
+    "query": "为什么一定要频繁记录自己",
+    "display_query": "为什么一定要频繁记录自己"
+  },
   { "query": "独行侠战胜篮网", "display_query": "独行侠战胜篮网" },
   {
     "query": "电视剧生命树有哪些看点",
