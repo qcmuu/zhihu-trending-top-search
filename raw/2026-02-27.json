@@ -1,8 +1,11 @@
 [
-  { "query": "华策声明", "display_query": "华策声明" },
+  { "query": "四六级成绩公布", "display_query": "四六级成绩公布" },
+  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
   { "query": "新品驾到", "display_query": "新品驾到" },
   { "query": "WBG战胜IG", "display_query": "WBG战胜IG" },
   { "query": "王楚钦3比0户上隼辅", "display_query": "王楚钦3比0户上隼辅" },
+  { "query": "正月初十十全十美", "display_query": "正月初十十全十美" },
+  { "query": "高考倒计时100天", "display_query": "高考倒计时100天" },
   {
     "query": "乐队打架什么乐器伤害最高",
     "display_query": "乐队打架什么乐器伤害最高"
@@ -12,6 +15,7 @@
     "display_query": "如何用最少的钱打扮自己"
   },
   { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
+  { "query": "华策声明", "display_query": "华策声明" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
     "query": "明白什么道理后你就不再焦虑了",
@@ -19,9 +23,5 @@
   },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
   { "query": "今起3天河南全省有雨", "display_query": "今起3天河南全省有雨" },
-  { "query": "反诈大喇叭守护钱袋子", "display_query": "反诈大喇叭守护钱袋子" },
-  { "query": "正月初十十全十美", "display_query": "正月初十十全十美" },
-  { "query": "高考倒计时100天", "display_query": "高考倒计时100天" },
-  { "query": "四六级成绩公布", "display_query": "四六级成绩公布" },
-  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" }
+  { "query": "反诈大喇叭守护钱袋子", "display_query": "反诈大喇叭守护钱袋子" }
 ]
