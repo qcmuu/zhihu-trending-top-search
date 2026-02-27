@@ -15,29 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 27 2026 23:35:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 00:38:23 GMT+0800 (China Standard Time) -->
 
 1. [四六级成绩公布](https://www.zhihu.com/search?q=四六级成绩公布)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
-1. [新品驾到](https://www.zhihu.com/search?q=新品驾到)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg战胜ig)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=王楚钦3比0户上隼辅)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [正月初十十全十美](https://www.zhihu.com/search?q=正月初十十全十美)
 1. [四六级查分](https://www.zhihu.com/search?q=四六级查分)
 1. [高考倒计时100天](https://www.zhihu.com/search?q=高考倒计时100天)
-1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=乐队打架什么乐器伤害最高)
-1. [浴场睡醒手机卡变诈骗号](https://www.zhihu.com/search?q=浴场睡醒手机卡变诈骗号)
-1. [著名法学家高铭暄逝世](https://www.zhihu.com/search?q=著名法学家高铭暄逝世)
-1. [WBG战胜IG](https://www.zhihu.com/search?q=WBG战胜IG)
-1. [如何用最少的钱打扮自己](https://www.zhihu.com/search?q=如何用最少的钱打扮自己)
-1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=中餐和西餐哪个油腻)
-1. [华策声明](https://www.zhihu.com/search?q=华策声明)
-1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
-1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
-1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
-1. [今起3天河南全省有雨](https://www.zhihu.com/search?q=今起3天河南全省有雨)
-1. [反诈大喇叭守护钱袋子](https://www.zhihu.com/search?q=反诈大喇叭守护钱袋子)
+1. [火箭vs魔术](https://www.zhihu.com/search?q=火箭vs魔术)
+1. [LPL第一赛段](https://www.zhihu.com/search?q=LPL第一赛段)
 
 <!-- END -->
 
