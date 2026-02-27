@@ -9,7 +9,11 @@
   },
   { "query": "正月初十十全十美", "display_query": "正月初十十全十美" },
   { "query": "四六级查分", "display_query": "四六级查分" },
-  { "query": "高考倒计时100天", "display_query": "高考倒计时100天" },
   { "query": "火箭vs魔术", "display_query": "火箭vs魔术" },
-  { "query": "LPL第一赛段", "display_query": "LPL第一赛段" }
+  { "query": "LPL第一赛段", "display_query": "LPL第一赛段" },
+  {
+    "query": "生化危机9里昂人设争议",
+    "display_query": "生化危机9里昂人设争议"
+  },
+  { "query": "高考倒计时100天", "display_query": "高考倒计时100天" }
 ]
