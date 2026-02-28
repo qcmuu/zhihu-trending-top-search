@@ -1,12 +1,4 @@
 [
-  {
-    "query": "一点点资助男童多个疑问待解",
-    "display_query": "一点点资助男童多个疑问待解"
-  },
-  {
-    "query": "比尔盖茨承认有过婚外关系",
-    "display_query": "比尔盖茨承认有过婚外关系"
-  },
   { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
   { "query": "酒驾", "display_query": "酒驾" },
   { "query": "wbg战胜ig", "display_query": "wbg战胜ig" },
@@ -20,6 +12,14 @@
   { "query": "四六级查分", "display_query": "四六级查分" },
   { "query": "掘金vs雷霆", "display_query": "掘金vs雷霆" },
   { "query": "火箭vs魔术", "display_query": "火箭vs魔术" },
+  {
+    "query": "一点点资助男童多个疑问待解",
+    "display_query": "一点点资助男童多个疑问待解"
+  },
+  {
+    "query": "比尔盖茨承认有过婚外关系",
+    "display_query": "比尔盖茨承认有过婚外关系"
+  },
   { "query": "王曼昱19比21申裕斌", "display_query": "王曼昱19比21申裕斌" },
   { "query": "LPL第一赛段", "display_query": "LPL第一赛段" },
   {
