@@ -1,12 +1,5 @@
 [
-  {
-    "query": "FIBA 向中国男篮及球迷致歉",
-    "display_query": "FIBA 向中国男篮及球迷致歉"
-  },
-  {
-    "query": "洗涤公司员工每天工作 19 小时",
-    "display_query": "洗涤公司员工每天工作 19 小时"
-  },
+  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
   { "query": "酒驾", "display_query": "酒驾" },
   { "query": "wbg战胜ig", "display_query": "wbg战胜ig" },
   { "query": "王楚钦3比0户上隼辅", "display_query": "王楚钦3比0户上隼辅" },
@@ -18,8 +11,15 @@
   { "query": "考研查分", "display_query": "考研查分" },
   { "query": "四六级查分", "display_query": "四六级查分" },
   { "query": "火箭vs魔术", "display_query": "火箭vs魔术" },
-  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
   { "query": "LPL第一赛段", "display_query": "LPL第一赛段" },
+  {
+    "query": "FIBA 向中国男篮及球迷致歉",
+    "display_query": "FIBA 向中国男篮及球迷致歉"
+  },
+  {
+    "query": "洗涤公司员工每天工作 19 小时",
+    "display_query": "洗涤公司员工每天工作 19 小时"
+  },
   {
     "query": "生化危机9里昂人设争议",
     "display_query": "生化危机9里昂人设争议"
