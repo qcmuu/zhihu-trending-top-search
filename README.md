@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 22:20:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 23:20:04 GMT+0800 (China Standard Time) -->
 
 1. [寒假作业冲刺倒计时](https://www.zhihu.com/search?q=寒假作业冲刺倒计时)
-1. [多地28日考研查分](https://www.zhihu.com/search?q=多地28日考研查分)
+1. [周杰伦杭州演唱会抢票](https://www.zhihu.com/search?q=周杰伦杭州演唱会抢票)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
 1. [酒驾](https://www.zhihu.com/search?q=酒驾)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg战胜ig)
@@ -27,6 +27,7 @@
 1. [正月初十十全十美](https://www.zhihu.com/search?q=正月初十十全十美)
 1. [考研查分](https://www.zhihu.com/search?q=考研查分)
 1. [四六级查分](https://www.zhihu.com/search?q=四六级查分)
+1. [多地28日考研查分](https://www.zhihu.com/search?q=多地28日考研查分)
 1. [掘金vs雷霆](https://www.zhihu.com/search?q=掘金vs雷霆)
 1. [火箭vs魔术](https://www.zhihu.com/search?q=火箭vs魔术)
 1. [一点点资助男童多个疑问待解](https://www.zhihu.com/search?q=一点点资助男童多个疑问待解)
