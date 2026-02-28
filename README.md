@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 18:20:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 19:17:16 GMT+0800 (China Standard Time) -->
 
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
 1. [酒驾](https://www.zhihu.com/search?q=酒驾)
