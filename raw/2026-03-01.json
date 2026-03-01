@@ -1,5 +1,9 @@
 [
-  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
+  { "query": "北京有雨夹雪", "display_query": "北京有雨夹雪" },
+  {
+    "query": "洗涤公司员工每天工作 19 小时",
+    "display_query": "洗涤公司员工每天工作 19 小时"
+  },
   { "query": "酒驾", "display_query": "酒驾" },
   { "query": "退税", "display_query": "退税" },
   { "query": "考研查分", "display_query": "考研查分" },
@@ -14,6 +18,7 @@
     "query": "生化危机9里昂人设争议",
     "display_query": "生化危机9里昂人设争议"
   },
+  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
   { "query": "BLG战胜WBG赛后数据", "display_query": "BLG战胜WBG赛后数据" },
   { "query": "我的春节回忆录", "display_query": "我的春节回忆录" }
 ]
