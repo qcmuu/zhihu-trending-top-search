@@ -1,6 +1,9 @@
 [
-  { "query": "王楚钦男单夺冠", "display_query": "王楚钦男单夺冠" },
-  { "query": "退税", "display_query": "退税" },
+  { "query": "何凯文英语分数", "display_query": "何凯文英语分数" },
+  {
+    "query": "没发过学术顶刊可以发「底刊」",
+    "display_query": "没发过学术顶刊可以发「底刊」"
+  },
   {
     "query": "生化危机9里昂人设争议",
     "display_query": "生化危机9里昂人设争议"
@@ -17,5 +20,7 @@
   {
     "query": "武侠动作电影《镖人：风起大漠》热映",
     "display_query": "武侠动作电影《镖人：风起大漠》热映"
-  }
+  },
+  { "query": "王楚钦男单夺冠", "display_query": "王楚钦男单夺冠" },
+  { "query": "退税", "display_query": "退税" }
 ]
