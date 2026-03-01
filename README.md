@@ -15,27 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 01 2026 23:21:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 02 2026 00:25:54 GMT+0800 (China Standard Time) -->
 
 1. [王楚钦男单夺冠](https://www.zhihu.com/search?q=王楚钦男单夺冠)
-1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
 1. [退税](https://www.zhihu.com/search?q=退税)
-1. [考研查分](https://www.zhihu.com/search?q=考研查分)
-1. [掘金vs雷霆](https://www.zhihu.com/search?q=掘金vs雷霆)
-1. [男篮世预赛](https://www.zhihu.com/search?q=男篮世预赛)
-1. [国内金饰克价突破1600元](https://www.zhihu.com/search?q=国内金饰克价突破1600元)
-1. [欧冠淘汰赛抽签仪式](https://www.zhihu.com/search?q=欧冠淘汰赛抽签仪式)
 1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=生化危机9里昂人设争议)
-1. [BLG战胜WBG赛后数据](https://www.zhihu.com/search?q=BLG战胜WBG赛后数据)
 1. [我的春节回忆录](https://www.zhihu.com/search?q=我的春节回忆录)
-1. [FIBA向中国篮球界致歉](https://www.zhihu.com/search?q=FIBA向中国篮球界致歉)
-1. [FIBA国际篮联向中国致歉](https://www.zhihu.com/search?q=FIBA国际篮联向中国致歉)
-1. [黄金手机贴克价达12666元](https://www.zhihu.com/search?q=黄金手机贴克价达12666元)
-1. [嫣然医院疑恢复正常运营](https://www.zhihu.com/search?q=嫣然医院疑恢复正常运营)
-1. [酒驾](https://www.zhihu.com/search?q=酒驾)
-1. [北京有雨夹雪](https://www.zhihu.com/search?q=北京有雨夹雪)
-1. [洗涤公司员工每天工作 19
-   小时](https://www.zhihu.com/search?q=洗涤公司员工每天工作 19 小时)
+1. [知乎回忆录](https://www.zhihu.com/search?q=知乎回忆录)
+1. [搜索回忆录](https://www.zhihu.com/search?q=搜索回忆录)
+1. [ai 回忆录](https://www.zhihu.com/search?q=ai 回忆录)
+1. [ai回忆录](https://www.zhihu.com/search?q=ai回忆录)
+1. [电影《飞驰人生 3》热映](https://www.zhihu.com/search?q=电影《飞驰人生
+   3》热映)
+1. [武侠动作电影《镖人：风起大漠》热映](https://www.zhihu.com/search?q=武侠动作电影《镖人：风起大漠》热映)
 
 <!-- END -->
 
