@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 01 2026 14:42:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 01 2026 15:31:14 GMT+0800 (China Standard Time) -->
 
 1. [酒驾](https://www.zhihu.com/search?q=酒驾)
 1. [退税](https://www.zhihu.com/search?q=退税)
