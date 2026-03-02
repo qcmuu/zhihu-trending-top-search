@@ -1,6 +1,12 @@
 [
-  { "query": "a股", "display_query": "a股" },
-  { "query": "王楚钦男单夺冠", "display_query": "王楚钦男单夺冠" },
+  {
+    "query": "境外黑客攻击我国电商数据库",
+    "display_query": "境外黑客攻击我国电商数据库"
+  },
+  {
+    "query": "COMEX黄金期货2月累涨超11%",
+    "display_query": "COMEX黄金期货2月累涨超11%"
+  },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "退税", "display_query": "退税" },
   { "query": "阿森纳vs切尔西", "display_query": "阿森纳vs切尔西" },
@@ -18,6 +24,8 @@
     "query": "你身边有没有资产A12的人",
     "display_query": "你身边有没有资产A12的人"
   },
+  { "query": "a股", "display_query": "a股" },
+  { "query": "王楚钦男单夺冠", "display_query": "王楚钦男单夺冠" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
     "query": "美军为什么打不赢治安战",
