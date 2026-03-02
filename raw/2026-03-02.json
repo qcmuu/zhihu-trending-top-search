@@ -1,6 +1,32 @@
 [
   { "query": "王楚钦男单夺冠", "display_query": "王楚钦男单夺冠" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "退税", "display_query": "退税" },
+  {
+    "query": "乐队打架什么乐器伤害最高",
+    "display_query": "乐队打架什么乐器伤害最高"
+  },
+  {
+    "query": "三星手机会慢慢离开中国市场吗",
+    "display_query": "三星手机会慢慢离开中国市场吗"
+  },
+  {
+    "query": "你身边有没有资产A12的人",
+    "display_query": "你身边有没有资产A12的人"
+  },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "美军为什么打不赢治安战",
+    "display_query": "美军为什么打不赢治安战"
+  },
+  {
+    "query": "美国情报系统现在属于什么水平",
+    "display_query": "美国情报系统现在属于什么水平"
+  },
+  {
+    "query": "为什么年轻人反感老一辈的说教",
+    "display_query": "为什么年轻人反感老一辈的说教"
+  },
   { "query": "我的春节回忆录", "display_query": "我的春节回忆录" },
   { "query": "知乎回忆录", "display_query": "知乎回忆录" },
   { "query": "搜索回忆录", "display_query": "搜索回忆录" },
