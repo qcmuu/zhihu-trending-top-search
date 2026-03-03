@@ -1,10 +1,14 @@
 [
-  { "query": "A股涌现避险潮", "display_query": "A股涌现避险潮" },
   {
-    "query": "飞驰人生3容易被忽略的细节",
-    "display_query": "飞驰人生3容易被忽略的细节"
+    "query": "杭州有影院试水烂片可退款",
+    "display_query": "杭州有影院试水烂片可退款"
+  },
+  {
+    "query": "丰配友刷新男子马拉松全国纪录",
+    "display_query": "丰配友刷新男子马拉松全国纪录"
   },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "元宵节", "display_query": "元宵节" },
   { "query": "阿森纳vs切尔西", "display_query": "阿森纳vs切尔西" },
   { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
   { "query": "雄鹿vs公牛", "display_query": "雄鹿vs公牛" },
@@ -17,11 +21,15 @@
     "query": "三星手机会慢慢离开中国市场吗",
     "display_query": "三星手机会慢慢离开中国市场吗"
   },
+  { "query": "A股涌现避险潮", "display_query": "A股涌现避险潮" },
+  {
+    "query": "飞驰人生3容易被忽略的细节",
+    "display_query": "飞驰人生3容易被忽略的细节"
+  },
   {
     "query": "你身边有没有资产A12的人",
     "display_query": "你身边有没有资产A12的人"
   },
-  { "query": "元宵节", "display_query": "元宵节" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "OpenAI遭用户抵制", "display_query": "OpenAI遭用户抵制" },
   {
