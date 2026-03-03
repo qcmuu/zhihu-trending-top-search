@@ -2,7 +2,6 @@
   { "query": "a股", "display_query": "a股" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "元宵节", "display_query": "元宵节" },
-  { "query": "退税", "display_query": "退税" },
   { "query": "阿森纳vs切尔西", "display_query": "阿森纳vs切尔西" },
   { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
   { "query": "雄鹿vs公牛", "display_query": "雄鹿vs公牛" },
@@ -18,11 +17,12 @@
     "query": "你身边有没有资产A12的人",
     "display_query": "你身边有没有资产A12的人"
   },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  { "query": "退税", "display_query": "退税" },
   { "query": "豆瓣发致歉信", "display_query": "豆瓣发致歉信" },
   {
     "query": "飞驰人生3容易被忽略的细节",
     "display_query": "飞驰人生3容易被忽略的细节"
   },
-  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "王楚钦男单夺冠", "display_query": "王楚钦男单夺冠" }
 ]
