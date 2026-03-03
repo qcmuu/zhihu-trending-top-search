@@ -1,5 +1,9 @@
 [
-  { "query": "a股", "display_query": "a股" },
+  { "query": "OpenAI遭用户抵制", "display_query": "OpenAI遭用户抵制" },
+  {
+    "query": "中国男篮力克中国台北男篮",
+    "display_query": "中国男篮力克中国台北男篮"
+  },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "元宵节", "display_query": "元宵节" },
   { "query": "阿森纳vs切尔西", "display_query": "阿森纳vs切尔西" },
@@ -17,6 +21,7 @@
     "query": "你身边有没有资产A12的人",
     "display_query": "你身边有没有资产A12的人"
   },
+  { "query": "a股", "display_query": "a股" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "退税", "display_query": "退税" },
   { "query": "豆瓣发致歉信", "display_query": "豆瓣发致歉信" },
