@@ -15,25 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 04 2026 23:38:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 05 2026 00:41:07 GMT+0800 (China Standard Time) -->
 
-1. [正月十五闹元宵](https://www.zhihu.com/search?q=正月十五闹元宵)
 1. [a股](https://www.zhihu.com/search?q=a股)
 1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=湖人险胜鹈鹕)
 1. [凤凰传奇演唱会](https://www.zhihu.com/search?q=凤凰传奇演唱会)
-1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=阿森纳vs切尔西)
 1. [森林狼vs掘金](https://www.zhihu.com/search?q=森林狼vs掘金)
-1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
-1. [掘金vs爵士](https://www.zhihu.com/search?q=掘金vs爵士)
 1. [灰熊vs森林狼](https://www.zhihu.com/search?q=灰熊vs森林狼)
 1. [央视元宵晚会节目单](https://www.zhihu.com/search?q=央视元宵晚会节目单)
-1. [100亿人形机器人砸钱上桌](https://www.zhihu.com/search?q=100亿人形机器人砸钱上桌)
 1. [央视元宵晚会](https://www.zhihu.com/search?q=央视元宵晚会)
-1. [王楚钦vs林昀儒](https://www.zhihu.com/search?q=王楚钦vs林昀儒)
-1. [元宵节](https://www.zhihu.com/search?q=元宵节)
-1. [十五吃汤圆人人皆团圆](https://www.zhihu.com/search?q=十五吃汤圆人人皆团圆)
+1. [台湾台南市发生4.5级地震](https://www.zhihu.com/search?q=台湾台南市发生4.5级地震)
+1. [现货黄金大跌](https://www.zhihu.com/search?q=现货黄金大跌)
 1. [沪指再度刷新阶段高点](https://www.zhihu.com/search?q=沪指再度刷新阶段高点)
-1. [休斯顿火箭](https://www.zhihu.com/search?q=休斯顿火箭)
 
 <!-- END -->
 
