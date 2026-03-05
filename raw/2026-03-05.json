@@ -1,5 +1,6 @@
 [
-  { "query": "年轻人抑郁症的样子", "display_query": "年轻人抑郁症的样子" },
+  { "query": "a股", "display_query": "a股" },
+  { "query": "湖人险胜鹈鹕", "display_query": "湖人险胜鹈鹕" },
   { "query": "凤凰传奇演唱会", "display_query": "凤凰传奇演唱会" },
   { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
   { "query": "灰熊vs森林狼", "display_query": "灰熊vs森林狼" },
@@ -11,10 +12,9 @@
   },
   { "query": "现货黄金大跌", "display_query": "现货黄金大跌" },
   { "query": "沪指再度刷新阶段高点", "display_query": "沪指再度刷新阶段高点" },
+  { "query": "年轻人抑郁症的样子", "display_query": "年轻人抑郁症的样子" },
   {
     "query": "沪深两市成交额突破2万亿元",
     "display_query": "沪深两市成交额突破2万亿元"
-  },
-  { "query": "a股", "display_query": "a股" },
-  { "query": "湖人险胜鹈鹕", "display_query": "湖人险胜鹈鹕" }
+  }
 ]
