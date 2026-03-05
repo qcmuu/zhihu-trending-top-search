@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 06 2026 04:35:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 06 2026 05:32:36 GMT+0800 (China Standard Time) -->
 
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=哪些迹象表明公司不行了)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
