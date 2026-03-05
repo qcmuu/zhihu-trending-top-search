@@ -1,15 +1,26 @@
 [
+  { "query": "世界肥胖日", "display_query": "世界肥胖日" },
+  {
+    "query": "乐队打架什么乐器伤害最高",
+    "display_query": "乐队打架什么乐器伤害最高"
+  },
+  {
+    "query": "哪些迹象表明公司不行了",
+    "display_query": "哪些迹象表明公司不行了"
+  },
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
+  { "query": "湖人险胜鹈鹕", "display_query": "湖人险胜鹈鹕" },
+  { "query": "凤凰传奇演唱会", "display_query": "凤凰传奇演唱会" },
+  { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
+  { "query": "灰熊vs森林狼", "display_query": "灰熊vs森林狼" },
+  { "query": "快船vs步行者", "display_query": "快船vs步行者" },
+  { "query": "央视元宵晚会节目单", "display_query": "央视元宵晚会节目单" },
   {
     "query": "10多艘油轮在海峡被炮弹击中",
     "display_query": "10多艘油轮在海峡被炮弹击中"
   },
   { "query": "解读罗德里戈赛季报销", "display_query": "解读罗德里戈赛季报销" },
   { "query": "a股", "display_query": "a股" },
-  { "query": "湖人险胜鹈鹕", "display_query": "湖人险胜鹈鹕" },
-  { "query": "凤凰传奇演唱会", "display_query": "凤凰传奇演唱会" },
-  { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
-  { "query": "灰熊vs森林狼", "display_query": "灰熊vs森林狼" },
-  { "query": "央视元宵晚会节目单", "display_query": "央视元宵晚会节目单" },
   {
     "query": "媒体称美军武器库存「正在迅速消耗」",
     "display_query": "媒体称美军武器库存「正在迅速消耗」"
