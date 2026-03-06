@@ -1,12 +1,11 @@
 [
-  { "query": "为什么会有超短学期", "display_query": "为什么会有超短学期" },
-  { "query": "江山壮阔万象新", "display_query": "江山壮阔万象新" },
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   {
     "query": "哪些迹象表明公司不行了",
     "display_query": "哪些迹象表明公司不行了"
   },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
+  { "query": "湖人险胜鹈鹕", "display_query": "湖人险胜鹈鹕" },
   { "query": "快船vs步行者", "display_query": "快船vs步行者" },
   { "query": "今日惊蛰", "display_query": "今日惊蛰" },
   {
@@ -16,17 +15,18 @@
   { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
+    "query": "美军为什么打不赢治安战",
+    "display_query": "美军为什么打不赢治安战"
+  },
+  { "query": "为什么会有超短学期", "display_query": "为什么会有超短学期" },
+  { "query": "江山壮阔万象新", "display_query": "江山壮阔万象新" },
+  {
     "query": "平庸的父母该如何教育孩子",
     "display_query": "平庸的父母该如何教育孩子"
   },
   {
     "query": "中国石油A股市值重回第一",
     "display_query": "中国石油A股市值重回第一"
-  },
-  { "query": "湖人险胜鹈鹕", "display_query": "湖人险胜鹈鹕" },
-  {
-    "query": "美军为什么打不赢治安战",
-    "display_query": "美军为什么打不赢治安战"
   },
   { "query": "方穆扬费霓一起上大学", "display_query": "方穆扬费霓一起上大学" },
   {
