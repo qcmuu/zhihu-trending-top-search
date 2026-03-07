@@ -1,16 +1,9 @@
 [
-  {
-    "query": "蒋丽莎说上飞机后也不敢报平安",
-    "display_query": "蒋丽莎说上飞机后也不敢报平安"
-  },
+  { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   { "query": "今日惊蛰", "display_query": "今日惊蛰" },
   { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
   { "query": "周杰伦 田馥甄", "display_query": "周杰伦 田馥甄" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
-  {
-    "query": "「100%椰子水」检出加糖加水",
-    "display_query": "「100%椰子水」检出加糖加水"
-  },
   {
     "query": "中国造全球首款机器人手机亮相",
     "display_query": "中国造全球首款机器人手机亮相"
@@ -23,6 +16,15 @@
   {
     "query": "娘家40多人组团看望已出嫁女儿",
     "display_query": "娘家40多人组团看望已出嫁女儿"
+  },
+  { "query": "原油价格会涨到哪", "display_query": "原油价格会涨到哪" },
+  {
+    "query": "蒋丽莎说上飞机后也不敢报平安",
+    "display_query": "蒋丽莎说上飞机后也不敢报平安"
+  },
+  {
+    "query": "「100%椰子水」检出加糖加水",
+    "display_query": "「100%椰子水」检出加糖加水"
   },
   {
     "query": "媒体称西贝大面积延迟发工资",
@@ -46,7 +48,6 @@
     "query": "浙江社区食堂智能炒菜机器人",
     "display_query": "浙江社区食堂智能炒菜机器人"
   },
-  { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   {
     "query": "网传迪丽热巴因转机迪拜滞留机场",
     "display_query": "网传迪丽热巴因转机迪拜滞留机场"
