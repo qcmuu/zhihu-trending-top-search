@@ -1,9 +1,12 @@
 [
-  { "query": "苹果春季新品上手评测", "display_query": "苹果春季新品上手评测" },
+  {
+    "query": "媒体称西贝大面积延迟发工资",
+    "display_query": "媒体称西贝大面积延迟发工资"
+  },
   { "query": "今日惊蛰", "display_query": "今日惊蛰" },
   { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
-  { "query": "电影《夜王》热映", "display_query": "电影《夜王》热映" },
   { "query": "周杰伦 田馥甄", "display_query": "周杰伦 田馥甄" },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "「100%椰子水」检出加糖加水",
     "display_query": "「100%椰子水」检出加糖加水"
@@ -12,6 +15,17 @@
     "query": "中国造全球首款机器人手机亮相",
     "display_query": "中国造全球首款机器人手机亮相"
   },
+  { "query": "玫瑰丛生", "display_query": "玫瑰丛生" },
+  {
+    "query": "紫薯精带火刘文祥麻辣烫",
+    "display_query": "紫薯精带火刘文祥麻辣烫"
+  },
+  {
+    "query": "娘家40多人组团看望已出嫁女儿",
+    "display_query": "娘家40多人组团看望已出嫁女儿"
+  },
+  { "query": "苹果春季新品上手评测", "display_query": "苹果春季新品上手评测" },
+  { "query": "电影《夜王》热映", "display_query": "电影《夜王》热映" },
   {
     "query": "山东一幼儿园硬核体能课走红",
     "display_query": "山东一幼儿园硬核体能课走红"
@@ -20,7 +34,6 @@
     "query": "《太平年》真正题眼是什么",
     "display_query": "《太平年》真正题眼是什么"
   },
-  { "query": "玫瑰丛生", "display_query": "玫瑰丛生" },
   {
     "query": "长期护理保险制度覆盖3亿人",
     "display_query": "长期护理保险制度覆盖3亿人"
@@ -29,7 +42,6 @@
     "query": "浙江社区食堂智能炒菜机器人",
     "display_query": "浙江社区食堂智能炒菜机器人"
   },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   {
     "query": "网传迪丽热巴因转机迪拜滞留机场",
