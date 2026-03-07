@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 07 2026 16:28:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 07 2026 17:26:39 GMT+0800 (China Standard Time) -->
 
-1. [媒体称西贝大面积延迟发工资](https://www.zhihu.com/search?q=媒体称西贝大面积延迟发工资)
+1. [蒋丽莎说上飞机后也不敢报平安](https://www.zhihu.com/search?q=蒋丽莎说上飞机后也不敢报平安)
 1. [今日惊蛰](https://www.zhihu.com/search?q=今日惊蛰)
 1. [勇士vs火箭](https://www.zhihu.com/search?q=勇士vs火箭)
 1. [周杰伦 田馥甄](https://www.zhihu.com/search?q=周杰伦 田馥甄)
@@ -27,6 +27,7 @@
 1. [玫瑰丛生](https://www.zhihu.com/search?q=玫瑰丛生)
 1. [紫薯精带火刘文祥麻辣烫](https://www.zhihu.com/search?q=紫薯精带火刘文祥麻辣烫)
 1. [娘家40多人组团看望已出嫁女儿](https://www.zhihu.com/search?q=娘家40多人组团看望已出嫁女儿)
+1. [媒体称西贝大面积延迟发工资](https://www.zhihu.com/search?q=媒体称西贝大面积延迟发工资)
 1. [苹果春季新品上手评测](https://www.zhihu.com/search?q=苹果春季新品上手评测)
 1. [电影《夜王》热映](https://www.zhihu.com/search?q=电影《夜王》热映)
 1. [山东一幼儿园硬核体能课走红](https://www.zhihu.com/search?q=山东一幼儿园硬核体能课走红)

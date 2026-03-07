@@ -1,7 +1,7 @@
 [
   {
-    "query": "媒体称西贝大面积延迟发工资",
-    "display_query": "媒体称西贝大面积延迟发工资"
+    "query": "蒋丽莎说上飞机后也不敢报平安",
+    "display_query": "蒋丽莎说上飞机后也不敢报平安"
   },
   { "query": "今日惊蛰", "display_query": "今日惊蛰" },
   { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
@@ -23,6 +23,10 @@
   {
     "query": "娘家40多人组团看望已出嫁女儿",
     "display_query": "娘家40多人组团看望已出嫁女儿"
+  },
+  {
+    "query": "媒体称西贝大面积延迟发工资",
+    "display_query": "媒体称西贝大面积延迟发工资"
   },
   { "query": "苹果春季新品上手评测", "display_query": "苹果春季新品上手评测" },
   { "query": "电影《夜王》热映", "display_query": "电影《夜王》热映" },
