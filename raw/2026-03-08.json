@@ -1,4 +1,6 @@
 [
+  { "query": "三八妇女节", "display_query": "三八妇女节" },
+  { "query": "妇女节", "display_query": "妇女节" },
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   { "query": "今日惊蛰", "display_query": "今日惊蛰" },
   { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
