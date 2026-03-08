@@ -4,7 +4,6 @@
   { "query": "电影《夜王》热映", "display_query": "电影《夜王》热映" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "新能源车产超1600万", "display_query": "新能源车产超1600万" },
-  { "query": "2026GDP增长目标", "display_query": "2026GDP增长目标" },
   {
     "query": "加强初婚初育家庭住房保障",
     "display_query": "加强初婚初育家庭住房保障"
@@ -14,5 +13,10 @@
   {
     "query": "善待自己不只是吃好穿好",
     "display_query": "善待自己不只是吃好穿好"
-  }
+  },
+  {
+    "query": "张凯丽建议全国统一婚假",
+    "display_query": "张凯丽建议全国统一婚假"
+  },
+  { "query": "2026GDP增长目标", "display_query": "2026GDP增长目标" }
 ]
