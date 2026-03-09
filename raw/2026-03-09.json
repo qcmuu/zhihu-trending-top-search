@@ -1,18 +1,7 @@
 [
-  {
-    "query": "我国将制定反跨境腐败法",
-    "display_query": "我国将制定反跨境腐败法"
-  },
+  { "query": "三八妇女节", "display_query": "三八妇女节" },
   { "query": "妇女节", "display_query": "妇女节" },
-  { "query": "多地宣布停车费下调", "display_query": "多地宣布停车费下调" },
-  {
-    "query": "缅北四大家族16主犯判死立执",
-    "display_query": "缅北四大家族16主犯判死立执"
-  },
-  {
-    "query": "十五五 你的未来说明书",
-    "display_query": "十五五 你的未来说明书"
-  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "新能源车产超1600万", "display_query": "新能源车产超1600万" },
   { "query": "培育未来新产业", "display_query": "培育未来新产业" },
   { "query": "Macbook Neo发布", "display_query": "Macbook Neo发布" },
@@ -24,8 +13,6 @@
     "query": "张凯丽建议全国统一婚假",
     "display_query": "张凯丽建议全国统一婚假"
   },
-  { "query": "三八妇女节", "display_query": "三八妇女节" },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "比亚迪发布第二代刀片电池及闪充技术",
     "display_query": "比亚迪发布第二代刀片电池及闪充技术"
@@ -33,6 +20,19 @@
   {
     "query": "刘国梁建议加强挫折教育",
     "display_query": "刘国梁建议加强挫折教育"
+  },
+  {
+    "query": "我国将制定反跨境腐败法",
+    "display_query": "我国将制定反跨境腐败法"
+  },
+  { "query": "多地宣布停车费下调", "display_query": "多地宣布停车费下调" },
+  {
+    "query": "缅北四大家族16主犯判死立执",
+    "display_query": "缅北四大家族16主犯判死立执"
+  },
+  {
+    "query": "十五五 你的未来说明书",
+    "display_query": "十五五 你的未来说明书"
   },
   { "query": "电影《夜王》热映", "display_query": "电影《夜王》热映" },
   {
