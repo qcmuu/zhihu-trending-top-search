@@ -15,12 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 09 2026 18:42:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 09 2026 19:33:07 GMT+0800 (China Standard Time) -->
 
 1. [周杰伦新专辑](https://www.zhihu.com/search?q=周杰伦新专辑)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=湖人vs掘金)
 1. [快船vs灰熊](https://www.zhihu.com/search?q=快船vs灰熊)
+1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=乐队打架什么乐器伤害最高)
 1. [BLG战胜JDG](https://www.zhihu.com/search?q=BLG战胜JDG)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [美军为什么打不赢治安战](https://www.zhihu.com/search?q=美军为什么打不赢治安战)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
+1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=为什么年轻人反感老一辈的说教)
+1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
 1. [活塞vs热火](https://www.zhihu.com/search?q=活塞vs热火)
 1. [马刺vs火箭](https://www.zhihu.com/search?q=马刺vs火箭)
 1. [曝魅族手机业务或解散](https://www.zhihu.com/search?q=曝魅族手机业务或解散)
