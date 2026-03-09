@@ -1,7 +1,6 @@
 [
   { "query": "三八妇女节", "display_query": "三八妇女节" },
   { "query": "妇女节", "display_query": "妇女节" },
-  { "query": "电影《夜王》热映", "display_query": "电影《夜王》热映" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "新能源车产超1600万", "display_query": "新能源车产超1600万" },
   { "query": "培育未来新产业", "display_query": "培育未来新产业" },
@@ -18,6 +17,11 @@
     "query": "比亚迪发布第二代刀片电池及闪充技术",
     "display_query": "比亚迪发布第二代刀片电池及闪充技术"
   },
+  {
+    "query": "刘国梁建议加强挫折教育",
+    "display_query": "刘国梁建议加强挫折教育"
+  },
+  { "query": "电影《夜王》热映", "display_query": "电影《夜王》热映" },
   {
     "query": "加强初婚初育家庭住房保障",
     "display_query": "加强初婚初育家庭住房保障"
