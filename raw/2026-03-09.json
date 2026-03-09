@@ -1,6 +1,4 @@
 [
-  { "query": "林俊旸会去哪", "display_query": "林俊旸会去哪" },
-  { "query": "妇女节", "display_query": "妇女节" },
   { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   { "query": "快船vs灰熊", "display_query": "快船vs灰熊" },
@@ -12,8 +10,14 @@
     "query": "王励勤回应樊振东回归国家队",
     "display_query": "王励勤回应樊振东回归国家队"
   },
-  { "query": "三八妇女节", "display_query": "三八妇女节" },
+  {
+    "query": "中国中等收入群体可能超过8亿人",
+    "display_query": "中国中等收入群体可能超过8亿人"
+  },
   { "query": "新能源车产超1600万", "display_query": "新能源车产超1600万" },
+  { "query": "林俊旸会去哪", "display_query": "林俊旸会去哪" },
+  { "query": "妇女节", "display_query": "妇女节" },
+  { "query": "三八妇女节", "display_query": "三八妇女节" },
   { "query": "培育未来新产业", "display_query": "培育未来新产业" },
   { "query": "Macbook Neo发布", "display_query": "Macbook Neo发布" },
   {
