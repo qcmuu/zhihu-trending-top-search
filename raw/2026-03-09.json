@@ -1,7 +1,18 @@
 [
-  { "query": "三八妇女节", "display_query": "三八妇女节" },
+  { "query": "林俊旸会去哪", "display_query": "林俊旸会去哪" },
   { "query": "妇女节", "display_query": "妇女节" },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
+  { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
+  { "query": "快船vs灰熊", "display_query": "快船vs灰熊" },
+  { "query": "BLG战胜JDG", "display_query": "BLG战胜JDG" },
+  { "query": "活塞vs热火", "display_query": "活塞vs热火" },
+  { "query": "马刺vs火箭", "display_query": "马刺vs火箭" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "王励勤回应樊振东回归国家队",
+    "display_query": "王励勤回应樊振东回归国家队"
+  },
+  { "query": "三八妇女节", "display_query": "三八妇女节" },
   { "query": "新能源车产超1600万", "display_query": "新能源车产超1600万" },
   { "query": "培育未来新产业", "display_query": "培育未来新产业" },
   { "query": "Macbook Neo发布", "display_query": "Macbook Neo发布" },
