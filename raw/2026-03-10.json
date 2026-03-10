@@ -1,15 +1,21 @@
 [
   { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
+  { "query": "白日提灯", "display_query": "白日提灯" },
   {
     "query": "孙宇晨花 624 万美元买下一根香蕉",
     "display_query": "孙宇晨花 624 万美元买下一根香蕉"
   },
   { "query": "快船vs灰熊", "display_query": "快船vs灰熊" },
   {
+    "query": "全国秋粮累计收购超3亿吨",
+    "display_query": "全国秋粮累计收购超3亿吨"
+  },
+  {
     "query": "乐队打架什么乐器伤害最高",
     "display_query": "乐队打架什么乐器伤害最高"
   },
+  { "query": "掘金vs雷霆", "display_query": "掘金vs雷霆" },
   { "query": "BLG战胜JDG", "display_query": "BLG战胜JDG" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {

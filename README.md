@@ -15,14 +15,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 10 2026 18:37:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 10 2026 19:31:06 GMT+0800 (China Standard Time) -->
 
 1. [周杰伦新专辑](https://www.zhihu.com/search?q=周杰伦新专辑)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=湖人vs掘金)
+1. [白日提灯](https://www.zhihu.com/search?q=白日提灯)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=孙宇晨花 624
    万美元买下一根香蕉)
 1. [快船vs灰熊](https://www.zhihu.com/search?q=快船vs灰熊)
+1. [全国秋粮累计收购超3亿吨](https://www.zhihu.com/search?q=全国秋粮累计收购超3亿吨)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=乐队打架什么乐器伤害最高)
+1. [掘金vs雷霆](https://www.zhihu.com/search?q=掘金vs雷霆)
 1. [BLG战胜JDG](https://www.zhihu.com/search?q=BLG战胜JDG)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [美军为什么打不赢治安战](https://www.zhihu.com/search?q=美军为什么打不赢治安战)
