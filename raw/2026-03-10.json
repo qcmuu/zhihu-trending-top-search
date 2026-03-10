@@ -1,5 +1,10 @@
 [
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
+  {
+    "query": "孙宇晨花 624 万美元买下一根香蕉",
+    "display_query": "孙宇晨花 624 万美元买下一根香蕉"
+  },
   { "query": "快船vs灰熊", "display_query": "快船vs灰熊" },
   {
     "query": "乐队打架什么乐器伤害最高",
@@ -26,6 +31,5 @@
   {
     "query": "为什么大家都不提中国空间站了",
     "display_query": "为什么大家都不提中国空间站了"
-  },
-  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" }
+  }
 ]
