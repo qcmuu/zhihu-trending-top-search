@@ -1,5 +1,8 @@
 [
-  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
+  {
+    "query": "奔腾的心致敬每一个向上的她",
+    "display_query": "奔腾的心致敬每一个向上的她"
+  },
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   {
     "query": "孙宇晨花 624 万美元买下一根香蕉",
@@ -24,6 +27,7 @@
     "query": "为什么年轻人反感老一辈的说教",
     "display_query": "为什么年轻人反感老一辈的说教"
   },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   {
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
