@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 11 2026 15:41:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 11 2026 16:38:29 GMT+0800 (China Standard Time) -->
 
 1. [白日提灯](https://www.zhihu.com/search?q=白日提灯)
+1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=孙宇晨花 624
    万美元买下一根香蕉)
 1. [全国秋粮累计收购超3亿吨](https://www.zhihu.com/search?q=全国秋粮累计收购超3亿吨)
@@ -26,6 +27,7 @@
 1. [美军为什么打不赢治安战](https://www.zhihu.com/search?q=美军为什么打不赢治安战)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
 1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=为什么年轻人反感老一辈的说教)
+1. [运动真的能改变一个人吗](https://www.zhihu.com/search?q=运动真的能改变一个人吗)
 1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=为什么大家都不提中国空间站了)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
 
