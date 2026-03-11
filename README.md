@@ -15,13 +15,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 11 2026 18:36:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 11 2026 19:31:28 GMT+0800 (China Standard Time) -->
 
 1. [白日提灯](https://www.zhihu.com/search?q=白日提灯)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=孙宇晨花 624
    万美元买下一根香蕉)
+1. [猛龙vs火箭](https://www.zhihu.com/search?q=猛龙vs火箭)
 1. [全国秋粮累计收购超3亿吨](https://www.zhihu.com/search?q=全国秋粮累计收购超3亿吨)
+1. [湖人击败森林狼](https://www.zhihu.com/search?q=湖人击败森林狼)
 1. [掘金vs雷霆](https://www.zhihu.com/search?q=掘金vs雷霆)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [美军为什么打不赢治安战](https://www.zhihu.com/search?q=美军为什么打不赢治安战)
