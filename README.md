@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 12 2026 04:31:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 12 2026 05:31:12 GMT+0800 (China Standard Time) -->
 
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=孙宇晨花 624
