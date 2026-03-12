@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 12 2026 14:53:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 12 2026 15:44:23 GMT+0800 (China Standard Time) -->
 
+1. [苹果最便宜手机来了](https://www.zhihu.com/search?q=苹果最便宜手机来了)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=孙宇晨花 624
    万美元买下一根香蕉)
