@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 12 2026 20:56:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 12 2026 22:02:53 GMT+0800 (China Standard Time) -->
 
-1. [粉丝助推平台限制AI成毅](https://www.zhihu.com/search?q=粉丝助推平台限制AI成毅)
-1. [中药手串是真养生还是纯噱头](https://www.zhihu.com/search?q=中药手串是真养生还是纯噱头)
 1. [皇马vs曼城](https://www.zhihu.com/search?q=皇马vs曼城)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=孙宇晨花 624
@@ -30,6 +28,8 @@
 1. [杨瀚森出战G联赛](https://www.zhihu.com/search?q=杨瀚森出战G联赛)
 1. [陈垣宇vs雨果](https://www.zhihu.com/search?q=陈垣宇vs雨果)
 1. [孙宇晨称删「90前」勿沾老登气息](https://www.zhihu.com/search?q=孙宇晨称删「90前」勿沾老登气息)
+1. [粉丝助推平台限制AI成毅](https://www.zhihu.com/search?q=粉丝助推平台限制AI成毅)
+1. [中药手串是真养生还是纯噱头](https://www.zhihu.com/search?q=中药手串是真养生还是纯噱头)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [曾毓群获宁德时代分红81亿](https://www.zhihu.com/search?q=曾毓群获宁德时代分红81亿)
 1. [一加15T爆料](https://www.zhihu.com/search?q=一加15T爆料)
