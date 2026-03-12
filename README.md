@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 12 2026 17:40:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 12 2026 18:36:39 GMT+0800 (China Standard Time) -->
 
 1. [皇马vs曼城](https://www.zhihu.com/search?q=皇马vs曼城)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
@@ -25,6 +25,7 @@
 1. [全国秋粮累计收购超3亿吨](https://www.zhihu.com/search?q=全国秋粮累计收购超3亿吨)
 1. [湖人击败森林狼](https://www.zhihu.com/search?q=湖人击败森林狼)
 1. [运动真的能改变一个人吗](https://www.zhihu.com/search?q=运动真的能改变一个人吗)
+1. [杨瀚森出战G联赛](https://www.zhihu.com/search?q=杨瀚森出战G联赛)
 1. [陈垣宇vs雨果](https://www.zhihu.com/search?q=陈垣宇vs雨果)
 1. [孙宇晨称删「90前」勿沾老登气息](https://www.zhihu.com/search?q=孙宇晨称删「90前」勿沾老登气息)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
