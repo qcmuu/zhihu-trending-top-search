@@ -1,9 +1,4 @@
 [
-  {
-    "query": "曾毓群获宁德时代分红81亿",
-    "display_query": "曾毓群获宁德时代分红81亿"
-  },
-  { "query": "一加15T爆料", "display_query": "一加15T爆料" },
   { "query": "皇马vs曼城", "display_query": "皇马vs曼城" },
   {
     "query": "沪深两市成交额突破1万亿元",
@@ -24,12 +19,17 @@
     "display_query": "运动真的能改变一个人吗"
   },
   { "query": "陈垣宇vs雨果", "display_query": "陈垣宇vs雨果" },
-  { "query": "苹果最便宜手机来了", "display_query": "苹果最便宜手机来了" },
   {
     "query": "孙宇晨称删「90前」勿沾老登气息",
     "display_query": "孙宇晨称删「90前」勿沾老登气息"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "曾毓群获宁德时代分红81亿",
+    "display_query": "曾毓群获宁德时代分红81亿"
+  },
+  { "query": "一加15T爆料", "display_query": "一加15T爆料" },
+  { "query": "苹果最便宜手机来了", "display_query": "苹果最便宜手机来了" },
   { "query": "巴黎时装周", "display_query": "巴黎时装周" },
   { "query": "Macbook Neo发布", "display_query": "Macbook Neo发布" },
   { "query": "甜茶首次中国行", "display_query": "甜茶首次中国行" },
