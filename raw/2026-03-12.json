@@ -1,5 +1,5 @@
 [
-  { "query": "地方大员密集发声", "display_query": "地方大员密集发声" },
+  { "query": "甜茶首次中国行", "display_query": "甜茶首次中国行" },
   {
     "query": "沪深两市成交额突破1万亿元",
     "display_query": "沪深两市成交额突破1万亿元"
@@ -24,6 +24,7 @@
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "巴黎时装周", "display_query": "巴黎时装周" },
+  { "query": "地方大员密集发声", "display_query": "地方大员密集发声" },
   { "query": "众球星祝贺阿德巴约", "display_query": "众球星祝贺阿德巴约" },
   { "query": "Macbook Neo发布", "display_query": "Macbook Neo发布" }
 ]
