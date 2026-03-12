@@ -1,5 +1,10 @@
 [
-  { "query": "苹果最便宜手机来了", "display_query": "苹果最便宜手机来了" },
+  {
+    "query": "曾毓群获宁德时代分红81亿",
+    "display_query": "曾毓群获宁德时代分红81亿"
+  },
+  { "query": "一加15T爆料", "display_query": "一加15T爆料" },
+  { "query": "皇马vs曼城", "display_query": "皇马vs曼城" },
   {
     "query": "沪深两市成交额突破1万亿元",
     "display_query": "沪深两市成交额突破1万亿元"
@@ -18,6 +23,8 @@
     "query": "运动真的能改变一个人吗",
     "display_query": "运动真的能改变一个人吗"
   },
+  { "query": "陈垣宇vs雨果", "display_query": "陈垣宇vs雨果" },
+  { "query": "苹果最便宜手机来了", "display_query": "苹果最便宜手机来了" },
   {
     "query": "孙宇晨称删「90前」勿沾老登气息",
     "display_query": "孙宇晨称删「90前」勿沾老登气息"

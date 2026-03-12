@@ -15,9 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 12 2026 15:44:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 12 2026 16:39:32 GMT+0800 (China Standard Time) -->
 
-1. [苹果最便宜手机来了](https://www.zhihu.com/search?q=苹果最便宜手机来了)
+1. [曾毓群获宁德时代分红81亿](https://www.zhihu.com/search?q=曾毓群获宁德时代分红81亿)
+1. [一加15T爆料](https://www.zhihu.com/search?q=一加15T爆料)
+1. [皇马vs曼城](https://www.zhihu.com/search?q=皇马vs曼城)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=孙宇晨花 624
    万美元买下一根香蕉)
@@ -25,6 +27,8 @@
 1. [全国秋粮累计收购超3亿吨](https://www.zhihu.com/search?q=全国秋粮累计收购超3亿吨)
 1. [湖人击败森林狼](https://www.zhihu.com/search?q=湖人击败森林狼)
 1. [运动真的能改变一个人吗](https://www.zhihu.com/search?q=运动真的能改变一个人吗)
+1. [陈垣宇vs雨果](https://www.zhihu.com/search?q=陈垣宇vs雨果)
+1. [苹果最便宜手机来了](https://www.zhihu.com/search?q=苹果最便宜手机来了)
 1. [孙宇晨称删「90前」勿沾老登气息](https://www.zhihu.com/search?q=孙宇晨称删「90前」勿沾老登气息)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [巴黎时装周](https://www.zhihu.com/search?q=巴黎时装周)
