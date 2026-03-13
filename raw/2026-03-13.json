@@ -1,4 +1,9 @@
 [
+  { "query": "AI龙虾和我们有啥关系", "display_query": "AI龙虾和我们有啥关系" },
+  {
+    "query": "全国法院执行金额超2万亿",
+    "display_query": "全国法院执行金额超2万亿"
+  },
   { "query": "皇马vs曼城", "display_query": "皇马vs曼城" },
   {
     "query": "沪深两市成交额突破1万亿元",
@@ -7,9 +12,13 @@
   { "query": "湖人击败森林狼", "display_query": "湖人击败森林狼" },
   { "query": "杨瀚森出战G联赛", "display_query": "杨瀚森出战G联赛" },
   { "query": "陈垣宇vs雨果", "display_query": "陈垣宇vs雨果" },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "Macbook Neo发布", "display_query": "Macbook Neo发布" },
   { "query": "苹果春季新品上手评测", "display_query": "苹果春季新品上手评测" },
+  {
+    "query": "中美将举行第6轮经贸磋商",
+    "display_query": "中美将举行第6轮经贸磋商"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "中传一口气砍掉16个本科专业",
     "display_query": "中传一口气砍掉16个本科专业"
