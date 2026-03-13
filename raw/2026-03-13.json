@@ -1,9 +1,4 @@
 [
-  {
-    "query": "美国将建50年来首座新炼油厂",
-    "display_query": "美国将建50年来首座新炼油厂"
-  },
-  { "query": "阿德巴约单场83分", "display_query": "阿德巴约单场83分" },
   { "query": "皇马vs曼城", "display_query": "皇马vs曼城" },
   {
     "query": "为什么现在不创造新的汉字了",
@@ -29,6 +24,11 @@
     "query": "在明白什么道理后你就不再焦虑了",
     "display_query": "在明白什么道理后你就不再焦虑了"
   },
+  {
+    "query": "美国将建50年来首座新炼油厂",
+    "display_query": "美国将建50年来首座新炼油厂"
+  },
+  { "query": "阿德巴约单场83分", "display_query": "阿德巴约单场83分" },
   { "query": "杨瀚森出战G联赛", "display_query": "杨瀚森出战G联赛" },
   { "query": "陈垣宇vs雨果", "display_query": "陈垣宇vs雨果" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
