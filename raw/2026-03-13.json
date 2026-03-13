@@ -1,10 +1,29 @@
 [
   { "query": "皇马vs曼城", "display_query": "皇马vs曼城" },
   {
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
+  },
+  { "query": "王楚钦晋级八强", "display_query": "王楚钦晋级八强" },
+  {
     "query": "沪深两市成交额突破1万亿元",
     "display_query": "沪深两市成交额突破1万亿元"
   },
+  { "query": "独行侠vs灰熊", "display_query": "独行侠vs灰熊" },
   { "query": "湖人击败森林狼", "display_query": "湖人击败森林狼" },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "美国情报系统现在属于什么水平",
+    "display_query": "美国情报系统现在属于什么水平"
+  },
+  {
+    "query": "为什么年轻人反感老一辈的说教",
+    "display_query": "为什么年轻人反感老一辈的说教"
+  },
+  {
+    "query": "在明白什么道理后你就不再焦虑了",
+    "display_query": "在明白什么道理后你就不再焦虑了"
+  },
   { "query": "杨瀚森出战G联赛", "display_query": "杨瀚森出战G联赛" },
   { "query": "陈垣宇vs雨果", "display_query": "陈垣宇vs雨果" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },

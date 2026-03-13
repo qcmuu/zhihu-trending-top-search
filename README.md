@@ -15,11 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 13 2026 17:36:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 13 2026 18:34:36 GMT+0800 (China Standard Time) -->
 
 1. [皇马vs曼城](https://www.zhihu.com/search?q=皇马vs曼城)
+1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
+1. [王楚钦晋级八强](https://www.zhihu.com/search?q=王楚钦晋级八强)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
+1. [独行侠vs灰熊](https://www.zhihu.com/search?q=独行侠vs灰熊)
 1. [湖人击败森林狼](https://www.zhihu.com/search?q=湖人击败森林狼)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
+1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=为什么年轻人反感老一辈的说教)
+1. [在明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=在明白什么道理后你就不再焦虑了)
 1. [杨瀚森出战G联赛](https://www.zhihu.com/search?q=杨瀚森出战G联赛)
 1. [陈垣宇vs雨果](https://www.zhihu.com/search?q=陈垣宇vs雨果)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
