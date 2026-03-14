@@ -1,9 +1,8 @@
 [
   {
-    "query": "为什么现在不创造新的汉字了",
-    "display_query": "为什么现在不创造新的汉字了"
+    "query": "卡普空杯开赛第二天精彩对决",
+    "display_query": "卡普空杯开赛第二天精彩对决"
   },
-  { "query": "王楚钦晋级八强", "display_query": "王楚钦晋级八强" },
   { "query": "独行侠vs灰熊", "display_query": "独行侠vs灰熊" },
   { "query": "湖人击败森林狼", "display_query": "湖人击败森林狼" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
@@ -25,12 +24,17 @@
   },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
   {
-    "query": "美福特号航母洗衣房起火",
-    "display_query": "美福特号航母洗衣房起火"
-  },
-  {
     "query": "为什么大家都不提中国空间站了",
     "display_query": "为什么大家都不提中国空间站了"
+  },
+  {
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
+  },
+  { "query": "王楚钦晋级八强", "display_query": "王楚钦晋级八强" },
+  {
+    "query": "美福特号航母洗衣房起火",
+    "display_query": "美福特号航母洗衣房起火"
   },
   {
     "query": "为什么现在的孩子会沉迷手机",
