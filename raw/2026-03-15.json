@@ -1,12 +1,9 @@
 [
   {
-    "query": "大模型的token究竟是什么",
-    "display_query": "大模型的token究竟是什么"
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
   },
-  {
-    "query": "美军加油机在伊拉克坠毁",
-    "display_query": "美军加油机在伊拉克坠毁"
-  },
+  { "query": "王楚钦晋级八强", "display_query": "王楚钦晋级八强" },
   { "query": "独行侠vs灰熊", "display_query": "独行侠vs灰熊" },
   { "query": "湖人击败森林狼", "display_query": "湖人击败森林狼" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
@@ -28,8 +25,11 @@
   },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
   {
-    "query": "为什么现在不创造新的汉字了",
-    "display_query": "为什么现在不创造新的汉字了"
+    "query": "大模型的token究竟是什么",
+    "display_query": "大模型的token究竟是什么"
   },
-  { "query": "王楚钦晋级八强", "display_query": "王楚钦晋级八强" }
+  {
+    "query": "美军加油机在伊拉克坠毁",
+    "display_query": "美军加油机在伊拉克坠毁"
+  }
 ]
