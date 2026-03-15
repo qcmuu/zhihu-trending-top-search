@@ -1,5 +1,8 @@
 [
-  { "query": "嵌入式空调", "display_query": "嵌入式空调" },
+  {
+    "query": "你吃过哪些非常好吃的甜品",
+    "display_query": "你吃过哪些非常好吃的甜品"
+  },
   { "query": "独行侠vs灰熊", "display_query": "独行侠vs灰熊" },
   { "query": "湖人击败森林狼", "display_query": "湖人击败森林狼" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
@@ -24,6 +27,7 @@
     "query": "为什么大家都不提中国空间站了",
     "display_query": "为什么大家都不提中国空间站了"
   },
+  { "query": "嵌入式空调", "display_query": "嵌入式空调" },
   {
     "query": "为什么现在不创造新的汉字了",
     "display_query": "为什么现在不创造新的汉字了"
