@@ -1,8 +1,6 @@
 [
-  {
-    "query": "油价四连涨油车车主羡慕电车",
-    "display_query": "油价四连涨油车车主羡慕电车"
-  },
+  { "query": "奥斯卡红毯", "display_query": "奥斯卡红毯" },
+  { "query": "现在干什么能挣钱", "display_query": "现在干什么能挣钱" },
   { "query": "315晚会曝光名单", "display_query": "315晚会曝光名单" },
   { "query": "钓鱼佬最接受不了什么", "display_query": "钓鱼佬最接受不了什么" },
   { "query": "现货黄金跌破5000美元", "display_query": "现货黄金跌破5000美元" },
@@ -14,6 +12,10 @@
   { "query": "AWE 2026", "display_query": "AWE 2026" },
   { "query": "AWE 家的参考系", "display_query": "AWE 家的参考系" },
   { "query": "AWE 是啥？", "display_query": "AWE 是啥？" },
+  {
+    "query": "油价四连涨油车车主羡慕电车",
+    "display_query": "油价四连涨油车车主羡慕电车"
+  },
   { "query": "AWE 逛展看什么？", "display_query": "AWE 逛展看什么？" },
   {
     "query": "专家建议工作日缩至 4 天",
