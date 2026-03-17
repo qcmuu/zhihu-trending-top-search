@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 17 2026 19:41:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 17 2026 21:08:10 GMT+0800 (China Standard Time) -->
 
 1. [奥斯卡红毯](https://www.zhihu.com/search?q=奥斯卡红毯)
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
