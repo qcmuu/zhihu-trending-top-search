@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 18 2026 00:03:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 18 2026 01:56:13 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [胖东来](https://www.zhihu.com/search?q=胖东来)
@@ -25,6 +25,7 @@
 1. [315晚会曝光名单](https://www.zhihu.com/search?q=315晚会曝光名单)
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=钓鱼佬最接受不了什么)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [十五五 你的未来说明书](https://www.zhihu.com/search?q=十五五 你的未来说明书)
 1. [AWE 2026](https://www.zhihu.com/search?q=AWE 2026)
 1. [AWE 家的参考系](https://www.zhihu.com/search?q=AWE 家的参考系)
 
