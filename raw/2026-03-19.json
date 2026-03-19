@@ -1,9 +1,6 @@
 [
-  {
-    "query": "没网的八小时他坦白了一切",
-    "display_query": "没网的八小时他坦白了一切"
-  },
-  { "query": "机器人能翻跟头表演", "display_query": "机器人能翻跟头表演" },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "迪丽热巴白日提灯", "display_query": "迪丽热巴白日提灯" },
   { "query": "太阳vs森林狼", "display_query": "太阳vs森林狼" },
   { "query": "现在干什么能挣钱", "display_query": "现在干什么能挣钱" },
   { "query": "二月二吃什么", "display_query": "二月二吃什么" },
@@ -15,6 +12,9 @@
     "query": "如何能在一天内学多点东西",
     "display_query": "如何能在一天内学多点东西"
   },
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
-  { "query": "迪丽热巴白日提灯", "display_query": "迪丽热巴白日提灯" }
+  {
+    "query": "没网的八小时他坦白了一切",
+    "display_query": "没网的八小时他坦白了一切"
+  },
+  { "query": "机器人能翻跟头表演", "display_query": "机器人能翻跟头表演" }
 ]
