@@ -1,6 +1,9 @@
 [
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
-  { "query": "迪丽热巴白日提灯", "display_query": "迪丽热巴白日提灯" },
+  {
+    "query": "健身房倒闭教练自费上完877节课",
+    "display_query": "健身房倒闭教练自费上完877节课"
+  },
+  { "query": "黄金怎么不涨反跌", "display_query": "黄金怎么不涨反跌" },
   { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
   { "query": "太阳vs森林狼", "display_query": "太阳vs森林狼" },
   { "query": "现在干什么能挣钱", "display_query": "现在干什么能挣钱" },
@@ -9,6 +12,8 @@
   { "query": "春分吃什么", "display_query": "春分吃什么" },
   { "query": "田栩宁 若若", "display_query": "田栩宁 若若" },
   { "query": "blg对战g2", "display_query": "blg对战g2" },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "迪丽热巴白日提灯", "display_query": "迪丽热巴白日提灯" },
   {
     "query": "官方回应今年会超级热吗",
     "display_query": "官方回应今年会超级热吗"
