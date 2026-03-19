@@ -1,0 +1,21 @@
+[
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
+  {
+    "query": "美联储宣布维持利率不变",
+    "display_query": "美联储宣布维持利率不变"
+  },
+  { "query": "巴萨晋级欧冠八强", "display_query": "巴萨晋级欧冠八强" },
+  { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
+  {
+    "query": "沪深两市成交额突破1万亿元",
+    "display_query": "沪深两市成交额突破1万亿元"
+  },
+  { "query": "2月70城房价出炉", "display_query": "2月70城房价出炉" },
+  { "query": "春分吃什么", "display_query": "春分吃什么" },
+  { "query": "blg对战g2", "display_query": "blg对战g2" },
+  {
+    "query": "美股收盘：三大指数集体下跌",
+    "display_query": "美股收盘：三大指数集体下跌"
+  }
+]
