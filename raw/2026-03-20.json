@@ -1,9 +1,6 @@
 [
-  { "query": "战锤中有没有中国文化", "display_query": "战锤中有没有中国文化" },
-  {
-    "query": "吉利汽车2025年度营收3452亿元",
-    "display_query": "吉利汽车2025年度营收3452亿元"
-  },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
   {
     "query": "美联储宣布维持利率不变",
     "display_query": "美联储宣布维持利率不变"
@@ -16,12 +13,15 @@
   },
   { "query": "2月70城房价出炉", "display_query": "2月70城房价出炉" },
   { "query": "春分吃什么", "display_query": "春分吃什么" },
-  { "query": "NASA回应美国白昼流星", "display_query": "NASA回应美国白昼流星" },
+  { "query": "blg对战g2", "display_query": "blg对战g2" },
   {
     "query": "美股收盘：三大指数集体下跌",
     "display_query": "美股收盘：三大指数集体下跌"
   },
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
-  { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
-  { "query": "blg对战g2", "display_query": "blg对战g2" }
+  { "query": "战锤中有没有中国文化", "display_query": "战锤中有没有中国文化" },
+  {
+    "query": "吉利汽车2025年度营收3452亿元",
+    "display_query": "吉利汽车2025年度营收3452亿元"
+  },
+  { "query": "NASA回应美国白昼流星", "display_query": "NASA回应美国白昼流星" }
 ]
