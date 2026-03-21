@@ -1,8 +1,6 @@
 [
-  {
-    "query": "出版社社长痛斥少儿出版乱象",
-    "display_query": "出版社社长痛斥少儿出版乱象"
-  },
+  { "query": "今日春分", "display_query": "今日春分" },
+  { "query": "二月二龙抬头", "display_query": "二月二龙抬头" },
   { "query": "肖战宝诗龙", "display_query": "肖战宝诗龙" },
   { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
@@ -20,9 +18,11 @@
     "query": "你见过哪些不动声色的善良",
     "display_query": "你见过哪些不动声色的善良"
   },
+  {
+    "query": "出版社社长痛斥少儿出版乱象",
+    "display_query": "出版社社长痛斥少儿出版乱象"
+  },
   { "query": "个税年度汇算", "display_query": "个税年度汇算" },
-  { "query": "今日春分", "display_query": "今日春分" },
-  { "query": "二月二龙抬头", "display_query": "二月二龙抬头" },
   {
     "query": "给油菜花打药致蜜蜂死亡蜂农发声",
     "display_query": "给油菜花打药致蜜蜂死亡蜂农发声"
