@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 23 2026 01:23:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 23 2026 02:35:13 GMT+0800 (China Standard Time) -->
 
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AWE 2026](https://www.zhihu.com/search?q=AWE 2026)
