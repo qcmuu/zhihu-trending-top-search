@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 23 2026 13:01:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 23 2026 15:07:28 GMT+0800 (China Standard Time) -->
 
 1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=为什么地球上不存在巨兽)
 1. [BLG夺冠](https://www.zhihu.com/search?q=BLG夺冠)
