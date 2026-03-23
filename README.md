@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 23 2026 23:58:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 24 2026 00:59:37 GMT+0800 (China Standard Time) -->
 
-1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
+1. [警方辟谣梅姨在广州三元里落网](https://www.zhihu.com/search?q=警方辟谣梅姨在广州三元里落网)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=薛之谦演唱会)
 1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=为什么地球上不存在巨兽)
 1. [bin](https://www.zhihu.com/search?q=bin)
@@ -27,22 +27,6 @@
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=乐队打架什么乐器伤害最高)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
 1. [美军为什么打不赢治安战](https://www.zhihu.com/search?q=美军为什么打不赢治安战)
-1. [小伙租房垃圾堆屋里睡2年](https://www.zhihu.com/search?q=小伙租房垃圾堆屋里睡2年)
-1. [东航MU5128因旅客手机冒烟起火](https://www.zhihu.com/search?q=东航MU5128因旅客手机冒烟起火)
-1. [猫咪为啥会陪人睡一晚上呢](https://www.zhihu.com/search?q=猫咪为啥会陪人睡一晚上呢)
-1. [AWE 2026](https://www.zhihu.com/search?q=AWE 2026)
-1. [AWE 家的参考系](https://www.zhihu.com/search?q=AWE 家的参考系)
-1. [AWE 是啥？](https://www.zhihu.com/search?q=AWE 是啥？)
-1. [AWE 逛展看什么？](https://www.zhihu.com/search?q=AWE 逛展看什么？)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [逛 AWE，问什么显得我很懂](https://www.zhihu.com/search?q=逛
-   AWE，问什么显得我很懂)
-1. [AWE，智能生活的 next level？](https://www.zhihu.com/search?q=AWE，智能生活的
-   next level？)
-1. [杨旭文空降 AWE 知乎展台](https://www.zhihu.com/search?q=杨旭文空降 AWE
-   知乎展台)
-1. [不探案，只探展！杨旭文出任一日店长！](https://www.zhihu.com/search?q=不探案，只探展！杨旭文出任一日店长！)
-1. [AWE 捉黑话](https://www.zhihu.com/search?q=AWE 捉黑话)
 
 <!-- END -->
 
