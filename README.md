@@ -15,10 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 23 2026 15:07:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 23 2026 16:53:21 GMT+0800 (China Standard Time) -->
 
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
+1. [薛之谦演唱会](https://www.zhihu.com/search?q=薛之谦演唱会)
 1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=为什么地球上不存在巨兽)
 1. [BLG夺冠](https://www.zhihu.com/search?q=BLG夺冠)
+1. [巴萨vs巴列卡诺](https://www.zhihu.com/search?q=巴萨vs巴列卡诺)
 1. [猫咪为啥会陪人睡一晚上呢](https://www.zhihu.com/search?q=猫咪为啥会陪人睡一晚上呢)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AWE 2026](https://www.zhihu.com/search?q=AWE 2026)
