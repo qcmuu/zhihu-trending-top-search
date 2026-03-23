@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 23 2026 19:41:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 23 2026 21:03:56 GMT+0800 (China Standard Time) -->
 
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=薛之谦演唱会)
