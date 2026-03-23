@@ -1,5 +1,30 @@
 [
   {
+    "query": "美联储宣布维持利率不变",
+    "display_query": "美联储宣布维持利率不变"
+  },
+  { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
+  {
+    "query": "为什么地球上不存在巨兽",
+    "display_query": "为什么地球上不存在巨兽"
+  },
+  { "query": "bin", "display_query": "bin" },
+  { "query": "BLG夺冠", "display_query": "BLG夺冠" },
+  { "query": "热火vs火箭", "display_query": "热火vs火箭" },
+  { "query": "巴萨vs巴列卡诺", "display_query": "巴萨vs巴列卡诺" },
+  {
+    "query": "乐队打架什么乐器伤害最高",
+    "display_query": "乐队打架什么乐器伤害最高"
+  },
+  {
+    "query": "人到中年你突然领悟了什么",
+    "display_query": "人到中年你突然领悟了什么"
+  },
+  {
+    "query": "美军为什么打不赢治安战",
+    "display_query": "美军为什么打不赢治安战"
+  },
+  {
     "query": "小伙租房垃圾堆屋里睡2年",
     "display_query": "小伙租房垃圾堆屋里睡2年"
   },
@@ -8,12 +33,6 @@
     "display_query": "东航MU5128因旅客手机冒烟起火"
   },
   {
-    "query": "为什么地球上不存在巨兽",
-    "display_query": "为什么地球上不存在巨兽"
-  },
-  { "query": "BLG夺冠", "display_query": "BLG夺冠" },
-  { "query": "巴萨vs巴列卡诺", "display_query": "巴萨vs巴列卡诺" },
-  {
     "query": "猫咪为啥会陪人睡一晚上呢",
     "display_query": "猫咪为啥会陪人睡一晚上呢"
   },
@@ -21,11 +40,6 @@
   { "query": "AWE 家的参考系", "display_query": "AWE 家的参考系" },
   { "query": "AWE 是啥？", "display_query": "AWE 是啥？" },
   { "query": "AWE 逛展看什么？", "display_query": "AWE 逛展看什么？" },
-  {
-    "query": "美联储宣布维持利率不变",
-    "display_query": "美联储宣布维持利率不变"
-  },
-  { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "逛 AWE，问什么显得我很懂",
