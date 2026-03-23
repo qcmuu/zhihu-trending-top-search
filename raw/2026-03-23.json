@@ -1,9 +1,12 @@
 [
   {
-    "query": "美联储宣布维持利率不变",
-    "display_query": "美联储宣布维持利率不变"
+    "query": "小伙租房垃圾堆屋里睡2年",
+    "display_query": "小伙租房垃圾堆屋里睡2年"
   },
-  { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
+  {
+    "query": "东航MU5128因旅客手机冒烟起火",
+    "display_query": "东航MU5128因旅客手机冒烟起火"
+  },
   {
     "query": "为什么地球上不存在巨兽",
     "display_query": "为什么地球上不存在巨兽"
@@ -14,11 +17,16 @@
     "query": "猫咪为啥会陪人睡一晚上呢",
     "display_query": "猫咪为啥会陪人睡一晚上呢"
   },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "AWE 2026", "display_query": "AWE 2026" },
   { "query": "AWE 家的参考系", "display_query": "AWE 家的参考系" },
   { "query": "AWE 是啥？", "display_query": "AWE 是啥？" },
   { "query": "AWE 逛展看什么？", "display_query": "AWE 逛展看什么？" },
+  {
+    "query": "美联储宣布维持利率不变",
+    "display_query": "美联储宣布维持利率不变"
+  },
+  { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "逛 AWE，问什么显得我很懂",
     "display_query": "逛 AWE，问什么显得我很懂"
