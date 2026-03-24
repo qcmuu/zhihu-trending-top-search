@@ -1,4 +1,7 @@
 [
+  { "query": "周杰伦新歌", "display_query": "周杰伦新歌" },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   {
     "query": "美联储宣布维持利率不变",
     "display_query": "美联储宣布维持利率不变"
@@ -11,6 +14,7 @@
   { "query": "bin", "display_query": "bin" },
   { "query": "BLG夺冠", "display_query": "BLG夺冠" },
   { "query": "热火vs火箭", "display_query": "热火vs火箭" },
+  { "query": "勇士vs独行侠", "display_query": "勇士vs独行侠" },
   { "query": "巴萨vs巴列卡诺", "display_query": "巴萨vs巴列卡诺" },
   {
     "query": "乐队打架什么乐器伤害最高",
