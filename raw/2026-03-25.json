@@ -1,12 +1,7 @@
 [
-  {
-    "query": "西沙群岛是中国的固有领土",
-    "display_query": "西沙群岛是中国的固有领土"
-  },
-  {
-    "query": "对于维持心理健康有什么极简建议",
-    "display_query": "对于维持心理健康有什么极简建议"
-  },
+  { "query": "心源性猝死", "display_query": "心源性猝死" },
+  { "query": "周杰伦新歌", "display_query": "周杰伦新歌" },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   {
     "query": "美联储宣布维持利率不变",
@@ -18,7 +13,16 @@
     "query": "乐队打架什么乐器伤害最高",
     "display_query": "乐队打架什么乐器伤害最高"
   },
+  { "query": "什么是心源性猝死", "display_query": "什么是心源性猝死" },
   { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
+  {
+    "query": "西沙群岛是中国的固有领土",
+    "display_query": "西沙群岛是中国的固有领土"
+  },
+  {
+    "query": "对于维持心理健康有什么极简建议",
+    "display_query": "对于维持心理健康有什么极简建议"
+  },
   {
     "query": "怎样才能叫做真正会科研的人",
     "display_query": "怎样才能叫做真正会科研的人"
@@ -27,8 +31,6 @@
     "query": "人到中年你突然领悟了什么",
     "display_query": "人到中年你突然领悟了什么"
   },
-  { "query": "周杰伦新歌", "display_query": "周杰伦新歌" },
-  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   { "query": "国际油价全线大涨", "display_query": "国际油价全线大涨" },
   { "query": "黄金大跌原因何在", "display_query": "黄金大跌原因何在" }
 ]
