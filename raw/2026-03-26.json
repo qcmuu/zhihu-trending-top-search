@@ -1,6 +1,9 @@
 [
-  { "query": "心源性猝死", "display_query": "心源性猝死" },
-  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
+  {
+    "query": "湖南姐弟遭继母生父虐待细节曝光",
+    "display_query": "湖南姐弟遭继母生父虐待细节曝光"
+  },
+  { "query": "大冰直播缅怀张雪峰", "display_query": "大冰直播缅怀张雪峰" },
   { "query": "你在低谷期学会了什么", "display_query": "你在低谷期学会了什么" },
   { "query": "什么是心源性猝死", "display_query": "什么是心源性猝死" },
   { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
@@ -18,6 +21,8 @@
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
   },
+  { "query": "心源性猝死", "display_query": "心源性猝死" },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   {
     "query": "为什么大家都不提中国空间站了",
     "display_query": "为什么大家都不提中国空间站了"
