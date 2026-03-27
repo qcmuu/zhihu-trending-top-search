@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 28 2026 04:36:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 28 2026 06:30:16 GMT+0800 (China Standard Time) -->
 
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
 1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文不敌萨巴伦卡)
