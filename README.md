@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 28 2026 14:56:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 28 2026 15:44:37 GMT+0800 (China Standard Time) -->
 
-1. [国乒男队已有5人获世乒赛资格](https://www.zhihu.com/search?q=国乒男队已有5人获世乒赛资格)
-1. [如何避免早上起床时的口臭](https://www.zhihu.com/search?q=如何避免早上起床时的口臭)
+1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
+1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文不敌萨巴伦卡)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=用DeepSeek选股炒股可行吗)
@@ -27,8 +27,8 @@
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
 1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
-1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
-1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文不敌萨巴伦卡)
+1. [国乒男队已有5人获世乒赛资格](https://www.zhihu.com/search?q=国乒男队已有5人获世乒赛资格)
+1. [如何避免早上起床时的口臭](https://www.zhihu.com/search?q=如何避免早上起床时的口臭)
 1. [如何评价周杰伦新专辑](https://www.zhihu.com/search?q=如何评价周杰伦新专辑)
 1. [aed使用率不足0.1%](https://www.zhihu.com/search?q=aed使用率不足0.1%)
 

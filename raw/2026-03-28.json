@@ -1,12 +1,6 @@
 [
-  {
-    "query": "国乒男队已有5人获世乒赛资格",
-    "display_query": "国乒男队已有5人获世乒赛资格"
-  },
-  {
-    "query": "如何避免早上起床时的口臭",
-    "display_query": "如何避免早上起床时的口臭"
-  },
+  { "query": "泡馍为什么走不出西安", "display_query": "泡馍为什么走不出西安" },
+  { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   {
     "query": "怎样才能叫做真正会科研的人",
@@ -36,8 +30,14 @@
     "query": "为什么很多人喜欢和AI对话",
     "display_query": "为什么很多人喜欢和AI对话"
   },
-  { "query": "泡馍为什么走不出西安", "display_query": "泡馍为什么走不出西安" },
-  { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
+  {
+    "query": "国乒男队已有5人获世乒赛资格",
+    "display_query": "国乒男队已有5人获世乒赛资格"
+  },
+  {
+    "query": "如何避免早上起床时的口臭",
+    "display_query": "如何避免早上起床时的口臭"
+  },
   { "query": "如何评价周杰伦新专辑", "display_query": "如何评价周杰伦新专辑" },
   { "query": "aed使用率不足0.1%", "display_query": "aed使用率不足0.1%" }
 ]
