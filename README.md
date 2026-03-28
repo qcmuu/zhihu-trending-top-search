@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 28 2026 22:30:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 28 2026 23:29:07 GMT+0800 (China Standard Time) -->
 
-1. [微笑卫星计划4月9日发射](https://www.zhihu.com/search?q=微笑卫星计划4月9日发射)
-1. [中园石化加油站被立案调查](https://www.zhihu.com/search?q=中园石化加油站被立案调查)
+1. [心脏急救药别当保健品天天吃](https://www.zhihu.com/search?q=心脏急救药别当保健品天天吃)
+1. [江山大同](https://www.zhihu.com/search?q=江山大同)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=用DeepSeek选股炒股可行吗)
@@ -27,6 +27,8 @@
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
 1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
+1. [微笑卫星计划4月9日发射](https://www.zhihu.com/search?q=微笑卫星计划4月9日发射)
+1. [中园石化加油站被立案调查](https://www.zhihu.com/search?q=中园石化加油站被立案调查)
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
 1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文不敌萨巴伦卡)
 1. [一文读懂长护险相关问题](https://www.zhihu.com/search?q=一文读懂长护险相关问题)
