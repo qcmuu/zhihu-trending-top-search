@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 29 2026 19:27:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 29 2026 20:53:09 GMT+0800 (China Standard Time) -->
 
-1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
-1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文不敌萨巴伦卡)
+1. [张杰未live巡回演唱会](https://www.zhihu.com/search?q=张杰未live巡回演唱会)
+1. [丝芭传媒辟谣](https://www.zhihu.com/search?q=丝芭传媒辟谣)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=用DeepSeek选股炒股可行吗)
@@ -27,6 +27,8 @@
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
 1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
+1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
+1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文不敌萨巴伦卡)
 1. [心脏急救药别当保健品天天吃](https://www.zhihu.com/search?q=心脏急救药别当保健品天天吃)
 1. [安踏集团发布2025年财报](https://www.zhihu.com/search?q=安踏集团发布2025年财报)
 
