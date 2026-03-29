@@ -1,6 +1,8 @@
 [
-  { "query": "泡馍为什么走不出西安", "display_query": "泡馍为什么走不出西安" },
-  { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
+  {
+    "query": "全国首个海洋减排项目落地霞浦",
+    "display_query": "全国首个海洋减排项目落地霞浦"
+  },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   {
     "query": "怎样才能叫做真正会科研的人",
@@ -30,6 +32,12 @@
     "query": "为什么很多人喜欢和AI对话",
     "display_query": "为什么很多人喜欢和AI对话"
   },
+  {
+    "query": "你在哪一刻感受到中国书法的美",
+    "display_query": "你在哪一刻感受到中国书法的美"
+  },
+  { "query": "泡馍为什么走不出西安", "display_query": "泡馍为什么走不出西安" },
+  { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
   { "query": "张杰未live巡回演唱会", "display_query": "张杰未live巡回演唱会" },
   { "query": "丝芭传媒辟谣", "display_query": "丝芭传媒辟谣" },
   {
