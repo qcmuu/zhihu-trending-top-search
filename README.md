@@ -15,10 +15,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 30 2026 17:09:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 30 2026 18:59:42 GMT+0800 (China Standard Time) -->
 
 1. [阅文ip盛典](https://www.zhihu.com/search?q=阅文ip盛典)
+1. [世界双相情感障碍日](https://www.zhihu.com/search?q=世界双相情感障碍日)
+1. [薛之谦演唱会](https://www.zhihu.com/search?q=薛之谦演唱会)
+1. [快船vs雄鹿](https://www.zhihu.com/search?q=快船vs雄鹿)
 1. [广州暴雨](https://www.zhihu.com/search?q=广州暴雨)
+1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
+1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
+1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
+1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
 1. [多家中小银行下调存款利率](https://www.zhihu.com/search?q=多家中小银行下调存款利率)
 1. [闲鱼上有多少人是真正出闲置的](https://www.zhihu.com/search?q=闲鱼上有多少人是真正出闲置的)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
