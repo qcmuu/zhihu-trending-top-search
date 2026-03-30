@@ -1,4 +1,5 @@
 [
+  { "query": "广州暴雨", "display_query": "广州暴雨" },
   {
     "query": "闲鱼上有多少人是真正出闲置的",
     "display_query": "闲鱼上有多少人是真正出闲置的"
@@ -19,6 +20,10 @@
   {
     "query": "张雪峰因心源性猝死去世",
     "display_query": "张雪峰因心源性猝死去世"
+  },
+  {
+    "query": "《洛克王国：世界》开服",
+    "display_query": "《洛克王国：世界》开服"
   },
   { "query": "AI面试官", "display_query": "AI面试官" },
   { "query": "AI简历诊断", "display_query": "AI简历诊断" },
