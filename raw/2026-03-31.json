@@ -1,21 +1,31 @@
 [
+  { "query": "阅文ip盛典", "display_query": "阅文ip盛典" },
+  { "query": "双休和单休区别大吗", "display_query": "双休和单休区别大吗" },
+  { "query": "世界双相情感障碍日", "display_query": "世界双相情感障碍日" },
+  { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
+  { "query": "快船vs雄鹿", "display_query": "快船vs雄鹿" },
+  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
+  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
+  {
+    "query": "为什么突然开始人均养猫了",
+    "display_query": "为什么突然开始人均养猫了"
+  },
+  {
+    "query": "明白什么道理后你就不再焦虑了",
+    "display_query": "明白什么道理后你就不再焦虑了"
+  },
+  {
+    "query": "为什么大家都不提中国空间站了",
+    "display_query": "为什么大家都不提中国空间站了"
+  },
   {
     "query": "上班开粪车下班开奔驰的小伙大婚",
     "display_query": "上班开粪车下班开奔驰的小伙大婚"
   },
   { "query": "如何保持健康的身体", "display_query": "如何保持健康的身体" },
-  { "query": "世界双相情感障碍日", "display_query": "世界双相情感障碍日" },
-  { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
-  { "query": "快船vs雄鹿", "display_query": "快船vs雄鹿" },
-  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   {
     "query": "怎样才能叫做真正会科研的人",
     "display_query": "怎样才能叫做真正会科研的人"
-  },
-  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
-  {
-    "query": "为什么突然开始人均养猫了",
-    "display_query": "为什么突然开始人均养猫了"
   },
   {
     "query": "人到中年你突然领悟了什么",
@@ -25,11 +35,5 @@
     "query": "多家中小银行下调存款利率",
     "display_query": "多家中小银行下调存款利率"
   },
-  {
-    "query": "明白什么道理后你就不再焦虑了",
-    "display_query": "明白什么道理后你就不再焦虑了"
-  },
-  { "query": "阅文ip盛典", "display_query": "阅文ip盛典" },
-  { "query": "双休和单休区别大吗", "display_query": "双休和单休区别大吗" },
   { "query": "广州暴雨", "display_query": "广州暴雨" }
 ]
