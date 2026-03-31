@@ -1,5 +1,8 @@
 [
-  { "query": "breathe加入ig", "display_query": "breathe加入ig" },
+  {
+    "query": "中国古代有没有专业的经济学家",
+    "display_query": "中国古代有没有专业的经济学家"
+  },
   { "query": "世界双相情感障碍日", "display_query": "世界双相情感障碍日" },
   { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
   { "query": "快船vs雄鹿", "display_query": "快船vs雄鹿" },
@@ -21,6 +24,7 @@
     "query": "怎样最大程度延长自己的寿命",
     "display_query": "怎样最大程度延长自己的寿命"
   },
+  { "query": "breathe加入ig", "display_query": "breathe加入ig" },
   { "query": "阅文ip盛典", "display_query": "阅文ip盛典" },
   { "query": "双休和单休区别大吗", "display_query": "双休和单休区别大吗" },
   {
