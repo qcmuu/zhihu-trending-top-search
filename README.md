@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 01 2026 07:32:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 01 2026 10:28:57 GMT+0800 (China Standard Time) -->
 
+1. [中国科学家合成新核素](https://www.zhihu.com/search?q=中国科学家合成新核素)
+1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 1. [怎样能让孩子从小热爱阅读](https://www.zhihu.com/search?q=怎样能让孩子从小热爱阅读)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [有没有一瞬间很心疼一个孩子](https://www.zhihu.com/search?q=有没有一瞬间很心疼一个孩子)
@@ -27,8 +29,6 @@
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
 1. [国际油价大涨](https://www.zhihu.com/search?q=国际油价大涨)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
-1. [中国科学家合成新核素](https://www.zhihu.com/search?q=中国科学家合成新核素)
-1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 
 <!-- END -->
 
