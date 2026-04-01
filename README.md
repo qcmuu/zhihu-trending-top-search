@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 02 2026 02:59:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 02 2026 03:59:07 GMT+0800 (China Standard Time) -->
 
 1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 1. [愚人节](https://www.zhihu.com/search?q=愚人节)
