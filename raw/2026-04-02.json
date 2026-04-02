@@ -1,5 +1,23 @@
 [
   { "query": "双休和单休区别大吗", "display_query": "双休和单休区别大吗" },
+  {
+    "query": "什么样的家庭才能养出松弛感的孩子",
+    "display_query": "什么样的家庭才能养出松弛感的孩子"
+  },
+  {
+    "query": "为什么突然开始人均养猫了",
+    "display_query": "为什么突然开始人均养猫了"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "《逐玉》云合占比超《庆余年 2》",
+    "display_query": "《逐玉》云合占比超《庆余年 2》"
+  },
+  { "query": "AI面试官", "display_query": "AI面试官" },
+  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
+  { "query": "AI简历分析", "display_query": "AI简历分析" },
+  { "query": "简历诊断", "display_query": "简历诊断" },
+  { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
   { "query": "愚人节", "display_query": "愚人节" },
   {
     "query": "沪深两市成交额突破1万亿元",
@@ -9,19 +27,11 @@
     "query": "人到中年你最在乎的是什么",
     "display_query": "人到中年你最在乎的是什么"
   },
-  {
-    "query": "什么样的家庭才能养出松弛感的孩子",
-    "display_query": "什么样的家庭才能养出松弛感的孩子"
-  },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   { "query": "deepseek崩了", "display_query": "deepseek崩了" },
   {
     "query": "韩国电影为什么那么敢拍",
     "display_query": "韩国电影为什么那么敢拍"
-  },
-  {
-    "query": "为什么突然开始人均养猫了",
-    "display_query": "为什么突然开始人均养猫了"
   },
   {
     "query": "人到中年你突然领悟了什么",
