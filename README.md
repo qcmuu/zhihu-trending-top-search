@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 02 2026 23:58:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 03 2026 01:04:00 GMT+0800 (China Standard Time) -->
 
 1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
@@ -27,23 +27,6 @@
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
-1. [筹码分布怎么去看](https://www.zhihu.com/search?q=筹码分布怎么去看)
-1. [为什么高中数学明明听懂了一到考试就卡壳](https://www.zhihu.com/search?q=为什么高中数学明明听懂了一到考试就卡壳)
-1. [「吹风机养生」火了](https://www.zhihu.com/search?q=「吹风机养生」火了)
-1. [deepseek被做成清明节纸扎](https://www.zhihu.com/search?q=deepseek被做成清明节纸扎)
-1. [粉底液将军被嘲冤不冤](https://www.zhihu.com/search?q=粉底液将军被嘲冤不冤)
-1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
-1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
-1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
-1. [《逐玉》云合占比超《庆余年
-   2》](https://www.zhihu.com/search?q=《逐玉》云合占比超《庆余年 2》)
-1. [愚人节](https://www.zhihu.com/search?q=愚人节)
-1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
-1. [人到中年你最在乎的是什么](https://www.zhihu.com/search?q=人到中年你最在乎的是什么)
-1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
-1. [deepseek崩了](https://www.zhihu.com/search?q=deepseek崩了)
-1. [韩国电影为什么那么敢拍](https://www.zhihu.com/search?q=韩国电影为什么那么敢拍)
-1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
 
 <!-- END -->
 
