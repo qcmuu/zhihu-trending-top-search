@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 03 2026 13:03:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 03 2026 15:05:48 GMT+0800 (China Standard Time) -->
 
 1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 1. [为什么年轻人宁愿待业也不找工作](https://www.zhihu.com/search?q=为什么年轻人宁愿待业也不找工作)
