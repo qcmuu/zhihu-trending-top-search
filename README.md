@@ -15,28 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 03 2026 23:37:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 04 2026 00:37:39 GMT+0800 (China Standard Time) -->
 
-1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 1. [王艺迪vs张本美和](https://www.zhihu.com/search?q=王艺迪vs张本美和)
 1. [东契奇伤退](https://www.zhihu.com/search?q=东契奇伤退)
 1. [为什么年轻人宁愿待业也不找工作](https://www.zhihu.com/search?q=为什么年轻人宁愿待业也不找工作)
 1. [孙颖莎vs蒯曼](https://www.zhihu.com/search?q=孙颖莎vs蒯曼)
 1. [广州暴雨](https://www.zhihu.com/search?q=广州暴雨)
-1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=什么样的家庭才能养出松弛感的孩子)
 1. [王楚钦vsF勒布伦](https://www.zhihu.com/search?q=王楚钦vsF勒布伦)
-1. [为什么突然开始人均养猫了](https://www.zhihu.com/search?q=为什么突然开始人均养猫了)
 1. [有钱人私下里玩得多花](https://www.zhihu.com/search?q=有钱人私下里玩得多花)
 1. [现在的小孩可以早熟到什么地步](https://www.zhihu.com/search?q=现在的小孩可以早熟到什么地步)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
-1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
-1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
-1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
-1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
-1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
-1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
-1. [蔡磊进入渐冻症终末期](https://www.zhihu.com/search?q=蔡磊进入渐冻症终末期)
 
 <!-- END -->
 
