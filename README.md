@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 04 2026 10:02:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 04 2026 12:48:00 GMT+0800 (China Standard Time) -->
 
-1. [迪丽热巴古偶](https://www.zhihu.com/search?q=迪丽热巴古偶)
-1. [专选课被误录致学生学分不足](https://www.zhihu.com/search?q=专选课被误录致学生学分不足)
 1. [王艺迪vs张本美和](https://www.zhihu.com/search?q=王艺迪vs张本美和)
 1. [东契奇伤退](https://www.zhihu.com/search?q=东契奇伤退)
 1. [为什么年轻人宁愿待业也不找工作](https://www.zhihu.com/search?q=为什么年轻人宁愿待业也不找工作)
@@ -29,6 +27,8 @@
 1. [现在的小孩可以早熟到什么地步](https://www.zhihu.com/search?q=现在的小孩可以早熟到什么地步)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
+1. [迪丽热巴古偶](https://www.zhihu.com/search?q=迪丽热巴古偶)
+1. [专选课被误录致学生学分不足](https://www.zhihu.com/search?q=专选课被误录致学生学分不足)
 
 <!-- END -->
 
