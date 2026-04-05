@@ -1,12 +1,6 @@
 [
-  {
-    "query": "马斯克确认停产特斯拉两款车型",
-    "display_query": "马斯克确认停产特斯拉两款车型"
-  },
-  {
-    "query": "人类即将时隔半个世纪再赴月球",
-    "display_query": "人类即将时隔半个世纪再赴月球"
-  },
+  { "query": "清明节", "display_query": "清明节" },
+  { "query": "王艺迪vs张本美和", "display_query": "王艺迪vs张本美和" },
   { "query": "东契奇伤退", "display_query": "东契奇伤退" },
   {
     "query": "为什么年轻人宁愿待业也不找工作",
@@ -19,10 +13,16 @@
     "query": "现在的小孩可以早熟到什么地步",
     "display_query": "现在的小孩可以早熟到什么地步"
   },
-  { "query": "AI面试官", "display_query": "AI面试官" },
-  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
-  { "query": "清明节", "display_query": "清明节" },
-  { "query": "王艺迪vs张本美和", "display_query": "王艺迪vs张本美和" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "AI面试官", "display_query": "AI面试官" },
+  {
+    "query": "马斯克确认停产特斯拉两款车型",
+    "display_query": "马斯克确认停产特斯拉两款车型"
+  },
+  {
+    "query": "人类即将时隔半个世纪再赴月球",
+    "display_query": "人类即将时隔半个世纪再赴月球"
+  },
+  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
   { "query": "王楚钦vsF勒布伦", "display_query": "王楚钦vsF勒布伦" }
 ]
