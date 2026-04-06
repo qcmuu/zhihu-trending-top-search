@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 06 2026 23:43:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 07 2026 00:44:34 GMT+0800 (China Standard Time) -->
 
 1. [清明节](https://www.zhihu.com/search?q=清明节)
 1. [王艺迪vs张本美和](https://www.zhihu.com/search?q=王艺迪vs张本美和)
@@ -27,10 +27,6 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
-1. [张雪为了家庭哭着去工厂上班](https://www.zhihu.com/search?q=张雪为了家庭哭着去工厂上班)
-1. [如何判断买电车最佳时间](https://www.zhihu.com/search?q=如何判断买电车最佳时间)
-1. [25 岁天才少女拿下超 14 亿融资](https://www.zhihu.com/search?q=25
-   岁天才少女拿下超 14 亿融资)
 
 <!-- END -->
 
