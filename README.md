@@ -15,18 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 07 2026 05:35:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 07 2026 06:34:38 GMT+0800 (China Standard Time) -->
 
-1. [清明节](https://www.zhihu.com/search?q=清明节)
-1. [王艺迪vs张本美和](https://www.zhihu.com/search?q=王艺迪vs张本美和)
+1. [多位带货优思益博主致歉](https://www.zhihu.com/search?q=多位带货优思益博主致歉)
+1. [迪丽热巴古偶](https://www.zhihu.com/search?q=迪丽热巴古偶)
 1. [东契奇伤退](https://www.zhihu.com/search?q=东契奇伤退)
 1. [孙颖莎vs蒯曼](https://www.zhihu.com/search?q=孙颖莎vs蒯曼)
 1. [广州暴雨](https://www.zhihu.com/search?q=广州暴雨)
 1. [王楚钦 vs 松岛辉空](https://www.zhihu.com/search?q=王楚钦 vs 松岛辉空)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
+1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
+1. [清明节](https://www.zhihu.com/search?q=清明节)
+1. [王艺迪vs张本美和](https://www.zhihu.com/search?q=王艺迪vs张本美和)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [孙颖莎 vs 王曼昱](https://www.zhihu.com/search?q=孙颖莎 vs 王曼昱)
 
 <!-- END -->
