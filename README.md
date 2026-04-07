@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 07 2026 19:52:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 07 2026 21:15:10 GMT+0800 (China Standard Time) -->
 
 1. [金钱和健康哪个更重要](https://www.zhihu.com/search?q=金钱和健康哪个更重要)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
