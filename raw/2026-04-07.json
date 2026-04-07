@@ -1,19 +1,34 @@
 [
+  {
+    "query": "周杰伦 3 小时演唱会实唱不足 90 分钟",
+    "display_query": "周杰伦 3 小时演唱会实唱不足 90 分钟"
+  },
+  { "query": "AI面试官", "display_query": "AI面试官" },
+  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
+  {
+    "query": "中国证监会短线交易新规今起施行",
+    "display_query": "中国证监会短线交易新规今起施行"
+  },
   { "query": "清明节", "display_query": "清明节" },
+  { "query": "简历诊断", "display_query": "简历诊断" },
+  { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
+  {
+    "query": "孙颖莎被称超越邓亚萍张怡宁",
+    "display_query": "孙颖莎被称超越邓亚萍张怡宁"
+  },
+  { "query": "求职数据通", "display_query": "求职数据通" },
+  { "query": "offer 季", "display_query": "offer 季" },
   { "query": "王艺迪vs张本美和", "display_query": "王艺迪vs张本美和" },
   { "query": "东契奇伤退", "display_query": "东契奇伤退" },
   { "query": "孙颖莎vs蒯曼", "display_query": "孙颖莎vs蒯曼" },
   { "query": "广州暴雨", "display_query": "广州暴雨" },
   { "query": "王楚钦 vs 松岛辉空", "display_query": "王楚钦 vs 松岛辉空" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
-  { "query": "AI面试官", "display_query": "AI面试官" },
-  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
   { "query": "AI简历分析", "display_query": "AI简历分析" },
   {
     "query": "多位带货优思益博主致歉",
     "display_query": "多位带货优思益博主致歉"
   },
   { "query": "迪丽热巴古偶", "display_query": "迪丽热巴古偶" },
-  { "query": "简历诊断", "display_query": "简历诊断" },
   { "query": "孙颖莎 vs 王曼昱", "display_query": "孙颖莎 vs 王曼昱" }
 ]
