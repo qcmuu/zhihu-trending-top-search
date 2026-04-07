@@ -1,8 +1,5 @@
 [
-  {
-    "query": "25 岁天才少女拿下超 14 亿融资",
-    "display_query": "25 岁天才少女拿下超 14 亿融资"
-  },
+  { "query": "王楚钦 vs 松岛辉空", "display_query": "王楚钦 vs 松岛辉空" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "AI面试官", "display_query": "AI面试官" },
   { "query": "AI简历诊断", "display_query": "AI简历诊断" },
@@ -12,7 +9,10 @@
   { "query": "AI模拟面试", "display_query": "AI模拟面试" },
   { "query": "求职数据通", "display_query": "求职数据通" },
   { "query": "offer 季", "display_query": "offer 季" },
-  { "query": "王楚钦 vs 松岛辉空", "display_query": "王楚钦 vs 松岛辉空" },
+  {
+    "query": "25 岁天才少女拿下超 14 亿融资",
+    "display_query": "25 岁天才少女拿下超 14 亿融资"
+  },
   { "query": "清明节", "display_query": "清明节" },
   {
     "query": "周杰伦 3 小时演唱会实唱不足 90 分钟",
