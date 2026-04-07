@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 07 2026 15:14:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 07 2026 16:59:46 GMT+0800 (China Standard Time) -->
 
-1. [王楚钦 vs 松岛辉空](https://www.zhihu.com/search?q=王楚钦 vs 松岛辉空)
+1. [25 岁天才少女拿下超 14 亿融资](https://www.zhihu.com/search?q=25
+   岁天才少女拿下超 14 亿融资)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
@@ -27,6 +28,7 @@
 1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
 1. [求职数据通](https://www.zhihu.com/search?q=求职数据通)
 1. [offer 季](https://www.zhihu.com/search?q=offer 季)
+1. [王楚钦 vs 松岛辉空](https://www.zhihu.com/search?q=王楚钦 vs 松岛辉空)
 1. [清明节](https://www.zhihu.com/search?q=清明节)
 1. [周杰伦 3 小时演唱会实唱不足 90 分钟](https://www.zhihu.com/search?q=周杰伦 3
    小时演唱会实唱不足 90 分钟)
