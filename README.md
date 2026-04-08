@@ -15,8 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 08 2026 10:21:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 08 2026 13:09:14 GMT+0800 (China Standard Time) -->
 
+1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=中国有哪些逆天的文物)
+1. [网红都那么美为什么当不了明星](https://www.zhihu.com/search?q=网红都那么美为什么当不了明星)
+1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
+1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=认知水平低的人有什么明显特征)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
@@ -34,7 +38,6 @@
 1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=内心强大的人有什么特点)
 1. [二游文案为什么总要用陌生词汇](https://www.zhihu.com/search?q=二游文案为什么总要用陌生词汇)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
-1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
 1. [真的有先父遗传吗](https://www.zhihu.com/search?q=真的有先父遗传吗)
 1. [教父的人情可以不还吗](https://www.zhihu.com/search?q=教父的人情可以不还吗)
 

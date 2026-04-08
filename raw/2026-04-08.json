@@ -1,4 +1,14 @@
 [
+  { "query": "中国有哪些逆天的文物", "display_query": "中国有哪些逆天的文物" },
+  {
+    "query": "网红都那么美为什么当不了明星",
+    "display_query": "网红都那么美为什么当不了明星"
+  },
+  { "query": "退休后旅游有意义吗", "display_query": "退休后旅游有意义吗" },
+  {
+    "query": "认知水平低的人有什么明显特征",
+    "display_query": "认知水平低的人有什么明显特征"
+  },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "AI面试官", "display_query": "AI面试官" },
   { "query": "AI简历诊断", "display_query": "AI简历诊断" },
@@ -31,7 +41,6 @@
     "query": "为什么现在的孩子会沉迷手机",
     "display_query": "为什么现在的孩子会沉迷手机"
   },
-  { "query": "退休后旅游有意义吗", "display_query": "退休后旅游有意义吗" },
   { "query": "真的有先父遗传吗", "display_query": "真的有先父遗传吗" },
   { "query": "教父的人情可以不还吗", "display_query": "教父的人情可以不还吗" }
 ]
