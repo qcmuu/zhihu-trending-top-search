@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 08 2026 19:53:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 08 2026 21:16:54 GMT+0800 (China Standard Time) -->
 
-1. [ai短剧苦等一个「狂飙」](https://www.zhihu.com/search?q=ai短剧苦等一个「狂飙」)
+1. [无限超越班](https://www.zhihu.com/search?q=无限超越班)
+1. [A股](https://www.zhihu.com/search?q=A股)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
 1. [胖东来发布情况说明](https://www.zhihu.com/search?q=胖东来发布情况说明)
 1. [独行侠vs快船](https://www.zhihu.com/search?q=独行侠vs快船)
@@ -26,6 +27,7 @@
 1. [郑钦文退出斯图加特赛](https://www.zhihu.com/search?q=郑钦文退出斯图加特赛)
 1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=中国有哪些逆天的文物)
 1. [网红都那么美为什么当不了明星](https://www.zhihu.com/search?q=网红都那么美为什么当不了明星)
+1. [ai短剧苦等一个「狂飙」](https://www.zhihu.com/search?q=ai短剧苦等一个「狂飙」)
 1. [什么样的ppt才是好的ppt](https://www.zhihu.com/search?q=什么样的ppt才是好的ppt)
 1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
 1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=认知水平低的人有什么明显特征)

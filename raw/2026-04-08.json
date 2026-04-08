@@ -1,8 +1,6 @@
 [
-  {
-    "query": "ai短剧苦等一个「狂飙」",
-    "display_query": "ai短剧苦等一个「狂飙」"
-  },
+  { "query": "无限超越班", "display_query": "无限超越班" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "胖东来发布情况说明", "display_query": "胖东来发布情况说明" },
   { "query": "独行侠vs快船", "display_query": "独行侠vs快船" },
@@ -16,6 +14,10 @@
   {
     "query": "网红都那么美为什么当不了明星",
     "display_query": "网红都那么美为什么当不了明星"
+  },
+  {
+    "query": "ai短剧苦等一个「狂飙」",
+    "display_query": "ai短剧苦等一个「狂飙」"
   },
   {
     "query": "什么样的ppt才是好的ppt",
