@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 08 2026 21:16:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 08 2026 23:07:36 GMT+0800 (China Standard Time) -->
 
 1. [无限超越班](https://www.zhihu.com/search?q=无限超越班)
 1. [A股](https://www.zhihu.com/search?q=A股)
