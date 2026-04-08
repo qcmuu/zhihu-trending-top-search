@@ -1,4 +1,17 @@
 [
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "AI面试官", "display_query": "AI面试官" },
+  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
+  { "query": "AI简历分析", "display_query": "AI简历分析" },
+  { "query": "简历诊断", "display_query": "简历诊断" },
+  { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
+  { "query": "AI模拟面试", "display_query": "AI模拟面试" },
+  { "query": "求职数据通", "display_query": "求职数据通" },
+  { "query": "offer 季", "display_query": "offer 季" },
+  {
+    "query": "华谊兄弟超5600万债务逾期",
+    "display_query": "华谊兄弟超5600万债务逾期"
+  },
   { "query": "金钱和健康哪个更重要", "display_query": "金钱和健康哪个更重要" },
   { "query": "发现孩子很普通怎么办", "display_query": "发现孩子很普通怎么办" },
   { "query": "国际油价大涨", "display_query": "国际油价大涨" },
