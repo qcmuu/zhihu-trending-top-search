@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 08 2026 13:09:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 08 2026 15:16:29 GMT+0800 (China Standard Time) -->
 
 1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=中国有哪些逆天的文物)
 1. [网红都那么美为什么当不了明星](https://www.zhihu.com/search?q=网红都那么美为什么当不了明星)
