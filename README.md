@@ -15,9 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 09 2026 17:04:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 09 2026 18:56:46 GMT+0800 (China Standard Time) -->
 
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=沪深两市成交额突破5000亿元)
+1. [TES战胜WE](https://www.zhihu.com/search?q=TES战胜WE)
+1. [3月辟谣榜](https://www.zhihu.com/search?q=3月辟谣榜)
+1. [武汉暴雨](https://www.zhihu.com/search?q=武汉暴雨)
+1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
+1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
+1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=中国有哪些逆天的文物)
+1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [网红都那么美为什么当不了明星](https://www.zhihu.com/search?q=网红都那么美为什么当不了明星)
 1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=认知水平低的人有什么明显特征)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
@@ -28,11 +37,9 @@
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
 1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
 1. [无限超越班](https://www.zhihu.com/search?q=无限超越班)
-1. [A股](https://www.zhihu.com/search?q=A股)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
 1. [胖东来发布情况说明](https://www.zhihu.com/search?q=胖东来发布情况说明)
 1. [独行侠vs快船](https://www.zhihu.com/search?q=独行侠vs快船)
-1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [一箭十八星发射成功](https://www.zhihu.com/search?q=一箭十八星发射成功)
 1. [郑钦文退出斯图加特赛](https://www.zhihu.com/search?q=郑钦文退出斯图加特赛)
 
