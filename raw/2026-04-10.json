@@ -1,7 +1,12 @@
 [
   {
-    "query": "「改善型租房」为什么被越来越多人接受",
-    "display_query": "「改善型租房」为什么被越来越多人接受"
+    "query": "中俄举行联合国和安理会事务磋商",
+    "display_query": "中俄举行联合国和安理会事务磋商"
+  },
+  { "query": "中国有哪些逆天的文物", "display_query": "中国有哪些逆天的文物" },
+  {
+    "query": "网红都那么美为什么当不了明星",
+    "display_query": "网红都那么美为什么当不了明星"
   },
   {
     "query": "认知水平低的人有什么明显特征",
@@ -13,15 +18,14 @@
   { "query": "AI简历分析", "display_query": "AI简历分析" },
   { "query": "简历诊断", "display_query": "简历诊断" },
   { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
+  {
+    "query": "「改善型租房」为什么被越来越多人接受",
+    "display_query": "「改善型租房」为什么被越来越多人接受"
+  },
   { "query": "AI模拟面试", "display_query": "AI模拟面试" },
   {
     "query": "NASA 阿尔忒弥斯 2 号载人绕月飞行",
     "display_query": "NASA 阿尔忒弥斯 2 号载人绕月飞行"
-  },
-  { "query": "中国有哪些逆天的文物", "display_query": "中国有哪些逆天的文物" },
-  {
-    "query": "网红都那么美为什么当不了明星",
-    "display_query": "网红都那么美为什么当不了明星"
   },
   { "query": "A股", "display_query": "A股" },
   {
