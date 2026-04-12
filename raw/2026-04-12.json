@@ -1,9 +1,9 @@
 [
+  { "query": "装修真正的需求是什么", "display_query": "装修真正的需求是什么" },
   {
-    "query": "刘强东章泽天成立新公司",
-    "display_query": "刘强东章泽天成立新公司"
+    "query": "水蛭可以钻破鸡的肠胃吗",
+    "display_query": "水蛭可以钻破鸡的肠胃吗"
   },
-  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
   {
     "query": "你的电话号码的前主人是什么样的人",
@@ -23,5 +23,10 @@
   {
     "query": "在明白什么道理后你就不再焦虑了",
     "display_query": "在明白什么道理后你就不再焦虑了"
-  }
+  },
+  {
+    "query": "刘强东章泽天成立新公司",
+    "display_query": "刘强东章泽天成立新公司"
+  },
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" }
 ]
