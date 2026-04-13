@@ -1,15 +1,23 @@
 [
   {
+    "query": "你的电话号码的前主人是什么样的人",
+    "display_query": "你的电话号码的前主人是什么样的人"
+  },
+  { "query": "清明节", "display_query": "清明节" },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "AI面试官", "display_query": "AI面试官" },
+  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
+  { "query": "AI简历分析", "display_query": "AI简历分析" },
+  { "query": "简历诊断", "display_query": "简历诊断" },
+  { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
+  { "query": "AI模拟面试", "display_query": "AI模拟面试" },
+  { "query": "求职数据通", "display_query": "求职数据通" },
+  {
     "query": "刘强东章泽天成立新公司",
     "display_query": "刘强东章泽天成立新公司"
   },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
-  {
-    "query": "你的电话号码的前主人是什么样的人",
-    "display_query": "你的电话号码的前主人是什么样的人"
-  },
-  { "query": "清明节", "display_query": "清明节" },
   { "query": "戛纳", "display_query": "戛纳" },
   { "query": "步行者vs篮网", "display_query": "步行者vs篮网" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
