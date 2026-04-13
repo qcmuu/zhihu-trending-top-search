@@ -3,7 +3,6 @@
     "query": "你的电话号码的前主人是什么样的人",
     "display_query": "你的电话号码的前主人是什么样的人"
   },
-  { "query": "清明节", "display_query": "清明节" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "AI面试官", "display_query": "AI面试官" },
   { "query": "AI简历诊断", "display_query": "AI简历诊断" },
@@ -12,6 +11,8 @@
   { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
   { "query": "AI模拟面试", "display_query": "AI模拟面试" },
   { "query": "求职数据通", "display_query": "求职数据通" },
+  { "query": "offer 季", "display_query": "offer 季" },
+  { "query": "清明节", "display_query": "清明节" },
   {
     "query": "刘强东章泽天成立新公司",
     "display_query": "刘强东章泽天成立新公司"
