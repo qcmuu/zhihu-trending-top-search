@@ -15,9 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 13 2026 16:00:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 13 2026 18:42:49 GMT+0800 (China Standard Time) -->
 
+1. [切尔西vs曼城](https://www.zhihu.com/search?q=切尔西vs曼城)
 1. [你的电话号码的前主人是什么样的人](https://www.zhihu.com/search?q=你的电话号码的前主人是什么样的人)
+1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
+1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
+1. [你心目中的排名第一的雪糕是什么](https://www.zhihu.com/search?q=你心目中的排名第一的雪糕是什么)
+1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
+1. [阿尔卡拉斯vs辛纳](https://www.zhihu.com/search?q=阿尔卡拉斯vs辛纳)
+1. [如何评价电视剧《新三国》](https://www.zhihu.com/search?q=如何评价电视剧《新三国》)
+1. [在明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=在明白什么道理后你就不再焦虑了)
+1. [一个人能做出什么开源项目](https://www.zhihu.com/search?q=一个人能做出什么开源项目)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
@@ -33,9 +42,6 @@
 1. [湖人vs勇士](https://www.zhihu.com/search?q=湖人vs勇士)
 1. [戛纳](https://www.zhihu.com/search?q=戛纳)
 1. [步行者vs篮网](https://www.zhihu.com/search?q=步行者vs篮网)
-1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
-1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
-1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
 
 <!-- END -->
 
