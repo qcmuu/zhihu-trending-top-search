@@ -1,0 +1,27 @@
+[
+  { "query": "周深演唱会", "display_query": "周深演唱会" },
+  { "query": "李梦演技", "display_query": "李梦演技" },
+  { "query": "勇士不敌快船", "display_query": "勇士不敌快船" },
+  { "query": "太累的工作要不要辞职", "display_query": "太累的工作要不要辞职" },
+  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
+  {
+    "query": "导师给你的最后忠告是什么",
+    "display_query": "导师给你的最后忠告是什么"
+  },
+  {
+    "query": "怎样才能叫做真正会科研的人",
+    "display_query": "怎样才能叫做真正会科研的人"
+  },
+  {
+    "query": "俄外长拉夫罗夫已抵达中国",
+    "display_query": "俄外长拉夫罗夫已抵达中国"
+  },
+  {
+    "query": "你心目中的排名第一的雪糕是什么",
+    "display_query": "你心目中的排名第一的雪糕是什么"
+  },
+  {
+    "query": "人到中年你突然领悟了什么",
+    "display_query": "人到中年你突然领悟了什么"
+  }
+]
