@@ -15,8 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 14 2026 07:40:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 14 2026 10:27:17 GMT+0800 (China Standard Time) -->
 
+1. [《飞驰人生 3》电影票房破 30 亿](https://www.zhihu.com/search?q=《飞驰人生
+   3》电影票房破 30 亿)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
+1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
+1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
+1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
+1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
+1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
+1. [求职数据通](https://www.zhihu.com/search?q=求职数据通)
+1. [offer 季](https://www.zhihu.com/search?q=offer 季)
 1. [胡先煦官宣十日终焉](https://www.zhihu.com/search?q=胡先煦官宣十日终焉)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
