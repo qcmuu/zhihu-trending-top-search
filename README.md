@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 14 2026 10:27:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 14 2026 13:21:29 GMT+0800 (China Standard Time) -->
 
+1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=导师给你的最后忠告是什么)
+1. [一个人能做出什么开源项目](https://www.zhihu.com/search?q=一个人能做出什么开源项目)
 1. [《飞驰人生 3》电影票房破 30 亿](https://www.zhihu.com/search?q=《飞驰人生
    3》电影票房破 30 亿)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
@@ -36,7 +38,6 @@
 1. [阿尔卡拉斯vs辛纳](https://www.zhihu.com/search?q=阿尔卡拉斯vs辛纳)
 1. [如何评价电视剧《新三国》](https://www.zhihu.com/search?q=如何评价电视剧《新三国》)
 1. [在明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=在明白什么道理后你就不再焦虑了)
-1. [一个人能做出什么开源项目](https://www.zhihu.com/search?q=一个人能做出什么开源项目)
 1. [有哪些原来很贵的食材现在便宜了](https://www.zhihu.com/search?q=有哪些原来很贵的食材现在便宜了)
 1. [切尔西vs曼城](https://www.zhihu.com/search?q=切尔西vs曼城)
 
