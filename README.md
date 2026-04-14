@@ -15,9 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 14 2026 17:15:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 14 2026 19:01:05 GMT+0800 (China Standard Time) -->
 
+1. [周深演唱会](https://www.zhihu.com/search?q=周深演唱会)
+1. [李梦演技](https://www.zhihu.com/search?q=李梦演技)
+1. [勇士不敌快船](https://www.zhihu.com/search?q=勇士不敌快船)
+1. [太累的工作要不要辞职](https://www.zhihu.com/search?q=太累的工作要不要辞职)
+1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=导师给你的最后忠告是什么)
+1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
+1. [俄外长拉夫罗夫已抵达中国](https://www.zhihu.com/search?q=俄外长拉夫罗夫已抵达中国)
+1. [你心目中的排名第一的雪糕是什么](https://www.zhihu.com/search?q=你心目中的排名第一的雪糕是什么)
+1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
 1. [一个人能做出什么开源项目](https://www.zhihu.com/search?q=一个人能做出什么开源项目)
 1. [《飞驰人生 3》电影票房破 30 亿](https://www.zhihu.com/search?q=《飞驰人生
    3》电影票房破 30 亿)
@@ -31,10 +40,6 @@
 1. [求职数据通](https://www.zhihu.com/search?q=求职数据通)
 1. [offer 季](https://www.zhihu.com/search?q=offer 季)
 1. [胡先煦官宣十日终焉](https://www.zhihu.com/search?q=胡先煦官宣十日终焉)
-1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
-1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
-1. [你心目中的排名第一的雪糕是什么](https://www.zhihu.com/search?q=你心目中的排名第一的雪糕是什么)
-1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
 1. [阿尔卡拉斯vs辛纳](https://www.zhihu.com/search?q=阿尔卡拉斯vs辛纳)
 1. [如何评价电视剧《新三国》](https://www.zhihu.com/search?q=如何评价电视剧《新三国》)
 1. [在明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=在明白什么道理后你就不再焦虑了)
