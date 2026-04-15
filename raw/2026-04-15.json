@@ -1,8 +1,14 @@
 [
+  { "query": "演员到底有多吃天赋", "display_query": "演员到底有多吃天赋" },
+  {
+    "query": "什么样的人算是中了基因彩票",
+    "display_query": "什么样的人算是中了基因彩票"
+  },
   {
     "query": "导师给你的最后忠告是什么",
     "display_query": "导师给你的最后忠告是什么"
   },
+  { "query": "什么是知识的诅咒", "display_query": "什么是知识的诅咒" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "AI面试官", "display_query": "AI面试官" },
   { "query": "AI简历诊断", "display_query": "AI简历诊断" },

@@ -15,9 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 15 2026 10:25:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 15 2026 13:22:03 GMT+0800 (China Standard Time) -->
 
+1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
+1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
 1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=导师给你的最后忠告是什么)
+1. [什么是知识的诅咒](https://www.zhihu.com/search?q=什么是知识的诅咒)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
