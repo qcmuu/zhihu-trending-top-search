@@ -1,8 +1,11 @@
 [
-  { "query": "演员到底有多吃天赋", "display_query": "演员到底有多吃天赋" },
   {
-    "query": "什么样的人算是中了基因彩票",
-    "display_query": "什么样的人算是中了基因彩票"
+    "query": "OpenAI Spud被曝对标Claude Mythos",
+    "display_query": "OpenAI Spud被曝对标Claude Mythos"
+  },
+  {
+    "query": "德云社为什么只有郭德纲走到了最后",
+    "display_query": "德云社为什么只有郭德纲走到了最后"
   },
   {
     "query": "导师给你的最后忠告是什么",
@@ -15,6 +18,11 @@
   { "query": "AI简历分析", "display_query": "AI简历分析" },
   { "query": "简历诊断", "display_query": "简历诊断" },
   { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
+  { "query": "演员到底有多吃天赋", "display_query": "演员到底有多吃天赋" },
+  {
+    "query": "什么样的人算是中了基因彩票",
+    "display_query": "什么样的人算是中了基因彩票"
+  },
   { "query": "AI模拟面试", "display_query": "AI模拟面试" },
   { "query": "求职数据通", "display_query": "求职数据通" },
   { "query": "offer 季", "display_query": "offer 季" },
