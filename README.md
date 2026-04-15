@@ -15,14 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 15 2026 07:39:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 15 2026 10:25:11 GMT+0800 (China Standard Time) -->
 
+1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=导师给你的最后忠告是什么)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
+1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
+1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
+1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
+1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
+1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
+1. [求职数据通](https://www.zhihu.com/search?q=求职数据通)
+1. [offer 季](https://www.zhihu.com/search?q=offer 季)
 1. [周深演唱会](https://www.zhihu.com/search?q=周深演唱会)
 1. [李梦演技](https://www.zhihu.com/search?q=李梦演技)
 1. [勇士不敌快船](https://www.zhihu.com/search?q=勇士不敌快船)
 1. [太累的工作要不要辞职](https://www.zhihu.com/search?q=太累的工作要不要辞职)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
-1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=导师给你的最后忠告是什么)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [俄外长拉夫罗夫已抵达中国](https://www.zhihu.com/search?q=俄外长拉夫罗夫已抵达中国)
 1. [你心目中的排名第一的雪糕是什么](https://www.zhihu.com/search?q=你心目中的排名第一的雪糕是什么)
