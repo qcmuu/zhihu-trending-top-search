@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 16 2026 10:32:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 16 2026 13:28:59 GMT+0800 (China Standard Time) -->
 
-1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
-1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
+1. [考研卡尔还有希望上岸吗](https://www.zhihu.com/search?q=考研卡尔还有希望上岸吗)
+1. [配分函数的物理意义是什么](https://www.zhihu.com/search?q=配分函数的物理意义是什么)
 1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=导师给你的最后忠告是什么)
 1. [什么是知识的诅咒](https://www.zhihu.com/search?q=什么是知识的诅咒)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
@@ -28,6 +28,8 @@
 1. [石门中学奶茶事件](https://www.zhihu.com/search?q=石门中学奶茶事件)
 1. [张雪问了自己 3 个问题后辞职](https://www.zhihu.com/search?q=张雪问了自己 3
    个问题后辞职)
+1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
+1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
 1. [工作是为了钱还是为了什么](https://www.zhihu.com/search?q=工作是为了钱还是为了什么)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
