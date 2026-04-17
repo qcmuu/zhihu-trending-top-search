@@ -9,7 +9,18 @@
     "display_query": "导师给你的最后忠告是什么"
   },
   { "query": "什么是知识的诅咒", "display_query": "什么是知识的诅咒" },
+  { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
+  { "query": "苏超公布2026年赞助商", "display_query": "苏超公布2026年赞助商" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "2026 苏超十三队队服发布",
+    "display_query": "2026 苏超十三队队服发布"
+  },
+  {
+    "query": "苏超揭幕战!常州 vs 南通",
+    "display_query": "苏超揭幕战!常州 vs 南通"
+  },
+  { "query": "苏超", "display_query": "苏超" },
   {
     "query": "20城公积金超半数只缴不用",
     "display_query": "20城公积金超半数只缴不用"
