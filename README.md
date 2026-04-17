@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 17 2026 13:25:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 17 2026 15:43:43 GMT+0800 (China Standard Time) -->
 
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
