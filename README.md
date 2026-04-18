@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 18 2026 10:11:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 18 2026 13:04:46 GMT+0800 (China Standard Time) -->
 
-1. [周润发张国荣纵横四海定档](https://www.zhihu.com/search?q=周润发张国荣纵横四海定档)
-1. [金立创始人消失8年后现身印尼](https://www.zhihu.com/search?q=金立创始人消失8年后现身印尼)
+1. [教资成绩](https://www.zhihu.com/search?q=教资成绩)
+1. [3月70城房价出炉](https://www.zhihu.com/search?q=3月70城房价出炉)
 1. [五一假期首日火车票今日开售](https://www.zhihu.com/search?q=五一假期首日火车票今日开售)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
@@ -27,10 +27,10 @@
 1. [TES战胜BLG](https://www.zhihu.com/search?q=TES战胜BLG)
 1. [什么是知识的诅咒](https://www.zhihu.com/search?q=什么是知识的诅咒)
 1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=自己做饭真的很省钱吗)
+1. [周润发张国荣纵横四海定档](https://www.zhihu.com/search?q=周润发张国荣纵横四海定档)
+1. [金立创始人消失8年后现身印尼](https://www.zhihu.com/search?q=金立创始人消失8年后现身印尼)
 1. [斯诺克世锦赛正赛签表出炉](https://www.zhihu.com/search?q=斯诺克世锦赛正赛签表出炉)
 1. [AIGC是淘汰人还是放大人](https://www.zhihu.com/search?q=AIGC是淘汰人还是放大人)
-1. [教资成绩](https://www.zhihu.com/search?q=教资成绩)
-1. [3月70城房价出炉](https://www.zhihu.com/search?q=3月70城房价出炉)
 
 <!-- END -->
 
