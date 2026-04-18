@@ -1,9 +1,6 @@
 [
-  { "query": "为什么愿意买二手车", "display_query": "为什么愿意买二手车" },
-  {
-    "query": "杨戬逼迫沉香成长中全是放水吗",
-    "display_query": "杨戬逼迫沉香成长中全是放水吗"
-  },
+  { "query": "教资成绩", "display_query": "教资成绩" },
+  { "query": "3月70城房价出炉", "display_query": "3月70城房价出炉" },
   {
     "query": "五一假期首日火车票今日开售",
     "display_query": "五一假期首日火车票今日开售"
@@ -18,8 +15,11 @@
   { "query": "TES战胜BLG", "display_query": "TES战胜BLG" },
   { "query": "什么是知识的诅咒", "display_query": "什么是知识的诅咒" },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
-  { "query": "教资成绩", "display_query": "教资成绩" },
-  { "query": "3月70城房价出炉", "display_query": "3月70城房价出炉" },
+  { "query": "为什么愿意买二手车", "display_query": "为什么愿意买二手车" },
+  {
+    "query": "杨戬逼迫沉香成长中全是放水吗",
+    "display_query": "杨戬逼迫沉香成长中全是放水吗"
+  },
   {
     "query": "周润发张国荣纵横四海定档",
     "display_query": "周润发张国荣纵横四海定档"
