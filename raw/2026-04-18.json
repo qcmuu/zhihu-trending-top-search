@@ -1,11 +1,11 @@
 [
   {
-    "query": "斯诺克世锦赛正赛签表出炉",
-    "display_query": "斯诺克世锦赛正赛签表出炉"
+    "query": "周润发张国荣纵横四海定档",
+    "display_query": "周润发张国荣纵横四海定档"
   },
   {
-    "query": "AIGC是淘汰人还是放大人",
-    "display_query": "AIGC是淘汰人还是放大人"
+    "query": "金立创始人消失8年后现身印尼",
+    "display_query": "金立创始人消失8年后现身印尼"
   },
   {
     "query": "五一假期首日火车票今日开售",
@@ -18,9 +18,17 @@
   },
   { "query": "电子游戏中有哪些误译", "display_query": "电子游戏中有哪些误译" },
   { "query": "山东泰山vs上海海港", "display_query": "山东泰山vs上海海港" },
-  { "query": "教资成绩", "display_query": "教资成绩" },
+  { "query": "TES战胜BLG", "display_query": "TES战胜BLG" },
   { "query": "什么是知识的诅咒", "display_query": "什么是知识的诅咒" },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
-  { "query": "3月70城房价出炉", "display_query": "3月70城房价出炉" },
-  { "query": "TES战胜BLG", "display_query": "TES战胜BLG" }
+  {
+    "query": "斯诺克世锦赛正赛签表出炉",
+    "display_query": "斯诺克世锦赛正赛签表出炉"
+  },
+  {
+    "query": "AIGC是淘汰人还是放大人",
+    "display_query": "AIGC是淘汰人还是放大人"
+  },
+  { "query": "教资成绩", "display_query": "教资成绩" },
+  { "query": "3月70城房价出炉", "display_query": "3月70城房价出炉" }
 ]
