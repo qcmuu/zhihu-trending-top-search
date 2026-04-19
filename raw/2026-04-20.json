@@ -1,6 +1,4 @@
 [
-  { "query": "教资成绩", "display_query": "教资成绩" },
-  { "query": "3月70城房价出炉", "display_query": "3月70城房价出炉" },
   {
     "query": "五一假期首日火车票今日开售",
     "display_query": "五一假期首日火车票今日开售"
@@ -10,9 +8,17 @@
   { "query": "TES战胜BLG", "display_query": "TES战胜BLG" },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
   { "query": "苏超公布2026年赞助商", "display_query": "苏超公布2026年赞助商" },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "2026 苏超十三队队服发布",
     "display_query": "2026 苏超十三队队服发布"
-  }
+  },
+  {
+    "query": "苏超揭幕战!常州 vs 南通",
+    "display_query": "苏超揭幕战!常州 vs 南通"
+  },
+  { "query": "苏超", "display_query": "苏超" },
+  { "query": "华为PuraXMax", "display_query": "华为PuraXMax" },
+  { "query": "教资成绩", "display_query": "教资成绩" },
+  { "query": "3月70城房价出炉", "display_query": "3月70城房价出炉" },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" }
 ]
