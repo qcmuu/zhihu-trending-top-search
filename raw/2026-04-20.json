@@ -1,5 +1,17 @@
 [
+  { "query": "sora负责人离职", "display_query": "sora负责人离职" },
+  {
+    "query": "苏超的成功是否意味中超的失败",
+    "display_query": "苏超的成功是否意味中超的失败"
+  },
+  { "query": "勇士vs太阳", "display_query": "勇士vs太阳" },
+  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
+  { "query": "哈兰德破门", "display_query": "哈兰德破门" },
+  { "query": "今日谷雨", "display_query": "今日谷雨" },
+  { "query": "掘金大胜森林狼", "display_query": "掘金大胜森林狼" },
   { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  { "query": "山东泰山vs上海海港", "display_query": "山东泰山vs上海海港" },
+  { "query": "BLG战胜AL", "display_query": "BLG战胜AL" },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
@@ -49,7 +61,6 @@
     "display_query": "五一假期首日火车票今日开售"
   },
   { "query": "电子游戏中有哪些误译", "display_query": "电子游戏中有哪些误译" },
-  { "query": "山东泰山vs上海海港", "display_query": "山东泰山vs上海海港" },
   { "query": "TES战胜BLG", "display_query": "TES战胜BLG" },
   { "query": "华为PuraXMax", "display_query": "华为PuraXMax" }
 ]
