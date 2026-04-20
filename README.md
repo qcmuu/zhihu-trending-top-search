@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 21 2026 06:40:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 21 2026 07:40:11 GMT+0800 (China Standard Time) -->
 
-1. [北京晚霞](https://www.zhihu.com/search?q=北京晚霞)
+1. [为什么云南泼水节变味了](https://www.zhihu.com/search?q=为什么云南泼水节变味了)
+1. [东部战区舰艇编队过航横当水道](https://www.zhihu.com/search?q=东部战区舰艇编队过航横当水道)
 1. [勇士vs太阳](https://www.zhihu.com/search?q=勇士vs太阳)
 1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
 1. [哈兰德破门](https://www.zhihu.com/search?q=哈兰德破门)
@@ -26,6 +27,7 @@
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
 1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=山东泰山vs上海海港)
 1. [BLG战胜AL](https://www.zhihu.com/search?q=BLG战胜AL)
+1. [北京晚霞](https://www.zhihu.com/search?q=北京晚霞)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
 
 <!-- END -->
