@@ -1,7 +1,33 @@
 [
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
-  { "query": "苏超公布2026年赞助商", "display_query": "苏超公布2026年赞助商" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "蜜蜂为什么要把身上的花粉刮下来",
+    "display_query": "蜜蜂为什么要把身上的花粉刮下来"
+  },
+  {
+    "query": "2026 人形机器人半程马拉松赛",
+    "display_query": "2026 人形机器人半程马拉松赛"
+  },
+  {
+    "query": "理想有部门全员无年终奖",
+    "display_query": "理想有部门全员无年终奖"
+  },
+  {
+    "query": "阿里发布 Happy Oyster",
+    "display_query": "阿里发布 Happy Oyster"
+  },
+  {
+    "query": "尼格买提薛之谦因染发引发健康问题",
+    "display_query": "尼格买提薛之谦因染发引发健康问题"
+  },
+  {
+    "query": "Anthropic发布Claude Opus 4.7",
+    "display_query": "Anthropic发布Claude Opus 4.7"
+  },
+  { "query": "茅台净利润同比下降", "display_query": "茅台净利润同比下降" },
+  { "query": "苏超公布2026年赞助商", "display_query": "苏超公布2026年赞助商" },
   {
     "query": "2026 苏超十三队队服发布",
     "display_query": "2026 苏超十三队队服发布"
@@ -11,15 +37,7 @@
     "display_query": "苏超揭幕战!常州 vs 南通"
   },
   { "query": "苏超", "display_query": "苏超" },
-  {
-    "query": "蜜蜂为什么要把身上的花粉刮下来",
-    "display_query": "蜜蜂为什么要把身上的花粉刮下来"
-  },
   { "query": "宿迁邀何润东助阵苏超", "display_query": "宿迁邀何润东助阵苏超" },
-  {
-    "query": "2026 人形机器人半程马拉松赛",
-    "display_query": "2026 人形机器人半程马拉松赛"
-  },
   {
     "query": "网红开绿茶速成班被指擦边低俗",
     "display_query": "网红开绿茶速成班被指擦边低俗"
