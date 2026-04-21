@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 21 2026 13:25:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 21 2026 15:46:59 GMT+0800 (China Standard Time) -->
 
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
 1. [日本发生7.5级地震](https://www.zhihu.com/search?q=日本发生7.5级地震)
@@ -26,6 +26,9 @@
 1. [为什么现在流行反向追剧](https://www.zhihu.com/search?q=为什么现在流行反向追剧)
 1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=拼多多被罚
    15.2 亿且暴力阻碍监管)
+1. [稿费80万的金番作者使用AI写作](https://www.zhihu.com/search?q=稿费80万的金番作者使用AI写作)
+1. [国产光纤部分产品价格暴涨
+   650%](https://www.zhihu.com/search?q=国产光纤部分产品价格暴涨 650%)
 1. [苏超宿迁2-0南京](https://www.zhihu.com/search?q=苏超宿迁2-0南京)
 1. [徐州3-0泰州](https://www.zhihu.com/search?q=徐州3-0泰州)
 1. [2026 人形机器人半程马拉松赛](https://www.zhihu.com/search?q=2026
