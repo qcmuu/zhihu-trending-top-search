@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 22 2026 00:58:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 22 2026 02:04:46 GMT+0800 (China Standard Time) -->
 
 1. [勇士vs太阳](https://www.zhihu.com/search?q=勇士vs太阳)
 1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
