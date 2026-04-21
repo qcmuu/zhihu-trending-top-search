@@ -1,4 +1,29 @@
 [
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  { "query": "日本发生7.5级地震", "display_query": "日本发生7.5级地震" },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "何润东翻红", "display_query": "何润东翻红" },
+  {
+    "query": "2026 人形机器人半程马拉松赛",
+    "display_query": "2026 人形机器人半程马拉松赛"
+  },
+  { "query": "建议低精力人群查维D", "display_query": "建议低精力人群查维D" },
+  {
+    "query": "为什么现在流行反向追剧",
+    "display_query": "为什么现在流行反向追剧"
+  },
+  {
+    "query": "拼多多被罚 15.2 亿且暴力阻碍监管",
+    "display_query": "拼多多被罚 15.2 亿且暴力阻碍监管"
+  },
+  {
+    "query": "微波炉加热塑料微塑料飙升 125 倍",
+    "display_query": "微波炉加热塑料微塑料飙升 125 倍"
+  },
+  {
+    "query": "劳务中介：微信余额不满三百不给面试",
+    "display_query": "劳务中介：微信余额不满三百不给面试"
+  },
   {
     "query": "为什么云南泼水节变味了",
     "display_query": "为什么云南泼水节变味了"
@@ -12,7 +37,6 @@
   { "query": "哈兰德破门", "display_query": "哈兰德破门" },
   { "query": "今日谷雨", "display_query": "今日谷雨" },
   { "query": "掘金大胜森林狼", "display_query": "掘金大胜森林狼" },
-  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   { "query": "山东泰山vs上海海港", "display_query": "山东泰山vs上海海港" },
   { "query": "BLG战胜AL", "display_query": "BLG战胜AL" },
   { "query": "北京晚霞", "display_query": "北京晚霞" },
