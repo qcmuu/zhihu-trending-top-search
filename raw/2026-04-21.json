@@ -1,5 +1,8 @@
 [
-  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  {
+    "query": "肢体再生可能由环境而非基因决定",
+    "display_query": "肢体再生可能由环境而非基因决定"
+  },
   { "query": "日本发生7.5级地震", "display_query": "日本发生7.5级地震" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "何润东翻红", "display_query": "何润东翻红" },
@@ -24,6 +27,7 @@
     "query": "国产光纤部分产品价格暴涨 650%",
     "display_query": "国产光纤部分产品价格暴涨 650%"
   },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   { "query": "苏超宿迁2-0南京", "display_query": "苏超宿迁2-0南京" },
   { "query": "徐州3-0泰州", "display_query": "徐州3-0泰州" },
   {
