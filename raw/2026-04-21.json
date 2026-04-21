@@ -1,5 +1,33 @@
 [
   {
+    "query": "爱奇艺 CEO 龚宇说科技不是为了取代人",
+    "display_query": "爱奇艺 CEO 龚宇说科技不是为了取代人"
+  },
+  {
+    "query": "上海商学院校长吴忠被实名举报学术不端",
+    "display_query": "上海商学院校长吴忠被实名举报学术不端"
+  },
+  { "query": "掘金大胜森林狼", "display_query": "掘金大胜森林狼" },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  {
+    "query": "怎样才能叫做真正会科研的人",
+    "display_query": "怎样才能叫做真正会科研的人"
+  },
+  {
+    "query": "美国情报系统现在属于什么水平",
+    "display_query": "美国情报系统现在属于什么水平"
+  },
+  {
+    "query": "内心强大的人有什么特点",
+    "display_query": "内心强大的人有什么特点"
+  },
+  {
+    "query": "为什么有的人特别容易紧张",
+    "display_query": "为什么有的人特别容易紧张"
+  },
+  { "query": "你曾经错过大牛股吗", "display_query": "你曾经错过大牛股吗" },
+  { "query": "什么生活常识必须知道", "display_query": "什么生活常识必须知道" },
+  {
     "query": "肢体再生可能由环境而非基因决定",
     "display_query": "肢体再生可能由环境而非基因决定"
   },
@@ -27,7 +55,6 @@
     "query": "国产光纤部分产品价格暴涨 650%",
     "display_query": "国产光纤部分产品价格暴涨 650%"
   },
-  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   { "query": "苏超宿迁2-0南京", "display_query": "苏超宿迁2-0南京" },
   { "query": "徐州3-0泰州", "display_query": "徐州3-0泰州" },
   {
@@ -55,7 +82,6 @@
   { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
   { "query": "哈兰德破门", "display_query": "哈兰德破门" },
   { "query": "今日谷雨", "display_query": "今日谷雨" },
-  { "query": "掘金大胜森林狼", "display_query": "掘金大胜森林狼" },
   { "query": "山东泰山vs上海海港", "display_query": "山东泰山vs上海海港" },
   { "query": "BLG战胜AL", "display_query": "BLG战胜AL" },
   { "query": "北京晚霞", "display_query": "北京晚霞" },

@@ -15,8 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 21 2026 17:24:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 21 2026 21:22:41 GMT+0800 (China Standard Time) -->
 
+1. [爱奇艺 CEO 龚宇说科技不是为了取代人](https://www.zhihu.com/search?q=爱奇艺
+   CEO 龚宇说科技不是为了取代人)
+1. [上海商学院校长吴忠被实名举报学术不端](https://www.zhihu.com/search?q=上海商学院校长吴忠被实名举报学术不端)
+1. [掘金大胜森林狼](https://www.zhihu.com/search?q=掘金大胜森林狼)
+1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
+1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
+1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=内心强大的人有什么特点)
+1. [为什么有的人特别容易紧张](https://www.zhihu.com/search?q=为什么有的人特别容易紧张)
+1. [你曾经错过大牛股吗](https://www.zhihu.com/search?q=你曾经错过大牛股吗)
+1. [什么生活常识必须知道](https://www.zhihu.com/search?q=什么生活常识必须知道)
 1. [肢体再生可能由环境而非基因决定](https://www.zhihu.com/search?q=肢体再生可能由环境而非基因决定)
 1. [日本发生7.5级地震](https://www.zhihu.com/search?q=日本发生7.5级地震)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
@@ -29,7 +40,6 @@
 1. [稿费80万的金番作者使用AI写作](https://www.zhihu.com/search?q=稿费80万的金番作者使用AI写作)
 1. [国产光纤部分产品价格暴涨
    650%](https://www.zhihu.com/search?q=国产光纤部分产品价格暴涨 650%)
-1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
 1. [苏超宿迁2-0南京](https://www.zhihu.com/search?q=苏超宿迁2-0南京)
 1. [徐州3-0泰州](https://www.zhihu.com/search?q=徐州3-0泰州)
 1. [2026 人形机器人半程马拉松赛](https://www.zhihu.com/search?q=2026
@@ -44,7 +54,6 @@
 1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
 1. [哈兰德破门](https://www.zhihu.com/search?q=哈兰德破门)
 1. [今日谷雨](https://www.zhihu.com/search?q=今日谷雨)
-1. [掘金大胜森林狼](https://www.zhihu.com/search?q=掘金大胜森林狼)
 1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=山东泰山vs上海海港)
 1. [BLG战胜AL](https://www.zhihu.com/search?q=BLG战胜AL)
 1. [北京晚霞](https://www.zhihu.com/search?q=北京晚霞)
