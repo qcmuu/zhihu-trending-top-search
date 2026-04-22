@@ -15,15 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 22 2026 10:27:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 22 2026 13:23:52 GMT+0800 (China Standard Time) -->
 
-1. [Kimi 发布并开源 K2.6](https://www.zhihu.com/search?q=Kimi 发布并开源 K2.6)
-1. [100多位演员入驻爱奇艺AI库](https://www.zhihu.com/search?q=100多位演员入驻爱奇艺AI库)
-1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=蜜蜂为什么要把身上的花粉刮下来)
+1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
+1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
+1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [何润东翻红](https://www.zhihu.com/search?q=何润东翻红)
 1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
 1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=拼多多被罚
    15.2 亿且暴力阻碍监管)
 1. [孙杨张豆豆妻子的浪漫旅行表现](https://www.zhihu.com/search?q=孙杨张豆豆妻子的浪漫旅行表现)
+1. [Kimi 发布并开源 K2.6](https://www.zhihu.com/search?q=Kimi 发布并开源 K2.6)
+1. [100多位演员入驻爱奇艺AI库](https://www.zhihu.com/search?q=100多位演员入驻爱奇艺AI库)
+1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=蜜蜂为什么要把身上的花粉刮下来)
 1. [国产光纤部分产品价格暴涨
    650%](https://www.zhihu.com/search?q=国产光纤部分产品价格暴涨 650%)
 1. [曝《歌手 2026》阵容](https://www.zhihu.com/search?q=曝《歌手 2026》阵容)
@@ -32,7 +39,6 @@
 1. [勇士vs太阳](https://www.zhihu.com/search?q=勇士vs太阳)
 1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
 1. [掘金大胜森林狼](https://www.zhihu.com/search?q=掘金大胜森林狼)
-1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
 1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=内心强大的人有什么特点)

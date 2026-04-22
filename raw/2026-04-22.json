@@ -1,13 +1,14 @@
 [
-  { "query": "Kimi 发布并开源 K2.6", "display_query": "Kimi 发布并开源 K2.6" },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
   {
-    "query": "100多位演员入驻爱奇艺AI库",
-    "display_query": "100多位演员入驻爱奇艺AI库"
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
   },
-  {
-    "query": "蜜蜂为什么要把身上的花粉刮下来",
-    "display_query": "蜜蜂为什么要把身上的花粉刮下来"
-  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "何润东翻红", "display_query": "何润东翻红" },
   { "query": "2026 苏超", "display_query": "2026 苏超" },
   {
     "query": "拼多多被罚 15.2 亿且暴力阻碍监管",
@@ -16,6 +17,15 @@
   {
     "query": "孙杨张豆豆妻子的浪漫旅行表现",
     "display_query": "孙杨张豆豆妻子的浪漫旅行表现"
+  },
+  { "query": "Kimi 发布并开源 K2.6", "display_query": "Kimi 发布并开源 K2.6" },
+  {
+    "query": "100多位演员入驻爱奇艺AI库",
+    "display_query": "100多位演员入驻爱奇艺AI库"
+  },
+  {
+    "query": "蜜蜂为什么要把身上的花粉刮下来",
+    "display_query": "蜜蜂为什么要把身上的花粉刮下来"
   },
   {
     "query": "国产光纤部分产品价格暴涨 650%",
@@ -33,7 +43,6 @@
   { "query": "勇士vs太阳", "display_query": "勇士vs太阳" },
   { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
   { "query": "掘金大胜森林狼", "display_query": "掘金大胜森林狼" },
-  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   {
     "query": "怎样才能叫做真正会科研的人",
     "display_query": "怎样才能叫做真正会科研的人"
