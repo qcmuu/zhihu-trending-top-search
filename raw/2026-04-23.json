@@ -1,0 +1,21 @@
+[
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "小米汽车", "display_query": "小米汽车" },
+  { "query": "接英雄回家", "display_query": "接英雄回家" },
+  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  {
+    "query": "明白什么道理后你就不再焦虑了",
+    "display_query": "明白什么道理后你就不再焦虑了"
+  },
+  {
+    "query": "内心强大的人有什么特点",
+    "display_query": "内心强大的人有什么特点"
+  },
+  { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
+  {
+    "query": "哪些名场面让你记住了整部动漫",
+    "display_query": "哪些名场面让你记住了整部动漫"
+  },
+  { "query": "你曾经错过大牛股吗", "display_query": "你曾经错过大牛股吗" }
+]
