@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 22 2026 21:23:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 22 2026 23:11:08 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [小米汽车](https://www.zhihu.com/search?q=小米汽车)
