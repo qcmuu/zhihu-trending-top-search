@@ -1,6 +1,23 @@
 [
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
   { "query": "小米汽车", "display_query": "小米汽车" },
+  { "query": "接英雄回家", "display_query": "接英雄回家" },
+  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
   { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  {
+    "query": "明白什么道理后你就不再焦虑了",
+    "display_query": "明白什么道理后你就不再焦虑了"
+  },
+  {
+    "query": "内心强大的人有什么特点",
+    "display_query": "内心强大的人有什么特点"
+  },
+  { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
+  {
+    "query": "哪些名场面让你记住了整部动漫",
+    "display_query": "哪些名场面让你记住了整部动漫"
+  },
+  { "query": "你曾经错过大牛股吗", "display_query": "你曾经错过大牛股吗" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -42,7 +59,6 @@
     "display_query": "一高中学生集中选物化生致师资紧缺"
   },
   { "query": "勇士vs太阳", "display_query": "勇士vs太阳" },
-  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
   { "query": "掘金大胜森林狼", "display_query": "掘金大胜森林狼" },
   {
     "query": "怎样才能叫做真正会科研的人",
@@ -53,13 +69,8 @@
     "display_query": "美国情报系统现在属于什么水平"
   },
   {
-    "query": "内心强大的人有什么特点",
-    "display_query": "内心强大的人有什么特点"
-  },
-  {
     "query": "为什么有的人特别容易紧张",
     "display_query": "为什么有的人特别容易紧张"
   },
-  { "query": "你曾经错过大牛股吗", "display_query": "你曾经错过大牛股吗" },
   { "query": "什么生活常识必须知道", "display_query": "什么生活常识必须知道" }
 ]
