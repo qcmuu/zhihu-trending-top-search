@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 23 2026 13:28:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 23 2026 15:49:16 GMT+0800 (China Standard Time) -->
 
-1. [小米汽车](https://www.zhihu.com/search?q=小米汽车)
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
@@ -27,6 +26,8 @@
 1. [何润东翻红](https://www.zhihu.com/search?q=何润东翻红)
 1. [低精力是因为杏仁核长期应激吗](https://www.zhihu.com/search?q=低精力是因为杏仁核长期应激吗)
 1. [万达电影更名为儒意电影](https://www.zhihu.com/search?q=万达电影更名为儒意电影)
+1. [峰学未来大鹏老师离职后疑私联客户](https://www.zhihu.com/search?q=峰学未来大鹏老师离职后疑私联客户)
+1. [小米汽车](https://www.zhihu.com/search?q=小米汽车)
 1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
 1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=拼多多被罚
    15.2 亿且暴力阻碍监管)

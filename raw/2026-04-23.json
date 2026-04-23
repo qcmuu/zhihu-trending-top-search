@@ -1,5 +1,4 @@
 [
-  { "query": "小米汽车", "display_query": "小米汽车" },
   { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
@@ -18,6 +17,11 @@
     "query": "万达电影更名为儒意电影",
     "display_query": "万达电影更名为儒意电影"
   },
+  {
+    "query": "峰学未来大鹏老师离职后疑私联客户",
+    "display_query": "峰学未来大鹏老师离职后疑私联客户"
+  },
+  { "query": "小米汽车", "display_query": "小米汽车" },
   { "query": "2026 苏超", "display_query": "2026 苏超" },
   {
     "query": "拼多多被罚 15.2 亿且暴力阻碍监管",
