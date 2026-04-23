@@ -1,9 +1,23 @@
 [
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
   { "query": "小米汽车", "display_query": "小米汽车" },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "何润东翻红", "display_query": "何润东翻红" },
+  { "query": "2026 苏超", "display_query": "2026 苏超" },
+  {
+    "query": "拼多多被罚 15.2 亿且暴力阻碍监管",
+    "display_query": "拼多多被罚 15.2 亿且暴力阻碍监管"
+  },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
   { "query": "接英雄回家", "display_query": "接英雄回家" },
   { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
-  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   {
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"

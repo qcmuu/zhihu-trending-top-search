@@ -15,13 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 23 2026 07:43:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 23 2026 10:30:52 GMT+0800 (China Standard Time) -->
 
-1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [小米汽车](https://www.zhihu.com/search?q=小米汽车)
+1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
+1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
+1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [何润东翻红](https://www.zhihu.com/search?q=何润东翻红)
+1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
+1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=拼多多被罚
+   15.2 亿且暴力阻碍监管)
+1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [接英雄回家](https://www.zhihu.com/search?q=接英雄回家)
 1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
-1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
 1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=内心强大的人有什么特点)
 1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=自己做饭真的很省钱吗)
