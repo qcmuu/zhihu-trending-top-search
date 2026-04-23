@@ -1,6 +1,12 @@
 [
-  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  {
+    "query": "苹果或被印度罚款380亿美元",
+    "display_query": "苹果或被印度罚款380亿美元"
+  },
+  {
+    "query": "苹果拒绝提交财务数据被印度重罚",
+    "display_query": "苹果拒绝提交财务数据被印度重罚"
+  },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
   {
@@ -10,16 +16,22 @@
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "何润东翻红", "display_query": "何润东翻红" },
   {
-    "query": "低精力是因为杏仁核长期应激吗",
-    "display_query": "低精力是因为杏仁核长期应激吗"
-  },
-  {
     "query": "万达电影更名为儒意电影",
     "display_query": "万达电影更名为儒意电影"
   },
   {
     "query": "峰学未来大鹏老师离职后疑私联客户",
     "display_query": "峰学未来大鹏老师离职后疑私联客户"
+  },
+  {
+    "query": "网传 DeepSeek V4 即将发布",
+    "display_query": "网传 DeepSeek V4 即将发布"
+  },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  {
+    "query": "低精力是因为杏仁核长期应激吗",
+    "display_query": "低精力是因为杏仁核长期应激吗"
   },
   { "query": "小米汽车", "display_query": "小米汽车" },
   { "query": "2026 苏超", "display_query": "2026 苏超" },
