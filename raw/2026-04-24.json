@@ -1,5 +1,8 @@
 [
-  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
+  {
+    "query": "卡尔南开大学二轮调剂被刷",
+    "display_query": "卡尔南开大学二轮调剂被刷"
+  },
   {
     "query": "为什么现在的孩子会沉迷手机",
     "display_query": "为什么现在的孩子会沉迷手机"
@@ -20,5 +23,6 @@
   {
     "query": "体制内被边缘化是好事吗",
     "display_query": "体制内被边缘化是好事吗"
-  }
+  },
+  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" }
 ]
