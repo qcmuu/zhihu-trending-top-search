@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 24 2026 23:05:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 25 2026 00:53:53 GMT+0800 (China Standard Time) -->
 
 1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=华晨宇演唱会延期)
 1. [中国航天日](https://www.zhihu.com/search?q=中国航天日)
@@ -28,28 +28,6 @@
 1. [网传 DeepSeek V4 即将发布](https://www.zhihu.com/search?q=网传 DeepSeek V4
    即将发布)
 1. [宇树h1机器人被担架抬离赛道](https://www.zhihu.com/search?q=宇树h1机器人被担架抬离赛道)
-1. [女子网购1450单全退货店家损失12万](https://www.zhihu.com/search?q=女子网购1450单全退货店家损失12万)
-1. [陈妍希告了陈晓粉丝](https://www.zhihu.com/search?q=陈妍希告了陈晓粉丝)
-1. [Kimi 发布并开源 K2.6](https://www.zhihu.com/search?q=Kimi 发布并开源 K2.6)
-1. [番茄上金番作者用 AI 写作](https://www.zhihu.com/search?q=番茄上金番作者用 AI
-   写作)
-1. [为何云南泼水节变味了](https://www.zhihu.com/search?q=为何云南泼水节变味了)
-1. [梁家辉五封影帝](https://www.zhihu.com/search?q=梁家辉五封影帝)
-1. [100多位演员入驻爱奇艺AI库](https://www.zhihu.com/search?q=100多位演员入驻爱奇艺AI库)
-1. [项飙在高校讲座场场爆满](https://www.zhihu.com/search?q=项飙在高校讲座场场爆满)
-1. [女子产后被男友起诉退彩礼分娩费](https://www.zhihu.com/search?q=女子产后被男友起诉退彩礼分娩费)
-1. [爱奇艺回应AI授权](https://www.zhihu.com/search?q=爱奇艺回应AI授权)
-1. [卡尔南开大学二轮调剂被刷](https://www.zhihu.com/search?q=卡尔南开大学二轮调剂被刷)
-1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
-1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
-1. [你曾经错过大牛股吗](https://www.zhihu.com/search?q=你曾经错过大牛股吗)
-1. [什么生活常识必须知道](https://www.zhihu.com/search?q=什么生活常识必须知道)
-1. [真的有先父遗传吗](https://www.zhihu.com/search?q=真的有先父遗传吗)
-1. [为什么安陵容这类人难相处](https://www.zhihu.com/search?q=为什么安陵容这类人难相处)
-1. [为什么要无条件爱孩子](https://www.zhihu.com/search?q=为什么要无条件爱孩子)
-1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
-1. [体制内被边缘化是好事吗](https://www.zhihu.com/search?q=体制内被边缘化是好事吗)
-1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
 
 <!-- END -->
 
