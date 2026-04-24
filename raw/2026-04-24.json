@@ -1,4 +1,29 @@
 [
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "网传 DeepSeek V4 即将发布",
+    "display_query": "网传 DeepSeek V4 即将发布"
+  },
+  {
+    "query": "100多位演员入驻爱奇艺AI库",
+    "display_query": "100多位演员入驻爱奇艺AI库"
+  },
+  {
+    "query": "项飙在高校讲座场场爆满",
+    "display_query": "项飙在高校讲座场场爆满"
+  },
+  {
+    "query": "女子产后被男友起诉退彩礼分娩费",
+    "display_query": "女子产后被男友起诉退彩礼分娩费"
+  },
+  { "query": "爱奇艺回应AI授权", "display_query": "爱奇艺回应AI授权" },
   {
     "query": "卡尔南开大学二轮调剂被刷",
     "display_query": "卡尔南开大学二轮调剂被刷"
