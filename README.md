@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 25 2026 23:37:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 26 2026 00:39:00 GMT+0800 (China Standard Time) -->
 
 1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=华晨宇演唱会延期)
 1. [中国航天日](https://www.zhihu.com/search?q=中国航天日)
@@ -27,15 +27,6 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
 1. [宇树h1机器人被担架抬离赛道](https://www.zhihu.com/search?q=宇树h1机器人被担架抬离赛道)
-1. [5月将迎中等及以上强度厄尔尼诺](https://www.zhihu.com/search?q=5月将迎中等及以上强度厄尔尼诺)
-1. [网传 DeepSeek V4 即将发布](https://www.zhihu.com/search?q=网传 DeepSeek V4
-   即将发布)
-1. [在苏州怎么玩才能不虚此行](https://www.zhihu.com/search?q=在苏州怎么玩才能不虚此行)
-1. [李心洁安崎《最长的电影》](https://www.zhihu.com/search?q=李心洁安崎《最长的电影》)
-1. [Kimi 发布并开源 K2.6](https://www.zhihu.com/search?q=Kimi 发布并开源 K2.6)
-1. [大厂员工称996辛苦是演的](https://www.zhihu.com/search?q=大厂员工称996辛苦是演的)
-1. [奇瑞高管称车企刹车盘越来越小](https://www.zhihu.com/search?q=奇瑞高管称车企刹车盘越来越小)
-1. [张雪机车首回合第4](https://www.zhihu.com/search?q=张雪机车首回合第4)
 
 <!-- END -->
 
