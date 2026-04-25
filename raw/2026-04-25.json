@@ -1,13 +1,15 @@
 [
-  {
-    "query": "在苏州怎么玩才能不虚此行",
-    "display_query": "在苏州怎么玩才能不虚此行"
-  },
-  {
-    "query": "李心洁安崎《最长的电影》",
-    "display_query": "李心洁安崎《最长的电影》"
-  },
+  { "query": "华晨宇演唱会延期", "display_query": "华晨宇演唱会延期" },
+  { "query": "中国航天日", "display_query": "中国航天日" },
   { "query": "小米yu7", "display_query": "小米yu7" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "网传 DeepSeek V4 即将发布",
     "display_query": "网传 DeepSeek V4 即将发布"
@@ -15,6 +17,14 @@
   {
     "query": "宇树h1机器人被担架抬离赛道",
     "display_query": "宇树h1机器人被担架抬离赛道"
+  },
+  {
+    "query": "在苏州怎么玩才能不虚此行",
+    "display_query": "在苏州怎么玩才能不虚此行"
+  },
+  {
+    "query": "李心洁安崎《最长的电影》",
+    "display_query": "李心洁安崎《最长的电影》"
   },
   {
     "query": "5月将迎中等及以上强度厄尔尼诺",
@@ -29,15 +39,5 @@
     "query": "奇瑞高管称车企刹车盘越来越小",
     "display_query": "奇瑞高管称车企刹车盘越来越小"
   },
-  { "query": "张雪机车首回合第4", "display_query": "张雪机车首回合第4" },
-  { "query": "华晨宇演唱会延期", "display_query": "华晨宇演唱会延期" },
-  { "query": "中国航天日", "display_query": "中国航天日" },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
-  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
-  {
-    "query": "伊朗会不会成为下一个伊拉克",
-    "display_query": "伊朗会不会成为下一个伊拉克"
-  },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" }
+  { "query": "张雪机车首回合第4", "display_query": "张雪机车首回合第4" }
 ]
