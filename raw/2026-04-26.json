@@ -1,7 +1,25 @@
 [
+  { "query": "海军昆仑山舰两栖重器", "display_query": "海军昆仑山舰两栖重器" },
+  { "query": "小米yu7", "display_query": "小米yu7" },
+  { "query": "2026 苏超", "display_query": "2026 苏超" },
+  {
+    "query": "宇树h1机器人被担架抬离赛道",
+    "display_query": "宇树h1机器人被担架抬离赛道"
+  },
+  {
+    "query": "5月将迎中等及以上强度厄尔尼诺",
+    "display_query": "5月将迎中等及以上强度厄尔尼诺"
+  },
+  { "query": "张雪机车首回合第4", "display_query": "张雪机车首回合第4" },
+  { "query": "丁俊晖晋级世锦赛16强", "display_query": "丁俊晖晋级世锦赛16强" },
+  { "query": "MJ传记片《巨星之路》", "display_query": "MJ传记片《巨星之路》" },
+  {
+    "query": "高市早苗向靖国神社献祭品",
+    "display_query": "高市早苗向靖国神社献祭品"
+  },
+  { "query": "肖战尚界", "display_query": "肖战尚界" },
   { "query": "华晨宇演唱会延期", "display_query": "华晨宇演唱会延期" },
   { "query": "中国航天日", "display_query": "中国航天日" },
-  { "query": "小米yu7", "display_query": "小米yu7" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -9,10 +27,5 @@
     "query": "伊朗会不会成为下一个伊拉克",
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
-  { "query": "2026 苏超", "display_query": "2026 苏超" },
-  {
-    "query": "宇树h1机器人被担架抬离赛道",
-    "display_query": "宇树h1机器人被担架抬离赛道"
-  }
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" }
 ]
