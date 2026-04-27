@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 27 2026 23:45:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 28 2026 01:19:45 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [什么叫假努力](https://www.zhihu.com/search?q=什么叫假努力)
@@ -27,27 +27,6 @@
 1. [tes战胜nip](https://www.zhihu.com/search?q=tes战胜nip)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [赵心童战胜丁俊晖](https://www.zhihu.com/search?q=赵心童战胜丁俊晖)
-1. [强降雨致广西钦州内涝](https://www.zhihu.com/search?q=强降雨致广西钦州内涝)
-1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=内心强大的人有什么特点)
-1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
-1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
-1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
-1. [2026北京车展](https://www.zhihu.com/search?q=2026北京车展)
-1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=华晨宇玉溪演唱会延期退票)
-1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI发布GPT-5.5)
-1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek V4
-   预览版上线并开源)
-1. [大学生「宿舍创业」开理发店做美甲](https://www.zhihu.com/search?q=大学生「宿舍创业」开理发店做美甲)
-1. [青岛马拉松一选手边跑边跳绳遭禁赛](https://www.zhihu.com/search?q=青岛马拉松一选手边跑边跳绳遭禁赛)
-1. [家长索要电子试卷被老师指责派头大](https://www.zhihu.com/search?q=家长索要电子试卷被老师指责派头大)
-1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=华晨宇演唱会延期)
-1. [中国航天日](https://www.zhihu.com/search?q=中国航天日)
-1. [小米yu7](https://www.zhihu.com/search?q=小米yu7)
-1. [宇树h1机器人被担架抬离赛道](https://www.zhihu.com/search?q=宇树h1机器人被担架抬离赛道)
-1. [5月将迎中等及以上强度厄尔尼诺](https://www.zhihu.com/search?q=5月将迎中等及以上强度厄尔尼诺)
 
 <!-- END -->
 
