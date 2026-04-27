@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 27 2026 19:02:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 27 2026 21:48:46 GMT+0800 (China Standard Time) -->
 
-1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
-1. [什么叫假努力](https://www.zhihu.com/search?q=什么叫假努力)
+1. [强降雨致广西钦州内涝](https://www.zhihu.com/search?q=强降雨致广西钦州内涝)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [DNF西装节](https://www.zhihu.com/search?q=DNF西装节)
 1. [沪深两市成交额突破1万亿](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿)
@@ -27,6 +26,9 @@
 1. [tes战胜nip](https://www.zhihu.com/search?q=tes战胜nip)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [赵心童战胜丁俊晖](https://www.zhihu.com/search?q=赵心童战胜丁俊晖)
+1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=内心强大的人有什么特点)
+1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
+1. [什么叫假努力](https://www.zhihu.com/search?q=什么叫假努力)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
