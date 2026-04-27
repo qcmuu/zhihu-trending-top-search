@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 28 2026 03:18:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 28 2026 04:59:58 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [什么叫假努力](https://www.zhihu.com/search?q=什么叫假努力)
