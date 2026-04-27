@@ -1,7 +1,4 @@
 [
-  { "query": "华晨宇演唱会延期", "display_query": "华晨宇演唱会延期" },
-  { "query": "中国航天日", "display_query": "中国航天日" },
-  { "query": "小米yu7", "display_query": "小米yu7" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -10,6 +7,23 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "2026北京车展", "display_query": "2026北京车展" },
+  {
+    "query": "华晨宇玉溪演唱会延期退票",
+    "display_query": "华晨宇玉溪演唱会延期退票"
+  },
+  { "query": "OpenAI发布GPT-5.5", "display_query": "OpenAI发布GPT-5.5" },
+  {
+    "query": "家长索要电子试卷被老师指责派头大",
+    "display_query": "家长索要电子试卷被老师指责派头大"
+  },
+  {
+    "query": "DeepSeek V4 预览版上线并开源",
+    "display_query": "DeepSeek V4 预览版上线并开源"
+  },
+  { "query": "华晨宇演唱会延期", "display_query": "华晨宇演唱会延期" },
+  { "query": "中国航天日", "display_query": "中国航天日" },
+  { "query": "小米yu7", "display_query": "小米yu7" },
   {
     "query": "宇树h1机器人被担架抬离赛道",
     "display_query": "宇树h1机器人被担架抬离赛道"
