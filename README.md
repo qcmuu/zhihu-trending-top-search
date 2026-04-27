@@ -15,20 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 27 2026 13:52:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 27 2026 16:21:39 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
+1. [2026北京车展](https://www.zhihu.com/search?q=2026北京车展)
 1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=华晨宇玉溪演唱会延期退票)
 1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI发布GPT-5.5)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek V4
    预览版上线并开源)
 1. [大学生「宿舍创业」开理发店做美甲](https://www.zhihu.com/search?q=大学生「宿舍创业」开理发店做美甲)
 1. [青岛马拉松一选手边跑边跳绳遭禁赛](https://www.zhihu.com/search?q=青岛马拉松一选手边跑边跳绳遭禁赛)
-1. [2026北京车展](https://www.zhihu.com/search?q=2026北京车展)
 1. [家长索要电子试卷被老师指责派头大](https://www.zhihu.com/search?q=家长索要电子试卷被老师指责派头大)
 1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=华晨宇演唱会延期)
 1. [中国航天日](https://www.zhihu.com/search?q=中国航天日)
