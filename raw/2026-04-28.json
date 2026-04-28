@@ -1,4 +1,7 @@
 [
+  { "query": "曼联2:1布伦特福德", "display_query": "曼联2:1布伦特福德" },
+  { "query": "tes战胜nip", "display_query": "tes战胜nip" },
+  { "query": "雷霆vs太阳", "display_query": "雷霆vs太阳" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -37,7 +40,6 @@
   },
   { "query": "王鹤棣演技", "display_query": "王鹤棣演技" },
   { "query": "DeepSeek", "display_query": "DeepSeek" },
-  { "query": "tes战胜nip", "display_query": "tes战胜nip" },
   {
     "query": "怎样才能叫做真正会科研的人",
     "display_query": "怎样才能叫做真正会科研的人"
