@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 29 2026 23:11:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 30 2026 01:26:20 GMT+0800 (China Standard Time) -->
 
 1. [掘金vs森林狼](https://www.zhihu.com/search?q=掘金vs森林狼)
 1. [老鹰vs尼克斯](https://www.zhihu.com/search?q=老鹰vs尼克斯)
@@ -27,20 +27,6 @@
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [一加ace6至尊版](https://www.zhihu.com/search?q=一加ace6至尊版)
-1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=华晨宇玉溪演唱会延期退票)
-1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI发布GPT-5.5)
-1. [Labubu 冰箱将发售 5999 元](https://www.zhihu.com/search?q=Labubu 冰箱将发售
-   5999 元)
-1. [东方甄选4名主播集体离职](https://www.zhihu.com/search?q=东方甄选4名主播集体离职)
-1. [25 岁女孩确诊黑色素瘤 5 个月离世](https://www.zhihu.com/search?q=25
-   岁女孩确诊黑色素瘤 5 个月离世)
-1. [阿 Sa 蔡卓妍官宣结婚](https://www.zhihu.com/search?q=阿 Sa 蔡卓妍官宣结婚)
-1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek v4
-   百万上下文)
-1. [曼联2:1布伦特福德](https://www.zhihu.com/search?q=曼联2:1布伦特福德)
-1. [tes战胜nip](https://www.zhihu.com/search?q=tes战胜nip)
-1. [雷霆vs太阳](https://www.zhihu.com/search?q=雷霆vs太阳)
-1. [宋祖儿被指瘦脱相了](https://www.zhihu.com/search?q=宋祖儿被指瘦脱相了)
 
 <!-- END -->
 
