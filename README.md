@@ -15,13 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 29 2026 16:14:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 29 2026 18:54:02 GMT+0800 (China Standard Time) -->
 
+1. [掘金vs森林狼](https://www.zhihu.com/search?q=掘金vs森林狼)
+1. [老鹰vs尼克斯](https://www.zhihu.com/search?q=老鹰vs尼克斯)
+1. [AL战胜iG](https://www.zhihu.com/search?q=AL战胜iG)
+1. [开拓者vs马刺](https://www.zhihu.com/search?q=开拓者vs马刺)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [一加ace6至尊版](https://www.zhihu.com/search?q=一加ace6至尊版)
 1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=华晨宇玉溪演唱会延期退票)
 1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI发布GPT-5.5)
 1. [Labubu 冰箱将发售 5999 元](https://www.zhihu.com/search?q=Labubu 冰箱将发售
