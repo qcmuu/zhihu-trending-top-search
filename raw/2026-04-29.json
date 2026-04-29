@@ -1,9 +1,9 @@
 [
-  { "query": "曼联2:1布伦特福德", "display_query": "曼联2:1布伦特福德" },
-  { "query": "tes战胜nip", "display_query": "tes战胜nip" },
-  { "query": "雷霆vs太阳", "display_query": "雷霆vs太阳" },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "阿 Sa 蔡卓妍官宣结婚", "display_query": "阿 Sa 蔡卓妍官宣结婚" },
+  {
+    "query": "东方甄选4名主播集体离职",
+    "display_query": "东方甄选4名主播集体离职"
+  },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
   {
     "query": "伊朗会不会成为下一个伊拉克",
@@ -14,5 +14,19 @@
     "query": "华晨宇玉溪演唱会延期退票",
     "display_query": "华晨宇玉溪演唱会延期退票"
   },
+  { "query": "OpenAI发布GPT-5.5", "display_query": "OpenAI发布GPT-5.5" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  {
+    "query": "DeepSeek v4 百万上下文",
+    "display_query": "DeepSeek v4 百万上下文"
+  },
+  {
+    "query": "Labubu 冰箱将发售 5999 元",
+    "display_query": "Labubu 冰箱将发售 5999 元"
+  },
+  { "query": "曼联2:1布伦特福德", "display_query": "曼联2:1布伦特福德" },
+  { "query": "tes战胜nip", "display_query": "tes战胜nip" },
+  { "query": "雷霆vs太阳", "display_query": "雷霆vs太阳" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "宋祖儿被指瘦脱相了", "display_query": "宋祖儿被指瘦脱相了" }
 ]
