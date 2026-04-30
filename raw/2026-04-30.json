@@ -1,8 +1,4 @@
 [
-  { "query": "掘金vs森林狼", "display_query": "掘金vs森林狼" },
-  { "query": "老鹰vs尼克斯", "display_query": "老鹰vs尼克斯" },
-  { "query": "AL战胜iG", "display_query": "AL战胜iG" },
-  { "query": "开拓者vs马刺", "display_query": "开拓者vs马刺" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -11,5 +7,26 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "OpenAI发布GPT-5.5", "display_query": "OpenAI发布GPT-5.5" },
+  {
+    "query": "伊方称霍尔木兹海峡不得恢复战前状态",
+    "display_query": "伊方称霍尔木兹海峡不得恢复战前状态"
+  },
+  {
+    "query": "人类全马成绩首次正式突破 2 小时",
+    "display_query": "人类全马成绩首次正式突破 2 小时"
+  },
+  {
+    "query": "只投硅基消费远离碳基消费",
+    "display_query": "只投硅基消费远离碳基消费"
+  },
+  {
+    "query": "全谷物替代主食抗炎胜果蔬",
+    "display_query": "全谷物替代主食抗炎胜果蔬"
+  },
+  { "query": "掘金vs森林狼", "display_query": "掘金vs森林狼" },
+  { "query": "老鹰vs尼克斯", "display_query": "老鹰vs尼克斯" },
+  { "query": "AL战胜iG", "display_query": "AL战胜iG" },
+  { "query": "开拓者vs马刺", "display_query": "开拓者vs马刺" },
   { "query": "一加ace6至尊版", "display_query": "一加ace6至尊版" }
 ]
