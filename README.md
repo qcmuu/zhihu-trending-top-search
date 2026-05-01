@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 01 2026 18:38:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 01 2026 19:57:43 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
@@ -27,8 +27,9 @@
    预览版上线并开源)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek v4
    百万上下文)
-1. [网友做完光子嫩肤后眼睛不适](https://www.zhihu.com/search?q=网友做完光子嫩肤后眼睛不适)
 1. [2026五一档](https://www.zhihu.com/search?q=2026五一档)
+1. [追觅发布火箭汽车](https://www.zhihu.com/search?q=追觅发布火箭汽车)
+1. [网友做完光子嫩肤后眼睛不适](https://www.zhihu.com/search?q=网友做完光子嫩肤后眼睛不适)
 1. [2026五一假期](https://www.zhihu.com/search?q=2026五一假期)
 1. [追觅CEO炮轰小红书](https://www.zhihu.com/search?q=追觅CEO炮轰小红书)
 1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
