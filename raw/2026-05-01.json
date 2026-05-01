@@ -1,16 +1,7 @@
 [
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
-  {
-    "query": "伊朗会不会成为下一个伊拉克",
-    "display_query": "伊朗会不会成为下一个伊拉克"
-  },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
-  {
-    "query": "蜜蜂为什么要把身上的花粉刮下来",
-    "display_query": "蜜蜂为什么要把身上的花粉刮下来"
-  },
   {
     "query": "DeepSeek V4 预览版上线并开源",
     "display_query": "DeepSeek V4 预览版上线并开源"
@@ -21,6 +12,27 @@
   },
   { "query": "2026五一档", "display_query": "2026五一档" },
   { "query": "追觅发布火箭汽车", "display_query": "追觅发布火箭汽车" },
+  {
+    "query": "DeepSeek发布多模态大模型",
+    "display_query": "DeepSeek发布多模态大模型"
+  },
+  {
+    "query": "教授呼吁大学向社会开放",
+    "display_query": "教授呼吁大学向社会开放"
+  },
+  {
+    "query": "曝吴宣仪提出解约遭乐华拒绝",
+    "display_query": "曝吴宣仪提出解约遭乐华拒绝"
+  },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  {
+    "query": "蜜蜂为什么要把身上的花粉刮下来",
+    "display_query": "蜜蜂为什么要把身上的花粉刮下来"
+  },
   {
     "query": "网友做完光子嫩肤后眼睛不适",
     "display_query": "网友做完光子嫩肤后眼睛不适"
