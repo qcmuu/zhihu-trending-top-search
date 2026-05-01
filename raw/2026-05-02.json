@@ -1,6 +1,9 @@
 [
-  { "query": "ai广告 骗中老年人", "display_query": "ai广告 骗中老年人" },
-  { "query": "旅游你会避开节假日吗", "display_query": "旅游你会避开节假日吗" },
+  { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
+  {
+    "query": "美联储宣布维持利率不变",
+    "display_query": "美联储宣布维持利率不变"
+  },
   {
     "query": "欧洲央行维持三大关键利率不变",
     "display_query": "欧洲央行维持三大关键利率不变"
@@ -15,9 +18,6 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
-  { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
-  {
-    "query": "美联储宣布维持利率不变",
-    "display_query": "美联储宣布维持利率不变"
-  }
+  { "query": "ai广告 骗中老年人", "display_query": "ai广告 骗中老年人" },
+  { "query": "旅游你会避开节假日吗", "display_query": "旅游你会避开节假日吗" }
 ]
