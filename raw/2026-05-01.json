@@ -15,16 +15,16 @@
     "query": "DeepSeek v4 百万上下文",
     "display_query": "DeepSeek v4 百万上下文"
   },
-  { "query": "2026五一档", "display_query": "2026五一档" },
   { "query": "追觅发布火箭汽车", "display_query": "追觅发布火箭汽车" },
   { "query": "阿 Sa 蔡卓妍官宣结婚", "display_query": "阿 Sa 蔡卓妍官宣结婚" },
   {
-    "query": "DeepSeek发布多模态大模型",
-    "display_query": "DeepSeek发布多模态大模型"
-  },
-  {
     "query": "教授呼吁大学向社会开放",
     "display_query": "教授呼吁大学向社会开放"
+  },
+  { "query": "2026五一档", "display_query": "2026五一档" },
+  {
+    "query": "DeepSeek发布多模态大模型",
+    "display_query": "DeepSeek发布多模态大模型"
   },
   {
     "query": "曝吴宣仪提出解约遭乐华拒绝",
