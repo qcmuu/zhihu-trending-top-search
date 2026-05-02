@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 02 2026 23:42:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 03 2026 01:41:17 GMT+0800 (China Standard Time) -->
 
-1. [微信朋友圈改版](https://www.zhihu.com/search?q=微信朋友圈改版)
+1. [湖人淘汰火箭](https://www.zhihu.com/search?q=湖人淘汰火箭)
+1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
 1. [暴雨大暴雨要来了](https://www.zhihu.com/search?q=暴雨大暴雨要来了)
 1. [怎么样才是真正的休息](https://www.zhihu.com/search?q=怎么样才是真正的休息)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
@@ -26,21 +27,6 @@
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [活塞vs魔术](https://www.zhihu.com/search?q=活塞vs魔术)
-1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek V4
-   预览版上线并开源)
-1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
-1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek v4
-   百万上下文)
-1. [张雪曾拒绝跟华为合作](https://www.zhihu.com/search?q=张雪曾拒绝跟华为合作)
-1. [阿 Sa 蔡卓妍官宣结婚](https://www.zhihu.com/search?q=阿 Sa 蔡卓妍官宣结婚)
-1. [教授呼吁大学向社会开放](https://www.zhihu.com/search?q=教授呼吁大学向社会开放)
-1. [曝吴宣仪提出解约遭乐华拒绝](https://www.zhihu.com/search?q=曝吴宣仪提出解约遭乐华拒绝)
-1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
-1. [欧洲央行维持三大关键利率不变](https://www.zhihu.com/search?q=欧洲央行维持三大关键利率不变)
-1. [老鹰vs尼克斯](https://www.zhihu.com/search?q=老鹰vs尼克斯)
-1. [你有哪些旅游技巧](https://www.zhihu.com/search?q=你有哪些旅游技巧)
-1. [ai广告 骗中老年人](https://www.zhihu.com/search?q=ai广告 骗中老年人)
-1. [旅游你会避开节假日吗](https://www.zhihu.com/search?q=旅游你会避开节假日吗)
 
 <!-- END -->
 
