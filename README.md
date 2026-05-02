@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 03 2026 05:38:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 03 2026 06:38:47 GMT+0800 (China Standard Time) -->
 
 1. [湖人淘汰火箭](https://www.zhihu.com/search?q=湖人淘汰火箭)
 1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
