@@ -1,6 +1,7 @@
 [
-  { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
+  { "query": "微信朋友圈改版", "display_query": "微信朋友圈改版" },
   { "query": "暴雨大暴雨要来了", "display_query": "暴雨大暴雨要来了" },
+  { "query": "怎么样才是真正的休息", "display_query": "怎么样才是真正的休息" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -9,10 +10,12 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "活塞vs魔术", "display_query": "活塞vs魔术" },
   {
     "query": "DeepSeek V4 预览版上线并开源",
     "display_query": "DeepSeek V4 预览版上线并开源"
   },
+  { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
   {
     "query": "DeepSeek v4 百万上下文",
     "display_query": "DeepSeek v4 百万上下文"

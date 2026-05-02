@@ -15,17 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 02 2026 22:44:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 02 2026 23:42:52 GMT+0800 (China Standard Time) -->
 
-1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
+1. [微信朋友圈改版](https://www.zhihu.com/search?q=微信朋友圈改版)
 1. [暴雨大暴雨要来了](https://www.zhihu.com/search?q=暴雨大暴雨要来了)
+1. [怎么样才是真正的休息](https://www.zhihu.com/search?q=怎么样才是真正的休息)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [活塞vs魔术](https://www.zhihu.com/search?q=活塞vs魔术)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek V4
    预览版上线并开源)
+1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek v4
    百万上下文)
 1. [张雪曾拒绝跟华为合作](https://www.zhihu.com/search?q=张雪曾拒绝跟华为合作)
