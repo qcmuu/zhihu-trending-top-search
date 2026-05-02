@@ -1,8 +1,31 @@
 [
-  { "query": "湖人淘汰火箭", "display_query": "湖人淘汰火箭" },
-  { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
+  {
+    "query": "伊能静回应恩利争议视频",
+    "display_query": "伊能静回应恩利争议视频"
+  },
+  {
+    "query": "阿联酋为何退出石油输出国组织",
+    "display_query": "阿联酋为何退出石油输出国组织"
+  },
   { "query": "暴雨大暴雨要来了", "display_query": "暴雨大暴雨要来了" },
   { "query": "怎么样才是真正的休息", "display_query": "怎么样才是真正的休息" },
+  { "query": "活塞vs魔术", "display_query": "活塞vs魔术" },
+  {
+    "query": "DeepSeek V4 预览版上线并开源",
+    "display_query": "DeepSeek V4 预览版上线并开源"
+  },
+  {
+    "query": "DeepSeek v4 百万上下文",
+    "display_query": "DeepSeek v4 百万上下文"
+  },
+  { "query": "火箭大胜湖人", "display_query": "火箭大胜湖人" },
+  { "query": "张雪曾拒绝跟华为合作", "display_query": "张雪曾拒绝跟华为合作" },
+  {
+    "query": "我国将对所有非洲建交国实施零关税",
+    "display_query": "我国将对所有非洲建交国实施零关税"
+  },
+  { "query": "湖人淘汰火箭", "display_query": "湖人淘汰火箭" },
+  { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -10,6 +33,5 @@
     "query": "伊朗会不会成为下一个伊拉克",
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
-  { "query": "活塞vs魔术", "display_query": "活塞vs魔术" }
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" }
 ]
