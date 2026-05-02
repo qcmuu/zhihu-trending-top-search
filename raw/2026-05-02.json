@@ -1,4 +1,29 @@
 [
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "DeepSeek V4 预览版上线并开源",
+    "display_query": "DeepSeek V4 预览版上线并开源"
+  },
+  {
+    "query": "DeepSeek v4 百万上下文",
+    "display_query": "DeepSeek v4 百万上下文"
+  },
+  { "query": "阿 Sa 蔡卓妍官宣结婚", "display_query": "阿 Sa 蔡卓妍官宣结婚" },
+  {
+    "query": "教授呼吁大学向社会开放",
+    "display_query": "教授呼吁大学向社会开放"
+  },
+  {
+    "query": "曝吴宣仪提出解约遭乐华拒绝",
+    "display_query": "曝吴宣仪提出解约遭乐华拒绝"
+  },
   { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
   {
     "query": "美联储宣布维持利率不变",
@@ -10,14 +35,6 @@
   },
   { "query": "老鹰vs尼克斯", "display_query": "老鹰vs尼克斯" },
   { "query": "你有哪些旅游技巧", "display_query": "你有哪些旅游技巧" },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
-  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
-  {
-    "query": "伊朗会不会成为下一个伊拉克",
-    "display_query": "伊朗会不会成为下一个伊拉克"
-  },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "ai广告 骗中老年人", "display_query": "ai广告 骗中老年人" },
   { "query": "旅游你会避开节假日吗", "display_query": "旅游你会避开节假日吗" }
 ]
