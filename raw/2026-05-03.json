@@ -9,6 +9,19 @@
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
+    "query": "我国将对所有非洲建交国实施零关税",
+    "display_query": "我国将对所有非洲建交国实施零关税"
+  },
+  { "query": "微信朋友圈改版", "display_query": "微信朋友圈改版" },
+  {
+    "query": "阿联酋退出石油输出国组织",
+    "display_query": "阿联酋退出石油输出国组织"
+  },
+  {
+    "query": "欧盟USB-C法规覆盖笔记本领域",
+    "display_query": "欧盟USB-C法规覆盖笔记本领域"
+  },
+  {
     "query": "DeepSeek V4 预览版上线并开源",
     "display_query": "DeepSeek V4 预览版上线并开源"
   },
@@ -16,11 +29,6 @@
     "query": "DeepSeek v4 百万上下文",
     "display_query": "DeepSeek v4 百万上下文"
   },
-  {
-    "query": "我国将对所有非洲建交国实施零关税",
-    "display_query": "我国将对所有非洲建交国实施零关税"
-  },
-  { "query": "微信朋友圈改版", "display_query": "微信朋友圈改版" },
   { "query": "怎么样才是真正的休息", "display_query": "怎么样才是真正的休息" },
   { "query": "活塞vs魔术", "display_query": "活塞vs魔术" },
   {
