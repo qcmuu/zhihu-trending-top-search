@@ -12,7 +12,6 @@
     "query": "我国将对所有非洲建交国实施零关税",
     "display_query": "我国将对所有非洲建交国实施零关税"
   },
-  { "query": "微信朋友圈改版", "display_query": "微信朋友圈改版" },
   {
     "query": "阿联酋退出石油输出国组织",
     "display_query": "阿联酋退出石油输出国组织"
@@ -21,6 +20,8 @@
     "query": "欧盟USB-C法规覆盖笔记本领域",
     "display_query": "欧盟USB-C法规覆盖笔记本领域"
   },
+  { "query": "景帝吃不吃老鼠", "display_query": "景帝吃不吃老鼠" },
+  { "query": "微信朋友圈改版", "display_query": "微信朋友圈改版" },
   {
     "query": "DeepSeek V4 预览版上线并开源",
     "display_query": "DeepSeek V4 预览版上线并开源"
