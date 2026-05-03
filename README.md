@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 03 2026 22:46:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 03 2026 23:44:56 GMT+0800 (China Standard Time) -->
 
 1. [湖人淘汰火箭](https://www.zhihu.com/search?q=湖人淘汰火箭)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
@@ -25,8 +25,9 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [我国将对所有非洲建交国实施零关税](https://www.zhihu.com/search?q=我国将对所有非洲建交国实施零关税)
 1. [阿联酋退出石油输出国组织](https://www.zhihu.com/search?q=阿联酋退出石油输出国组织)
-1. [欧盟USB-C法规覆盖笔记本领域](https://www.zhihu.com/search?q=欧盟USB-C法规覆盖笔记本领域)
 1. [景帝吃不吃老鼠](https://www.zhihu.com/search?q=景帝吃不吃老鼠)
+1. [年轻人不再「真情实感」地交流观点](https://www.zhihu.com/search?q=年轻人不再「真情实感」地交流观点)
+1. [欧盟USB-C法规覆盖笔记本领域](https://www.zhihu.com/search?q=欧盟USB-C法规覆盖笔记本领域)
 1. [微信朋友圈改版](https://www.zhihu.com/search?q=微信朋友圈改版)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek V4
    预览版上线并开源)

@@ -16,11 +16,15 @@
     "query": "阿联酋退出石油输出国组织",
     "display_query": "阿联酋退出石油输出国组织"
   },
+  { "query": "景帝吃不吃老鼠", "display_query": "景帝吃不吃老鼠" },
+  {
+    "query": "年轻人不再「真情实感」地交流观点",
+    "display_query": "年轻人不再「真情实感」地交流观点"
+  },
   {
     "query": "欧盟USB-C法规覆盖笔记本领域",
     "display_query": "欧盟USB-C法规覆盖笔记本领域"
   },
-  { "query": "景帝吃不吃老鼠", "display_query": "景帝吃不吃老鼠" },
   { "query": "微信朋友圈改版", "display_query": "微信朋友圈改版" },
   {
     "query": "DeepSeek V4 预览版上线并开源",
