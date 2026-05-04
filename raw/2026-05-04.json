@@ -1,8 +1,18 @@
 [
-  { "query": "ig战胜wbg", "display_query": "ig战胜wbg" },
   {
-    "query": "景区回应刘晓庆和王婆互动冷淡",
-    "display_query": "景区回应刘晓庆和王婆互动冷淡"
+    "query": "惊鸿一面小考全员状态在线",
+    "display_query": "惊鸿一面小考全员状态在线"
+  },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "我国将对所有非洲建交国实施零关税",
+    "display_query": "我国将对所有非洲建交国实施零关税"
   },
   {
     "query": "阿联酋退出石油输出国组织",
@@ -13,16 +23,25 @@
     "display_query": "国铁集团公布官方候补攻略"
   },
   {
+    "query": "广州地铁有人喷洒不明液体",
+    "display_query": "广州地铁有人喷洒不明液体"
+  },
+  {
+    "query": "女子徒手给月子里宝宝打耳洞",
+    "display_query": "女子徒手给月子里宝宝打耳洞"
+  },
+  { "query": "ig战胜wbg", "display_query": "ig战胜wbg" },
+  {
+    "query": "景区回应刘晓庆和王婆互动冷淡",
+    "display_query": "景区回应刘晓庆和王婆互动冷淡"
+  },
+  {
     "query": "国乒男队 2:3 不敌瑞典队",
     "display_query": "国乒男队 2:3 不敌瑞典队"
   },
   {
     "query": "福大毕业生毕业作品被盗用参赛获奖",
     "display_query": "福大毕业生毕业作品被盗用参赛获奖"
-  },
-  {
-    "query": "广州地铁有人喷洒不明液体",
-    "display_query": "广州地铁有人喷洒不明液体"
   },
   { "query": "现货黄金冲破4600美元", "display_query": "现货黄金冲破4600美元" },
   {
@@ -35,17 +54,6 @@
   },
   { "query": "湖人淘汰火箭", "display_query": "湖人淘汰火箭" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
-  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
-  {
-    "query": "伊朗会不会成为下一个伊拉克",
-    "display_query": "伊朗会不会成为下一个伊拉克"
-  },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
-  {
-    "query": "我国将对所有非洲建交国实施零关税",
-    "display_query": "我国将对所有非洲建交国实施零关税"
-  },
   {
     "query": "年轻人不再「真情实感」地交流观点",
     "display_query": "年轻人不再「真情实感」地交流观点"
