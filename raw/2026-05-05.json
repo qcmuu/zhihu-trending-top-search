@@ -1,4 +1,6 @@
 [
+  { "query": "机票价格跳水", "display_query": "机票价格跳水" },
+  { "query": "有什么值得三刷的电影", "display_query": "有什么值得三刷的电影" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -7,9 +9,14 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "樊振东谈美国之行", "display_query": "樊振东谈美国之行" },
   {
     "query": "电影《寒战 1994》热映",
     "display_query": "电影《寒战 1994》热映"
+  },
+  {
+    "query": "小米汽车4月交付量超3万台",
+    "display_query": "小米汽车4月交付量超3万台"
   },
   {
     "query": "多家车企公布 4 月交付量",
