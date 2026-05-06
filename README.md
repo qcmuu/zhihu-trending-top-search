@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 06 2026 19:04:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 06 2026 22:05:40 GMT+0800 (China Standard Time) -->
 
 1. [中超联赛](https://www.zhihu.com/search?q=中超联赛)
 1. [时代少年团演唱会](https://www.zhihu.com/search?q=时代少年团演唱会)
