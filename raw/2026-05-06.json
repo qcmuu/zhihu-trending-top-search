@@ -1,4 +1,20 @@
 [
+  { "query": "中超联赛", "display_query": "中超联赛" },
+  { "query": "时代少年团演唱会", "display_query": "时代少年团演唱会" },
+  { "query": "坚持油车的原因是什么", "display_query": "坚持油车的原因是什么" },
+  { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
+  { "query": "美股三大指数集体高开", "display_query": "美股三大指数集体高开" },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "家里面很穷还要读大学吗",
+    "display_query": "家里面很穷还要读大学吗"
+  },
+  { "query": "什么生活常识必须知道", "display_query": "什么生活常识必须知道" },
+  { "query": "真的有先父遗传吗", "display_query": "真的有先父遗传吗" },
+  {
+    "query": "为什么安陵容这类人难相处",
+    "display_query": "为什么安陵容这类人难相处"
+  },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
