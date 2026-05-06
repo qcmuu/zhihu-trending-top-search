@@ -1,6 +1,4 @@
 [
-  { "query": "机票价格跳水", "display_query": "机票价格跳水" },
-  { "query": "有什么值得三刷的电影", "display_query": "有什么值得三刷的电影" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -10,6 +8,24 @@
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "樊振东谈美国之行", "display_query": "樊振东谈美国之行" },
+  {
+    "query": "高校教师22%不合格行政全合格",
+    "display_query": "高校教师22%不合格行政全合格"
+  },
+  {
+    "query": "2026 斯诺克世锦赛决赛",
+    "display_query": "2026 斯诺克世锦赛决赛"
+  },
+  {
+    "query": "尤伯杯决赛中国队 1:3 韩国队",
+    "display_query": "尤伯杯决赛中国队 1:3 韩国队"
+  },
+  {
+    "query": "国乒男队 2:3 不敌瑞典队",
+    "display_query": "国乒男队 2:3 不敌瑞典队"
+  },
+  { "query": "机票价格跳水", "display_query": "机票价格跳水" },
+  { "query": "有什么值得三刷的电影", "display_query": "有什么值得三刷的电影" },
   {
     "query": "小米汽车4月交付量超3万台",
     "display_query": "小米汽车4月交付量超3万台"

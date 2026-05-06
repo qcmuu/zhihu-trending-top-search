@@ -15,16 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 06 2026 10:41:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 06 2026 13:55:54 GMT+0800 (China Standard Time) -->
 
-1. [机票价格跳水](https://www.zhihu.com/search?q=机票价格跳水)
-1. [有什么值得三刷的电影](https://www.zhihu.com/search?q=有什么值得三刷的电影)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [樊振东谈美国之行](https://www.zhihu.com/search?q=樊振东谈美国之行)
+1. [高校教师22%不合格行政全合格](https://www.zhihu.com/search?q=高校教师22%不合格行政全合格)
+1. [2026 斯诺克世锦赛决赛](https://www.zhihu.com/search?q=2026 斯诺克世锦赛决赛)
+1. [尤伯杯决赛中国队 1:3 韩国队](https://www.zhihu.com/search?q=尤伯杯决赛中国队
+   1:3 韩国队)
+1. [国乒男队 2:3 不敌瑞典队](https://www.zhihu.com/search?q=国乒男队 2:3
+   不敌瑞典队)
+1. [机票价格跳水](https://www.zhihu.com/search?q=机票价格跳水)
+1. [有什么值得三刷的电影](https://www.zhihu.com/search?q=有什么值得三刷的电影)
 1. [小米汽车4月交付量超3万台](https://www.zhihu.com/search?q=小米汽车4月交付量超3万台)
 1. [伊朗递交最新伊美谈判方案](https://www.zhihu.com/search?q=伊朗递交最新伊美谈判方案)
 
