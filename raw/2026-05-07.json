@@ -1,6 +1,9 @@
 [
-  { "query": "中超联赛", "display_query": "中超联赛" },
-  { "query": "时代少年团演唱会", "display_query": "时代少年团演唱会" },
+  { "query": "两市成交额重回3万亿", "display_query": "两市成交额重回3万亿" },
+  {
+    "query": "a2婴儿奶粉检出呕吐毒素在美召回",
+    "display_query": "a2婴儿奶粉检出呕吐毒素在美召回"
+  },
   { "query": "坚持油车的原因是什么", "display_query": "坚持油车的原因是什么" },
   { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
   { "query": "美股三大指数集体高开", "display_query": "美股三大指数集体高开" },
@@ -14,5 +17,7 @@
   {
     "query": "为什么安陵容这类人难相处",
     "display_query": "为什么安陵容这类人难相处"
-  }
+  },
+  { "query": "中超联赛", "display_query": "中超联赛" },
+  { "query": "时代少年团演唱会", "display_query": "时代少年团演唱会" }
 ]
