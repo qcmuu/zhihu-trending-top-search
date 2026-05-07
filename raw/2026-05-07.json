@@ -1,4 +1,16 @@
 [
+  {
+    "query": "陪伴你最久的事物是什么",
+    "display_query": "陪伴你最久的事物是什么"
+  },
+  {
+    "query": "沪深两市成交额突破1万亿",
+    "display_query": "沪深两市成交额突破1万亿"
+  },
+  {
+    "query": "新电脑应该装一些什么软件",
+    "display_query": "新电脑应该装一些什么软件"
+  },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -7,6 +19,7 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "现货黄金升至4600美元", "display_query": "现货黄金升至4600美元" },
   { "query": "樊振东谈美国之行", "display_query": "樊振东谈美国之行" },
   { "query": "《门牙》被曝票房造假", "display_query": "《门牙》被曝票房造假" },
   { "query": "豆包付费版本曝光", "display_query": "豆包付费版本曝光" },
