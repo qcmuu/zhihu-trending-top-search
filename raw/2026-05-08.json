@@ -1,7 +1,10 @@
 [
+  { "query": "伊朗", "display_query": "伊朗" },
+  { "query": "国乒女团晋级四强", "display_query": "国乒女团晋级四强" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  { "query": "骑士vs活塞", "display_query": "骑士vs活塞" },
   {
     "query": "伊朗会不会成为下一个伊拉克",
     "display_query": "伊朗会不会成为下一个伊拉克"
