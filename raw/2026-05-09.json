@@ -1,8 +1,5 @@
 [
-  {
-    "query": "国乒男团冲击世乒赛四强",
-    "display_query": "国乒男团冲击世乒赛四强"
-  },
+  { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
   { "query": "尼克斯vs76人", "display_query": "尼克斯vs76人" },
   { "query": "俄罗斯胜利日阅兵", "display_query": "俄罗斯胜利日阅兵" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
@@ -15,7 +12,10 @@
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "美伊谈判", "display_query": "美伊谈判" },
-  { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
+  {
+    "query": "国乒男团冲击世乒赛四强",
+    "display_query": "国乒男团冲击世乒赛四强"
+  },
   {
     "query": "这三种泳衣颜色一旦溺水难被发现",
     "display_query": "这三种泳衣颜色一旦溺水难被发现"
