@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 10 2026 14:10:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 10 2026 16:51:30 GMT+0800 (China Standard Time) -->
 
+1. [巴菲特建议投资指数基金](https://www.zhihu.com/search?q=巴菲特建议投资指数基金)
+1. [网红七七和刘敏涛有对手戏](https://www.zhihu.com/search?q=网红七七和刘敏涛有对手戏)
 1. [汪苏泷演唱会](https://www.zhihu.com/search?q=汪苏泷演唱会)
 1. [国乒男团进决赛](https://www.zhihu.com/search?q=国乒男团进决赛)
 1. [尼克斯vs76人](https://www.zhihu.com/search?q=尼克斯vs76人)
