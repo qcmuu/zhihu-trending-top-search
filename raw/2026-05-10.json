@@ -1,21 +1,25 @@
 [
-  {
-    "query": "美国首批UFO相关文件公布",
-    "display_query": "美国首批UFO相关文件公布"
-  },
   { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
   { "query": "国乒男团进决赛", "display_query": "国乒男团进决赛" },
   { "query": "尼克斯vs76人", "display_query": "尼克斯vs76人" },
   { "query": "俄罗斯胜利日阅兵", "display_query": "俄罗斯胜利日阅兵" },
   { "query": "骑士vs活塞", "display_query": "骑士vs活塞" },
   { "query": "美伊谈判", "display_query": "美伊谈判" },
-  { "query": "2026 苏超", "display_query": "2026 苏超" },
   { "query": "NBA", "display_query": "NBA" },
   { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
   {
     "query": "年轻人开始报兴趣班旅行",
     "display_query": "年轻人开始报兴趣班旅行"
   },
+  {
+    "query": "女游客秋千坠亡家属已和解",
+    "display_query": "女游客秋千坠亡家属已和解"
+  },
+  {
+    "query": "美国首批UFO相关文件公布",
+    "display_query": "美国首批UFO相关文件公布"
+  },
+  { "query": "2026 苏超", "display_query": "2026 苏超" },
   {
     "query": "巴菲特建议投资指数基金",
     "display_query": "巴菲特建议投资指数基金"
