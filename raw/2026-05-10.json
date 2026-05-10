@@ -1,12 +1,4 @@
 [
-  {
-    "query": "巴菲特建议投资指数基金",
-    "display_query": "巴菲特建议投资指数基金"
-  },
-  {
-    "query": "网红七七和刘敏涛有对手戏",
-    "display_query": "网红七七和刘敏涛有对手戏"
-  },
   { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
   { "query": "国乒男团进决赛", "display_query": "国乒男团进决赛" },
   { "query": "尼克斯vs76人", "display_query": "尼克斯vs76人" },
@@ -15,11 +7,23 @@
   { "query": "美伊谈判", "display_query": "美伊谈判" },
   { "query": "2026 苏超", "display_query": "2026 苏超" },
   { "query": "NBA", "display_query": "NBA" },
+  { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
+  {
+    "query": "年轻人开始报兴趣班旅行",
+    "display_query": "年轻人开始报兴趣班旅行"
+  },
+  {
+    "query": "巴菲特建议投资指数基金",
+    "display_query": "巴菲特建议投资指数基金"
+  },
+  {
+    "query": "网红七七和刘敏涛有对手戏",
+    "display_query": "网红七七和刘敏涛有对手戏"
+  },
   {
     "query": "这三种泳衣颜色一旦溺水难被发现",
     "display_query": "这三种泳衣颜色一旦溺水难被发现"
   },
-  { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
