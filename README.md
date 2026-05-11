@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 12 2026 02:56:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 12 2026 04:46:25 GMT+0800 (China Standard Time) -->
 
 1. [孙颖莎vs早田希娜](https://www.zhihu.com/search?q=孙颖莎vs早田希娜)
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
