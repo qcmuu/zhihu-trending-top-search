@@ -6,7 +6,6 @@
   { "query": "骑士vs活塞", "display_query": "骑士vs活塞" },
   { "query": "美伊谈判", "display_query": "美伊谈判" },
   { "query": "NBA", "display_query": "NBA" },
-  { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
   {
     "query": "年轻人开始报兴趣班旅行",
     "display_query": "年轻人开始报兴趣班旅行"
@@ -14,5 +13,10 @@
   {
     "query": "女游客秋千坠亡家属已和解",
     "display_query": "女游客秋千坠亡家属已和解"
-  }
+  },
+  {
+    "query": "研究发现多吃苦对大脑有害",
+    "display_query": "研究发现多吃苦对大脑有害"
+  },
+  { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" }
 ]
