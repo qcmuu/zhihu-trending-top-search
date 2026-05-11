@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 11 2026 21:46:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 12 2026 00:31:21 GMT+0800 (China Standard Time) -->
 
 1. [孙颖莎vs早田希娜](https://www.zhihu.com/search?q=孙颖莎vs早田希娜)
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
@@ -27,16 +27,6 @@
 1. [尼克斯vs76人](https://www.zhihu.com/search?q=尼克斯vs76人)
 1. [王曼昱vs张本美和](https://www.zhihu.com/search?q=王曼昱vs张本美和)
 1. [詹姆斯尽力局](https://www.zhihu.com/search?q=詹姆斯尽力局)
-1. [2025农民工月入5075元](https://www.zhihu.com/search?q=2025农民工月入5075元)
-1. [两市成交额重回3万亿](https://www.zhihu.com/search?q=两市成交额重回3万亿)
-1. [俄罗斯胜利日阅兵](https://www.zhihu.com/search?q=俄罗斯胜利日阅兵)
-1. [骑士vs活塞](https://www.zhihu.com/search?q=骑士vs活塞)
-1. [美伊谈判](https://www.zhihu.com/search?q=美伊谈判)
-1. [NBA](https://www.zhihu.com/search?q=NBA)
-1. [年轻人开始报兴趣班旅行](https://www.zhihu.com/search?q=年轻人开始报兴趣班旅行)
-1. [女游客秋千坠亡家属已和解](https://www.zhihu.com/search?q=女游客秋千坠亡家属已和解)
-1. [研究发现多吃苦对大脑有害](https://www.zhihu.com/search?q=研究发现多吃苦对大脑有害)
-1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=浏阳一烟花厂发生爆炸)
 
 <!-- END -->
 
