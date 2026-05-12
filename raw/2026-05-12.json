@@ -1,9 +1,6 @@
 [
-  { "query": "妈妈请你永远做自己", "display_query": "妈妈请你永远做自己" },
-  {
-    "query": "45岁独身男子离世15万存款被转走",
-    "display_query": "45岁独身男子离世15万存款被转走"
-  },
+  { "query": "孙颖莎vs早田希娜", "display_query": "孙颖莎vs早田希娜" },
+  { "query": "崩坏星穹铁道", "display_query": "崩坏星穹铁道" },
   { "query": "T1战胜DK", "display_query": "T1战胜DK" },
   { "query": "梁靖崑3:2张本智和", "display_query": "梁靖崑3:2张本智和" },
   { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
@@ -12,8 +9,11 @@
   { "query": "王曼昱vs张本美和", "display_query": "王曼昱vs张本美和" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
-  { "query": "孙颖莎vs早田希娜", "display_query": "孙颖莎vs早田希娜" },
-  { "query": "崩坏星穹铁道", "display_query": "崩坏星穹铁道" },
+  { "query": "妈妈请你永远做自己", "display_query": "妈妈请你永远做自己" },
+  {
+    "query": "45岁独身男子离世15万存款被转走",
+    "display_query": "45岁独身男子离世15万存款被转走"
+  },
   { "query": "国乒男团进决赛", "display_query": "国乒男团进决赛" },
   { "query": "詹姆斯尽力局", "display_query": "詹姆斯尽力局" }
 ]
