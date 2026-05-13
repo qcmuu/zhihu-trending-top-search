@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 14 2026 06:09:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 14 2026 07:56:10 GMT+0800 (China Standard Time) -->
 
 1. [金曲奖入围名单](https://www.zhihu.com/search?q=金曲奖入围名单)
 1. [国际护士节](https://www.zhihu.com/search?q=国际护士节)
@@ -24,6 +24,9 @@
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [戛纳红毯](https://www.zhihu.com/search?q=戛纳红毯)
 1. [机票价格大跳水](https://www.zhihu.com/search?q=机票价格大跳水)
+1. [电视剧《低智商犯罪》热播](https://www.zhihu.com/search?q=电视剧《低智商犯罪》热播)
+1. [台湾出现汉坦病毒致死病例](https://www.zhihu.com/search?q=台湾出现汉坦病毒致死病例)
+1. [买190元榴莲仅退款买家已被拘](https://www.zhihu.com/search?q=买190元榴莲仅退款买家已被拘)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
