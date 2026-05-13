@@ -1,6 +1,20 @@
 [
   { "query": "国际护士节", "display_query": "国际护士节" },
+  { "query": "TES对战NIP", "display_query": "TES对战NIP" },
   { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
+  { "query": "机票价格大跳水", "display_query": "机票价格大跳水" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "电视剧《低智商犯罪》热播",
+    "display_query": "电视剧《低智商犯罪》热播"
+  },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
     "query": "美国情报系统现在属于什么水平",
