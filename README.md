@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 13 2026 21:09:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 14 2026 00:17:10 GMT+0800 (China Standard Time) -->
 
-1. [金曲奖入围名单](https://www.zhihu.com/search?q=金曲奖入围名单)
-1. [国际护士节](https://www.zhihu.com/search?q=国际护士节)
+1. [王腾公司完成新一轮融资](https://www.zhihu.com/search?q=王腾公司完成新一轮融资)
+1. [WiFi会让记忆力下降系谣言](https://www.zhihu.com/search?q=WiFi会让记忆力下降系谣言)
 1. [TES对战NIP](https://www.zhihu.com/search?q=TES对战NIP)
 1. [戛纳](https://www.zhihu.com/search?q=戛纳)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
@@ -27,19 +27,6 @@
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
-1. [收购喜马拉雅获批 腾讯发声明](https://www.zhihu.com/search?q=收购喜马拉雅获批
-   腾讯发声明)
-1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [电视剧《低智商犯罪》热播](https://www.zhihu.com/search?q=电视剧《低智商犯罪》热播)
-1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
-1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
-1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=旅行后你对哪个城市祛魅了)
-1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
-1. [人到中年后为什么很难快乐起来](https://www.zhihu.com/search?q=人到中年后为什么很难快乐起来)
-1. [什么才是真正的解决问题的能力](https://www.zhihu.com/search?q=什么才是真正的解决问题的能力)
-1. [体制内工作最好的心态是什么](https://www.zhihu.com/search?q=体制内工作最好的心态是什么)
-1. [你心目中的排名第一的雪糕](https://www.zhihu.com/search?q=你心目中的排名第一的雪糕)
 
 <!-- END -->
 
