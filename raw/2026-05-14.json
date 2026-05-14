@@ -1,17 +1,20 @@
 [
-  { "query": "汉坦病毒会人传人吗", "display_query": "汉坦病毒会人传人吗" },
+  {
+    "query": "小沈阳因减肥10天挂2次急诊",
+    "display_query": "小沈阳因减肥10天挂2次急诊"
+  },
+  {
+    "query": "宇树机甲 民用交通工具",
+    "display_query": "宇树机甲 民用交通工具"
+  },
   { "query": "TES对战NIP", "display_query": "TES对战NIP" },
-  { "query": "戛纳", "display_query": "戛纳" },
+  { "query": "金曲奖入围名单", "display_query": "金曲奖入围名单" },
   { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
   { "query": "戛纳红毯", "display_query": "戛纳红毯" },
   { "query": "机票价格大跳水", "display_query": "机票价格大跳水" },
   {
     "query": "电视剧《低智商犯罪》热播",
     "display_query": "电视剧《低智商犯罪》热播"
-  },
-  {
-    "query": "台湾出现汉坦病毒致死病例",
-    "display_query": "台湾出现汉坦病毒致死病例"
   },
   {
     "query": "买190元榴莲仅退款买家已被拘",
@@ -21,7 +24,12 @@
     "query": "deepseek正式跨入图文交互时代",
     "display_query": "deepseek正式跨入图文交互时代"
   },
-  { "query": "金曲奖入围名单", "display_query": "金曲奖入围名单" },
+  { "query": "汉坦病毒会人传人吗", "display_query": "汉坦病毒会人传人吗" },
+  { "query": "戛纳", "display_query": "戛纳" },
+  {
+    "query": "台湾出现汉坦病毒致死病例",
+    "display_query": "台湾出现汉坦病毒致死病例"
+  },
   { "query": "国际护士节", "display_query": "国际护士节" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
