@@ -1,4 +1,6 @@
 [
+  { "query": "王鸥 何九华", "display_query": "王鸥 何九华" },
+  { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
   {
     "query": "电视剧《低智商犯罪》热播",
     "display_query": "电视剧《低智商犯罪》热播"
@@ -11,6 +13,11 @@
     "query": "OPPO 高级副总裁职级直降两级",
     "display_query": "OPPO 高级副总裁职级直降两级"
   },
+  { "query": "国际足联急了", "display_query": "国际足联急了" },
+  { "query": "奔跑吧回应收视率低", "display_query": "奔跑吧回应收视率低" },
+  { "query": "雷霆vs湖人", "display_query": "雷霆vs湖人" },
+  { "query": "徐州1比2宿迁", "display_query": "徐州1比2宿迁" },
+  { "query": "巴萨2比0皇马", "display_query": "巴萨2比0皇马" },
   {
     "query": "河南蒜薹滞销能学「偷甘蔗」吗",
     "display_query": "河南蒜薹滞销能学「偷甘蔗」吗"
