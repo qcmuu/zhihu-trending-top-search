@@ -1,6 +1,5 @@
 [
-  { "query": "金曲奖入围名单", "display_query": "金曲奖入围名单" },
-  { "query": "国际护士节", "display_query": "国际护士节" },
+  { "query": "汉坦病毒会人传人吗", "display_query": "汉坦病毒会人传人吗" },
   { "query": "TES对战NIP", "display_query": "TES对战NIP" },
   { "query": "戛纳", "display_query": "戛纳" },
   { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
@@ -18,6 +17,12 @@
     "query": "买190元榴莲仅退款买家已被拘",
     "display_query": "买190元榴莲仅退款买家已被拘"
   },
+  {
+    "query": "deepseek正式跨入图文交互时代",
+    "display_query": "deepseek正式跨入图文交互时代"
+  },
+  { "query": "金曲奖入围名单", "display_query": "金曲奖入围名单" },
+  { "query": "国际护士节", "display_query": "国际护士节" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
