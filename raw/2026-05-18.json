@@ -1,4 +1,26 @@
 [
+  { "query": "湖北发布暴雨橙色预警", "display_query": "湖北发布暴雨橙色预警" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "宇树发布 GD01 载人变形机甲",
+    "display_query": "宇树发布 GD01 载人变形机甲"
+  },
+  {
+    "query": "给阿嬷的情书票房突破2亿",
+    "display_query": "给阿嬷的情书票房突破2亿"
+  },
+  {
+    "query": "Anthropic 估值反超 OpenAI",
+    "display_query": "Anthropic 估值反超 OpenAI"
+  },
+  { "query": "歌手温岚被送入ICU", "display_query": "歌手温岚被送入ICU" },
   { "query": "GEN碾压BFX", "display_query": "GEN碾压BFX" },
   {
     "query": "广东启动防汛ⅳ级应急响应",
@@ -17,7 +39,6 @@
   { "query": "chovy蛇女五杀", "display_query": "chovy蛇女五杀" },
   { "query": "没了心气是怎么恢复的", "display_query": "没了心气是怎么恢复的" },
   { "query": "蒋天生是否死于大度", "display_query": "蒋天生是否死于大度" },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
   {
     "query": "深夜飙涨 中国资产大爆发",
     "display_query": "深夜飙涨 中国资产大爆发"
@@ -30,6 +51,5 @@
     "query": "如何评价DeepSeekV4降价的事",
     "display_query": "如何评价DeepSeekV4降价的事"
   },
-  { "query": "股市", "display_query": "股市" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" }
+  { "query": "股市", "display_query": "股市" }
 ]
