@@ -15,16 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 18 2026 16:00:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 18 2026 20:27:20 GMT+0800 (China Standard Time) -->
 
-1. [湖北发布暴雨橙色预警](https://www.zhihu.com/search?q=湖北发布暴雨橙色预警)
+1. [六个核桃怎么没人买了](https://www.zhihu.com/search?q=六个核桃怎么没人买了)
+1. [《给阿嬤的情书》票房预测](https://www.zhihu.com/search?q=《给阿嬤的情书》票房预测)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [榴莲价格大降](https://www.zhihu.com/search?q=榴莲价格大降)
+1. [沪深两市成交额突破3万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破3万亿元)
 1. [宇树发布 GD01 载人变形机甲](https://www.zhihu.com/search?q=宇树发布 GD01
    载人变形机甲)
+1. [湖北发布暴雨橙色预警](https://www.zhihu.com/search?q=湖北发布暴雨橙色预警)
 1. [给阿嬷的情书票房突破2亿](https://www.zhihu.com/search?q=给阿嬷的情书票房突破2亿)
 1. [Anthropic 估值反超 OpenAI](https://www.zhihu.com/search?q=Anthropic 估值反超
    OpenAI)
