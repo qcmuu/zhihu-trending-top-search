@@ -1,8 +1,5 @@
 [
-  {
-    "query": "深夜飙涨 中国资产大爆发",
-    "display_query": "深夜飙涨 中国资产大爆发"
-  },
+  { "query": "GEN碾压BFX", "display_query": "GEN碾压BFX" },
   {
     "query": "广东启动防汛ⅳ级应急响应",
     "display_query": "广东启动防汛ⅳ级应急响应"
@@ -17,8 +14,14 @@
     "query": "为什么很多人喜欢和AI对话",
     "display_query": "为什么很多人喜欢和AI对话"
   },
+  { "query": "chovy蛇女五杀", "display_query": "chovy蛇女五杀" },
   { "query": "没了心气是怎么恢复的", "display_query": "没了心气是怎么恢复的" },
   { "query": "蒋天生是否死于大度", "display_query": "蒋天生是否死于大度" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  {
+    "query": "深夜飙涨 中国资产大爆发",
+    "display_query": "深夜飙涨 中国资产大爆发"
+  },
   {
     "query": "能讲一个身边的无解阳谋吗",
     "display_query": "能讲一个身边的无解阳谋吗"
@@ -28,6 +31,5 @@
     "display_query": "如何评价DeepSeekV4降价的事"
   },
   { "query": "股市", "display_query": "股市" },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" }
 ]
