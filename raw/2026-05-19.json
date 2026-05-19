@@ -1,8 +1,9 @@
 [
-  { "query": "多所高校撤销外语专业", "display_query": "多所高校撤销外语专业" },
+  { "query": "湖北发布暴雨橙色预警", "display_query": "湖北发布暴雨橙色预警" },
+  { "query": "全国多地暴雨", "display_query": "全国多地暴雨" },
   {
-    "query": "Anthropic 估值反超 OpenAI",
-    "display_query": "Anthropic 估值反超 OpenAI"
+    "query": "吃自助餐真的能吃回本吗",
+    "display_query": "吃自助餐真的能吃回本吗"
   },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
@@ -13,9 +14,13 @@
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "张小珺对谈姚顺宇", "display_query": "张小珺对谈姚顺宇" },
+  {
+    "query": "Anthropic 估值反超 OpenAI",
+    "display_query": "Anthropic 估值反超 OpenAI"
+  },
+  { "query": "多所高校撤销外语专业", "display_query": "多所高校撤销外语专业" },
   { "query": "骑士125:94活塞", "display_query": "骑士125:94活塞" },
   { "query": "柯南毛利兰声优去世", "display_query": "柯南毛利兰声优去世" },
-  { "query": "湖北发布暴雨橙色预警", "display_query": "湖北发布暴雨橙色预警" },
   { "query": "榴莲价格大降", "display_query": "榴莲价格大降" },
   {
     "query": "沪深两市成交额突破3万亿元",
