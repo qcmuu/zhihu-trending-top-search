@@ -1,4 +1,20 @@
 [
+  { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
+  { "query": "A股三大指数集体翻红", "display_query": "A股三大指数集体翻红" },
+  { "query": "马刺vs雷霆", "display_query": "马刺vs雷霆" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "低智商犯罪大结局", "display_query": "低智商犯罪大结局" },
+  {
+    "query": "泰兰尼斯被曝千元童鞋成本仅37元",
+    "display_query": "泰兰尼斯被曝千元童鞋成本仅37元"
+  },
   {
     "query": "洁丽雅公布实质性辟谣材料",
     "display_query": "洁丽雅公布实质性辟谣材料"
@@ -7,13 +23,6 @@
     "query": "武汉史上票价最贵火车首发爆满",
     "display_query": "武汉史上票价最贵火车首发爆满"
   },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
-  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
-  {
-    "query": "伊朗会不会成为下一个伊拉克",
-    "display_query": "伊朗会不会成为下一个伊拉克"
-  },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "杨梅商贩浸泡8000倍超甜三无添加剂",
     "display_query": "杨梅商贩浸泡8000倍超甜三无添加剂"
@@ -24,10 +33,8 @@
   },
   { "query": "巨力索具被证监会立案", "display_query": "巨力索具被证监会立案" },
   { "query": "洁丽雅 毛巾少爷", "display_query": "洁丽雅 毛巾少爷" },
-  { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
   { "query": "湖北发布暴雨橙色预警", "display_query": "湖北发布暴雨橙色预警" },
   { "query": "全国多地暴雨", "display_query": "全国多地暴雨" },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
   {
     "query": "吃自助餐真的能吃回本吗",
     "display_query": "吃自助餐真的能吃回本吗"
