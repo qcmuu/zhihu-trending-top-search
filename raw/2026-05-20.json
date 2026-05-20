@@ -1,8 +1,12 @@
 [
-  { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
-  { "query": "湖北发布暴雨橙色预警", "display_query": "湖北发布暴雨橙色预警" },
-  { "query": "全国多地暴雨", "display_query": "全国多地暴雨" },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  {
+    "query": "洁丽雅公布实质性辟谣材料",
+    "display_query": "洁丽雅公布实质性辟谣材料"
+  },
+  {
+    "query": "武汉史上票价最贵火车首发爆满",
+    "display_query": "武汉史上票价最贵火车首发爆满"
+  },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
   {
@@ -18,6 +22,12 @@
     "query": "上海交大学生豆包伪造证据私吞奖金",
     "display_query": "上海交大学生豆包伪造证据私吞奖金"
   },
+  { "query": "巨力索具被证监会立案", "display_query": "巨力索具被证监会立案" },
+  { "query": "洁丽雅 毛巾少爷", "display_query": "洁丽雅 毛巾少爷" },
+  { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
+  { "query": "湖北发布暴雨橙色预警", "display_query": "湖北发布暴雨橙色预警" },
+  { "query": "全国多地暴雨", "display_query": "全国多地暴雨" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
   {
     "query": "吃自助餐真的能吃回本吗",
     "display_query": "吃自助餐真的能吃回本吗"
