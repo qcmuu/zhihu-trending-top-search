@@ -1,0 +1,18 @@
+[
+  { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
+  { "query": "中俄联合声明", "display_query": "中俄联合声明" },
+  { "query": "戛纳红毯", "display_query": "戛纳红毯" },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "为什么很多人喜欢和AI对话",
+    "display_query": "为什么很多人喜欢和AI对话"
+  },
+  { "query": "山姆超市质量到底如何", "display_query": "山姆超市质量到底如何" },
+  { "query": "英伟达财报会实录", "display_query": "英伟达财报会实录" },
+  { "query": "英伟达财报", "display_query": "英伟达财报" },
+  {
+    "query": "体制内工作最好的心态是什么",
+    "display_query": "体制内工作最好的心态是什么"
+  },
+  { "query": "马刺vs雷霆", "display_query": "马刺vs雷霆" }
+]
