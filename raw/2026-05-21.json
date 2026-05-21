@@ -1,8 +1,6 @@
 [
   { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
-  { "query": "A股三大指数集体翻红", "display_query": "A股三大指数集体翻红" },
   { "query": "英伟达财报", "display_query": "英伟达财报" },
-  { "query": "马刺vs雷霆", "display_query": "马刺vs雷霆" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -11,6 +9,17 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "杨梅商贩浸泡8000倍超甜三无添加剂",
+    "display_query": "杨梅商贩浸泡8000倍超甜三无添加剂"
+  },
+  {
+    "query": "上海交大学生豆包伪造证据私吞奖金",
+    "display_query": "上海交大学生豆包伪造证据私吞奖金"
+  },
+  { "query": "巨力索具被证监会立案", "display_query": "巨力索具被证监会立案" },
+  { "query": "A股三大指数集体翻红", "display_query": "A股三大指数集体翻红" },
+  { "query": "马刺vs雷霆", "display_query": "马刺vs雷霆" },
   { "query": "低智商犯罪大结局", "display_query": "低智商犯罪大结局" },
   {
     "query": "泰兰尼斯被曝千元童鞋成本仅37元",
