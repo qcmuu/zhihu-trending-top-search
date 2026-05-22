@@ -15,16 +15,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 22 2026 11:31:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 22 2026 15:42:12 GMT+0800 (China Standard Time) -->
 
 1. [谷歌开发者大会](https://www.zhihu.com/search?q=谷歌开发者大会)
+1. [英伟达财报](https://www.zhihu.com/search?q=英伟达财报)
+1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
+1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [5月15日A股行情](https://www.zhihu.com/search?q=5月15日A股行情)
+1. [电影《监狱来的妈妈》引争议](https://www.zhihu.com/search?q=电影《监狱来的妈妈》引争议)
+1. [卢昱晓屏摄《给阿嬷的情书》道歉](https://www.zhihu.com/search?q=卢昱晓屏摄《给阿嬷的情书》道歉)
 1. [中俄联合声明](https://www.zhihu.com/search?q=中俄联合声明)
 1. [戛纳红毯](https://www.zhihu.com/search?q=戛纳红毯)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
 1. [山姆超市质量到底如何](https://www.zhihu.com/search?q=山姆超市质量到底如何)
 1. [英伟达财报会实录](https://www.zhihu.com/search?q=英伟达财报会实录)
-1. [英伟达财报](https://www.zhihu.com/search?q=英伟达财报)
 1. [体制内工作最好的心态是什么](https://www.zhihu.com/search?q=体制内工作最好的心态是什么)
 1. [马刺vs雷霆](https://www.zhihu.com/search?q=马刺vs雷霆)
 

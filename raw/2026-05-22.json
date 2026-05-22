@@ -1,5 +1,23 @@
 [
   { "query": "谷歌开发者大会", "display_query": "谷歌开发者大会" },
+  { "query": "英伟达财报", "display_query": "英伟达财报" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "5月15日A股行情", "display_query": "5月15日A股行情" },
+  {
+    "query": "电影《监狱来的妈妈》引争议",
+    "display_query": "电影《监狱来的妈妈》引争议"
+  },
+  {
+    "query": "卢昱晓屏摄《给阿嬷的情书》道歉",
+    "display_query": "卢昱晓屏摄《给阿嬷的情书》道歉"
+  },
   { "query": "中俄联合声明", "display_query": "中俄联合声明" },
   { "query": "戛纳红毯", "display_query": "戛纳红毯" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
@@ -9,7 +27,6 @@
   },
   { "query": "山姆超市质量到底如何", "display_query": "山姆超市质量到底如何" },
   { "query": "英伟达财报会实录", "display_query": "英伟达财报会实录" },
-  { "query": "英伟达财报", "display_query": "英伟达财报" },
   {
     "query": "体制内工作最好的心态是什么",
     "display_query": "体制内工作最好的心态是什么"
