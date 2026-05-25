@@ -1,11 +1,8 @@
 [
-  { "query": "油价", "display_query": "油价" },
-  { "query": "油价今晚上调", "display_query": "油价今晚上调" },
   {
     "query": "今年首个红色山洪灾害气象预警发布",
     "display_query": "今年首个红色山洪灾害气象预警发布"
   },
-  { "query": "金价", "display_query": "金价" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -14,6 +11,19 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "英特尔CEO陈立武新规", "display_query": "英特尔CEO陈立武新规" },
+  {
+    "query": "为何今年暴雨来得又早又强",
+    "display_query": "为何今年暴雨来得又早又强"
+  },
+  { "query": "《歌手 2026》第一期", "display_query": "《歌手 2026》第一期" },
+  {
+    "query": "熊吃了 40 磅冰淇淋后昏迷两天",
+    "display_query": "熊吃了 40 磅冰淇淋后昏迷两天"
+  },
+  { "query": "油价", "display_query": "油价" },
+  { "query": "油价今晚上调", "display_query": "油价今晚上调" },
+  { "query": "金价", "display_query": "金价" },
   { "query": "姜乘澜被执行1119万", "display_query": "姜乘澜被执行1119万" },
   { "query": "武汉发布暴雨红色预警", "display_query": "武汉发布暴雨红色预警" }
 ]
