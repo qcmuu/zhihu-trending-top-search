@@ -15,10 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 26 2026 13:01:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 26 2026 17:52:32 GMT+0800 (China Standard Time) -->
 
-1. [乌克兰首都基辅传出爆炸声](https://www.zhihu.com/search?q=乌克兰首都基辅传出爆炸声)
 1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=今年首个红色山洪灾害气象预警发布)
+1. [《错嫁有喜》原著](https://www.zhihu.com/search?q=《错嫁有喜》原著)
+1. [爆剧《错嫁有喜》原著在这里](https://www.zhihu.com/search?q=爆剧《错嫁有喜》原著在这里)
+1. [山西沁源一煤矿发生事故](https://www.zhihu.com/search?q=山西沁源一煤矿发生事故)
+1. [耿同学：举报不为赚钱
+   已与MCN解约](https://www.zhihu.com/search?q=耿同学：举报不为赚钱 已与MCN解约)
+1. [2026 年电影票房突破 150 亿](https://www.zhihu.com/search?q=2026
+   年电影票房突破 150 亿)
+1. [王鹤棣 沈月](https://www.zhihu.com/search?q=王鹤棣 沈月)
+1. [山西煤矿事故已致90人死亡](https://www.zhihu.com/search?q=山西煤矿事故已致90人死亡)
+1. [为什么煤矿工人仍在人力下井采矿](https://www.zhihu.com/search?q=为什么煤矿工人仍在人力下井采矿)
+1. [公园用墓碑铺路网友吵翻](https://www.zhihu.com/search?q=公园用墓碑铺路网友吵翻)
+1. [乌克兰首都基辅传出爆炸声](https://www.zhihu.com/search?q=乌克兰首都基辅传出爆炸声)
 1. [雷霆vs马刺](https://www.zhihu.com/search?q=雷霆vs马刺)
 1. [尼克斯vs骑士](https://www.zhihu.com/search?q=尼克斯vs骑士)
 1. [阿森纳时隔22年再夺英超冠军](https://www.zhihu.com/search?q=阿森纳时隔22年再夺英超冠军)
@@ -26,7 +37,6 @@
 1. [雷军强烈建议大家现在就换手机](https://www.zhihu.com/search?q=雷军强烈建议大家现在就换手机)
 1. [英特尔CEO陈立武新规](https://www.zhihu.com/search?q=英特尔CEO陈立武新规)
 1. [为何今年暴雨来得又早又强](https://www.zhihu.com/search?q=为何今年暴雨来得又早又强)
-1. [《错嫁有喜》原著](https://www.zhihu.com/search?q=《错嫁有喜》原著)
 1. [肖战金海燕奖最佳男主角](https://www.zhihu.com/search?q=肖战金海燕奖最佳男主角)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
