@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 27 2026 03:20:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 27 2026 05:42:54 GMT+0800 (China Standard Time) -->
 
 1. [T1战胜DK](https://www.zhihu.com/search?q=T1战胜DK)
 1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=今年首个红色山洪灾害气象预警发布)
