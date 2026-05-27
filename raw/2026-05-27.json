@@ -1,9 +1,39 @@
 [
-  { "query": "T1战胜DK", "display_query": "T1战胜DK" },
   {
     "query": "今年首个红色山洪灾害气象预警发布",
     "display_query": "今年首个红色山洪灾害气象预警发布"
   },
+  {
+    "query": "2026 年电影票房突破 150 亿",
+    "display_query": "2026 年电影票房突破 150 亿"
+  },
+  { "query": "王鹤棣 沈月", "display_query": "王鹤棣 沈月" },
+  { "query": "曝庾澄庆被换了6首歌", "display_query": "曝庾澄庆被换了6首歌" },
+  {
+    "query": "杨梅收购商跑光价格从20元跌到8毛",
+    "display_query": "杨梅收购商跑光价格从20元跌到8毛"
+  },
+  {
+    "query": "给阿嬷的情书票房破10亿",
+    "display_query": "给阿嬷的情书票房破10亿"
+  },
+  {
+    "query": "小米通报空调安装「抽真空」造假",
+    "display_query": "小米通报空调安装「抽真空」造假"
+  },
+  {
+    "query": "男子钓鱼捞起一溺水婴儿",
+    "display_query": "男子钓鱼捞起一溺水婴儿"
+  },
+  {
+    "query": "华为发表半导体领域新定律",
+    "display_query": "华为发表半导体领域新定律"
+  },
+  {
+    "query": "于正称《给阿嬷的情书》为超级商业片",
+    "display_query": "于正称《给阿嬷的情书》为超级商业片"
+  },
+  { "query": "T1战胜DK", "display_query": "T1战胜DK" },
   { "query": "雨霖铃", "display_query": "雨霖铃" },
   {
     "query": "雷军强烈建议大家现在就换手机",
@@ -18,15 +48,9 @@
     "display_query": "耿同学：举报不为赚钱 已与MCN解约"
   },
   {
-    "query": "2026 年电影票房突破 150 亿",
-    "display_query": "2026 年电影票房突破 150 亿"
-  },
-  { "query": "王鹤棣 沈月", "display_query": "王鹤棣 沈月" },
-  {
     "query": "为什么煤矿工人仍在人力下井采矿",
     "display_query": "为什么煤矿工人仍在人力下井采矿"
   },
-  { "query": "曝庾澄庆被换了6首歌", "display_query": "曝庾澄庆被换了6首歌" },
   { "query": "《错嫁有喜》原著", "display_query": "《错嫁有喜》原著" },
   {
     "query": "爆剧《错嫁有喜》原著在这里",
