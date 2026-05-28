@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 28 2026 10:57:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 28 2026 14:57:11 GMT+0800 (China Standard Time) -->
 
-1. [NBA在国内怎么没什么热度了](https://www.zhihu.com/search?q=NBA在国内怎么没什么热度了)
+1. [怎样能看出一个人的开车水平很高](https://www.zhihu.com/search?q=怎样能看出一个人的开车水平很高)
 1. [挪威的森林讲了什么](https://www.zhihu.com/search?q=挪威的森林讲了什么)
 1. [山姆超市质量到底如何](https://www.zhihu.com/search?q=山姆超市质量到底如何)
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
@@ -27,7 +27,7 @@
 1. [工作中到底能闯多大的祸](https://www.zhihu.com/search?q=工作中到底能闯多大的祸)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
-1. [怎样能看出一个人的开车水平很高](https://www.zhihu.com/search?q=怎样能看出一个人的开车水平很高)
+1. [NBA在国内怎么没什么热度了](https://www.zhihu.com/search?q=NBA在国内怎么没什么热度了)
 1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=今年首个红色山洪灾害气象预警发布)
 1. [极普通家庭如何让孩子见世面](https://www.zhihu.com/search?q=极普通家庭如何让孩子见世面)
 
