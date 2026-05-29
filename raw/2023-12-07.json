@@ -1,6 +1,6 @@
 [
   { "query": "12306", "display_query": "12306" },
-  { "query": "考研调剂 ", "display_query": "考研调剂 " },
+  { "query": "考研调剂 ", "display_query": "考研调剂" },
   { "query": "国考报名人数", "display_query": "国考报名人数" },
   { "query": "国考申论怎么复习", "display_query": "国考申论怎么复习" },
   { "query": "雅思词汇", "display_query": "雅思词汇" },
@@ -18,5 +18,11 @@
   { "query": "12306新增折扣信息", "display_query": "12306新增折扣信息" },
   { "query": "太阳vs湖人", "display_query": "太阳vs湖人" },
   { "query": "剪辑教程", "display_query": "剪辑教程" },
-  { "query": "张艺兴新歌", "display_query": "张艺兴新歌" }
+  { "query": "张艺兴新歌", "display_query": "张艺兴新歌" },
+  { "query": "考研经验分享", "display_query": "考研经验分享" },
+  { "query": "留学生开放定向选调", "display_query": "留学生开放定向选调" },
+  {
+    "query": "运动会加油稿小众惊艳150字",
+    "display_query": "运动会加油稿小众惊艳150字"
+  }
 ]

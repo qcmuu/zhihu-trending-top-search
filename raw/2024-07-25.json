@@ -58,5 +58,9 @@
     "query": "以色列埃拉特传出爆炸声",
     "display_query": "以色列埃拉特传出爆炸声"
   },
-  { "query": "拜登退选", "display_query": "拜登退选" }
+  { "query": "拜登退选", "display_query": "拜登退选" },
+  {
+    "query": "长沙五一广场车祸致 8 伤",
+    "display_query": "长沙五一广场车祸致 8 伤"
+  }
 ]

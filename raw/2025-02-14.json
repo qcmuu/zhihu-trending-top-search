@@ -18,5 +18,9 @@
     "display_query": "雷军开小米 YU7 实测一千三百公里"
   },
   { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
-  { "query": "小说推文赚钱", "display_query": "小说推文赚钱" }
+  { "query": "小说推文赚钱", "display_query": "小说推文赚钱" },
+  {
+    "query": "给你一千万要求立刻辞职你愿意吗",
+    "display_query": "给你一千万要求立刻辞职你愿意吗"
+  }
 ]

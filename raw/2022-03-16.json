@@ -26,7 +26,7 @@
   { "query": "巩汉林回应", "display_query": "巩汉林回应冯潇霆" },
   {
     "query": "免费 WiFi 手机连不上",
-    "display_query": " 315 曝光免费 WiFi 暗藏陷阱"
+    "display_query": "315 曝光免费 WiFi 暗藏陷阱"
   },
   { "query": "港股下跌", "display_query": "港股下跌" },
   {
@@ -37,7 +37,7 @@
     "query": "1人跳河5人溺亡",
     "display_query": "福建霞浦通报 1 人跳河 5 人溺亡事件"
   },
-  { "query": "柯南", "display_query": "柯南漫画疑似人设崩塌 " },
+  { "query": "柯南", "display_query": "柯南漫画疑似人设崩塌" },
   { "query": "国务院金融委", "display_query": "国务院金融委召开专题会议" },
   { "query": "消费陷阱", "display_query": "过去一年的购物踩坑" },
   { "query": "吉林全省管控", "display_query": "吉林禁止本省人员跨地流动" },
@@ -69,5 +69,6 @@
   { "query": "河北新增", "display_query": "河北新增 162 无症状感染者" },
   { "query": "篮网", "display_query": "杜兰特 53+6+9 篮网 3 连胜" },
   { "query": "张文宏", "display_query": "张文宏称这波疫情是倒春寒" },
-  { "query": "奥巴马", "display_query": "奥巴马新冠检测呈阳性" }
+  { "query": "奥巴马", "display_query": "奥巴马新冠检测呈阳性" },
+  { "query": "骚扰电话", "display_query": "315 曝光骚扰电话问题" }
 ]

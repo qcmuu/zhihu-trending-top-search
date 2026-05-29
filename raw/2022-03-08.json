@@ -35,7 +35,7 @@
   { "query": "吉林疫情", "display_query": "吉林新增本地确诊 54 例" },
   {
     "query": "18~45岁近视人群",
-    "display_query": "近视人群进行激光角膜屈光手术 "
+    "display_query": "近视人群进行激光角膜屈光手术"
   },
   { "query": "海贼王", "display_query": "海贼王 1043 话情报" },
   {
@@ -70,5 +70,10 @@
   },
   { "query": "收买妇女最高死刑", "display_query": "收买被拐妇女儿童可判死刑" },
   { "query": "湖人", "display_query": "詹姆斯 56 分湖人胜勇士" },
-  { "query": "为家长减负", "display_query": "代表建议鼓励生育为家长减负" }
+  { "query": "为家长减负", "display_query": "代表建议鼓励生育为家长减负" },
+  {
+    "query": "第三孩免费上幼儿园",
+    "display_query": "政协委员建议第三孩免费上幼儿园"
+  },
+  { "query": "王亚平在太空出差", "display_query": "人大代表王亚平在太空履职" }
 ]

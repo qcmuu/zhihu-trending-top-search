@@ -20,5 +20,8 @@
   { "query": "越狱", "display_query": "吉林监狱一外籍重刑犯越狱" },
   { "query": "郭美美", "display_query": "郭美美卖违禁药或将再入狱" },
   { "query": "LNG", "display_query": "LNG 迎四方加赛" },
-  { "query": "上海旅行团", "display_query": "上海旅行团 7 人均阳性" }
+  { "query": "上海旅行团", "display_query": "上海旅行团 7 人均阳性" },
+  { "query": "仙剑 7", "display_query": "仙剑 7 游玩体验" },
+  { "query": "游戏充值", "display_query": "孩子给游戏充值 22 万" },
+  { "query": "ti10猛犸", "display_query": "为什么不 Ban 猛犸" }
 ]

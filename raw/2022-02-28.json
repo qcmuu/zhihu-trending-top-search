@@ -35,5 +35,9 @@
   { "query": "俄罗斯乌克兰", "display_query": "俄方表示乌克兰拒绝和谈" },
   { "query": "台湾海峡", "display_query": "东部战区回应美舰过航台湾海峡" },
   { "query": "车臣", "display_query": "车臣宣布加入乌克兰战斗" },
-  { "query": "中方立场", "display_query": "王毅阐述中方对乌克兰问题立场" }
+  { "query": "中方立场", "display_query": "王毅阐述中方对乌克兰问题立场" },
+  {
+    "query": "香港疫情",
+    "display_query": "香港今日新增新冠肺炎确诊病例 34466 例"
+  }
 ]

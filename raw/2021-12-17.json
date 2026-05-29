@@ -12,7 +12,7 @@
   { "query": "学前提升计划", "display_query": "「学前提升计划」发布" },
   { "query": "冬奥会", "display_query": "冬奥会倒计时 50 天" },
   { "query": "吉林动画学院", "display_query": "大学生剽窃冬奥作品被处分" },
-  { "query": "一人之下", "display_query": "一人之下 591 话更新 " },
+  { "query": "一人之下", "display_query": "一人之下 591 话更新" },
   { "query": "铃芽户缔", "display_query": "新海诚新作铃芽户缔" },
   { "query": "南苏丹", "display_query": "南苏丹爆发不明疾病" },
   { "query": "美国国防授权法案", "display_query": "美国法案渲染「中俄威胁」" },
@@ -44,5 +44,6 @@
   { "query": "阿圭罗", "display_query": "阿圭罗宣布退役" },
   { "query": "uzi", "display_query": "Uzi 复出" },
   { "query": "湖人", "display_query": "湖人加时三分绝杀独行侠" },
-  { "query": "QQ堂", "display_query": "腾讯《QQ 堂》停运" }
+  { "query": "QQ堂", "display_query": "腾讯《QQ 堂》停运" },
+  { "query": "罗永浩", "display_query": "罗永浩宣布进入 AR/VR 领域" }
 ]

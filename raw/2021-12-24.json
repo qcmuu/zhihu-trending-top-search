@@ -47,5 +47,10 @@
   { "query": "Steam", "display_query": "Steam 冬促推荐" },
   { "query": "欧洲天然气", "display_query": "俄罗斯断供欧洲天然气" },
   { "query": "张艺兴", "display_query": "张艺兴任湖南税务宣传大使" },
-  { "query": "知网", "display_query": "知网降价" }
+  { "query": "知网", "display_query": "知网降价" },
+  { "query": "两节期间人员流动", "display_query": "减少「两节」期间人员流动" },
+  { "query": "九价", "display_query": "明年九价 HPV 短缺或缓解" },
+  { "query": "美俄安全协议", "display_query": "美俄达成安全协议希望渺茫" },
+  { "query": "霍尊前女友", "display_query": "霍尊前女友涉嫌敲诈勒索" },
+  { "query": "华为智能眼镜", "display_query": "华为新款智能眼镜" }
 ]

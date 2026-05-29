@@ -29,5 +29,9 @@
   { "query": "库里受伤", "display_query": "库里受伤" },
   { "query": "如何高效利用iPhone", "display_query": "如何高效利用iPhone" },
   { "query": "阿森纳2比2阿斯顿维拉", "display_query": "阿森纳2比2阿斯顿维拉" },
-  { "query": "电压锅会爆炸吗", "display_query": "电压锅会爆炸吗" }
+  { "query": "电压锅会爆炸吗", "display_query": "电压锅会爆炸吗" },
+  {
+    "query": "买台式净饮机还是厨下更好",
+    "display_query": "买台式净饮机还是厨下更好"
+  }
 ]

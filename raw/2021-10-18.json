@@ -14,7 +14,7 @@
   { "query": "美国威胁韩国", "display_query": "美威胁韩：别逼我走那一步" },
   { "query": "欧某中", "display_query": "莆田刑案嫌犯欧某中被捕" },
   { "query": "上海旅行团", "display_query": "上海旅行团 7 人均阳性" },
-  { "query": "仙剑", "display_query": "仙剑 7 游玩体验" },
+  { "query": "仙剑 7", "display_query": "仙剑 7 游玩体验" },
   { "query": "EDG", "display_query": "EDG 二连败小组第二出线" },
   { "query": "MIUI 13", "display_query": "MIUI 13 将有大改动" },
   { "query": "杀手机器狗", "display_query": "美国公司发布杀手机器狗" },
@@ -29,5 +29,6 @@
   { "query": "战争雷霆", "display_query": "战争雷霆玩家泄军事机密" },
   { "query": "LGD", "display_query": "LGD 晋级 TI10 总决赛" },
   { "query": "RNG", "display_query": "RNG HLE 同积分进入加赛" },
-  { "query": "神舟十三号", "display_query": "神舟十三号发射成功" }
+  { "query": "神舟十三号", "display_query": "神舟十三号发射成功" },
+  { "query": "RNG", "display_query": "RNG 锁定八强席位" }
 ]

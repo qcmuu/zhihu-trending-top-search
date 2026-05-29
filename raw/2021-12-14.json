@@ -46,5 +46,7 @@
   { "query": "地理标志维权", "display_query": "最高法不支持地理标志维权" },
   { "query": "年度十大热歌", "display_query": "2021 TMEA 年度十大热歌" },
   { "query": "特利迦奥特曼", "display_query": "特利迦奥特曼 21 话" },
-  { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" }
+  { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },
+  { "query": "库里", "display_query": "库里差 1 三分追平纪录" },
+  { "query": "杜兰特", "display_query": "杜兰特 51+7+9" }
 ]

@@ -1,7 +1,7 @@
 [
   { "query": "王者荣耀世界", "display_query": "王者荣耀开放世界新游" },
   { "query": "一人之下", "display_query": "一人之下 584 话更新" },
-  { "query": "edg", "display_query": " EDG VS GEN" },
+  { "query": "edg", "display_query": "EDG VS GEN" },
   { "query": "王者荣耀动画", "display_query": "王者荣耀动画预告" },
   { "query": "黑龙江疫情", "display_query": "黑龙江省疫情" },
   { "query": "MVP", "display_query": "NBA 第 1 期 MVP 榜排名" },
@@ -38,5 +38,8 @@
   { "query": "水门桥", "display_query": "长津湖之水门桥" },
   { "query": "乘务密接", "display_query": "列车因乘务密接中断行程" },
   { "query": "尼康z9", "display_query": "尼康 Z 9 相机发布" },
-  { "query": "t1", "display_query": "S11 半决赛 T1 vs DK" }
+  { "query": "t1", "display_query": "S11 半决赛 T1 vs DK" },
+  { "query": "猫之茗", "display_query": "国漫《猫之茗》开播" },
+  { "query": "湖南直升机", "display_query": "湖南直升机坠毁 3 人遇难" },
+  { "query": "黑龙江疫情", "display_query": "黑龙江新增确诊 26 例" }
 ]

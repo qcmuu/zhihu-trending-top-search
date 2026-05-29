@@ -21,5 +21,25 @@
     "query": "月入1万的10个冷门副业",
     "display_query": "月入1万的10个冷门副业"
   },
-  { "query": "openai", "display_query": "openai" }
+  { "query": "openai", "display_query": "openai" },
+  { "query": "黄磊做菜的水平怎么样", "display_query": "黄磊做菜的水平怎么样" },
+  {
+    "query": "如何评价阿里数学竞赛试题",
+    "display_query": "如何评价阿里数学竞赛试题"
+  },
+  {
+    "query": "非全日制研究生能享受人才引进吗",
+    "display_query": "非全日制研究生能享受人才引进吗"
+  },
+  { "query": "在职考研怎么备考", "display_query": "在职考研怎么备考" },
+  {
+    "query": "非全日制研究生是怎么上课的",
+    "display_query": "非全日制研究生是怎么上课的"
+  },
+  { "query": "在职硕士", "display_query": "在职硕士" },
+  { "query": "软考彻底", "display_query": "软考彻底" },
+  {
+    "query": "在职研究生和非全日制研究生区别",
+    "display_query": "在职研究生和非全日制研究生区别"
+  }
 ]

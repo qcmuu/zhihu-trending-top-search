@@ -51,5 +51,7 @@
   { "query": "研究生学历", "display_query": "研究生学历成为入职门槛" },
   { "query": "巫师3", "display_query": "CDPR 确认《巫师》新作" },
   { "query": "普京参加 G20 峰会", "display_query": "普京计划参加 G20 峰会" },
-  { "query": "拉姆被烧伤致死案", "display_query": "拉姆被烧伤致死案二审结果" }
+  { "query": "拉姆被烧伤致死案", "display_query": "拉姆被烧伤致死案二审结果" },
+  { "query": "勇士", "display_query": "普尔 30+9 勇士胜热火" },
+  { "query": "篮网", "display_query": "杜兰特 37+9+8 篮网胜爵士" }
 ]

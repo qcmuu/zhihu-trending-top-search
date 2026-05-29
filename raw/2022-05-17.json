@@ -34,7 +34,7 @@
   },
   {
     "query": "\t男孩爬变压器捡球右手烧伤摔落",
-    "display_query": "\t男孩爬变压器捡球右手烧伤摔落"
+    "display_query": "男孩爬变压器捡球右手烧伤摔落"
   },
   {
     "query": "哈尔滨通报「男子烧伤身亡」",
@@ -143,5 +143,6 @@
   { "query": "俄罗斯暂停供电芬兰", "display_query": "俄罗斯暂停供电芬兰" },
   { "query": "A-SOUL制作委员会道歉", "display_query": "A-SOUL制作委员会道歉" },
   { "query": "《间谍过家家》第六集", "display_query": "《间谍过家家》第六集" },
-  { "query": "声生不息 第四期", "display_query": "声生不息 第四期" }
+  { "query": "声生不息 第四期", "display_query": "声生不息 第四期" },
+  { "query": "美国 UFO 公开听证会", "display_query": "美国 UFO 公开听证会" }
 ]

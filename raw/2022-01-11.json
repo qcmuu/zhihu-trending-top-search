@@ -25,5 +25,7 @@
   { "query": "汤普森复出", "display_query": "汤普森复出" },
   { "query": "中国人民警察节", "display_query": "中国人民警察节" },
   { "query": "荣耀折叠屏", "display_query": "荣耀 Magic V 折叠屏发布" },
-  { "query": "勇士", "display_query": "克莱 17 分勇士胜骑士" }
+  { "query": "勇士", "display_query": "克莱 17 分勇士胜骑士" },
+  { "query": "郭艾伦", "display_query": "郭艾伦是怎样爱上篮球的" },
+  { "query": "女排主教练", "display_query": "公开选聘国家女排主教练" }
 ]

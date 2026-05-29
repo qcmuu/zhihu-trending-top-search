@@ -43,5 +43,6 @@
   { "query": "冬奥会旗手", "display_query": "冬奥中国代表团旗手确定" },
   { "query": "湖人", "display_query": "威少 20+12 湖人遭逆转" },
   { "query": "周杰伦新歌", "display_query": "周杰伦说新歌 MV 已拍" },
-  { "query": "航天员太空过年", "display_query": "航天员太空中喜迎春节" }
+  { "query": "航天员太空过年", "display_query": "航天员太空中喜迎春节" },
+  { "query": "支付宝集五福", "display_query": "支付宝集五福活动开奖" }
 ]

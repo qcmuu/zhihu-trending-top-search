@@ -37,5 +37,6 @@
   { "query": "第五轮谈判", "display_query": "俄乌第五轮谈判" },
   { "query": "勇士", "display_query": "勇士负灰熊遭遇 3 连败" },
   { "query": "勇士", "display_query": "克莱 25 分勇士负奇才" },
-  { "query": "樊振东", "display_query": "樊振东连续排名世界第一" }
+  { "query": "樊振东", "display_query": "樊振东连续排名世界第一" },
+  { "query": "奥斯卡奖", "display_query": "第 94 届奥斯卡奖" }
 ]

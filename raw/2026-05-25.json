@@ -35,5 +35,63 @@
   { "query": "油价今晚上调", "display_query": "油价今晚上调" },
   { "query": "金价", "display_query": "金价" },
   { "query": "姜乘澜被执行1119万", "display_query": "姜乘澜被执行1119万" },
-  { "query": "武汉发布暴雨红色预警", "display_query": "武汉发布暴雨红色预警" }
+  { "query": "武汉发布暴雨红色预警", "display_query": "武汉发布暴雨红色预警" },
+  {
+    "query": "华为发表半导体领域新定律",
+    "display_query": "华为发表半导体领域新定律"
+  },
+  {
+    "query": "山西沁源一煤矿发生事故",
+    "display_query": "山西沁源一煤矿发生事故"
+  },
+  { "query": "王鹤棣 沈月", "display_query": "王鹤棣 沈月" },
+  {
+    "query": "重庆永川特大暴雨多人失联",
+    "display_query": "重庆永川特大暴雨多人失联"
+  },
+  { "query": "DeepSeek永久降价", "display_query": "DeepSeek永久降价" },
+  {
+    "query": "男子踩中蛇窝被咬 10 多口",
+    "display_query": "男子踩中蛇窝被咬 10 多口"
+  },
+  {
+    "query": "杨梅收购商跑光价格从20元跌到8毛",
+    "display_query": "杨梅收购商跑光价格从20元跌到8毛"
+  },
+  {
+    "query": "中国证监会拟严厉处罚老虎富途长桥",
+    "display_query": "中国证监会拟严厉处罚老虎富途长桥"
+  },
+  {
+    "query": "华为麒麟 2026 手机芯片今秋面世",
+    "display_query": "华为麒麟 2026 手机芯片今秋面世"
+  },
+  { "query": "神舟二十三号发射成功", "display_query": "神舟二十三号发射成功" },
+  {
+    "query": "疑似王鹤棣经纪人回应争议",
+    "display_query": "疑似王鹤棣经纪人回应争议"
+  },
+  { "query": "李晨郑恺跑男停宣", "display_query": "李晨郑恺跑男停宣" },
+  {
+    "query": "马斯克SpaceX星舰V3首飞成功",
+    "display_query": "马斯克SpaceX星舰V3首飞成功"
+  },
+  {
+    "query": "塞尔维亚总统武契奇访华",
+    "display_query": "塞尔维亚总统武契奇访华"
+  },
+  {
+    "query": "金秀贤从全民唾骂到沉冤得雪",
+    "display_query": "金秀贤从全民唾骂到沉冤得雪"
+  },
+  { "query": "湖南医师群发私密照", "display_query": "湖南医师群发私密照" },
+  {
+    "query": "百万粉丝女网红上厕所被偷拍",
+    "display_query": "百万粉丝女网红上厕所被偷拍"
+  },
+  {
+    "query": "美国申请绿卡须回原籍国",
+    "display_query": "美国申请绿卡须回原籍国"
+  },
+  { "query": "洛克王国平衡改动", "display_query": "洛克王国平衡改动" }
 ]

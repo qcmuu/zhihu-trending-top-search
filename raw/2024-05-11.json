@@ -48,5 +48,25 @@
     "query": "云南持刀伤人事件致2死21伤",
     "display_query": "云南持刀伤人事件致2死21伤"
   },
-  { "query": "淘宝免单", "display_query": "淘宝免单" }
+  { "query": "淘宝免单", "display_query": "淘宝免单" },
+  {
+    "query": "TikTok与字节在美提起诉讼",
+    "display_query": "TikTok与字节在美提起诉讼"
+  },
+  {
+    "query": "瑞典央行基准利率下调25个基点",
+    "display_query": "瑞典央行基准利率下调25个基点"
+  },
+  {
+    "query": "华为在迪拜发布多款产品",
+    "display_query": "华为在迪拜发布多款产品"
+  },
+  {
+    "query": "选择职业应该追求挑战还是稳定",
+    "display_query": "选择职业应该追求挑战还是稳定"
+  },
+  {
+    "query": "如何找点热爱打败生活的「无趣」",
+    "display_query": "如何找点热爱打败生活的「无趣」"
+  }
 ]

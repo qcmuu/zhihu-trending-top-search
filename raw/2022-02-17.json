@@ -46,8 +46,12 @@
   { "query": "春节档票价高", "display_query": "中消协评春节档票价高" },
   { "query": "广东疫情", "display_query": "广东新增 3 例确诊病例" },
   { "query": "幼儿园纳入义务教育", "display_query": "建议幼儿园纳入义务教育" },
-  { "query": "v5", "display_query": "V5 2:0 击败 RNG " },
+  { "query": "v5", "display_query": "V5 2:0 击败 RNG" },
   { "query": "齐广璞", "display_query": "齐广璞夺中国第 7 金" },
   { "query": "鬼灭之刃", "display_query": "鬼灭之刃第三季 PV" },
-  { "query": "艾尔登法环", "display_query": "艾尔登法环最低配置" }
+  { "query": "艾尔登法环", "display_query": "艾尔登法环最低配置" },
+  { "query": "花滑女单短节目", "display_query": "俄罗斯三娃携手晋级" },
+  { "query": "冬奥奖牌", "display_query": "中国冬奥 6 金创历史最佳" },
+  { "query": "王霜", "display_query": "王霜伤势疑似骨裂" },
+  { "query": "冬奥会奖牌数", "display_query": "冬奥会奖牌数创历史新高" }
 ]

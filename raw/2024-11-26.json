@@ -33,5 +33,10 @@
   { "query": "掘金vs湖人", "display_query": "掘金vs湖人" },
   { "query": "时代少年团演唱会直播", "display_query": "时代少年团演唱会直播" },
   { "query": "张本智和", "display_query": "张本智和" },
-  { "query": "王楚钦", "display_query": "王楚钦" }
+  { "query": "王楚钦", "display_query": "王楚钦" },
+  {
+    "query": "拉萨冬季饮品消费市场暖起来",
+    "display_query": "拉萨冬季饮品消费市场暖起来"
+  },
+  { "query": "普通人使用ChatGPT方法", "display_query": "普通人使用ChatGPT方法" }
 ]

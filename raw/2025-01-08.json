@@ -51,5 +51,8 @@
   {
     "query": "你觉得人品重要还是能力重要",
     "display_query": "你觉得人品重要还是能力重要"
-  }
+  },
+  { "query": "把非遗年味带回家", "display_query": "把非遗年味带回家" },
+  { "query": "年轻人还会置办年货吗", "display_query": "年轻人还会置办年货吗" },
+  { "query": "奥特曼年终总结", "display_query": "奥特曼年终总结" }
 ]

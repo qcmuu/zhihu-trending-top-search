@@ -43,5 +43,6 @@
   { "query": "宝可梦", "display_query": "周深演唱宝可梦周年曲" },
   { "query": "游戏王", "display_query": "游戏王大师决斗 Xyz Festival" },
   { "query": "ag", "display_query": "AG 不敌 DYG" },
-  { "query": "扣篮大赛", "display_query": "扣篮大赛托平夺冠" }
+  { "query": "扣篮大赛", "display_query": "扣篮大赛托平夺冠" },
+  { "query": "隋文静/韩聪", "display_query": "隋文静/韩聪夺第 9 金" }
 ]

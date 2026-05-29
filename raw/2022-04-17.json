@@ -102,5 +102,10 @@
     "display_query": "释永信退出少林无形资管公司"
   },
   { "query": "高校毕业生数量", "display_query": "高校毕业生预计有 1076 万人" },
-  { "query": "27岁宝妈 求职", "display_query": "27 岁宝妈求职被 HR 嫌年龄大" }
+  { "query": "27岁宝妈 求职", "display_query": "27 岁宝妈求职被 HR 嫌年龄大" },
+  { "query": "鹈鹕晋级季后赛", "display_query": "鹈鹕险胜快船晋级季后赛" },
+  {
+    "query": "右安门医院 高额殡葬费",
+    "display_query": "右安门医院又曝收取高额殡葬费"
+  }
 ]

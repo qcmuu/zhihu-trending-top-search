@@ -38,5 +38,6 @@
   { "query": "支付宝微信", "display_query": "支付宝微信收款码禁止商用系误读" },
   { "query": "一人之下", "display_query": "一人之下 588 话" },
   { "query": "上海确诊", "display_query": "上海确诊病例在京轨迹" },
-  { "query": "海贼王", "display_query": "海贼王 1033 话" }
+  { "query": "海贼王", "display_query": "海贼王 1033 话" },
+  { "query": "UFG", "display_query": "UFG vs SA" }
 ]

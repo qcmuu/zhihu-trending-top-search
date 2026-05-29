@@ -37,5 +37,8 @@
   { "query": "甘肃新增", "display_query": "甘肃新增 5 例本土确诊" },
   { "query": "战神4", "display_query": "战神 4 上架 Steam" },
   { "query": "乌合麒麟", "display_query": "乌合麒麟新作" },
-  { "query": "沈阳饭店爆炸", "display_query": "沈阳一饭店突发爆炸" }
+  { "query": "沈阳饭店爆炸", "display_query": "沈阳一饭店突发爆炸" },
+  { "query": "北京确诊", "display_query": "北京昌平确诊病例轨迹公布" },
+  { "query": "大疆电影机", "display_query": "大疆电影机 Ronin 4D 发布" },
+  { "query": "比特币涨价", "display_query": "比特币涨至 6.6 万美元" }
 ]

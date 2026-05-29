@@ -1,6 +1,6 @@
 [
   { "query": "开端", "display_query": "《开端》更新" },
-  { "query": "游戏防沉迷", "display_query": "寒假未成年最多玩 14h 游戏 " },
+  { "query": "游戏防沉迷", "display_query": "寒假未成年最多玩 14h 游戏" },
   { "query": "金钱豹头像", "display_query": "「金钱豹」头像" },
   { "query": "新秦时明月", "display_query": "新秦时明月更新" },
   { "query": "汤加", "display_query": "汤加宣布进入紧急状态" },
@@ -39,7 +39,10 @@
   { "query": "张煜", "display_query": "张煜医生谈医疗乱象" },
   { "query": "四川刑案", "display_query": "四川发生一起重大刑案" },
   { "query": "尤利尔去世", "display_query": "尤利尔因滑雪事故去世" },
-  { "query": "fgo", "display_query": "FGO 剧场版终局特异点 " },
+  { "query": "fgo", "display_query": "FGO 剧场版终局特异点" },
   { "query": "勇士", "display_query": "克莱 21 分勇士胜活塞" },
-  { "query": "b站监控画面", "display_query": "B 站用户上传破解监控画面" }
+  { "query": "b站监控画面", "display_query": "B 站用户上传破解监控画面" },
+  { "query": "不良人", "display_query": "画江湖之不良人 5" },
+  { "query": "湖人", "display_query": "詹姆斯 25 分湖人胜爵士" },
+  { "query": "edg", "display_query": "EDG 三连胜" }
 ]

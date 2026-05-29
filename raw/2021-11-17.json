@@ -36,5 +36,9 @@
   { "query": "勇士", "display_query": "勇士终结 7 连胜" },
   { "query": "篮网", "display_query": "杜兰特 33+8 篮网胜雷霆" },
   { "query": "王随生", "display_query": "前建业主帅王随生逝世" },
-  { "query": "假戴森吹风机", "display_query": "假戴森吹风机盗用真二维码" }
+  { "query": "假戴森吹风机", "display_query": "假戴森吹风机盗用真二维码" },
+  { "query": "会发光的 3090", "display_query": "「会发光的 3090」" },
+  { "query": "马克龙", "display_query": "法国总统马克龙修改国旗颜色" },
+  { "query": "甄嬛传十周年", "display_query": "《甄嬛传》播出十周年" },
+  { "query": "MIUI13", "display_query": "MIUI 13 即将来临" }
 ]

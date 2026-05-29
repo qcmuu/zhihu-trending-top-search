@@ -46,5 +46,9 @@
     "display_query": "外交部敦促美方作出令人信服的交代"
   },
   { "query": "医院回应", "display_query": "医院回应护士哮喘离世事件" },
-  { "query": "国足", "display_query": "12 强赛国足战平沙特" }
+  { "query": "国足", "display_query": "12 强赛国足战平沙特" },
+  {
+    "query": "东航飞行事故确定坠机撞击点",
+    "display_query": "东航飞行事故第六次发布会"
+  }
 ]

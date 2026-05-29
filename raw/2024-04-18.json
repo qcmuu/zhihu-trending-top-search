@@ -14,5 +14,6 @@
   { "query": "考公资料", "display_query": "考公资料" },
   { "query": "剪辑软件", "display_query": "剪辑软件" },
   { "query": "剪辑素材", "display_query": "剪辑素材" },
-  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" }
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
+  { "query": "演员到底有多吃天赋", "display_query": "演员到底有多吃天赋" }
 ]

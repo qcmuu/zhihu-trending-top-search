@@ -53,5 +53,7 @@
     "query": "台湾每天缺120万颗鸡蛋",
     "display_query": "台湾每天缺 120 万颗鸡蛋"
   },
-  { "query": "北京新增", "display_query": "北京新增 12 例本土确诊 " }
+  { "query": "北京新增", "display_query": "北京新增 12 例本土确诊" },
+  { "query": "李谷一", "display_query": "李谷一亲自答" },
+  { "query": "火龙果弱阳性", "display_query": "天津发现一批火龙果弱阳性" }
 ]

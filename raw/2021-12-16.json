@@ -39,5 +39,6 @@
   { "query": "武磊", "display_query": "武磊国王杯破进球荒" },
   { "query": "顺丰同城", "display_query": "「顺丰同城」香港上市" },
   { "query": "南苏丹", "display_query": "南苏丹爆发不明疾病" },
-  { "query": "小米手机", "display_query": "小米手机电池技术新突破" }
+  { "query": "小米手机", "display_query": "小米手机电池技术新突破" },
+  { "query": "广东疫情", "display_query": "广东发现首例奥密克戎病例" }
 ]

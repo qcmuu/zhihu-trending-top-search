@@ -15,5 +15,6 @@
     "display_query": "美联储维持联邦基金利率不变"
   },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
-  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" }
+  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
+  { "query": "非全日制研究生", "display_query": "非全日制研究生" }
 ]

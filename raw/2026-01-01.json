@@ -24,5 +24,54 @@
     "query": "最顶级的情绪价值是什么",
     "display_query": "最顶级的情绪价值是什么"
   },
-  { "query": "A股行情", "display_query": "A股行情" }
+  { "query": "A股行情", "display_query": "A股行情" },
+  { "query": "2026新年贺词", "display_query": "2026新年贺词" },
+  { "query": "你好2026", "display_query": "你好2026" },
+  { "query": "2026 年国补政策来了", "display_query": "2026 年国补政策来了" },
+  {
+    "query": "Meta 数十亿美元收购 Manus",
+    "display_query": "Meta 数十亿美元收购 Manus"
+  },
+  {
+    "query": "2026 年元旦升国旗仪式举行",
+    "display_query": "2026 年元旦升国旗仪式举行"
+  },
+  { "query": "元旦跨年朋友圈发什么", "display_query": "元旦跨年朋友圈发什么" },
+  {
+    "query": "宝妈吐槽娃被公公满身酒气熏醉",
+    "display_query": "宝妈吐槽娃被公公满身酒气熏醉"
+  },
+  {
+    "query": "土耳其宣布对中国公民免签",
+    "display_query": "土耳其宣布对中国公民免签"
+  },
+  { "query": "再见2025", "display_query": "再见2025" },
+  { "query": "王楚钦拟记大功", "display_query": "王楚钦拟记大功" },
+  {
+    "query": "周深一天登四场跨年晚会",
+    "display_query": "周深一天登四场跨年晚会"
+  },
+  { "query": "孟晚舟发表新年致辞", "display_query": "孟晚舟发表新年致辞" },
+  {
+    "query": "年度报告为啥不显示「熬穿了」",
+    "display_query": "年度报告为啥不显示「熬穿了」"
+  },
+  {
+    "query": "小米联合创始人林斌宣布将减持小米股票",
+    "display_query": "小米联合创始人林斌宣布将减持小米股票"
+  },
+  { "query": "伊朗货币里亚尔暴跌", "display_query": "伊朗货币里亚尔暴跌" },
+  { "query": "王自如直播写代码", "display_query": "王自如直播写代码" },
+  {
+    "query": "清华大学今晚给庞众望颁奖",
+    "display_query": "清华大学今晚给庞众望颁奖"
+  },
+  { "query": "物业费迎来大跳水", "display_query": "物业费迎来大跳水" },
+  { "query": "东部战区组织实弹射击", "display_query": "东部战区组织实弹射击" },
+  {
+    "query": "台湾多条航线大面积取消",
+    "display_query": "台湾多条航线大面积取消"
+  },
+  { "query": "韩国总统李在明将访华", "display_query": "韩国总统李在明将访华" },
+  { "query": "湖南卫视跨年晚会", "display_query": "湖南卫视跨年晚会" }
 ]

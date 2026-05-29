@@ -29,7 +29,7 @@
   { "query": "素媛案罪犯", "display_query": "韩国素媛案罪犯家中遇袭" },
   { "query": "勇士", "display_query": "库里 30 分勇士胜绿军" },
   { "query": "幻塔", "display_query": "游戏《幻塔》上线" },
-  { "query": "一人之下", "display_query": "一人之下 591 话更新 " },
+  { "query": "一人之下", "display_query": "一人之下 591 话更新" },
   { "query": "美国驻华大使", "display_query": "伯恩斯上任美驻华大使" },
   { "query": "广州疫情", "display_query": "广州疫情" },
   { "query": "潘石屹", "display_query": "潘石屹名下企业偷逃税被罚" },
@@ -40,5 +40,8 @@
   { "query": "县域普通高中", "display_query": "「县域普通高中提升计划」" },
   { "query": "学前提升计划", "display_query": "「学前提升计划」发布" },
   { "query": "王力宏", "display_query": "李靓蕾发长文" },
-  { "query": "胡锡进", "display_query": "胡锡进卸任" }
+  { "query": "胡锡进", "display_query": "胡锡进卸任" },
+  { "query": "周琦", "display_query": "周琦第 4 战 17+13+5 帽" },
+  { "query": "西城男孩演唱会", "display_query": "Westlife 线上演唱会" },
+  { "query": "美国国防授权法案", "display_query": "美国法案渲染「中俄威胁」" }
 ]

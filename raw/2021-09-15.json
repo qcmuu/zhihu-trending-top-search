@@ -2,7 +2,7 @@
   { "query": "苹果发布会", "display_query": "苹果发布会" },
   { "query": "iphone13", "display_query": "iPhone 13 值不值得买" },
   { "query": "ipad2021", "display_query": "iPad 2021" },
-  { "query": "苏炳添", "display_query": "苏炳添或将得到奥运奖牌 " },
+  { "query": "苏炳添", "display_query": "苏炳添或将得到奥运奖牌" },
   { "query": "莆田疫情", "display_query": "福建疫情" },
   { "query": "未婚性行为", "display_query": "学生未婚性行为将被处分" },
   { "query": "北京环球影城", "display_query": "飞猪环球影城优速通自动退票" },
@@ -26,5 +26,8 @@
   { "query": "原神", "display_query": "米哈游警告原神数据网" },
   { "query": "灿都", "display_query": "超强台风「灿都」北调" },
   { "query": "进击的巨人", "display_query": "进击的巨人二创结局" },
-  { "query": "苹果发布会", "display_query": "苹果发布会即将举行" }
+  { "query": "苹果发布会", "display_query": "苹果发布会即将举行" },
+  { "query": "少年歌行", "display_query": "少年歌行导演亲自答" },
+  { "query": "辅助生殖技术", "display_query": "辅助生殖需求飙升" },
+  { "query": "南仁东", "display_query": "南仁东逝世四周年" }
 ]

@@ -38,5 +38,18 @@
   },
   { "query": "上海等级考", "display_query": "上海等级考" },
   { "query": "blg", "display_query": "blg" },
-  { "query": "石宇奇男单夺冠", "display_query": "石宇奇男单夺冠" }
+  { "query": "石宇奇男单夺冠", "display_query": "石宇奇男单夺冠" },
+  { "query": "三星堆博物馆游客打架", "display_query": "三星堆博物馆游客打架" },
+  {
+    "query": "嫦娥六号完成月球轨道交会对接",
+    "display_query": "嫦娥六号完成月球轨道交会对接"
+  },
+  {
+    "query": "高考故意考0分的考生重上考场",
+    "display_query": "高考故意考0分的考生重上考场"
+  },
+  {
+    "query": "金价创2021年8月以来最大跌幅",
+    "display_query": "金价创2021年8月以来最大跌幅"
+  }
 ]

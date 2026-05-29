@@ -37,5 +37,10 @@
     "query": "有哪些让你目瞪口呆的 Bug",
     "display_query": "有哪些让你目瞪口呆的 Bug"
   },
-  { "query": "董明珠回应电器卖得贵", "display_query": "董明珠回应电器卖得贵" }
+  { "query": "董明珠回应电器卖得贵", "display_query": "董明珠回应电器卖得贵" },
+  {
+    "query": "交警通报一道路立杆上摄像头密集",
+    "display_query": "交警通报一道路立杆上摄像头密集"
+  },
+  { "query": "2025 台式净饮机推荐", "display_query": "2025 台式净饮机推荐" }
 ]

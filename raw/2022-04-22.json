@@ -142,5 +142,6 @@
   {
     "query": "奈飞净付费用户减少 20 万",
     "display_query": "奈飞净付费用户减少 20 万"
-  }
+  },
+  { "query": "TES 晋级决赛", "display_query": "TES 晋级决赛" }
 ]

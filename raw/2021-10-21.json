@@ -39,5 +39,7 @@
   { "query": "擦屏布", "display_query": "苹果 145 元擦屏布" },
   { "query": "macbookpro", "display_query": "MacBook Pro 刘海屏" },
   { "query": "airpods3", "display_query": "第三代 AirPods" },
-  { "query": "m1 max", "display_query": "苹果发布全新 M1 系列芯片" }
+  { "query": "m1 max", "display_query": "苹果发布全新 M1 系列芯片" },
+  { "query": "库里", "display_query": "库里三双送湖人 7 连败" },
+  { "query": "LNG", "display_query": "LNG 止步小组赛" }
 ]

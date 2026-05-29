@@ -25,5 +25,7 @@
   { "query": "原神", "display_query": "原神心海流水史低" },
   { "query": "华为声明", "display_query": "华为称将继续在美国维权" },
   { "query": "iPhone13 bug", "display_query": "iPhone 13 拍照有马赛克" },
-  { "query": "孟晚舟", "display_query": "孟晚舟已回到祖国" }
+  { "query": "孟晚舟", "display_query": "孟晚舟已回到祖国" },
+  { "query": "iPhone 14", "display_query": "iPhone 14 或迎来全新设计" },
+  { "query": "张鹏翼", "display_query": "楚留香导演张鹏翼去世" }
 ]

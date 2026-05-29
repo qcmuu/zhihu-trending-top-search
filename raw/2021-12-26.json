@@ -49,5 +49,6 @@
   { "query": "降温", "display_query": "全国多地迎来大降温" },
   { "query": "一人之下", "display_query": "一人之下 592 话" },
   { "query": "新秦时明月", "display_query": "新秦时明月更新" },
-  { "query": "朴槿惠", "display_query": "文在寅将赦免朴槿惠" }
+  { "query": "朴槿惠", "display_query": "文在寅将赦免朴槿惠" },
+  { "query": "云南疫情", "display_query": "云南新增确诊病例 4 例" }
 ]

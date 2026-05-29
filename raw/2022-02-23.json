@@ -46,5 +46,8 @@
   { "query": "全明星", "display_query": "全明星赛库里 50 分" },
   { "query": "考研成绩", "display_query": "2022 考研初试成绩公布" },
   { "query": "冬奥会赛场", "display_query": "冬奥会赛场比金牌更重要的事" },
-  { "query": "名作之壁吧", "display_query": "名作之壁吧评分榜改变" }
+  { "query": "名作之壁吧", "display_query": "名作之壁吧评分榜改变" },
+  { "query": "steam", "display_query": "Steam 新品节开启" },
+  { "query": "全国新增", "display_query": "全国新增 71 例本土确诊" },
+  { "query": "考研初试成绩公布", "display_query": "查询考研初试成绩的心情" }
 ]

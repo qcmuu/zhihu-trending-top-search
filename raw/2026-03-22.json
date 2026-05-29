@@ -17,5 +17,67 @@
   {
     "query": "你见过哪些不动声色的善良",
     "display_query": "你见过哪些不动声色的善良"
-  }
+  },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "「梅姨」落网供认贩卖儿童",
+    "display_query": "「梅姨」落网供认贩卖儿童"
+  },
+  {
+    "query": "梅姨长相与画像相似度不到30%",
+    "display_query": "梅姨长相与画像相似度不到30%"
+  },
+  {
+    "query": "雷军「60+60=120」言论引争议",
+    "display_query": "雷军「60+60=120」言论引争议"
+  },
+  {
+    "query": "梅姨可能觉得自己在做善事",
+    "display_query": "梅姨可能觉得自己在做善事"
+  },
+  { "query": "香港发生亿元黄金劫案", "display_query": "香港发生亿元黄金劫案" },
+  {
+    "query": "黄金创 43 年最大单周跌幅",
+    "display_query": "黄金创 43 年最大单周跌幅"
+  },
+  { "query": "油价将重回9元时代", "display_query": "油价将重回9元时代" },
+  { "query": "G2 3:0 爆冷零封 GEN", "display_query": "G2 3:0 爆冷零封 GEN" },
+  {
+    "query": "伊朗有意允许日本船只通行霍尔木兹海峡",
+    "display_query": "伊朗有意允许日本船只通行霍尔木兹海峡"
+  },
+  {
+    "query": "傅盛喊话周鸿祎：欠一个亿不还",
+    "display_query": "傅盛喊话周鸿祎：欠一个亿不还"
+  },
+  { "query": "小米发布新一代SU7", "display_query": "小米发布新一代SU7" },
+  {
+    "query": "Cursor 新模型套壳 Kimi K2.5",
+    "display_query": "Cursor 新模型套壳 Kimi K2.5"
+  },
+  { "query": "欧盟公招报录比117:1", "display_query": "欧盟公招报录比117:1" },
+  { "query": "伊朗被曝全面断网", "display_query": "伊朗被曝全面断网" },
+  {
+    "query": "委内瑞拉击败美国全国放假一天",
+    "display_query": "委内瑞拉击败美国全国放假一天"
+  },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  {
+    "query": "山姆被曝冷鲜肉是数月前屠宰的",
+    "display_query": "山姆被曝冷鲜肉是数月前屠宰的"
+  },
+  {
+    "query": "六国声明保障霍尔木兹海峡安全",
+    "display_query": "六国声明保障霍尔木兹海峡安全"
+  },
+  {
+    "query": "南昌舰逼退外舰细节公布",
+    "display_query": "南昌舰逼退外舰细节公布"
+  },
+  {
+    "query": "重庆大学实验室爆炸致1死",
+    "display_query": "重庆大学实验室爆炸致1死"
+  },
+  { "query": "《逐玉》被大规模泄露", "display_query": "《逐玉》被大规模泄露" }
 ]

@@ -41,5 +41,6 @@
     "query": "家长反映食堂问题被刑拘",
     "display_query": "家长反映食堂问题被刑拘"
   },
-  { "query": "北京野生动物园", "display_query": "北京野生动物园游客冲向虎群" }
+  { "query": "北京野生动物园", "display_query": "北京野生动物园游客冲向虎群" },
+  { "query": "上海房叔", "display_query": "上海房叔抛售 93 套房产" }
 ]

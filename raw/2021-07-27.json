@@ -18,5 +18,6 @@
   { "query": "女排", "display_query": "东京奥运会女排首场 0:3 失利" },
   { "query": "明日方舟", "display_query": "明日方舟夏日嘉年华" },
   { "query": "江苏疫情", "display_query": "江苏新增确诊 39 例" },
-  { "query": "姜冉馨", "display_query": "姜冉馨 10 米气手枪铜牌" }
+  { "query": "姜冉馨", "display_query": "姜冉馨 10 米气手枪铜牌" },
+  { "query": "江苏疫情", "display_query": "江苏本土新增 31 例" }
 ]

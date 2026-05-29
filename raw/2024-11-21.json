@@ -49,5 +49,20 @@
     "query": "男人最无声的炫耀是什么",
     "display_query": "男人最无声的炫耀是什么"
   },
-  { "query": "李子柒身份证已改名", "display_query": "李子柒身份证已改名" }
+  { "query": "李子柒身份证已改名", "display_query": "李子柒身份证已改名" },
+  { "query": "华为 Mate X6", "display_query": "华为 Mate X6" },
+  {
+    "query": "多国驻乌克兰大使馆因袭击风险关闭",
+    "display_query": "多国驻乌克兰大使馆因袭击风险关闭"
+  },
+  {
+    "query": "如果螳螂变成 250 公斤能猎杀东北虎吗",
+    "display_query": "如果螳螂变成 250 公斤能猎杀东北虎吗"
+  },
+  { "query": "如何评价中国队的进步", "display_query": "如何评价中国队的进步" },
+  {
+    "query": "比特币突破 9.7 万美元再创新高",
+    "display_query": "比特币突破 9.7 万美元再创新高"
+  },
+  { "query": "比亚迪自研智驾芯片", "display_query": "比亚迪自研智驾芯片" }
 ]

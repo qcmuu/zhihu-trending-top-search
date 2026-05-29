@@ -47,5 +47,9 @@
   { "query": "沙利文抵达北京", "display_query": "沙利文抵达北京" },
   { "query": "塔克拉玛干沙漠发洪水", "display_query": "塔克拉玛干沙漠发洪水" },
   { "query": "9月苹果新品预测", "display_query": "9月苹果新品预测" },
-  { "query": "樊振东陈梦退赛", "display_query": "樊振东陈梦退赛" }
+  { "query": "樊振东陈梦退赛", "display_query": "樊振东陈梦退赛" },
+  {
+    "query": "市监总局督导阿里巴巴完成三年整改",
+    "display_query": "市监总局督导阿里巴巴完成三年整改"
+  }
 ]

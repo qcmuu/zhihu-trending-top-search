@@ -4,7 +4,7 @@
   { "query": "tes", "display_query": "TES 新赛季首战告负" },
   { "query": "天津疫情", "display_query": "天津新增 33 例本土确诊" },
   { "query": "电信断网", "display_query": "电信断网" },
-  { "query": "2021cpi", "display_query": "2021 年 CPI 上涨 0.9% " },
+  { "query": "2021cpi", "display_query": "2021 年 CPI 上涨 0.9%" },
   { "query": "深圳疫情", "display_query": "深圳新增 1 例新冠肺炎" },
   { "query": "河南疫情", "display_query": "河南新增 118 例本土确诊" },
   { "query": "大连疫情", "display_query": "大连发现 2 例核酸阳性" },
@@ -36,5 +36,7 @@
   { "query": "uzi", "display_query": "Uzi 韩服排位" },
   { "query": "iPhone14", "display_query": "iPhone 14 药丸型打孔屏" },
   { "query": "粤康码崩了", "display_query": "网友称广东粤康码崩了" },
-  { "query": "高三备考", "display_query": "严禁高三上提前结课备考" }
+  { "query": "高三备考", "display_query": "严禁高三上提前结课备考" },
+  { "query": "天津市委发信", "display_query": "天津市委市政府致信全市" },
+  { "query": "上海静安疫情", "display_query": "网传上海静安区有疫情" }
 ]

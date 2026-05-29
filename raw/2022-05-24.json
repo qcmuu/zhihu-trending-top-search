@@ -118,5 +118,9 @@
     "display_query": "刚果（金）千余人疑似感染猴痘病毒"
   },
   { "query": "耐克卖虚拟鞋", "display_query": "耐克卖虚拟鞋" },
-  { "query": "核酸采样机器人", "display_query": "核酸采样机器人" }
+  { "query": "核酸采样机器人", "display_query": "核酸采样机器人" },
+  {
+    "query": "世卫组织「无证据表明猴痘病毒已变异」",
+    "display_query": "世卫组织「无证据表明猴痘病毒已变异」"
+  }
 ]

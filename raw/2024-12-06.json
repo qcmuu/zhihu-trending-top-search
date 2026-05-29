@@ -58,5 +58,13 @@
   },
   { "query": "国考笔试", "display_query": "国考笔试" },
   { "query": "国考弃考", "display_query": "国考弃考" },
-  { "query": "今年国考上岸难度", "display_query": "今年国考上岸难度" }
+  { "query": "今年国考上岸难度", "display_query": "今年国考上岸难度" },
+  { "query": "于正", "display_query": "于正" },
+  { "query": "11月辟谣榜", "display_query": "11月辟谣榜" },
+  { "query": "员工上厕所不报备被开", "display_query": "员工上厕所不报备被开" },
+  {
+    "query": "大雄有多啦a梦什么还只是平平",
+    "display_query": "大雄有多啦a梦什么还只是平平"
+  },
+  { "query": "美图秀秀", "display_query": "美图秀秀" }
 ]

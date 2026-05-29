@@ -21,7 +21,7 @@
   { "query": "李泽厚", "display_query": "著名哲学家李泽厚逝世" },
   { "query": "北京疫情", "display_query": "北京新增 8 例本土确诊病例" },
   { "query": "美联储", "display_query": "美联储 11 月启动缩债计划" },
-  { "query": "河南疫情", "display_query": " 河南新增本土确诊 3 例" },
+  { "query": "河南疫情", "display_query": "河南新增本土确诊 3 例" },
   { "query": "三体电视剧", "display_query": "电视剧《三体》最新预告" },
   { "query": "马斯克", "display_query": "联合国喊话马斯克「见面聊」" },
   { "query": "新西游记", "display_query": "腾讯翻拍《新西游记》" },
@@ -39,6 +39,11 @@
   { "query": "乌海", "display_query": "《乌海》导演亲自答" },
   { "query": "巴黎协定", "display_query": "拜登为特朗普退出巴黎协定致歉" },
   { "query": "反诈动画", "display_query": "国家反诈动画大片" },
-  { "query": "丰收", "display_query": "中国实现连续丰收 18 年 " },
-  { "query": "无职转生", "display_query": "无职转生 Part.2 更新 " }
+  { "query": "丰收", "display_query": "中国实现连续丰收 18 年" },
+  { "query": "无职转生", "display_query": "无职转生 Part.2 更新" },
+  { "query": "左方", "display_query": "《南方周末》创始人左方去世" },
+  { "query": "杜兰特", "display_query": "杜兰特 32 分篮网 3 连胜" },
+  { "query": "新冠疫苗", "display_query": "3 至 11 岁可打新冠疫苗" },
+  { "query": "湖人", "display_query": "三巨头 84 分湖人胜火箭" },
+  { "query": "白雪公主", "display_query": "盖尔·加朵出演《白雪公主》毒皇后" }
 ]

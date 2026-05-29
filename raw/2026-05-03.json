@@ -47,5 +47,68 @@
   { "query": "暴雨大暴雨要来了", "display_query": "暴雨大暴雨要来了" },
   { "query": "火箭大胜湖人", "display_query": "火箭大胜湖人" },
   { "query": "张雪曾拒绝跟华为合作", "display_query": "张雪曾拒绝跟华为合作" },
-  { "query": "国际不打小孩日", "display_query": "国际不打小孩日" }
+  { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
+  { "query": "张雪机车再夺冠军", "display_query": "张雪机车再夺冠军" },
+  { "query": "成都车祸", "display_query": "成都车祸" },
+  {
+    "query": "东航 A350 撞击廊桥并反复开反推",
+    "display_query": "东航 A350 撞击廊桥并反复开反推"
+  },
+  {
+    "query": "央视世界杯版权费被曝谈崩",
+    "display_query": "央视世界杯版权费被曝谈崩"
+  },
+  {
+    "query": "水银奶茶事件被曝疑似系男友投毒",
+    "display_query": "水银奶茶事件被曝疑似系男友投毒"
+  },
+  {
+    "query": "兄弟俩总乱咬确诊自毁容貌综合征",
+    "display_query": "兄弟俩总乱咬确诊自毁容貌综合征"
+  },
+  { "query": "国乒男团1:3韩国", "display_query": "国乒男团1:3韩国" },
+  {
+    "query": "世界杯转播权再现中国式僵局",
+    "display_query": "世界杯转播权再现中国式僵局"
+  },
+  { "query": "广西一小区发生刑案", "display_query": "广西一小区发生刑案" },
+  {
+    "query": "南开大学院长陈佺论文被举报数据造假",
+    "display_query": "南开大学院长陈佺论文被举报数据造假"
+  },
+  { "query": "严浩翔家庭争议", "display_query": "严浩翔家庭争议" },
+  {
+    "query": "山西吕梁中院猥亵当事人法官被免职",
+    "display_query": "山西吕梁中院猥亵当事人法官被免职"
+  },
+  {
+    "query": "男子吃流心蛋后患上肝脓肿",
+    "display_query": "男子吃流心蛋后患上肝脓肿"
+  },
+  { "query": "GPT-5.5中哥布林泛滥", "display_query": "GPT-5.5中哥布林泛滥" },
+  {
+    "query": "这三种泳衣颜色一旦溺水难被发现",
+    "display_query": "这三种泳衣颜色一旦溺水难被发现"
+  },
+  {
+    "query": "导游称大熊猫花花是残疾游客秒报警",
+    "display_query": "导游称大熊猫花花是残疾游客秒报警"
+  },
+  { "query": "五粮液", "display_query": "五粮液" },
+  {
+    "query": "孙杨被曝疑违规录取博士",
+    "display_query": "孙杨被曝疑违规录取博士"
+  },
+  {
+    "query": "广州地铁有人喷洒不明液体",
+    "display_query": "广州地铁有人喷洒不明液体"
+  },
+  {
+    "query": "西安上空现不明物持续一小时后消失",
+    "display_query": "西安上空现不明物持续一小时后消失"
+  },
+  {
+    "query": "女子徒手给月子里宝宝打耳洞",
+    "display_query": "女子徒手给月子里宝宝打耳洞"
+  }
 ]

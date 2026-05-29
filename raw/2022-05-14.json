@@ -101,10 +101,7 @@
     "query": "袁心玥任新中国女排队长",
     "display_query": "袁心玥任新中国女排队长"
   },
-  {
-    "query": "\tiPod 在中国官网售罄",
-    "display_query": "\tiPod 在中国官网售罄"
-  },
+  { "query": "\tiPod 在中国官网售罄", "display_query": "iPod 在中国官网售罄" },
   {
     "query": "菲外长夸中国女孩用三国谈俄乌冲突",
     "display_query": "菲外长夸中国女孩用三国谈俄乌冲突"
@@ -146,5 +143,7 @@
   {
     "query": "知网涉嫌垄断被立案调查",
     "display_query": "知网涉嫌垄断被立案调查"
-  }
+  },
+  { "query": "美方执意邀请台湾方面", "display_query": "美方执意邀请台湾方面" },
+  { "query": "阿联酋选举出新任总统", "display_query": "阿联酋选举出新任总统" }
 ]

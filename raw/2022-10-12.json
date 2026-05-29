@@ -32,7 +32,7 @@
   },
   {
     "query": "\tBF.7 变异株已发现「过路传播」",
-    "display_query": "\tBF.7 变异株已发现「过路传播」"
+    "display_query": "BF.7 变异株已发现「过路传播」"
   },
   {
     "query": "我国多地检出 BF.7 变异株",
@@ -56,5 +56,11 @@
   {
     "query": "「天宫课堂」第三课来了",
     "display_query": "「天宫课堂」第三课来了"
+  },
+  { "query": "RNG 小组第一", "display_query": "RNG 小组第一" },
+  { "query": "朝鲜进行多项军事行动", "display_query": "朝鲜进行多项军事行动" },
+  {
+    "query": "俄副总理回应欧盟煤炭禁运",
+    "display_query": "俄副总理回应欧盟煤炭禁运"
   }
 ]

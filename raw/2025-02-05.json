@@ -35,5 +35,13 @@
     "display_query": "为什么封神 2 口碑两极分化"
   },
   { "query": "有奖答题 PK 分奖金", "display_query": "有奖答题 PK 分奖金" },
-  { "query": "知识王者 PK 分奖金", "display_query": "知识王者 PK 分奖金" }
+  { "query": "知识王者 PK 分奖金", "display_query": "知识王者 PK 分奖金" },
+  {
+    "query": "血氧浓度低于 90% 很危险",
+    "display_query": "血氧浓度低于 90% 很危险"
+  },
+  {
+    "query": "软银与 OpenAI 在日本成立合资公司",
+    "display_query": "软银与 OpenAI 在日本成立合资公司"
+  }
 ]

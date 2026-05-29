@@ -56,5 +56,6 @@
   { "query": "宝山抗疫物资", "display_query": "宝山抗疫物资" },
   { "query": "王羽", "display_query": "演员王羽去世" },
   { "query": "灵璧", "display_query": "当地再通报灵璧渔沟中学学生死亡案件" },
-  { "query": "清明节", "display_query": "清明节你最思念的人是谁" }
+  { "query": "清明节", "display_query": "清明节你最思念的人是谁" },
+  { "query": "湖人无缘附加赛", "display_query": "湖人无缘附加赛" }
 ]

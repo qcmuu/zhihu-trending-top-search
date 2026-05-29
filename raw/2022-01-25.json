@@ -30,5 +30,6 @@
   { "query": "山东疫情", "display_query": "山东济南新增 2 例本土确诊" },
   { "query": "山西疫情", "display_query": "山西发现 1 例核酸阳性人员" },
   { "query": "广东疫情", "display_query": "广东珠海新增 2 例确诊" },
-  { "query": "wtt", "display_query": "WTT 女单半决赛" }
+  { "query": "wtt", "display_query": "WTT 女单半决赛" },
+  { "query": "勇士", "display_query": "库里 13 分勇士胜爵士" }
 ]

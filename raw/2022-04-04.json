@@ -65,5 +65,7 @@
     "query": "孟晚舟担任华为轮值董事长",
     "display_query": "孟晚舟担任华为轮值董事长"
   },
-  { "query": "世界杯抽签", "display_query": "世界杯抽签结果出炉" }
+  { "query": "世界杯抽签", "display_query": "世界杯抽签结果出炉" },
+  { "query": "光明牛奶", "display_query": "光明牛奶辟谣" },
+  { "query": "湖人", "display_query": "湖人负掘金遭遇 6 连败" }
 ]

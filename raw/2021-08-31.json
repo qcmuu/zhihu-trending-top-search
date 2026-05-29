@@ -17,5 +17,6 @@
   { "query": "华为 EMUI12", "display_query": "华为海外发布 EMUI 12" },
   { "query": "罗格", "display_query": "前国际奥委会主席罗格去世" },
   { "query": "EDG", "display_query": "EDG 晋级 LPL 总决赛" },
-  { "query": "腾讯游戏", "display_query": "腾讯收购拉瑞安 30% 股份" }
+  { "query": "腾讯游戏", "display_query": "腾讯收购拉瑞安 30% 股份" },
+  { "query": "小米之家", "display_query": "厦门一小米之家遭洗劫" }
 ]

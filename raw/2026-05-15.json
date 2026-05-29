@@ -37,5 +37,46 @@
   {
     "query": "OPPO 高级副总裁职级直降两级",
     "display_query": "OPPO 高级副总裁职级直降两级"
+  },
+  {
+    "query": "美国总统特朗普结束访华",
+    "display_query": "美国总统特朗普结束访华"
+  },
+  { "query": "中美元首举行会谈", "display_query": "中美元首举行会谈" },
+  {
+    "query": "王毅介绍中美元首会晤共识",
+    "display_query": "王毅介绍中美元首会晤共识"
+  },
+  {
+    "query": "马斯克：只有我和黄仁勋坐上空军一号",
+    "display_query": "马斯克：只有我和黄仁勋坐上空军一号"
+  },
+  { "query": "央视拿下世界杯版权", "display_query": "央视拿下世界杯版权" },
+  {
+    "query": "特朗普访华国际社会评价",
+    "display_query": "特朗普访华国际社会评价"
+  },
+  { "query": "雷军和马斯克合照", "display_query": "雷军和马斯克合照" },
+  { "query": "普京访华", "display_query": "普京访华" },
+  { "query": "特朗普参观天坛", "display_query": "特朗普参观天坛" },
+  {
+    "query": "河北无极县一火锅店发生刑事案件",
+    "display_query": "河北无极县一火锅店发生刑事案件"
+  },
+  { "query": "鲁比奥", "display_query": "鲁比奥" },
+  {
+    "query": "OPPO海报称妈妈有两个老公引争议",
+    "display_query": "OPPO海报称妈妈有两个老公引争议"
+  },
+  { "query": "特朗普访华欢迎宴会", "display_query": "特朗普访华欢迎宴会" },
+  { "query": "特朗普访华", "display_query": "特朗普访华" },
+  {
+    "query": "黄仁勋搭空军一号随特朗普访华",
+    "display_query": "黄仁勋搭空军一号随特朗普访华"
+  },
+  { "query": "雷军马斯克国宴同框", "display_query": "雷军马斯克国宴同框" },
+  {
+    "query": "俞浩回应「崩老头」指控是造谣",
+    "display_query": "俞浩回应「崩老头」指控是造谣"
   }
 ]
