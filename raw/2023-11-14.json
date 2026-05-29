@@ -15,5 +15,9 @@
   },
   { "query": "国考如何选岗", "display_query": "国考如何选岗" },
   { "query": "钉钉崩了", "display_query": "钉钉崩了" },
-  { "query": "A股", "display_query": "A股" }
+  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "为何手机不设置成两块电池",
+    "display_query": "为何手机不设置成两块电池"
+  }
 ]

@@ -39,5 +39,7 @@
   { "query": "吞证据", "display_query": "男子法庭上吞证据被罚 5 万" },
   { "query": "iPad mini6", "display_query": "iPad mini 果冻屏" },
   { "query": "星辰变", "display_query": "星辰变导演亲自答" },
-  { "query": "小米 Civi", "display_query": "小米即将发布 Civi 新品" }
+  { "query": "小米 Civi", "display_query": "小米即将发布 Civi 新品" },
+  { "query": "动车撞人", "display_query": "兰州开往成都动车撞人" },
+  { "query": "限电 大棋", "display_query": "媒体评「限电是盘大棋」" }
 ]

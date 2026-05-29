@@ -33,5 +33,8 @@
   { "query": "樊振东", "display_query": "樊振东夺世乒赛男单冠军" },
   { "query": "活体机器人", "display_query": "首个活体机器人「生娃」" },
   { "query": "艾滋病", "display_query": "世界艾滋病日" },
-  { "query": "小米12", "display_query": "小米 12 全球首发新骁龙 8" }
+  { "query": "小米12", "display_query": "小米 12 全球首发新骁龙 8" },
+  { "query": "李铁", "display_query": "李铁向中国足协提出辞职" },
+  { "query": "哈尔滨疫情", "display_query": "哈尔滨疫情" },
+  { "query": "B站洗稿", "display_query": "B 站博主疑洗稿知乎用户" }
 ]

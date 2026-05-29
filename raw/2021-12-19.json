@@ -34,7 +34,7 @@
   { "query": "美国驻华大使", "display_query": "伯恩斯上任美驻华大使" },
   { "query": "陕西疫情", "display_query": "陕西新增 3 例本土确诊" },
   { "query": "宁德核电厂", "display_query": "宁德核电厂 0 级运行事件" },
-  { "query": "一人之下", "display_query": "一人之下 591 话更新 " },
+  { "query": "一人之下", "display_query": "一人之下 591 话更新" },
   { "query": "篮网", "display_query": "杜兰特准三双篮网胜 76 人" },
   { "query": "欧文回归", "display_query": "欧文回归篮网复出在即" },
   { "query": "呼伦贝尔极寒天气", "display_query": "呼伦贝尔最低温达 -40℃" },
@@ -42,5 +42,8 @@
   { "query": "素媛案罪犯", "display_query": "韩国素媛案罪犯家中遇袭" },
   { "query": "广场舞立法", "display_query": "我国正立法应对广场舞扰民" },
   { "query": "乌鲁木齐地震", "display_query": "乌鲁木齐发生 4.7 级地震" },
-  { "query": "浑水做空贝壳", "display_query": "浑水做空贝壳找房" }
+  { "query": "浑水做空贝壳", "display_query": "浑水做空贝壳找房" },
+  { "query": "蜀山奇仙录", "display_query": "蜀山奇仙录导演亲自答" },
+  { "query": "四六级考试", "display_query": "四六级考试" },
+  { "query": "潘石屹", "display_query": "潘石屹名下企业偷逃税被罚" }
 ]

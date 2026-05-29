@@ -56,10 +56,7 @@
     "query": "辉夜大小姐第三季第一集",
     "display_query": "辉夜大小姐想让我告白第三季上线"
   },
-  {
-    "query": "上海新增",
-    "display_query": "上海新增本土确诊 914 无症状 25173 "
-  },
+  { "query": "上海新增", "display_query": "上海新增本土确诊 914 无症状 25173" },
   { "query": "五一", "display_query": "2022 五一放假调休共 5 天" },
   { "query": "拜登", "display_query": "美国取消与俄罗斯正常贸易关系" },
   { "query": "篮网", "display_query": "杜兰特 36 分篮网升第 7" },
@@ -68,5 +65,9 @@
     "display_query": "《完美世界》动画五十三集更新"
   },
   { "query": "湖人", "display_query": "湖人胜雷霆终结 8 连败" },
-  { "query": "勇士", "display_query": "勇士力克马刺取 4 连胜" }
+  { "query": "勇士", "display_query": "勇士力克马刺取 4 连胜" },
+  {
+    "query": "羽生结弦 Fantasy on Ice 2022",
+    "display_query": "羽生结弦将参加 Fantasy on Ice 2022"
+  }
 ]

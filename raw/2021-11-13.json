@@ -35,5 +35,9 @@
   { "query": "幻塔", "display_query": "游戏《幻塔》终测" },
   { "query": "茶颜悦色", "display_query": "茶颜悦色临时关闭 87 家店" },
   { "query": "哈利波特魔法觉醒", "display_query": "哈利波特手游工作室晋升" },
-  { "query": "新冠疫苗加强针", "display_query": "钟南山称需及时补加强针" }
+  { "query": "新冠疫苗加强针", "display_query": "钟南山称需及时补加强针" },
+  { "query": "篮网", "display_query": "哈登 39+12 篮网胜鹈鹕" },
+  { "query": "加拿大一枝黄花", "display_query": "「加拿大一枝黄花」防除公告" },
+  { "query": "双十一交易额", "display_query": "天猫双 11 交易额 5403 亿" },
+  { "query": "吸入式疫苗", "display_query": "吸入式新冠疫苗" }
 ]

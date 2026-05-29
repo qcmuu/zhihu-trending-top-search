@@ -53,5 +53,7 @@
   { "query": "樊振东", "display_query": "樊振东连续排名世界第一" },
   { "query": " 哈利波特手游", "display_query": "哈利波特手游联动邓布利多之谜" },
   { "query": "东航飞行事故调查", "display_query": "东航飞行事故调查存在挑战" },
-  { "query": "微信故障", "display_query": "微信 PC 版大面积故障" }
+  { "query": "微信故障", "display_query": "微信 PC 版大面积故障" },
+  { "query": "华为业绩说明会", "display_query": "华为 2021 年营收 6368 亿元" },
+  { "query": "华为研发投入", "display_query": "华为去年研发投入 1427 亿" }
 ]

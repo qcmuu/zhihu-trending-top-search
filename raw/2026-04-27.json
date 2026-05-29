@@ -61,5 +61,64 @@
   {
     "query": "5月将迎中等及以上强度厄尔尼诺",
     "display_query": "5月将迎中等及以上强度厄尔尼诺"
-  }
+  },
+  {
+    "query": "美国白宫记者晚宴发生枪击事件",
+    "display_query": "美国白宫记者晚宴发生枪击事件"
+  },
+  {
+    "query": "官方通报女子劝阻男子吸烟引争执",
+    "display_query": "官方通报女子劝阻男子吸烟引争执"
+  },
+  {
+    "query": "派出所副所长诱骗未成年人吸毒获刑",
+    "display_query": "派出所副所长诱骗未成年人吸毒获刑"
+  },
+  {
+    "query": "东方甄选4名主播集体离职",
+    "display_query": "东方甄选4名主播集体离职"
+  },
+  {
+    "query": "迪士尼游客劝烟被连扇5耳光",
+    "display_query": "迪士尼游客劝烟被连扇5耳光"
+  },
+  { "query": "南方多省电价突然飙升", "display_query": "南方多省电价突然飙升" },
+  {
+    "query": "25 岁女孩确诊黑色素瘤 5 个月离世",
+    "display_query": "25 岁女孩确诊黑色素瘤 5 个月离世"
+  },
+  { "query": "DeepSeek输入缓存降价", "display_query": "DeepSeek输入缓存降价" },
+  { "query": "张军", "display_query": "张军" },
+  { "query": "赵心童 13-9 丁俊晖", "display_query": "赵心童 13-9 丁俊晖" },
+  {
+    "query": "国家发改委禁止外资收购 Manus 项目",
+    "display_query": "国家发改委禁止外资收购 Manus 项目"
+  },
+  {
+    "query": "上海地铁两人因抢座互殴",
+    "display_query": "上海地铁两人因抢座互殴"
+  },
+  {
+    "query": "黄仁勋直言芯片卖给中国怎么了",
+    "display_query": "黄仁勋直言芯片卖给中国怎么了"
+  },
+  {
+    "query": "美国富豪狩猎遭象群遭踩踏身亡",
+    "display_query": "美国富豪狩猎遭象群遭踩踏身亡"
+  },
+  { "query": "蒙古6.3级地震", "display_query": "蒙古6.3级地震" },
+  {
+    "query": "浪姐7被质投票数有问题",
+    "display_query": "浪姐7被质投票数有问题"
+  },
+  {
+    "query": "摩根大通：中国楼市逼近拐点",
+    "display_query": "摩根大通：中国楼市逼近拐点"
+  },
+  { "query": "金价接连失守", "display_query": "金价接连失守" },
+  {
+    "query": "华谊兄弟被正式申请破产",
+    "display_query": "华谊兄弟被正式申请破产"
+  },
+  { "query": "人类马拉松首次破二", "display_query": "人类马拉松首次破二" }
 ]

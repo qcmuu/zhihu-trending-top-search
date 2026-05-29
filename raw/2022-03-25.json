@@ -45,5 +45,6 @@
   { "query": "国足", "display_query": "12 强赛国足战平沙特" },
   { "query": "吕小军递补金牌", "display_query": "吕小军将递补里约奥运会金牌" },
   { "query": "天宫课堂", "display_query": "「天宫课堂」第二课" },
-  { "query": "吉林疫情", "display_query": "吉林省本土新增「2320+528」" }
+  { "query": "吉林疫情", "display_query": "吉林省本土新增「2320+528」" },
+  { "query": "篮网", "display_query": "欧文 43 分篮网遭逆转" }
 ]

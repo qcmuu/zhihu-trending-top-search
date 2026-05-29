@@ -27,9 +27,10 @@
     "query": "图书馆停电30秒原文",
     "display_query": "「图书馆停电许愿 30 秒」"
   },
-  { "query": "冬奥会开幕", "display_query": "冬奥会计划 2 月 4 日开幕 " },
+  { "query": "冬奥会开幕", "display_query": "冬奥会计划 2 月 4 日开幕" },
   { "query": "国王排名", "display_query": "国王排名第八集" },
   { "query": "一人之下4", "display_query": "一人之下 4 大结局" },
   { "query": "詹姆斯", "display_query": "詹姆斯新冠检测呈阴性" },
-  { "query": "大王饶命", "display_query": "大王饶命动画开播" }
+  { "query": "大王饶命", "display_query": "大王饶命动画开播" },
+  { "query": "制止家暴", "display_query": "制止家暴可认定见义勇为" }
 ]

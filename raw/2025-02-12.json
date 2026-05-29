@@ -17,5 +17,10 @@
   { "query": "赚钱副业推荐", "display_query": "赚钱副业推荐" },
   { "query": "小说推文赚钱", "display_query": "小说推文赚钱" },
   { "query": "推文小说入门", "display_query": "推文小说入门" },
-  { "query": "孙颖莎夺冠", "display_query": "孙颖莎夺冠" }
+  { "query": "孙颖莎夺冠", "display_query": "孙颖莎夺冠" },
+  {
+    "query": "警方介入调查老师唐某某",
+    "display_query": "警方介入调查老师唐某某"
+  },
+  { "query": "冯俊熙王雪夺金", "display_query": "冯俊熙王雪夺金" }
 ]

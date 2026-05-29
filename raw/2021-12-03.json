@@ -19,7 +19,7 @@
   { "query": "20211202", "display_query": "20211202「完全对称日」" },
   { "query": "台州杀妻", "display_query": "台州男子网购河豚毒素杀妻" },
   { "query": "北京河北", "display_query": "明年七月北京河北可坐船往返" },
-  { "query": "冬奥会开幕", "display_query": "冬奥会计划 2 月 4 日开幕 " },
+  { "query": "冬奥会开幕", "display_query": "冬奥会计划 2 月 4 日开幕" },
   { "query": "牛根生", "display_query": "牛根生彻底退出蒙牛" },
   { "query": "中演协回应", "display_query": "中演协回应惩戒艺人程序问题" },
   { "query": "日本封国", "display_query": "日本封国政策松动" },
@@ -41,5 +41,10 @@
   { "query": "幻塔", "display_query": "幻塔无版号 PC 版" },
   { "query": "篮网", "display_query": "哈登 34 分篮网胜尼克斯" },
   { "query": "村支书强征土地", "display_query": "江苏一村支书强征土地" },
-  { "query": "爱奇艺", "display_query": "爱奇艺被曝大规模裁员" }
+  { "query": "爱奇艺", "display_query": "爱奇艺被曝大规模裁员" },
+  { "query": "石家庄疫情", "display_query": "石家庄新增 4 例确诊" },
+  { "query": "带货主播职业标准", "display_query": "带货主播职业标准发布" },
+  { "query": "麦当劳崩了", "display_query": "麦当劳 APP 崩了" },
+  { "query": "奶茶喝出蟑螂", "display_query": "安徽一女子奶茶喝出蟑螂" },
+  { "query": "艾滋病", "display_query": "世界艾滋病日" }
 ]

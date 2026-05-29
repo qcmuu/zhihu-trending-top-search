@@ -18,5 +18,6 @@
   { "query": "奥运会疫情", "display_query": "123 名奥运相关人员新冠阳性" },
   { "query": "举重金牌", "display_query": "侯志慧夺下第二金" },
   { "query": "女子气步枪决赛", "display_query": "中国拿下东京奥运首金" },
-  { "query": "拜拜啦人间录音", "display_query": "拜拜啦人间事件" }
+  { "query": "拜拜啦人间录音", "display_query": "拜拜啦人间事件" },
+  { "query": "环环环环环", "display_query": "环环环环环太好笑了" }
 ]

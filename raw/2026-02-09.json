@@ -22,7 +22,7 @@
     "query": "OpenAI发布GPT-5.3-Codex",
     "display_query": "OpenAI发布GPT-5.3-Codex"
   },
-  { "query": "比特币跌破6.5万美元 ", "display_query": "比特币跌破6.5万美元 " },
+  { "query": "比特币跌破6.5万美元", "display_query": "比特币跌破6.5万美元" },
   {
     "query": "米兰冬奥会爆发诺如病毒 部分比赛延迟",
     "display_query": "米兰冬奥会爆发诺如病毒 部分比赛延迟"
@@ -53,5 +53,81 @@
   {
     "query": "景区发巨额年终奖 有人领到45万",
     "display_query": "景区发巨额年终奖 有人领到45万"
+  },
+  {
+    "query": "官方通报南京博物院事件",
+    "display_query": "官方通报南京博物院事件"
+  },
+  {
+    "query": "谷爱凌冬奥坡障技巧摘银",
+    "display_query": "谷爱凌冬奥坡障技巧摘银"
+  },
+  { "query": "天涯社区官宣重启", "display_query": "天涯社区官宣重启" },
+  {
+    "query": "日本众议院选举投票结束",
+    "display_query": "日本众议院选举投票结束"
+  },
+  { "query": "南京博物院致歉", "display_query": "南京博物院致歉" },
+  {
+    "query": "四川大学已成立工作专班",
+    "display_query": "四川大学已成立工作专班"
+  },
+  {
+    "query": "四川大学硕博举报导师王竹卿",
+    "display_query": "四川大学硕博举报导师王竹卿"
+  },
+  { "query": "王楚钦 4-2 张本智和", "display_query": "王楚钦 4-2 张本智和" },
+  {
+    "query": "韩员工误发超400亿美元比特币",
+    "display_query": "韩员工误发超400亿美元比特币"
+  },
+  {
+    "query": "山西朔州车间爆炸已致8人遇难",
+    "display_query": "山西朔州车间爆炸已致8人遇难"
+  },
+  {
+    "query": "特朗普怒喷超级碗中场秀",
+    "display_query": "特朗普怒喷超级碗中场秀"
+  },
+  {
+    "query": "郑州老板学胖东来模式逆风翻盘",
+    "display_query": "郑州老板学胖东来模式逆风翻盘"
+  },
+  { "query": "孙颖莎 vs 王曼昱", "display_query": "孙颖莎 vs 王曼昱" },
+  {
+    "query": "贺娇龙坠马及抢救细节披露",
+    "display_query": "贺娇龙坠马及抢救细节披露"
+  },
+  {
+    "query": "《太平年》的历史还原度怎么样",
+    "display_query": "《太平年》的历史还原度怎么样"
+  },
+  {
+    "query": "日本众议院选举结果公布",
+    "display_query": "日本众议院选举结果公布"
+  },
+  { "query": "中国军网点名张本智和", "display_query": "中国军网点名张本智和" },
+  {
+    "query": "男子云闪付显示欠1000万亿",
+    "display_query": "男子云闪付显示欠1000万亿"
+  },
+  { "query": "苏翊鸣获铜牌", "display_query": "苏翊鸣获铜牌" },
+  { "query": "高市早苗将继续执政", "display_query": "高市早苗将继续执政" },
+  {
+    "query": "广东江心岛一和尚跳江自尽",
+    "display_query": "广东江心岛一和尚跳江自尽"
+  },
+  {
+    "query": "多家快递春节不打烊或将收费",
+    "display_query": "多家快递春节不打烊或将收费"
+  },
+  {
+    "query": "即梦新模型 Seedance 2.0",
+    "display_query": "即梦新模型 Seedance 2.0"
+  },
+  { "query": "孙颖莎首夺亚洲杯冠军", "display_query": "孙颖莎首夺亚洲杯冠军" },
+  {
+    "query": "美司法部公布爱泼斯坦案剩余文件",
+    "display_query": "美司法部公布爱泼斯坦案剩余文件"
   }
 ]

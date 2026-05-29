@@ -41,5 +41,9 @@
   { "query": "TGA", "display_query": "TGA 年度游戏提名" },
   { "query": "钉钉远程办公", "display_query": "钉钉试验每月远程办公一天" },
   { "query": "海贼王", "display_query": "海贼王 1032 话情报" },
-  { "query": "中国男足", "display_query": "国足 1:1 战平澳大利亚" }
+  { "query": "中国男足", "display_query": "国足 1:1 战平澳大利亚" },
+  { "query": "水庆霞", "display_query": "水庆霞担任中国女足主帅" },
+  { "query": "苹果 自助维修", "display_query": "苹果宣布推出自助维修计划" },
+  { "query": "14岁女孩自杀", "display_query": "14 岁女孩留日记自杀" },
+  { "query": "太平鸟", "display_query": "太平鸟回应被控抄袭" }
 ]

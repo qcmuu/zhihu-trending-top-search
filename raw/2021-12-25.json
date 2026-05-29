@@ -43,5 +43,16 @@
   { "query": "英国疫情", "display_query": "英国日增新冠首超 10 万例" },
   { "query": "大三女生服毒身亡", "display_query": "女生因房东不退押金服毒" },
   { "query": "大学生预期工资", "display_query": "大学生预期工资超 7000 元" },
-  { "query": "平安夜", "display_query": "平安夜文案" }
+  { "query": "平安夜", "display_query": "平安夜文案" },
+  {
+    "query": "知网 垄断",
+    "display_query": "市监总局将核实研究知网是否涉嫌垄断"
+  },
+  {
+    "query": "越南大桥倒塌",
+    "display_query": "越南造价 1500 万的大桥轰然倒塌"
+  },
+  { "query": "双一流院校硕士", "display_query": "报考双一流院校硕士人数放缓" },
+  { "query": "陕西疫情", "display_query": "陕西新增 86 例本土确诊" },
+  { "query": "鸿蒙设备数量", "display_query": "鸿蒙设备数量超 2.2 亿" }
 ]

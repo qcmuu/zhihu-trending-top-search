@@ -49,5 +49,6 @@
   { "query": "城市租房", "display_query": "超两亿人在城市租房生活" },
   { "query": "太空液晶表盘", "display_query": "华为 1500 万太空液晶表盘" },
   { "query": "曼联", "display_query": "曼联 0:5 惨败利物浦" },
-  { "query": "皇马", "display_query": "国家德比皇马 2:1 小胜巴萨" }
+  { "query": "皇马", "display_query": "国家德比皇马 2:1 小胜巴萨" },
+  { "query": "九章二号", "display_query": "九章二号和祖冲之二号发布" }
 ]

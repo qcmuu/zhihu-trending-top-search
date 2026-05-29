@@ -53,5 +53,20 @@
     "display_query": "纳斯达克中国金龙指数大涨"
   },
   { "query": "谷子经济值得投资吗", "display_query": "谷子经济值得投资吗" },
-  { "query": "琼瑶儿子发声", "display_query": "琼瑶儿子发声" }
+  { "query": "琼瑶儿子发声", "display_query": "琼瑶儿子发声" },
+  {
+    "query": "中国是全球产供链稳定器",
+    "display_query": "中国是全球产供链稳定器"
+  },
+  {
+    "query": "11月电影总票房18.77亿元",
+    "display_query": "11月电影总票房18.77亿元"
+  },
+  { "query": "英伟达被立案调查", "display_query": "英伟达被立案调查" },
+  { "query": "奥斯卡归化手续进行中", "display_query": "奥斯卡归化手续进行中" },
+  {
+    "query": "华为何刚谈mate70系列的芯片",
+    "display_query": "华为何刚谈mate70系列的芯片"
+  },
+  { "query": "赵金红夺三金", "display_query": "赵金红夺三金" }
 ]

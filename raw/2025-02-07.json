@@ -44,5 +44,26 @@
   {
     "query": "人形机器人 Figure 与 OpenAI 终止合作",
     "display_query": "人形机器人 Figure 与 OpenAI 终止合作"
+  },
+  {
+    "query": "为什么 DeepSeek 要开源",
+    "display_query": "为什么 DeepSeek 要开源"
+  },
+  {
+    "query": "韩国发布最新航空安全管理方案",
+    "display_query": "韩国发布最新航空安全管理方案"
+  },
+  {
+    "query": "deepseek已暂停api服务充值",
+    "display_query": "deepseek已暂停api服务充值"
+  },
+  {
+    "query": "有没有哪两个汉字相似到难以区分",
+    "display_query": "有没有哪两个汉字相似到难以区分"
+  },
+  { "query": "非遗春节怎么过", "display_query": "非遗春节怎么过" },
+  {
+    "query": "有没有以前很火现在却很危险的发明",
+    "display_query": "有没有以前很火现在却很危险的发明"
   }
 ]

@@ -65,5 +65,10 @@
     "query": "一颗小行星可能在 8 年后撞击地球",
     "display_query": "一颗小行星可能在 8 年后撞击地球"
   },
-  { "query": "小说签约赚钱", "display_query": "小说签约赚钱" }
+  { "query": "小说签约赚钱", "display_query": "小说签约赚钱" },
+  {
+    "query": "特斯拉焕新版modely量产",
+    "display_query": "特斯拉焕新版modely量产"
+  },
+  { "query": "黄金牛市走完了吗", "display_query": "黄金牛市走完了吗" }
 ]

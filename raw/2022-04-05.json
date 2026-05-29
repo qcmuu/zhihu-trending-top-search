@@ -48,5 +48,13 @@
   { "query": "勇士", "display_query": "勇士逆转爵士锁定季后赛" },
   { "query": "完美世界动画", "display_query": "完美世界动画双石大战" },
   { "query": "婴儿做核酸被捅死", "display_query": "婴儿做核酸被捅死系谣言" },
-  { "query": "吉林新增", "display_query": "吉林新增本土感染「836+2742」" }
+  { "query": "吉林新增", "display_query": "吉林新增本土感染「836+2742」" },
+  {
+    "query": "儿童家长一起接受治疗",
+    "display_query": "上海确诊儿童家长可一起接受治疗"
+  },
+  {
+    "query": "处刑少女的生存之道",
+    "display_query": "新番《处刑少女的生存之道》"
+  }
 ]

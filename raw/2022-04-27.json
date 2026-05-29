@@ -126,5 +126,6 @@
     "query": "山东检出奥密克戎 BA.2.3 进化分支",
     "display_query": "山东检出奥密克戎 BA.2.3 进化分支"
   },
-  { "query": "上海暴雨", "display_query": "上海暴雨" }
+  { "query": "上海暴雨", "display_query": "上海暴雨" },
+  { "query": "掘金扳回一城 1:3 勇士", "display_query": "掘金扳回一城 1:3 勇士" }
 ]

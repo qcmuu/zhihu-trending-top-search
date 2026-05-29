@@ -47,5 +47,6 @@
   { "query": "茶颜悦色", "display_query": "茶颜悦色涨价" },
   { "query": "fgo", "display_query": "FGO实装保底系统" },
   { "query": "篮网", "display_query": "杜兰特 26 分篮网负灰熊" },
-  { "query": "纽约市长道歉", "display_query": "纽约市长呼吁向华人道歉" }
+  { "query": "纽约市长道歉", "display_query": "纽约市长呼吁向华人道歉" },
+  { "query": "南极疫情", "display_query": "南极出现聚集性疫情" }
 ]

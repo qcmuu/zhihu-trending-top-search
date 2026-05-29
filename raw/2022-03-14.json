@@ -32,5 +32,10 @@
   { "query": "全国新增", "display_query": "全国新增本土确诊 1337 无症状 788" },
   { "query": "乌克兰志愿者", "display_query": "普京同意向乌克兰派遣志愿者" },
   { "query": "江歌妈妈陈岚", "display_query": "陈岚回应江歌妈妈投诉" },
-  { "query": "凡人修仙传", "display_query": "《凡人修仙传》动画更新" }
+  { "query": "凡人修仙传", "display_query": "《凡人修仙传》动画更新" },
+  {
+    "query": "台湾 俄罗斯",
+    "display_query": "赵立坚称台湾如被俄制裁是咎由自取"
+  },
+  { "query": "新冠抗原试剂", "display_query": "新冠抗原试剂开始预售" }
 ]

@@ -1,5 +1,5 @@
 [
-  { "query": "2021cpi", "display_query": "2021 年 CPI 上涨 0.9% " },
+  { "query": "2021cpi", "display_query": "2021 年 CPI 上涨 0.9%" },
   { "query": "脊柱侧弯", "display_query": "超 500 万学生脊柱侧弯" },
   { "query": "马化腾", "display_query": "马化腾说腾讯只是普通公司" },
   { "query": "儿童票", "display_query": "儿童票拟打破以身高论票价" },
@@ -46,6 +46,8 @@
   { "query": "iPhone15", "display_query": "iPhone 15 搭载自研芯片" },
   { "query": "台军战机失联", "display_query": "台军 F-16V 战机失联" },
   { "query": "90后女生硬刚乱港分子", "display_query": "90 后女生硬刚乱港分子" },
-  { "query": "上海静安疫情", "display_query": " 网传上海静安区有疫情" },
-  { "query": "永劫无间", "display_query": "永劫无间外挂涉案金超千万" }
+  { "query": "上海静安疫情", "display_query": "网传上海静安区有疫情" },
+  { "query": "永劫无间", "display_query": "永劫无间外挂涉案金超千万" },
+  { "query": "明日方舟", "display_query": "明日方舟联动九色鹿" },
+  { "query": "青海地震", "display_query": "青海发生 5.0 级左右地震" }
 ]

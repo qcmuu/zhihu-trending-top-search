@@ -1,6 +1,5 @@
 [
   { "query": "a股", "display_query": "a股" },
-  { "query": "", "display_query": "" },
   { "query": "王曼昱女单冠军", "display_query": "王曼昱女单冠军" },
   { "query": "国考笔试", "display_query": "国考笔试" },
   { "query": "申论", "display_query": "申论" },

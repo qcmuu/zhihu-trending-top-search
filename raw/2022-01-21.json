@@ -34,7 +34,7 @@
   { "query": "广东疫情", "display_query": "广东珠海新增 3 例确诊" },
   { "query": "百度被罚", "display_query": "百度被罚款 30 万" },
   { "query": "勇士", "display_query": "克莱 21 分勇士胜活塞" },
-  { "query": "游戏防沉迷", "display_query": "寒假未成年最多玩 14h 游戏 " },
+  { "query": "游戏防沉迷", "display_query": "寒假未成年最多玩 14h 游戏" },
   { "query": "开端", "display_query": "《开端》更新" },
   { "query": "集五福", "display_query": "2022 年集五福" },
   { "query": "周杰伦官宣三胎", "display_query": "周杰伦官宣昆凌怀三胎" },
@@ -47,5 +47,6 @@
     "display_query": "阿里文娱转让优酷信息技术股份"
   },
   { "query": "养老服务时间银行", "display_query": "养老服务「时间银行」" },
-  { "query": "湖人", "display_query": "詹姆斯 30 分湖人负步行者" }
+  { "query": "湖人", "display_query": "詹姆斯 30 分湖人负步行者" },
+  { "query": "张煜", "display_query": "张煜医生谈医疗乱象" }
 ]

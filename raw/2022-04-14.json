@@ -85,5 +85,10 @@
   { "query": "微信农场", "display_query": "微信农场" },
   { "query": "上海新增", "display_query": "上海新增本土确诊 1189 例" },
   { "query": "明日方舟新六星号角", "display_query": "明日方舟新干员号角" },
-  { "query": "山东新增", "display_query": "山东新增确诊「3+19」" }
+  { "query": "山东新增", "display_query": "山东新增确诊「3+19」" },
+  { "query": "顿巴斯大战", "display_query": "俄乌或迎来顿巴斯大战" },
+  {
+    "query": "妇女权益保障法草案",
+    "display_query": "妇女权益保障法草案将迎二审"
+  }
 ]

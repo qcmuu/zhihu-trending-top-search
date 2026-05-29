@@ -39,5 +39,6 @@
   },
   { "query": "rng", "display_query": "RNG 爆冷不敌 RA" },
   { "query": "香菜冰淇淋", "display_query": "香菜口味冰淇淋" },
-  { "query": "NARS 代言人", "display_query": "肖战成为 NARS 品牌代言人" }
+  { "query": "NARS 代言人", "display_query": "肖战成为 NARS 品牌代言人" },
+  { "query": "steam", "display_query": "Steam 新品节开启" }
 ]

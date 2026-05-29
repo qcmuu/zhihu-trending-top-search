@@ -28,7 +28,8 @@
   { "query": "原神", "display_query": "《原神》一周年" },
   { "query": " 任天堂", "display_query": "任天堂直面会" },
   { "query": "脱口秀大会", "display_query": "《脱口秀大会》选手退赛" },
-  { "query": "环球影城", "display_query": "环球影城人均消费超三千 " },
+  { "query": "环球影城", "display_query": "环球影城人均消费超三千" },
   { "query": "中国农民丰收节", "display_query": "中国农民丰收节" },
-  { "query": "少年歌行", "display_query": "少年歌行导演亲自答" }
+  { "query": "少年歌行", "display_query": "少年歌行导演亲自答" },
+  { "query": "曹操出行", "display_query": "曹操出行绘制中国地图不完整" }
 ]

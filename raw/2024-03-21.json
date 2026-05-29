@@ -16,5 +16,14 @@
   { "query": "今日春分", "display_query": "今日春分" },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
-  { "query": "春分", "display_query": "春分" }
+  { "query": "春分", "display_query": "春分" },
+  {
+    "query": "小米SU7内饰实拍图曝光",
+    "display_query": "小米SU7内饰实拍图曝光"
+  },
+  {
+    "query": " Model Y将调价涨幅5000元",
+    "display_query": "Model Y将调价涨幅5000元"
+  },
+  { "query": "雅思允许单科重考", "display_query": "雅思允许单科重考" }
 ]

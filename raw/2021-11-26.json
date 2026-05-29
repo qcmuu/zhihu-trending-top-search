@@ -43,5 +43,9 @@
   { "query": "海贼王", "display_query": "海贼王 1033 话情报" },
   { "query": "大厂工作时长", "display_query": "大厂每周工作时长排行榜" },
   { "query": "云南哀牢山", "display_query": "网传哀牢山遇难者仅备塑料雨衣" },
-  { "query": "勇士", "display_query": "库里 25+10 勇士 5 连胜" }
+  { "query": "勇士", "display_query": "库里 25+10 勇士 5 连胜" },
+  { "query": "海贼王", "display_query": "海贼王 1033 话" },
+  { "query": "浙江金华工地", "display_query": "浙江金华工地钢架倒塌" },
+  { "query": "LISA", "display_query": "LISA 确诊新冠" },
+  { "query": "贵阳地震", "display_query": "贵阳 4.6 级地震" }
 ]

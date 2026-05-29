@@ -61,5 +61,55 @@
     "query": "如何评价DeepSeekV4降价的事",
     "display_query": "如何评价DeepSeekV4降价的事"
   },
-  { "query": "股市", "display_query": "股市" }
+  { "query": "股市", "display_query": "股市" },
+  {
+    "query": "特朗普明确表态不希望台湾独立",
+    "display_query": "特朗普明确表态不希望台湾独立"
+  },
+  {
+    "query": "上海交大通报学生私吞竞赛奖金",
+    "display_query": "上海交大通报学生私吞竞赛奖金"
+  },
+  { "query": "央视拿下世界杯版权", "display_query": "央视拿下世界杯版权" },
+  { "query": "樊振东 vs 勒布伦兄弟", "display_query": "樊振东 vs 勒布伦兄弟" },
+  { "query": "张雪机车拿下第五冠", "display_query": "张雪机车拿下第五冠" },
+  { "query": "湖南石门强降雨", "display_query": "湖南石门强降雨" },
+  { "query": "俄罗斯总统普京访华", "display_query": "俄罗斯总统普京访华" },
+  { "query": "武汉强降雨", "display_query": "武汉强降雨" },
+  { "query": "柳州地震", "display_query": "柳州地震" },
+  {
+    "query": "美国总统特朗普结束访华",
+    "display_query": "美国总统特朗普结束访华"
+  },
+  {
+    "query": "新娘换装46分钟宾客散场",
+    "display_query": "新娘换装46分钟宾客散场"
+  },
+  {
+    "query": "苹果、华为、小米集体官宣降价",
+    "display_query": "苹果、华为、小米集体官宣降价"
+  },
+  { "query": "柳州地震已致2死1失联", "display_query": "柳州地震已致2死1失联" },
+  {
+    "query": "上海交大学生豆包伪造证据私吞奖金",
+    "display_query": "上海交大学生豆包伪造证据私吞奖金"
+  },
+  { "query": "耿同学论文被反向打假", "display_query": "耿同学论文被反向打假" },
+  {
+    "query": "大摆荡释放开关提前打开致游客坠亡",
+    "display_query": "大摆荡释放开关提前打开致游客坠亡"
+  },
+  {
+    "query": "承德车内强奸案被告已上诉",
+    "display_query": "承德车内强奸案被告已上诉"
+  },
+  {
+    "query": "小马云13岁确诊智力二级残疾",
+    "display_query": "小马云13岁确诊智力二级残疾"
+  },
+  {
+    "query": "中美经贸磋商初步成果公布",
+    "display_query": "中美经贸磋商初步成果公布"
+  },
+  { "query": "张雪机车夺WSBK第4冠", "display_query": "张雪机车夺WSBK第4冠" }
 ]

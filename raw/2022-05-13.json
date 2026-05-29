@@ -168,5 +168,6 @@
     "display_query": "苹果宣布停产 iPod Touch"
   },
   { "query": "北京本土新增 56 例", "display_query": "北京本土新增 56 例" },
-  { "query": "比尔盖茨新冠阳性", "display_query": "比尔盖茨新冠阳性" }
+  { "query": "比尔盖茨新冠阳性", "display_query": "比尔盖茨新冠阳性" },
+  { "query": "什么是「虚拟偶像」", "display_query": "什么是「虚拟偶像」" }
 ]

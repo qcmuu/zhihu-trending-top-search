@@ -38,7 +38,7 @@
     "query": "郑钦文美网轰出 54 记排名第一",
     "display_query": "郑钦文美网轰出 54 记排名第一"
   },
-  { "query": "HLE夺冠 ", "display_query": "HLE夺冠 " },
+  { "query": "HLE夺冠 ", "display_query": "HLE夺冠" },
   { "query": "HLE3-2战胜GEN", "display_query": "HLE3-2战胜GEN" },
   { "query": "教师节", "display_query": "教师节" },
   { "query": "教师节快乐", "display_query": "教师节快乐" },
@@ -50,5 +50,10 @@
   {
     "query": "我国将实施首次近地小行星防御任务",
     "display_query": "我国将实施首次近地小行星防御任务"
+  },
+  { "query": "孙颖莎3:0田志希", "display_query": "孙颖莎3:0田志希" },
+  {
+    "query": "孩子爷爷摔死追小女孩宠物狗犯法吗",
+    "display_query": "孩子爷爷摔死追小女孩宠物狗犯法吗"
   }
 ]

@@ -34,5 +34,7 @@
   { "query": "苹果 自助维修", "display_query": "苹果宣布推出自助维修计划" },
   { "query": "天花", "display_query": "美国药企惊现天花病毒" },
   { "query": "faker", "display_query": "T1 宣布与 Faker 续约" },
-  { "query": "勇士", "display_query": "库里 40 分勇士逆转骑士" }
+  { "query": "勇士", "display_query": "库里 40 分勇士逆转骑士" },
+  { "query": "月偏食", "display_query": "11 月 19 日我国出现月偏食" },
+  { "query": "银河奖", "display_query": "中国科幻银河奖" }
 ]

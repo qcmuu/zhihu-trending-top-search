@@ -19,7 +19,7 @@
   { "query": "华为天才少年", "display_query": "华为首次自曝「天才少年」成果" },
   { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
   { "query": "茶颜悦色", "display_query": "茶颜悦色起诉茶颜观色" },
-  { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新 " },
+  { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },
   { "query": "深圳卤鹅", "display_query": "深圳卤鹅究竟有多好吃" },
   { "query": "UFG", "display_query": "UFG vs SA" },
   { "query": "小红书", "display_query": "小红书崩了" },
@@ -37,5 +37,6 @@
     "query": "新型变异毒株",
     "display_query": "世卫将新型变异毒株命名为 Omicron"
   },
-  { "query": "内蒙疫情", "display_query": "内蒙疫情" }
+  { "query": "内蒙疫情", "display_query": "内蒙疫情" },
+  { "query": "世乒赛混双", "display_query": "王楚钦孙颖莎混双夺冠" }
 ]

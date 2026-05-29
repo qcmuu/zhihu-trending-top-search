@@ -46,5 +46,71 @@
     "display_query": "为什么丰田社长非换不可"
   },
   { "query": "四六级成绩公布", "display_query": "四六级成绩公布" },
-  { "query": "高考倒计时100天", "display_query": "高考倒计时100天" }
+  { "query": "高考倒计时100天", "display_query": "高考倒计时100天" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "考研出分", "display_query": "考研出分" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  {
+    "query": "伊朗一小学遭导弹袭击数十人死亡",
+    "display_query": "伊朗一小学遭导弹袭击数十人死亡"
+  },
+  {
+    "query": "中国手机行业将迎来全面涨价",
+    "display_query": "中国手机行业将迎来全面涨价"
+  },
+  {
+    "query": "杭州两只大熊猫 2 天内相继死亡",
+    "display_query": "杭州两只大熊猫 2 天内相继死亡"
+  },
+  {
+    "query": "文科生72小时杀入GitHub全球榜",
+    "display_query": "文科生72小时杀入GitHub全球榜"
+  },
+  {
+    "query": "Anthropic 指控三家中国模型「非法蒸馏」",
+    "display_query": "Anthropic 指控三家中国模型「非法蒸馏」"
+  },
+  {
+    "query": "米哈游程序员复工后意外离世",
+    "display_query": "米哈游程序员复工后意外离世"
+  },
+  {
+    "query": "女子替父请假两小时父亲被开除",
+    "display_query": "女子替父请假两小时父亲被开除"
+  },
+  { "query": "反诈老陈账号被封禁", "display_query": "反诈老陈账号被封禁" },
+  {
+    "query": "米哈游程序员复工当晚猝死",
+    "display_query": "米哈游程序员复工当晚猝死"
+  },
+  { "query": "美军已开始打击伊朗", "display_query": "美军已开始打击伊朗" },
+  {
+    "query": "外交部提醒中国公民暂勿前往伊朗",
+    "display_query": "外交部提醒中国公民暂勿前往伊朗"
+  },
+  { "query": "AI 在废掉这代孩子吗", "display_query": "AI 在废掉这代孩子吗" },
+  {
+    "query": "杨本芬承认抄袭余华等作家",
+    "display_query": "杨本芬承认抄袭余华等作家"
+  },
+  {
+    "query": "携程集团总裁董事双双辞职",
+    "display_query": "携程集团总裁董事双双辞职"
+  },
+  {
+    "query": "在俄长期居留男性须同意至少服役一年",
+    "display_query": "在俄长期居留男性须同意至少服役一年"
+  },
+  { "query": "2026考研国家线公布", "display_query": "2026考研国家线公布" },
+  {
+    "query": "上海发布楼市「沪七条」",
+    "display_query": "上海发布楼市「沪七条」"
+  },
+  { "query": "中国男篮战胜日本男篮", "display_query": "中国男篮战胜日本男篮" },
+  { "query": "男篮世预赛中国vs日本", "display_query": "男篮世预赛中国vs日本" },
+  {
+    "query": "伊朗美国第三轮间接谈判",
+    "display_query": "伊朗美国第三轮间接谈判"
+  }
 ]

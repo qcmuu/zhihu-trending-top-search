@@ -11,7 +11,7 @@
   },
   { "query": "詹姆斯", "display_query": "詹姆斯新冠检测呈阴性" },
   { "query": "滴滴", "display_query": "滴滴退市" },
-  { "query": "冬奥会开幕", "display_query": "冬奥会计划 2 月 4 日开幕 " },
+  { "query": "冬奥会开幕", "display_query": "冬奥会计划 2 月 4 日开幕" },
   { "query": "国王排名", "display_query": "国王排名第八集" },
   { "query": "一人之下4", "display_query": "一人之下 4 大结局" },
   { "query": "仙剑奇侠传二", "display_query": "《仙剑奇侠传二》影视化" },
@@ -42,5 +42,7 @@
   { "query": "马航MH370", "display_query": "英国称发现马航 MH370" },
   { "query": "iPhone 6P 过时", "display_query": "iPhone 6P 被列为过时产品" },
   { "query": "20211202", "display_query": "20211202「完全对称日」" },
-  { "query": "台州杀妻", "display_query": "台州男子网购河豚毒素杀妻" }
+  { "query": "台州杀妻", "display_query": "台州男子网购河豚毒素杀妻" },
+  { "query": "淘宝聊天功能", "display_query": "淘宝上线语音聊天功能" },
+  { "query": "荣耀60", "display_query": "荣耀 60 系列发布" }
 ]

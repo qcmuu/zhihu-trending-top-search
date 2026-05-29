@@ -55,5 +55,8 @@
   { "query": "安徽高考分数线", "display_query": "安徽高考分数线" },
   { "query": "北京高考分数线", "display_query": "北京高考分数线" },
   { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" },
-  { "query": "原神", "display_query": "原神" }
+  { "query": "原神", "display_query": "原神" },
+  { "query": "阿里数赛决赛试题公布", "display_query": "阿里数赛决赛试题公布" },
+  { "query": "韩国警告俄罗斯", "display_query": "韩国警告俄罗斯" },
+  { "query": "湖南高考分数线", "display_query": "湖南高考分数线" }
 ]

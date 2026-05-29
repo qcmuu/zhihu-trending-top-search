@@ -43,5 +43,7 @@
   { "query": "西安火车站", "display_query": "西安进站乘车「需持公函」" },
   { "query": "国内疫情", "display_query": "31 省市新增确诊 57 例" },
   { "query": "勇士", "display_query": "库里 30 分勇士胜国王" },
-  { "query": "明日方舟", "display_query": "明日方舟风雪过境" }
+  { "query": "明日方舟", "display_query": "明日方舟风雪过境" },
+  { "query": "法拍房", "display_query": "法拍房开启全面限购" },
+  { "query": "荣耀折叠屏", "display_query": "荣耀 MagicV 折叠屏将发布" }
 ]

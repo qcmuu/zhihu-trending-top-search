@@ -34,5 +34,6 @@
   { "query": "天问一号", "display_query": "天问一号从火星发回照片" },
   { "query": "五月天", "display_query": "五月天跨年演唱会" },
   { "query": "新秦时明月", "display_query": "新秦时明月更新" },
-  { "query": "四川江油车祸", "display_query": "四川江油严重车祸致 8 死 19 伤" }
+  { "query": "四川江油车祸", "display_query": "四川江油严重车祸致 8 死 19 伤" },
+  { "query": "2022", "display_query": "2022 年来啦" }
 ]

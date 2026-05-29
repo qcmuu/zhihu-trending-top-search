@@ -53,5 +53,9 @@
   { "query": "湖人vs快船", "display_query": "湖人vs快船" },
   { "query": "openai推出gpt-4.5", "display_query": "openai推出gpt-4.5" },
   { "query": "美乌矿产协议未能签署", "display_query": "美乌矿产协议未能签署" },
-  { "query": "余华英被执行死刑", "display_query": "余华英被执行死刑" }
+  { "query": "余华英被执行死刑", "display_query": "余华英被执行死刑" },
+  {
+    "query": "独家：DeepSeek 公布 V3 / R1 推理系统概览",
+    "display_query": "独家：DeepSeek 公布 V3 / R1 推理系统概览"
+  }
 ]

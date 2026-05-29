@@ -1,6 +1,6 @@
 [
   { "query": "新蝙蝠侠", "display_query": "《新蝙蝠侠》上映" },
-  { "query": "原神", "display_query": "原神 2.6 版本前瞻直播 " },
+  { "query": "原神", "display_query": "原神 2.6 版本前瞻直播" },
   { "query": "中美元首会晤", "display_query": "中美元首视频会晤" },
   { "query": "中美隐形战斗机", "display_query": "中美隐形战斗机东海接触" },
   { "query": "白象", "display_query": "白象方便面员工很多是残疾人" },
@@ -29,5 +29,7 @@
   { "query": "篮网", "display_query": "丁威迪压哨三分绝杀篮网" },
   { "query": "湖人", "display_query": "湖人负狼遭遇 3 连败" },
   { "query": "张文宏", "display_query": "张文宏称抗疫要有三个武器" },
-  { "query": "艾尔登法环更新", "display_query": " 艾尔登法环 1.03 大更新" }
+  { "query": "艾尔登法环更新", "display_query": "艾尔登法环 1.03 大更新" },
+  { "query": "甘肃地震", "display_query": "甘肃发生 5.1 级地震" },
+  { "query": "明日方舟终末地 CG", "display_query": "《明日方舟终末地》概念 CG" }
 ]

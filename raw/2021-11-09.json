@@ -34,5 +34,8 @@
   { "query": "太空中理发", "display_query": "在太空中理发有多困难？" },
   { "query": "张伟丽", "display_query": "张伟丽二番战憾负罗斯" },
   { "query": "天书奇谭", "display_query": "天书奇谭 4K 纪念版" },
-  { "query": "立冬文案", "display_query": "立冬文案" }
+  { "query": "立冬文案", "display_query": "立冬文案" },
+  { "query": "剧本杀", "display_query": "剧本杀抄袭《火凤燎原》" },
+  { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画水平" },
+  { "query": "微信 追星投诉", "display_query": "微信新增「无底线追星」投诉" }
 ]

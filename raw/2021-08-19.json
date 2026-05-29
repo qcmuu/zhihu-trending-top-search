@@ -26,5 +26,6 @@
   { "query": "英特尔锐炫", "display_query": "英特尔发布独立显卡" },
   { "query": "尚巍", "display_query": "字体设计师尚巍去世" },
   { "query": "MIUI内测", "display_query": "小米内测资格被取消" },
-  { "query": "驾车涉水", "display_query": "海淀两人暴雨驾车遇难" }
+  { "query": "驾车涉水", "display_query": "海淀两人暴雨驾车遇难" },
+  { "query": "商丘疫情", "display_query": "商丘一家四代 11 人确诊" }
 ]

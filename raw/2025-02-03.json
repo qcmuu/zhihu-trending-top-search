@@ -25,5 +25,7 @@
   {
     "query": "等固态电池出来再买车好吗",
     "display_query": "等固态电池出来再买车好吗"
-  }
+  },
+  { "query": "NBA 全明星替补名单", "display_query": "NBA 全明星替补名单" },
+  { "query": "《哪吒2》票房逆跌", "display_query": "《哪吒2》票房逆跌" }
 ]

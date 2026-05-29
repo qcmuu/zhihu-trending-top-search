@@ -36,5 +36,7 @@
   { "query": "手游", "display_query": "全球手游营收排行" },
   { "query": "iPhone 13 Pro", "display_query": "iPhone 13 Pro 被曝信号差" },
   { "query": "农村男青年", "display_query": "农村男青年择偶难引热议" },
-  { "query": "关节炎", "display_query": "世界关节炎日" }
+  { "query": "关节炎", "display_query": "世界关节炎日" },
+  { "query": "D&G", "display_query": "D&G 销售额增长 20%" },
+  { "query": "王健林", "display_query": "王健林与万达高管换乘红旗" }
 ]

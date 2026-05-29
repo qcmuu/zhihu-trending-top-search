@@ -38,5 +38,21 @@
   {
     "query": "官方证实 OPPO 杭州全球总部停工",
     "display_query": "官方证实 OPPO 杭州全球总部停工"
+  },
+  { "query": "谷子经济值得投资吗", "display_query": "谷子经济值得投资吗" },
+  { "query": "行测 做不完", "display_query": "行测 做不完" },
+  { "query": "车企2025销量预测", "display_query": "车企2025销量预测" },
+  { "query": "楼市延续回稳态势", "display_query": "楼市延续回稳态势" },
+  {
+    "query": "哪咤汽车官方回应ceo并未离职",
+    "display_query": "哪咤汽车官方回应ceo并未离职"
+  },
+  {
+    "query": "贝莱德将收购私人信贷公司hps",
+    "display_query": "贝莱德将收购私人信贷公司hps"
+  },
+  {
+    "query": "2026年考研人数还会跌吗",
+    "display_query": "2026年考研人数还会跌吗"
   }
 ]

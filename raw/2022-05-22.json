@@ -116,5 +116,10 @@
     "query": "北京婚姻登记高峰日二级响应",
     "display_query": "北京婚姻登记高峰日二级响应"
   },
-  { "query": "在海底捞吃河豚中毒", "display_query": "在海底捞吃河豚中毒" }
+  { "query": "在海底捞吃河豚中毒", "display_query": "在海底捞吃河豚中毒" },
+  { "query": "了不起舞社 第六期", "display_query": "了不起舞社 第六期" },
+  {
+    "query": "G2 MSI 对抗赛揭幕战 1:0 T1",
+    "display_query": "G2 MSI 对抗赛揭幕战 1:0 T1"
+  }
 ]

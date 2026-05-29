@@ -58,5 +58,9 @@
   },
   { "query": "国庆旅游总结报告", "display_query": "国庆旅游总结报告" },
   { "query": "英国贸易大臣被停职", "display_query": "英国贸易大臣被停职" },
-  { "query": "JDG 世界赛开门红", "display_query": "JDG 世界赛开门红" }
+  { "query": "JDG 世界赛开门红", "display_query": "JDG 世界赛开门红" },
+  {
+    "query": "RNG 击败 LCK 一号种子 GEN",
+    "display_query": "RNG 击败 LCK 一号种子 GEN"
+  }
 ]

@@ -49,5 +49,28 @@
     "query": "OpenAI 两位联合创始人离职",
     "display_query": "OpenAI 两位联合创始人离职"
   },
-  { "query": "OpenAI 联合创始人离职", "display_query": "OpenAI 联合创始人离职" }
+  {
+    "query": "OpenAI 联合创始人离职",
+    "display_query": "OpenAI 联合创始人离职"
+  },
+  {
+    "query": "泰勒斯威夫特维也纳演唱会因安全问题取消",
+    "display_query": "泰勒斯威夫特维也纳演唱会因安全问题取消"
+  },
+  {
+    "query": "饭圈文化是怎么侵入体育圈的",
+    "display_query": "饭圈文化是怎么侵入体育圈的"
+  },
+  {
+    "query": "国家对内蒙古启动防汛四级应急响应",
+    "display_query": "国家对内蒙古启动防汛四级应急响应"
+  },
+  {
+    "query": "苹果曝光新款 Mac mini",
+    "display_query": "苹果曝光新款 Mac mini"
+  },
+  {
+    "query": "以方称饿死加沙民众「可能合理」",
+    "display_query": "以方称饿死加沙民众「可能合理」"
+  }
 ]

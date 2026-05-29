@@ -72,5 +72,7 @@
     "query": "泽连斯基愿和普京直接对话",
     "display_query": "泽连斯基愿和普京直接对话"
   },
-  { "query": "乌俄局势", "display_query": "俄军已完全控制乌南部城市赫尔松" }
+  { "query": "乌俄局势", "display_query": "俄军已完全控制乌南部城市赫尔松" },
+  { "query": "山西疫情", "display_query": "山西新增本地确诊病例 1 例" },
+  { "query": "苹果春季发布会", "display_query": "苹果将开春季发布会" }
 ]

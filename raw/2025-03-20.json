@@ -26,5 +26,16 @@
   {
     "query": "马克龙拒签俄乌停火协议",
     "display_query": "马克龙拒签俄乌停火协议"
+  },
+  { "query": "今日春分", "display_query": "今日春分" },
+  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
+  { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
+  {
+    "query": "以军对加沙地带发动大规模空袭",
+    "display_query": "以军对加沙地带发动大规模空袭"
+  },
+  {
+    "query": "宝马与华为宣布达成合作",
+    "display_query": "宝马与华为宣布达成合作"
   }
 ]

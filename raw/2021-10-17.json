@@ -35,5 +35,6 @@
   { "query": "原神", "display_query": "原神整活马斯克" },
   { "query": "天书奇谭", "display_query": "《天书奇谭》4K 版" },
   { "query": "搜狗", "display_query": "搜狗 15 日正式并入腾讯" },
-  { "query": "海底捞", "display_query": "海底捞回应能否办婚礼" }
+  { "query": "海底捞", "display_query": "海底捞回应能否办婚礼" },
+  { "query": "领英", "display_query": "微软将关闭领英在华业务" }
 ]

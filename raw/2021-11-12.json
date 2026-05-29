@@ -36,5 +36,7 @@
   { "query": "明日方舟", "display_query": "明日方舟好莱坞奖提名" },
   { "query": "美联邦参议员抵台", "display_query": "美联邦参议员乘军机抵台" },
   { "query": "沈阳地铁", "display_query": "沈阳地铁持刀伤人事件" },
-  { "query": "安倍晋三", "display_query": "安倍晋三将重返日本政坛" }
+  { "query": "安倍晋三", "display_query": "安倍晋三将重返日本政坛" },
+  { "query": "辉瑞", "display_query": "辉瑞 「疫苗恐怖主义」" },
+  { "query": "海贼王", "display_query": "网飞海贼王真人版阵容" }
 ]

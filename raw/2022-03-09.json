@@ -66,5 +66,6 @@
   { "query": "小米", "display_query": "小米股价持续破发" },
   { "query": "勇士", "display_query": "约基奇三双送勇士 5 连败" },
   { "query": "小米股价", "display_query": "小米股价再度破发第 35 天" },
-  { "query": "移民弃籍税", "display_query": "人大代表建议开征弃籍税" }
+  { "query": "移民弃籍税", "display_query": "人大代表建议开征弃籍税" },
+  { "query": "勇士", "display_query": "勇士终结 5 连败" }
 ]

@@ -50,5 +50,66 @@
   },
   { "query": "退税", "display_query": "退税" },
   { "query": "豆瓣发致歉信", "display_query": "豆瓣发致歉信" },
-  { "query": "王楚钦男单夺冠", "display_query": "王楚钦男单夺冠" }
+  { "query": "王楚钦男单夺冠", "display_query": "王楚钦男单夺冠" },
+  { "query": "月全食", "display_query": "月全食" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  { "query": "王毅同伊朗外长通电话", "display_query": "王毅同伊朗外长通电话" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "哈梅内伊遇袭身亡", "display_query": "哈梅内伊遇袭身亡" },
+  {
+    "query": "谢娜喊话薛之谦向张杰道歉",
+    "display_query": "谢娜喊话薛之谦向张杰道歉"
+  },
+  {
+    "query": "比亚迪将召开颠覆性技术发布会",
+    "display_query": "比亚迪将召开颠覆性技术发布会"
+  },
+  { "query": "2026年全国两会", "display_query": "2026年全国两会" },
+  { "query": "伊朗关闭霍尔木兹海峡", "display_query": "伊朗关闭霍尔木兹海峡" },
+  {
+    "query": "比亚迪元Plus遭伊朗导弹攻击",
+    "display_query": "比亚迪元Plus遭伊朗导弹攻击"
+  },
+  { "query": "哈梅内伊身亡更多细节", "display_query": "哈梅内伊身亡更多细节" },
+  { "query": "反诈老陈账号被封禁", "display_query": "反诈老陈账号被封禁" },
+  {
+    "query": "马年总台元宵晚会节目单公布",
+    "display_query": "马年总台元宵晚会节目单公布"
+  },
+  {
+    "query": "3000 名中国公民自伊朗撤离",
+    "display_query": "3000 名中国公民自伊朗撤离"
+  },
+  { "query": "元宵夜看月全食", "display_query": "元宵夜看月全食" },
+  { "query": "刘文祥麻辣烫爆火", "display_query": "刘文祥麻辣烫爆火" },
+  {
+    "query": "美军承认仿制伊朗无人机攻击伊朗",
+    "display_query": "美军承认仿制伊朗无人机攻击伊朗"
+  },
+  {
+    "query": "伊朗向美航母发射 4 枚弹道导弹",
+    "display_query": "伊朗向美航母发射 4 枚弹道导弹"
+  },
+  {
+    "query": "一架美军战机在科威特坠毁",
+    "display_query": "一架美军战机在科威特坠毁"
+  },
+  {
+    "query": "黄仁勋预警游戏显卡将严重缺货",
+    "display_query": "黄仁勋预警游戏显卡将严重缺货"
+  },
+  { "query": "元宵节快乐", "display_query": "元宵节快乐" },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "演员王劲松遭 AI 盗用形象生成视频",
+    "display_query": "演员王劲松遭 AI 盗用形象生成视频"
+  },
+  {
+    "query": "23岁985直博生胃癌晚期",
+    "display_query": "23岁985直博生胃癌晚期"
+  },
+  {
+    "query": "外交部就哈梅内伊遇害答记者问",
+    "display_query": "外交部就哈梅内伊遇害答记者问"
+  }
 ]

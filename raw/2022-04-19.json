@@ -6,7 +6,7 @@
   { "query": "一季度GDP", "display_query": "一季度 GDP 同比增长 4.8%" },
   { "query": "日元贬值", "display_query": "日元贬值" },
   { "query": "五一调休 六天班", "display_query": "五一节前需连上六天班" },
-  { "query": "创造营刘丞以 诈骗", "display_query": "《创造营》刘某以诈骗获刑" },
+  { "query": "刘丞以诈骗", "display_query": "《创造营》刘某以诈骗获刑" },
   { "query": "瑞幸咖啡因BUG道歉", "display_query": "瑞幸咖啡因出现 BUG 道歉" },
   { "query": "中科院 知网", "display_query": "中科院回应停用知网" },
   { "query": "勇士 掘金", "display_query": "库里 34 分勇士再胜掘金" },
@@ -93,5 +93,9 @@
   { "query": "原神PV", "display_query": "原神 PV 短片雪霁逢椿" },
   { "query": "间谍过家家第二集", "display_query": "间谍过家家第二集" },
   { "query": "郑州游泳馆坍塌", "display_query": "郑州一游泳馆发生局部坍塌" },
-  { "query": "新奥特曼PV", "display_query": "《新·奥特曼》最新 PV" }
+  { "query": "新奥特曼PV", "display_query": "《新·奥特曼》最新 PV" },
+  {
+    "query": "国内旅游总人次同比下降",
+    "display_query": "一季度国内旅游总人次同比下降"
+  }
 ]

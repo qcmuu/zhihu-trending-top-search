@@ -39,5 +39,6 @@
   { "query": "你好星期六", "display_query": "《你好星期六》定档" },
   { "query": "姐夫投毒", "display_query": "姐夫投毒少女系因报复" },
   { "query": "西安疫情源头", "display_query": "西安疫情源头锁定境外输入" },
-  { "query": "姐弟坠亡案", "display_query": "姐弟坠亡案被告聊天记录" }
+  { "query": "姐弟坠亡案", "display_query": "姐弟坠亡案被告聊天记录" },
+  { "query": "华鼎奖", "display_query": "第 32 届华鼎奖获奖名单" }
 ]

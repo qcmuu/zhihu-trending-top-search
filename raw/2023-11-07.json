@@ -91,5 +91,9 @@
   { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
   { "query": "显示器", "display_query": "显示器" },
   { "query": "游戏显示器推荐", "display_query": "游戏显示器推荐" },
-  { "query": "三大指数集体低开", "display_query": "三大指数集体低开" }
+  { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
+  {
+    "query": "10岁男童遭阿拉斯加犬咬伤",
+    "display_query": "10岁男童遭阿拉斯加犬咬伤"
+  }
 ]

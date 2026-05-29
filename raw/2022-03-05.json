@@ -83,5 +83,6 @@
   { "query": "湖人", "display_query": "詹姆斯 26+8 湖人 4 连败" },
   { "query": "感动中国年度人物", "display_query": "2021 感动中国年度人物名单" },
   { "query": "各界制裁俄罗斯", "display_query": "多国对俄各界平民进行制裁" },
-  { "query": "切尔西", "display_query": "阿布决定出售切尔西" }
+  { "query": "切尔西", "display_query": "阿布决定出售切尔西" },
+  { "query": "篮网", "display_query": "杜兰特复出篮网 3 连败" }
 ]

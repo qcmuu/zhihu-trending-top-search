@@ -9,7 +9,7 @@
   { "query": "骁龙8GEN1", "display_query": "高通骁龙 8 GEN1" },
   { "query": "尼加拉瓜", "display_query": "尼加拉瓜与台湾断交" },
   { "query": "实践六号", "display_query": "实践六号 05 组卫星成功发射" },
-  { "query": "原神", "display_query": "原神获 TGA 最佳手游 " },
+  { "query": "原神", "display_query": "原神获 TGA 最佳手游" },
   { "query": "张同学", "display_query": "「张同学」被中国消防点名" },
   { "query": "谷爱凌", "display_query": "谷爱凌夺世界杯铜山站冠军" },
   { "query": "举重", "display_query": "洛杉矶奥运会暂未设举重项目" },
@@ -32,5 +32,8 @@
   { "query": "上海停电", "display_query": "上海多个小区停电" },
   { "query": "欧拉好猫", "display_query": "央视点名欧拉汽车偷换芯片" },
   { "query": "美团外卖", "display_query": "美团外卖骑手端 App 故障" },
-  { "query": "研究生猝死", "display_query": "研究生猝死校方通报" }
+  { "query": "研究生猝死", "display_query": "研究生猝死校方通报" },
+  { "query": "联想股权转让", "display_query": "联想称股权转让合法依规" },
+  { "query": "湖人", "display_query": "詹姆斯 33 分湖人胜雷霆" },
+  { "query": "河南陨石", "display_query": "河南驻马店天降陨石" }
 ]

@@ -11,5 +11,6 @@
   {
     "query": "雅思备考大概需要多长时间",
     "display_query": "雅思备考大概需要多长时间"
-  }
+  },
+  { "query": "英伟达", "display_query": "英伟达" }
 ]

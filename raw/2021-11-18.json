@@ -34,5 +34,6 @@
   { "query": "盐城地震", "display_query": "江苏盐城发生 5.0 级地震" },
   { "query": "高铁奶茶", "display_query": "广东动车推出 26 元高铁奶茶" },
   { "query": "湖人", "display_query": "威少 25+6+8 湖人负公牛" },
-  { "query": "蜘蛛侠", "display_query": "《蜘蛛侠：英雄无归》最新预告" }
+  { "query": "蜘蛛侠", "display_query": "《蜘蛛侠：英雄无归》最新预告" },
+  { "query": "老师掌掴学生", "display_query": "四川一小学老师掌掴女生" }
 ]

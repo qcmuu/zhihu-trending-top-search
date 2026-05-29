@@ -26,5 +26,8 @@
   {
     "query": "看完还不知道怎么选，算我输！",
     "display_query": "看完还不知道怎么选，算我输！"
-  }
+  },
+  { "query": "T1", "display_query": "T1" },
+  { "query": "BLG", "display_query": "BLG" },
+  { "query": "Faker", "display_query": "Faker" }
 ]

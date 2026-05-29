@@ -14,5 +14,14 @@
   { "query": "openai", "display_query": "openai" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "张伟丽卫冕金腰带", "display_query": "张伟丽卫冕金腰带" },
-  { "query": "考公备考全流程", "display_query": "考公备考全流程" }
+  { "query": "考公备考全流程", "display_query": "考公备考全流程" },
+  {
+    "query": "湖南大学228人申请转入机械",
+    "display_query": "湖南大学228人申请转入机械"
+  },
+  { "query": "小语种专业如何好就业", "display_query": "小语种专业如何好就业" },
+  {
+    "query": "高中语文文言文大题如何拿高分",
+    "display_query": "高中语文文言文大题如何拿高分"
+  }
 ]

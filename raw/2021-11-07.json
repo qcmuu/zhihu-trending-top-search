@@ -5,7 +5,7 @@
   { "query": "张伟丽", "display_query": "张伟丽二番战憾负罗斯" },
   { "query": "海贼王", "display_query": "海贼王 1031 话" },
   { "query": "内蒙古降雪", "display_query": "内蒙古降雪多车连撞" },
-  { "query": "EDG", "display_query": "S11 EDG 夺冠 " },
+  { "query": "EDG", "display_query": "S11 EDG 夺冠" },
   { "query": "曼城", "display_query": "曼市德比曼联不敌曼城" },
   { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画开播" },
   { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
@@ -40,5 +40,6 @@
   { "query": "杨洋 痘博士", "display_query": "杨洋起诉痘博士侵犯肖像权" },
   { "query": "崩坏3", "display_query": "崩坏 3 steam 差评" },
   { "query": "国足", "display_query": "国足调整 12 强赛名单" },
-  { "query": "EDG", "display_query": "S11 总决赛 EDG vs DK" }
+  { "query": "EDG", "display_query": "S11 总决赛 EDG vs DK" },
+  { "query": "王思聪", "display_query": "王思聪卸任香蕉娱乐董事长" }
 ]

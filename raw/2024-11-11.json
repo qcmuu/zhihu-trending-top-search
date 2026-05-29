@@ -26,5 +26,17 @@
     "display_query": "起猛了，看到「真」的测评了"
   },
   { "query": "油价下调", "display_query": "油价下调" },
-  { "query": "中国记者节", "display_query": "中国记者节" }
+  { "query": "中国记者节", "display_query": "中国记者节" },
+  {
+    "query": "lg公开伸缩率达50%柔性屏原型机",
+    "display_query": "lg公开伸缩率达50%柔性屏原型机"
+  },
+  {
+    "query": "共赴「进博之约」共享中国机遇",
+    "display_query": "共赴「进博之约」共享中国机遇"
+  },
+  {
+    "query": "录音笔成为打工人上班保命神器",
+    "display_query": "录音笔成为打工人上班保命神器"
+  }
 ]

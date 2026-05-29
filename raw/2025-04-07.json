@@ -24,5 +24,13 @@
   { "query": "扑面而来的家电科技", "display_query": "扑面而来的家电科技" },
   { "query": "「甲亢哥」中国行直播", "display_query": "「甲亢哥」中国行直播" },
   { "query": "甲亢哥中国行", "display_query": "甲亢哥中国行" },
-  { "query": "未来 AI 生活图鉴", "display_query": "未来 AI 生活图鉴" }
+  { "query": "未来 AI 生活图鉴", "display_query": "未来 AI 生活图鉴" },
+  {
+    "query": "美国全面征收「对等关税」",
+    "display_query": "美国全面征收「对等关税」"
+  },
+  {
+    "query": "河北一地拟取消老年人免费乘坐公交车",
+    "display_query": "河北一地拟取消老年人免费乘坐公交车"
+  }
 ]

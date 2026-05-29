@@ -30,5 +30,120 @@
     "query": "会计被列入国控专业意味着什么",
     "display_query": "会计被列入国控专业意味着什么"
   },
-  { "query": "重阳节", "display_query": "重阳节" }
+  { "query": "重阳节", "display_query": "重阳节" },
+  { "query": "泰州队夺得苏超冠军", "display_query": "泰州队夺得苏超冠军" },
+  {
+    "query": "GEN 爆冷不敌 KT 止步四强",
+    "display_query": "GEN 爆冷不敌 KT 止步四强"
+  },
+  {
+    "query": "官方发布关于黄金有关税收政策公告",
+    "display_query": "官方发布关于黄金有关税收政策公告"
+  },
+  { "query": "T1战胜AL", "display_query": "T1战胜AL" },
+  {
+    "query": "通背拳传人赵鸿刚参加扇耳光大赛",
+    "display_query": "通背拳传人赵鸿刚参加扇耳光大赛"
+  },
+  {
+    "query": "中美元首在韩国举行会晤",
+    "display_query": "中美元首在韩国举行会晤"
+  },
+  {
+    "query": "王暖暖前夫俞晓东疑似电诈头目",
+    "display_query": "王暖暖前夫俞晓东疑似电诈头目"
+  },
+  { "query": "王家卫秦雯录音事件", "display_query": "王家卫秦雯录音事件" },
+  { "query": "理想就车辆起火道歉", "display_query": "理想就车辆起火道歉" },
+  { "query": "展昭扮演者甄志强离世", "display_query": "展昭扮演者甄志强离世" },
+  { "query": "王家卫说陈道明是极品", "display_query": "王家卫说陈道明是极品" },
+  {
+    "query": "T1 3:2 击败 AL 晋级半决赛",
+    "display_query": "T1 3:2 击败 AL 晋级半决赛"
+  },
+  {
+    "query": "你见过最精神的精神小妹是什么样的",
+    "display_query": "你见过最精神的精神小妹是什么样的"
+  },
+  { "query": "钱真的重要吗", "display_query": "钱真的重要吗" },
+  {
+    "query": "钟楚曦 VOGUE 合照站位引热议",
+    "display_query": "钟楚曦 VOGUE 合照站位引热议"
+  },
+  {
+    "query": "为什么家长不自学辅导孩子而要花几万块补课",
+    "display_query": "为什么家长不自学辅导孩子而要花几万块补课"
+  },
+  {
+    "query": "安倍晋三遇刺案嫌疑人将面临怎样的量刑",
+    "display_query": "安倍晋三遇刺案嫌疑人将面临怎样的量刑"
+  },
+  {
+    "query": "蔡磊研发的药物对病友起效对自己没用",
+    "display_query": "蔡磊研发的药物对病友起效对自己没用"
+  },
+  { "query": "神舟二十一号发射成功", "display_query": "神舟二十一号发射成功" },
+  {
+    "query": "你见过最惨的人生有多惨",
+    "display_query": "你见过最惨的人生有多惨"
+  },
+  { "query": "喜人2《一颗螺丝钉》", "display_query": "喜人2《一颗螺丝钉》" },
+  {
+    "query": "中南财经政法大学众多校友抢捐教室座椅冠名",
+    "display_query": "中南财经政法大学众多校友抢捐教室座椅冠名"
+  },
+  {
+    "query": "刘涛知道自己身上有一个白洁的梗吗",
+    "display_query": "刘涛知道自己身上有一个白洁的梗吗"
+  },
+  {
+    "query": "大鹏半岛地质公园 80 天内 3 人遇难",
+    "display_query": "大鹏半岛地质公园 80 天内 3 人遇难"
+  },
+  {
+    "query": "蒸汽弹射与电磁弹射哪个更好",
+    "display_query": "蒸汽弹射与电磁弹射哪个更好"
+  },
+  {
+    "query": "体制内比到最后拼的是什么",
+    "display_query": "体制内比到最后拼的是什么"
+  },
+  {
+    "query": "你认为最失败的 Logo 设计有哪些",
+    "display_query": "你认为最失败的 Logo 设计有哪些"
+  },
+  {
+    "query": "商务部回应安世半导体相关问题",
+    "display_query": "商务部回应安世半导体相关问题"
+  },
+  {
+    "query": "美方加征24%关税继续暂停一年",
+    "display_query": "美方加征24%关税继续暂停一年"
+  },
+  {
+    "query": "紫光灯意外照出全家人都冒荧光",
+    "display_query": "紫光灯意外照出全家人都冒荧光"
+  },
+  {
+    "query": "男生被同学一拳击中左胸后瘫痪",
+    "display_query": "男生被同学一拳击中左胸后瘫痪"
+  },
+  {
+    "query": "为什么神雕电视剧的黄蓉选角都不太漂亮",
+    "display_query": "为什么神雕电视剧的黄蓉选角都不太漂亮"
+  },
+  {
+    "query": "为什么山姆的东西卖的这么贵",
+    "display_query": "为什么山姆的东西卖的这么贵"
+  },
+  {
+    "query": "多地出现假彩票兑奖事件",
+    "display_query": "多地出现假彩票兑奖事件"
+  },
+  { "query": "AL VS T1", "display_query": "AL VS T1" },
+  {
+    "query": "为什么小学四年级后家长辅导不如培训班有效",
+    "display_query": "为什么小学四年级后家长辅导不如培训班有效"
+  },
+  { "query": "理想召回万辆MEGA汽车", "display_query": "理想召回万辆MEGA汽车" }
 ]

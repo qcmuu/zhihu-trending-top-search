@@ -32,5 +32,6 @@
   { "query": "WTT", "display_query": "WTT 新加坡大满贯赛" },
   { "query": "疫情文学", "display_query": "文学大师们会如何描述疫情" },
   { "query": "国王排名", "display_query": "《国王排名》更新" },
-  { "query": "周冠宇", "display_query": "周冠宇 F1 正赛首秀" }
+  { "query": "周冠宇", "display_query": "周冠宇 F1 正赛首秀" },
+  { "query": "dota2", "display_query": "高校杯 dota2 比赛" }
 ]

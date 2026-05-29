@@ -40,5 +40,7 @@
   { "query": "国考准考证", "display_query": "国考准考证开始打印" },
   { "query": "华为二手机", "display_query": "华为官方正式开启二手机业务" },
   { "query": "詹姆斯", "display_query": "詹姆斯肘击冲突遭逐" },
-  { "query": "百度网盘", "display_query": "百度网盘推出青春版" }
+  { "query": "百度网盘", "display_query": "百度网盘推出青春版" },
+  { "query": "地质队员", "display_query": "地质队员遇难或因失温所致" },
+  { "query": "苹果 薪资", "display_query": "苹果允许员工公开讨论薪资" }
 ]

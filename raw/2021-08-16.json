@@ -22,5 +22,6 @@
   { "query": "七夕", "display_query": "七夕节" },
   { "query": "阿怀", "display_query": "阿怀抄袭" },
   { "query": "国内疫情", "display_query": "国内疫情进展" },
-  { "query": "慰安妇纪念日", "display_query": "世界慰安妇纪念日" }
+  { "query": "慰安妇纪念日", "display_query": "世界慰安妇纪念日" },
+  { "query": "小米汽车", "display_query": "小米汽车总部将落户北京" }
 ]

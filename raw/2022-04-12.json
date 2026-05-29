@@ -61,5 +61,10 @@
   { "query": "上海出院人员", "display_query": "上海疫情出院人员属地对接" },
   { "query": " C 罗道歉", "display_query": "C 罗摔球迷手机后发文道歉" },
   { "query": "腾讯视频会员价格", "display_query": "腾讯视频调整会员价格" },
-  { "query": "武磊", "display_query": "武磊替补送绝杀" }
+  { "query": "武磊", "display_query": "武磊替补送绝杀" },
+  { "query": "游戏版号重新下发 ", "display_query": "游戏版号重新下发" },
+  {
+    "query": "微信状态可以设置成农场形式",
+    "display_query": "微信状态可以设置成农场形式"
+  }
 ]

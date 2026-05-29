@@ -42,5 +42,8 @@
   { "query": "白雪公主", "display_query": "盖尔·加朵出演《白雪公主》毒皇后" },
   { "query": "双十一快递", "display_query": "你的双十一快递到了吗" },
   { "query": "论文抄袭", "display_query": "湖南大学硕士被指论文抄袭" },
-  { "query": "王思聪", "display_query": "王思聪卸任香蕉娱乐董事长" }
+  { "query": "王思聪", "display_query": "王思聪卸任香蕉娱乐董事长" },
+  { "query": "天鹅出轨", "display_query": "上海动物园公天鹅疑「出轨」" },
+  { "query": "北京薪酬", "display_query": "北京薪酬大数据发布" },
+  { "query": "亚运会电竞", "display_query": "电竞成亚运会正式项目" }
 ]

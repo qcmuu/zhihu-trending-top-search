@@ -48,5 +48,8 @@
   { "query": "澳门回归", "display_query": "澳门回归 22 周年" },
   { "query": "王力宏事件", "display_query": "中国妇女报评王力宏事件" },
   { "query": "鬼灭之刃", "display_query": "鬼灭之刃第二季更新" },
-  { "query": "风起洛阳抄袭", "display_query": "风起洛阳疑抄袭凡人修仙传" }
+  { "query": "风起洛阳抄袭", "display_query": "风起洛阳疑抄袭凡人修仙传" },
+  { "query": "烈火浇愁", "display_query": "《烈火浇愁》导演亲自答" },
+  { "query": "湖人", "display_query": "詹姆斯 31+14+6 湖人负公牛" },
+  { "query": "游戏版号", "display_query": "游戏杜绝无版号上线运营" }
 ]

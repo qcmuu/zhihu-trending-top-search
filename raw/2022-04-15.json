@@ -78,5 +78,13 @@
   { "query": "神十三回家", "display_query": "100秒回顾神十三太空之旅" },
   { "query": "上海疫情防控", "display_query": "上海禁止机动车上道路行驶" },
   { "query": "天价殡葬费", "display_query": "三部门通报天价殡葬费事件" },
-  { "query": "饿了么骑手", "display_query": "饿了么骑手送餐致残判赔 109 万" }
+  { "query": "饿了么骑手", "display_query": "饿了么骑手送餐致残判赔 109 万" },
+  {
+    "query": "中概股公司 美国预摘牌名单",
+    "display_query": "12 家中概股公司入美预摘牌名单"
+  },
+  {
+    "query": "俄罗斯 匕首 高超声速导弹",
+    "display_query": "俄再使用「匕首」高超声速导弹"
+  }
 ]
