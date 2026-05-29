@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 29 2026 07:13:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 29 2026 11:27:17 GMT+0800 (China Standard Time) -->
 
-1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
-1. [读博可以改变一个人的性格吗](https://www.zhihu.com/search?q=读博可以改变一个人的性格吗)
+1. [谢苗《火遮眼》定档6月11日](https://www.zhihu.com/search?q=谢苗《火遮眼》定档6月11日)
 1. [GEN战胜HLE](https://www.zhihu.com/search?q=GEN战胜HLE)
 1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
@@ -27,6 +26,9 @@
 1. [什么才是真正的解决问题的能力](https://www.zhihu.com/search?q=什么才是真正的解决问题的能力)
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
 1. [警察是如何靠细节破案的](https://www.zhihu.com/search?q=警察是如何靠细节破案的)
+1. [为何能量高的人会很吸引人](https://www.zhihu.com/search?q=为何能量高的人会很吸引人)
+1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
+1. [读博可以改变一个人的性格吗](https://www.zhihu.com/search?q=读博可以改变一个人的性格吗)
 
 <!-- END -->
 

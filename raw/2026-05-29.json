@@ -1,11 +1,7 @@
 [
   {
-    "query": "你见过哪些不动声色的善良",
-    "display_query": "你见过哪些不动声色的善良"
-  },
-  {
-    "query": "读博可以改变一个人的性格吗",
-    "display_query": "读博可以改变一个人的性格吗"
+    "query": "谢苗《火遮眼》定档6月11日",
+    "display_query": "谢苗《火遮眼》定档6月11日"
   },
   { "query": "GEN战胜HLE", "display_query": "GEN战胜HLE" },
   { "query": "极简真的养人吗", "display_query": "极简真的养人吗" },
@@ -26,5 +22,17 @@
   {
     "query": "警察是如何靠细节破案的",
     "display_query": "警察是如何靠细节破案的"
+  },
+  {
+    "query": "为何能量高的人会很吸引人",
+    "display_query": "为何能量高的人会很吸引人"
+  },
+  {
+    "query": "你见过哪些不动声色的善良",
+    "display_query": "你见过哪些不动声色的善良"
+  },
+  {
+    "query": "读博可以改变一个人的性格吗",
+    "display_query": "读博可以改变一个人的性格吗"
   }
 ]
