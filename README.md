@@ -69,6 +69,8 @@
 
 历史归档 [./archives](./archives)
 
+已知缺失日期见 [./archives/MISSING.md](./archives/MISSING.md)
+
 ### License
 
 [zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search)
