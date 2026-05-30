@@ -1,5 +1,4 @@
 [
-  { "query": "马刺VS雷霆", "display_query": "马刺VS雷霆" },
   {
     "query": "沪深两市成交额突破2万亿元",
     "display_query": "沪深两市成交额突破2万亿元"
@@ -23,5 +22,10 @@
   {
     "query": "711门店广告夯爆了写成劣爆了",
     "display_query": "711门店广告夯爆了写成劣爆了"
-  }
+  },
+  {
+    "query": "小米通报空调安装「抽真空」造假",
+    "display_query": "小米通报空调安装「抽真空」造假"
+  },
+  { "query": "马刺VS雷霆", "display_query": "马刺VS雷霆" }
 ]
