@@ -1,9 +1,5 @@
 [
-  {
-    "query": "沪深两市成交额突破2万亿元",
-    "display_query": "沪深两市成交额突破2万亿元"
-  },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "中国首个亿级车企诞生", "display_query": "中国首个亿级车企诞生" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
   {
@@ -24,5 +20,14 @@
     "query": "全球100个最热城市印度占98个",
     "display_query": "全球100个最热城市印度占98个"
   },
+  {
+    "query": "留神峪煤矿有重大违法行为",
+    "display_query": "留神峪煤矿有重大违法行为"
+  },
+  {
+    "query": "沪深两市成交额突破2万亿元",
+    "display_query": "沪深两市成交额突破2万亿元"
+  },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "日本本州东部6.5级地震", "display_query": "日本本州东部6.5级地震" }
 ]

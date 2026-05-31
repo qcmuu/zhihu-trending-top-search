@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 31 2026 20:10:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 31 2026 22:42:42 GMT+0800 (China Standard Time) -->
 
-1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
-1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
+1. [中国首个亿级车企诞生](https://www.zhihu.com/search?q=中国首个亿级车企诞生)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
@@ -27,6 +26,9 @@
 1. [「碳水脸」说法引争议](https://www.zhihu.com/search?q=「碳水脸」说法引争议)
 1. [电影《给阿嬤的情书》热映](https://www.zhihu.com/search?q=电影《给阿嬤的情书》热映)
 1. [全球100个最热城市印度占98个](https://www.zhihu.com/search?q=全球100个最热城市印度占98个)
+1. [留神峪煤矿有重大违法行为](https://www.zhihu.com/search?q=留神峪煤矿有重大违法行为)
+1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
+1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [日本本州东部6.5级地震](https://www.zhihu.com/search?q=日本本州东部6.5级地震)
 
 <!-- END -->
