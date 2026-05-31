@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 01 2026 04:57:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 01 2026 06:02:53 GMT+0800 (China Standard Time) -->
 
 1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
 1. [711门店广告夯爆了写成劣爆了](https://www.zhihu.com/search?q=711门店广告夯爆了写成劣爆了)
