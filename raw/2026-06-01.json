@@ -1,4 +1,10 @@
 [
+  { "query": "六一儿童节", "display_query": "六一儿童节" },
+  { "query": "TES战胜JDG", "display_query": "TES战胜JDG" },
+  {
+    "query": "沪深两市成交额突破2万亿元",
+    "display_query": "沪深两市成交额突破2万亿元"
+  },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -7,6 +13,8 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "现货黄金", "display_query": "现货黄金" },
+  { "query": "双汇发布致歉声明", "display_query": "双汇发布致歉声明" },
   {
     "query": "电影《给阿嬤的情书》热映",
     "display_query": "电影《给阿嬤的情书》热映"
@@ -23,10 +31,6 @@
   {
     "query": "患者曝名医让儿子代诊致其流产",
     "display_query": "患者曝名医让儿子代诊致其流产"
-  },
-  {
-    "query": "沪深两市成交额突破2万亿元",
-    "display_query": "沪深两市成交额突破2万亿元"
   },
   {
     "query": "711门店广告夯爆了写成劣爆了",
