@@ -1,0 +1,21 @@
+[
+  { "query": "六一儿童节", "display_query": "六一儿童节" },
+  { "query": "TES战胜JDG", "display_query": "TES战胜JDG" },
+  {
+    "query": "车企 5 月销量数据出炉",
+    "display_query": "车企 5 月销量数据出炉"
+  },
+  {
+    "query": "沪深两市成交额突破2万亿元",
+    "display_query": "沪深两市成交额突破2万亿元"
+  },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "现货黄金", "display_query": "现货黄金" }
+]
