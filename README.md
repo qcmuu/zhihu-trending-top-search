@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 02 2026 22:50:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 03 2026 02:37:16 GMT+0800 (China Standard Time) -->
 
 1. [六一儿童节](https://www.zhihu.com/search?q=六一儿童节)
 1. [我国全面进入汛期](https://www.zhihu.com/search?q=我国全面进入汛期)
@@ -27,25 +27,6 @@
 1. [高考加油的文案](https://www.zhihu.com/search?q=高考加油的文案)
 1. [高考作文素材](https://www.zhihu.com/search?q=高考作文素材)
 1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
-1. [王楚钦任国乒男队队长](https://www.zhihu.com/search?q=王楚钦任国乒男队队长)
-1. [高考加油 中国人底层代码](https://www.zhihu.com/search?q=高考加油
-   中国人底层代码)
-1. [老人洗脚被骗 17 万当保洁还贷](https://www.zhihu.com/search?q=老人洗脚被骗 17
-   万当保洁还贷)
-1. [胡彦斌彦火App上线](https://www.zhihu.com/search?q=胡彦斌彦火App上线)
-1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
-1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
-1. [现货黄金](https://www.zhihu.com/search?q=现货黄金)
-1. [印度被烤糊了](https://www.zhihu.com/search?q=印度被烤糊了)
-1. [双汇发布致歉声明](https://www.zhihu.com/search?q=双汇发布致歉声明)
-1. [新格伦火箭发射台爆炸](https://www.zhihu.com/search?q=新格伦火箭发射台爆炸)
-1. [电车是时候交养路费了](https://www.zhihu.com/search?q=电车是时候交养路费了)
-1. [王一博上榜福布斯杰出人物](https://www.zhihu.com/search?q=王一博上榜福布斯杰出人物)
-1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
-1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
-1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 
 <!-- END -->
 
