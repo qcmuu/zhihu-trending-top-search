@@ -15,18 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 02 2026 08:11:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 02 2026 13:46:17 GMT+0800 (China Standard Time) -->
 
 1. [六一儿童节](https://www.zhihu.com/search?q=六一儿童节)
 1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
 1. [车企 5 月销量数据出炉](https://www.zhihu.com/search?q=车企 5 月销量数据出炉)
 1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
+1. [现货黄金](https://www.zhihu.com/search?q=现货黄金)
+1. [印度被烤糊了](https://www.zhihu.com/search?q=印度被烤糊了)
+1. [双汇发布致歉声明](https://www.zhihu.com/search?q=双汇发布致歉声明)
+1. [新格伦火箭发射台爆炸](https://www.zhihu.com/search?q=新格伦火箭发射台爆炸)
+1. [电车是时候交养路费了](https://www.zhihu.com/search?q=电车是时候交养路费了)
+1. [王一博上榜福布斯杰出人物](https://www.zhihu.com/search?q=王一博上榜福布斯杰出人物)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [现货黄金](https://www.zhihu.com/search?q=现货黄金)
 
 <!-- END -->
 

@@ -9,6 +9,15 @@
     "query": "沪深两市成交额突破2万亿元",
     "display_query": "沪深两市成交额突破2万亿元"
   },
+  { "query": "现货黄金", "display_query": "现货黄金" },
+  { "query": "印度被烤糊了", "display_query": "印度被烤糊了" },
+  { "query": "双汇发布致歉声明", "display_query": "双汇发布致歉声明" },
+  { "query": "新格伦火箭发射台爆炸", "display_query": "新格伦火箭发射台爆炸" },
+  { "query": "电车是时候交养路费了", "display_query": "电车是时候交养路费了" },
+  {
+    "query": "王一博上榜福布斯杰出人物",
+    "display_query": "王一博上榜福布斯杰出人物"
+  },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -16,6 +25,5 @@
     "query": "伊朗会不会成为下一个伊拉克",
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
-  { "query": "现货黄金", "display_query": "现货黄金" }
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" }
 ]
