@@ -15,11 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 02 2026 13:46:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 02 2026 18:19:59 GMT+0800 (China Standard Time) -->
 
+1. [王楚钦任国乒男队队长](https://www.zhihu.com/search?q=王楚钦任国乒男队队长)
 1. [六一儿童节](https://www.zhihu.com/search?q=六一儿童节)
-1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
+1. [高考加油 中国人底层代码](https://www.zhihu.com/search?q=高考加油
+   中国人底层代码)
+1. [高考进入倒计时](https://www.zhihu.com/search?q=高考进入倒计时)
 1. [车企 5 月销量数据出炉](https://www.zhihu.com/search?q=车企 5 月销量数据出炉)
+1. [高考祝福语和鼓励的文案](https://www.zhihu.com/search?q=高考祝福语和鼓励的文案)
+1. [高考加油的文案](https://www.zhihu.com/search?q=高考加油的文案)
+1. [高考作文素材](https://www.zhihu.com/search?q=高考作文素材)
+1. [老人洗脚被骗 17 万当保洁还贷](https://www.zhihu.com/search?q=老人洗脚被骗 17
+   万当保洁还贷)
+1. [胡彦斌彦火App上线](https://www.zhihu.com/search?q=胡彦斌彦火App上线)
+1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
 1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
 1. [现货黄金](https://www.zhihu.com/search?q=现货黄金)
 1. [印度被烤糊了](https://www.zhihu.com/search?q=印度被烤糊了)
