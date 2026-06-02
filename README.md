@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 02 2026 06:09:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 02 2026 08:11:53 GMT+0800 (China Standard Time) -->
 
 1. [六一儿童节](https://www.zhihu.com/search?q=六一儿童节)
 1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
