@@ -1,6 +1,9 @@
 [
-  { "query": "高考满分作文欣赏", "display_query": "高考满分作文欣赏" },
-  { "query": "高考朋友圈文案", "display_query": "高考朋友圈文案" },
+  { "query": "高考进入倒计时", "display_query": "高考进入倒计时" },
+  {
+    "query": "车企 5 月销量数据出炉",
+    "display_query": "车企 5 月销量数据出炉"
+  },
   {
     "query": "高考祝福语和鼓励的文案",
     "display_query": "高考祝福语和鼓励的文案"
@@ -17,12 +20,18 @@
     "display_query": "江西一轿车追尾致 3 死调查报告"
   },
   {
-    "query": "哈佛最年轻华人教授被曝入职open AI",
-    "display_query": "哈佛最年轻华人教授被曝入职open AI"
-  },
-  {
     "query": "央视网披露「南天门计划」新细节",
     "display_query": "央视网披露「南天门计划」新细节"
+  },
+  {
+    "query": "天涯社区将正式恢复访问",
+    "display_query": "天涯社区将正式恢复访问"
+  },
+  { "query": "高考满分作文欣赏", "display_query": "高考满分作文欣赏" },
+  { "query": "高考朋友圈文案", "display_query": "高考朋友圈文案" },
+  {
+    "query": "哈佛最年轻华人教授被曝入职open AI",
+    "display_query": "哈佛最年轻华人教授被曝入职open AI"
   },
   {
     "query": "乌克兰首都基辅持续响起爆炸声",
@@ -31,11 +40,6 @@
   {
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
-  },
-  { "query": "高考进入倒计时", "display_query": "高考进入倒计时" },
-  {
-    "query": "车企 5 月销量数据出炉",
-    "display_query": "车企 5 月销量数据出炉"
   },
   { "query": "极简真的养人吗", "display_query": "极简真的养人吗" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
