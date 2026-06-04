@@ -1,17 +1,11 @@
 [
   { "query": "高考进入倒计时", "display_query": "高考进入倒计时" },
   {
-    "query": "车企 5 月销量数据出炉",
-    "display_query": "车企 5 月销量数据出炉"
-  },
-  {
     "query": "高考祝福语和鼓励的文案",
     "display_query": "高考祝福语和鼓励的文案"
   },
   { "query": "高考加油的文案", "display_query": "高考加油的文案" },
   { "query": "高考作文素材", "display_query": "高考作文素材" },
-  { "query": "印度被烤糊了", "display_query": "印度被烤糊了" },
-  { "query": "年轻人上瘾按摩足疗", "display_query": "年轻人上瘾按摩足疗" },
   {
     "query": "亚马逊已停止跟踪员工 Token 消耗榜单",
     "display_query": "亚马逊已停止跟踪员工 Token 消耗榜单"
@@ -24,6 +18,21 @@
     "query": "Minimax 新的 M3 多模态模型",
     "display_query": "Minimax 新的 M3 多模态模型"
   },
+  {
+    "query": "手机内文物照被闲鱼擅自上架售卖",
+    "display_query": "手机内文物照被闲鱼擅自上架售卖"
+  },
+  {
+    "query": "英伟达发布RTX Spark芯片",
+    "display_query": "英伟达发布RTX Spark芯片"
+  },
+  { "query": "「崩老头」现象", "display_query": "「崩老头」现象" },
+  {
+    "query": "车企 5 月销量数据出炉",
+    "display_query": "车企 5 月销量数据出炉"
+  },
+  { "query": "印度被烤糊了", "display_query": "印度被烤糊了" },
+  { "query": "年轻人上瘾按摩足疗", "display_query": "年轻人上瘾按摩足疗" },
   {
     "query": "天涯社区将正式恢复访问",
     "display_query": "天涯社区将正式恢复访问"
