@@ -1,6 +1,9 @@
 [
-  { "query": "孙正义重登亚洲首富", "display_query": "孙正义重登亚洲首富" },
-  { "query": "高考英语作文万能模版", "display_query": "高考英语作文万能模版" },
+  { "query": "高考进入倒计时", "display_query": "高考进入倒计时" },
+  {
+    "query": "车企 5 月销量数据出炉",
+    "display_query": "车企 5 月销量数据出炉"
+  },
   {
     "query": "高考祝福语和鼓励的文案",
     "display_query": "高考祝福语和鼓励的文案"
@@ -21,11 +24,8 @@
     "query": "Minimax 新的 M3 多模态模型",
     "display_query": "Minimax 新的 M3 多模态模型"
   },
-  { "query": "高考进入倒计时", "display_query": "高考进入倒计时" },
-  {
-    "query": "车企 5 月销量数据出炉",
-    "display_query": "车企 5 月销量数据出炉"
-  },
+  { "query": "孙正义重登亚洲首富", "display_query": "孙正义重登亚洲首富" },
+  { "query": "高考英语作文万能模版", "display_query": "高考英语作文万能模版" },
   {
     "query": "智驾不到一分钟撞半挂车一家三口身亡",
     "display_query": "智驾不到一分钟撞半挂车一家三口身亡"
