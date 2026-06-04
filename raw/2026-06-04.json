@@ -1,9 +1,6 @@
 [
-  { "query": "高考进入倒计时", "display_query": "高考进入倒计时" },
-  {
-    "query": "车企 5 月销量数据出炉",
-    "display_query": "车企 5 月销量数据出炉"
-  },
+  { "query": "孙正义重登亚洲首富", "display_query": "孙正义重登亚洲首富" },
+  { "query": "高考英语作文万能模版", "display_query": "高考英语作文万能模版" },
   {
     "query": "高考祝福语和鼓励的文案",
     "display_query": "高考祝福语和鼓励的文案"
@@ -11,6 +8,24 @@
   { "query": "高考加油的文案", "display_query": "高考加油的文案" },
   { "query": "高考作文素材", "display_query": "高考作文素材" },
   { "query": "印度被烤糊了", "display_query": "印度被烤糊了" },
+  { "query": "年轻人上瘾按摩足疗", "display_query": "年轻人上瘾按摩足疗" },
+  {
+    "query": "天涯社区将正式恢复访问",
+    "display_query": "天涯社区将正式恢复访问"
+  },
+  {
+    "query": "老牌杂志《看电影》转型学术期刊",
+    "display_query": "老牌杂志《看电影》转型学术期刊"
+  },
+  {
+    "query": "Minimax 新的 M3 多模态模型",
+    "display_query": "Minimax 新的 M3 多模态模型"
+  },
+  { "query": "高考进入倒计时", "display_query": "高考进入倒计时" },
+  {
+    "query": "车企 5 月销量数据出炉",
+    "display_query": "车企 5 月销量数据出炉"
+  },
   {
     "query": "智驾不到一分钟撞半挂车一家三口身亡",
     "display_query": "智驾不到一分钟撞半挂车一家三口身亡"
@@ -19,7 +34,6 @@
     "query": "江西一轿车追尾致 3 死调查报告",
     "display_query": "江西一轿车追尾致 3 死调查报告"
   },
-  { "query": "年轻人上瘾按摩足疗", "display_query": "年轻人上瘾按摩足疗" },
   {
     "query": "央视网披露「南天门计划」新细节",
     "display_query": "央视网披露「南天门计划」新细节"
