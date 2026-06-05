@@ -15,12 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 05 2026 13:14:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 05 2026 17:43:16 GMT+0800 (China Standard Time) -->
 
+1. [今日芒种](https://www.zhihu.com/search?q=今日芒种)
+1. [错怪孩子需要道歉吗](https://www.zhihu.com/search?q=错怪孩子需要道歉吗)
+1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
+1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [高考进入倒计时](https://www.zhihu.com/search?q=高考进入倒计时)
 1. [高考祝福语和鼓励的文案](https://www.zhihu.com/search?q=高考祝福语和鼓励的文案)
 1. [高考加油的文案](https://www.zhihu.com/search?q=高考加油的文案)
 1. [高考作文素材](https://www.zhihu.com/search?q=高考作文素材)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [为什么在中国境内找不到夏朝](https://www.zhihu.com/search?q=为什么在中国境内找不到夏朝)
 1. [亚马逊已停止跟踪员工 Token
    消耗榜单](https://www.zhihu.com/search?q=亚马逊已停止跟踪员工 Token 消耗榜单)
 1. [老牌杂志《看电影》转型学术期刊](https://www.zhihu.com/search?q=老牌杂志《看电影》转型学术期刊)

@@ -1,4 +1,14 @@
 [
+  { "query": "今日芒种", "display_query": "今日芒种" },
+  { "query": "错怪孩子需要道歉吗", "display_query": "错怪孩子需要道歉吗" },
+  {
+    "query": "你看过最感动的短篇漫画是什么",
+    "display_query": "你看过最感动的短篇漫画是什么"
+  },
+  {
+    "query": "为什么人不能靠意志力戒毒",
+    "display_query": "为什么人不能靠意志力戒毒"
+  },
   { "query": "高考进入倒计时", "display_query": "高考进入倒计时" },
   {
     "query": "高考祝福语和鼓励的文案",
@@ -6,6 +16,11 @@
   },
   { "query": "高考加油的文案", "display_query": "高考加油的文案" },
   { "query": "高考作文素材", "display_query": "高考作文素材" },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "为什么在中国境内找不到夏朝",
+    "display_query": "为什么在中国境内找不到夏朝"
+  },
   {
     "query": "亚马逊已停止跟踪员工 Token 消耗榜单",
     "display_query": "亚马逊已停止跟踪员工 Token 消耗榜单"
