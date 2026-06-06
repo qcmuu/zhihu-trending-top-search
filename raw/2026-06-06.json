@@ -1,7 +1,12 @@
 [
-  { "query": "今日芒种", "display_query": "今日芒种" },
-  { "query": "错怪孩子需要道歉吗", "display_query": "错怪孩子需要道歉吗" },
-  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
+  {
+    "query": "2188元一碗面日均卖出几十碗",
+    "display_query": "2188元一碗面日均卖出几十碗"
+  },
+  {
+    "query": "中国小电驴在英国卖爆了",
+    "display_query": "中国小电驴在英国卖爆了"
+  },
   {
     "query": "你看过最感动的短篇漫画是什么",
     "display_query": "你看过最感动的短篇漫画是什么"
@@ -18,5 +23,8 @@
   },
   { "query": "高考加油的文案", "display_query": "高考加油的文案" },
   { "query": "高考作文素材", "display_query": "高考作文素材" },
-  { "query": "高考注意事项", "display_query": "高考注意事项" }
+  { "query": "高考注意事项", "display_query": "高考注意事项" },
+  { "query": "今日芒种", "display_query": "今日芒种" },
+  { "query": "错怪孩子需要道歉吗", "display_query": "错怪孩子需要道歉吗" },
+  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" }
 ]

@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 06 2026 14:32:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 06 2026 17:23:51 GMT+0800 (China Standard Time) -->
 
-1. [今日芒种](https://www.zhihu.com/search?q=今日芒种)
-1. [错怪孩子需要道歉吗](https://www.zhihu.com/search?q=错怪孩子需要道歉吗)
-1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
+1. [2188元一碗面日均卖出几十碗](https://www.zhihu.com/search?q=2188元一碗面日均卖出几十碗)
+1. [中国小电驴在英国卖爆了](https://www.zhihu.com/search?q=中国小电驴在英国卖爆了)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [高考进入倒计时](https://www.zhihu.com/search?q=高考进入倒计时)
@@ -28,6 +27,9 @@
 1. [高考加油的文案](https://www.zhihu.com/search?q=高考加油的文案)
 1. [高考作文素材](https://www.zhihu.com/search?q=高考作文素材)
 1. [高考注意事项](https://www.zhihu.com/search?q=高考注意事项)
+1. [今日芒种](https://www.zhihu.com/search?q=今日芒种)
+1. [错怪孩子需要道歉吗](https://www.zhihu.com/search?q=错怪孩子需要道歉吗)
+1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
 
 <!-- END -->
 
