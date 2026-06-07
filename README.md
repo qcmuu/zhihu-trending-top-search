@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 07 2026 07:01:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 07 2026 11:44:00 GMT+0800 (China Standard Time) -->
 
 1. [今日芒种](https://www.zhihu.com/search?q=今日芒种)
 1. [错怪孩子需要道歉吗](https://www.zhihu.com/search?q=错怪孩子需要道歉吗)
@@ -23,10 +23,11 @@
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [高考加油](https://www.zhihu.com/search?q=高考加油)
-1. [高考作文素材](https://www.zhihu.com/search?q=高考作文素材)
 1. [高考注意事项](https://www.zhihu.com/search?q=高考注意事项)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [为什么在中国境内找不到夏朝](https://www.zhihu.com/search?q=为什么在中国境内找不到夏朝)
+1. [claudecode使用感受如何](https://www.zhihu.com/search?q=claudecode使用感受如何)
+1. [高考作文素材](https://www.zhihu.com/search?q=高考作文素材)
 
 <!-- END -->
 

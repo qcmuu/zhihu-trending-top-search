@@ -11,11 +11,15 @@
     "display_query": "为什么人不能靠意志力戒毒"
   },
   { "query": "高考加油", "display_query": "高考加油" },
-  { "query": "高考作文素材", "display_query": "高考作文素材" },
   { "query": "高考注意事项", "display_query": "高考注意事项" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
     "query": "为什么在中国境内找不到夏朝",
     "display_query": "为什么在中国境内找不到夏朝"
-  }
+  },
+  {
+    "query": "claudecode使用感受如何",
+    "display_query": "claudecode使用感受如何"
+  },
+  { "query": "高考作文素材", "display_query": "高考作文素材" }
 ]
