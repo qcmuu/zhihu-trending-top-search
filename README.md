@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 08 2026 22:46:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 09 2026 01:50:36 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES战胜WE)
@@ -27,14 +27,6 @@
 1. [2026高考日程表](https://www.zhihu.com/search?q=2026高考日程表)
 1. [监考时怎么打发时间](https://www.zhihu.com/search?q=监考时怎么打发时间)
 1. [高考押题](https://www.zhihu.com/search?q=高考押题)
-1. [今日芒种](https://www.zhihu.com/search?q=今日芒种)
-1. [错怪孩子需要道歉吗](https://www.zhihu.com/search?q=错怪孩子需要道歉吗)
-1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
-1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
-1. [高考加油](https://www.zhihu.com/search?q=高考加油)
-1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
-1. [为什么在中国境内找不到夏朝](https://www.zhihu.com/search?q=为什么在中国境内找不到夏朝)
-1. [claudecode使用感受如何](https://www.zhihu.com/search?q=claudecode使用感受如何)
 
 <!-- END -->
 
