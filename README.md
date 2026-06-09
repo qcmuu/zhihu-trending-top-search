@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 09 2026 20:35:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 09 2026 23:52:39 GMT+0800 (China Standard Time) -->
 
 1. [高考作文](https://www.zhihu.com/search?q=高考作文)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
