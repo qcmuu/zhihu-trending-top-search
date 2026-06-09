@@ -1,13 +1,20 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "TES战胜WE", "display_query": "TES战胜WE" },
+  { "query": "高考作文", "display_query": "高考作文" },
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "浪姐四公", "display_query": "浪姐四公" },
+  { "query": "NBA总决赛", "display_query": "NBA总决赛" },
+  {
+    "query": "沪深两市成交额突破1万亿元",
+    "display_query": "沪深两市成交额突破1万亿元"
+  },
   { "query": "高考注意事项", "display_query": "高考注意事项" },
   { "query": "高考化学", "display_query": "高考化学" },
   { "query": "高考地理", "display_query": "高考地理" },
-  { "query": "BLG战胜JDG", "display_query": "BLG战胜JDG" },
   { "query": "BLG 1:3 不敌 WE", "display_query": "BLG 1:3 不敌 WE" },
   { "query": "高考时间", "display_query": "高考时间" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "TES战胜WE", "display_query": "TES战胜WE" },
+  { "query": "BLG战胜JDG", "display_query": "BLG战胜JDG" },
   { "query": "2026高考日程表", "display_query": "2026高考日程表" },
   { "query": "监考时怎么打发时间", "display_query": "监考时怎么打发时间" },
   { "query": "高考押题", "display_query": "高考押题" }
