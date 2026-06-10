@@ -1,12 +1,10 @@
 [
-  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
-  { "query": "高考作文", "display_query": "高考作文" },
+  {
+    "query": "微信允许开发者接入 AI 生态",
+    "display_query": "微信允许开发者接入 AI 生态"
+  },
   { "query": "浪姐四公", "display_query": "浪姐四公" },
   { "query": "nba总决赛", "display_query": "nba总决赛" },
-  {
-    "query": "沪深两市成交额突破1万亿元",
-    "display_query": "沪深两市成交额突破1万亿元"
-  },
   {
     "query": "沪深两市成交额突破2万亿元",
     "display_query": "沪深两市成交额突破2万亿元"
@@ -18,10 +16,17 @@
     "query": "伊朗会不会成为下一个伊拉克",
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "BLG 1:3 不敌 WE", "display_query": "BLG 1:3 不敌 WE" },
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
+  { "query": "高考作文", "display_query": "高考作文" },
+  {
+    "query": "沪深两市成交额突破1万亿元",
+    "display_query": "沪深两市成交额突破1万亿元"
+  },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "NBA总决赛", "display_query": "NBA总决赛" },
   { "query": "高考地理", "display_query": "高考地理" },
-  { "query": "BLG 1:3 不敌 WE", "display_query": "BLG 1:3 不敌 WE" },
   { "query": "高考押题", "display_query": "高考押题" },
   { "query": "地理答题模板", "display_query": "地理答题模板" },
   { "query": "2026 高考", "display_query": "2026 高考" },

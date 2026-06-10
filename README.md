@@ -15,22 +15,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 10 2026 17:56:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 10 2026 20:55:44 GMT+0800 (China Standard Time) -->
 
-1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
-1. [高考作文](https://www.zhihu.com/search?q=高考作文)
+1. [微信允许开发者接入 AI
+   生态](https://www.zhihu.com/search?q=微信允许开发者接入 AI 生态)
 1. [浪姐四公](https://www.zhihu.com/search?q=浪姐四公)
 1. [nba总决赛](https://www.zhihu.com/search?q=nba总决赛)
-1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [BLG 1:3 不敌 WE](https://www.zhihu.com/search?q=BLG 1:3 不敌 WE)
+1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
+1. [高考作文](https://www.zhihu.com/search?q=高考作文)
+1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
 1. [NBA总决赛](https://www.zhihu.com/search?q=NBA总决赛)
 1. [高考地理](https://www.zhihu.com/search?q=高考地理)
-1. [BLG 1:3 不敌 WE](https://www.zhihu.com/search?q=BLG 1:3 不敌 WE)
 1. [高考押题](https://www.zhihu.com/search?q=高考押题)
 1. [地理答题模板](https://www.zhihu.com/search?q=地理答题模板)
 1. [2026 高考](https://www.zhihu.com/search?q=2026 高考)
