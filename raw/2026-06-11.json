@@ -1,8 +1,12 @@
 [
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
+  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
   {
-    "query": "伊朗宣布对所有船只关闭霍尔木兹",
-    "display_query": "伊朗宣布对所有船只关闭霍尔木兹"
+    "query": "人到中年读书还有意义吗",
+    "display_query": "人到中年读书还有意义吗"
   },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
   {
     "query": "伊朗会不会成为下一个伊拉克",
@@ -17,11 +21,14 @@
     "query": "SpaceX被曝IPO定价135美元",
     "display_query": "SpaceX被曝IPO定价135美元"
   },
+  {
+    "query": "伊朗宣布对所有船只关闭霍尔木兹",
+    "display_query": "伊朗宣布对所有船只关闭霍尔木兹"
+  },
   { "query": "2026 高考", "display_query": "2026 高考" },
   { "query": "2026高考作文", "display_query": "2026高考作文" },
   { "query": "2026高考英语", "display_query": "2026高考英语" },
   { "query": "2026高考地理", "display_query": "2026高考地理" },
-  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
   { "query": "高考作文", "display_query": "高考作文" },
   { "query": "浪姐四公", "display_query": "浪姐四公" },
   { "query": "nba总决赛", "display_query": "nba总决赛" },
@@ -32,7 +39,5 @@
   {
     "query": "沪深两市成交额突破2万亿元",
     "display_query": "沪深两市成交额突破2万亿元"
-  },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" }
+  }
 ]
