@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 11 2026 07:41:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 11 2026 11:49:52 GMT+0800 (China Standard Time) -->
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
 1. [高考作文](https://www.zhihu.com/search?q=高考作文)
