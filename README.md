@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 12 2026 03:34:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 12 2026 06:01:12 GMT+0800 (China Standard Time) -->
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
 1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
