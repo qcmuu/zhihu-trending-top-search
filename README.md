@@ -15,8 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 12 2026 18:08:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 12 2026 22:08:38 GMT+0800 (China Standard Time) -->
 
+1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
+1. [高考作文](https://www.zhihu.com/search?q=高考作文)
+1. [HLE战胜T1](https://www.zhihu.com/search?q=HLE战胜T1)
 1. [伊朗计划彻底封锁霍尔木兹海峡](https://www.zhihu.com/search?q=伊朗计划彻底封锁霍尔木兹海峡)
 1. [2026 高考](https://www.zhihu.com/search?q=2026 高考)
 1. [2026高考英语](https://www.zhihu.com/search?q=2026高考英语)
@@ -27,7 +30,6 @@
 1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=重回高考那年还能做对几道)
 1. [2026 高考加油](https://www.zhihu.com/search?q=2026 高考加油)
 1. [2026 高考数学](https://www.zhihu.com/search?q=2026 高考数学)
-1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
 1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
 1. [人到中年读书还有意义吗](https://www.zhihu.com/search?q=人到中年读书还有意义吗)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)

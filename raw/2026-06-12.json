@@ -1,4 +1,7 @@
 [
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
+  { "query": "高考作文", "display_query": "高考作文" },
+  { "query": "HLE战胜T1", "display_query": "HLE战胜T1" },
   {
     "query": "伊朗计划彻底封锁霍尔木兹海峡",
     "display_query": "伊朗计划彻底封锁霍尔木兹海峡"
@@ -18,7 +21,6 @@
   },
   { "query": "2026 高考加油", "display_query": "2026 高考加油" },
   { "query": "2026 高考数学", "display_query": "2026 高考数学" },
-  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
   { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
   {
     "query": "人到中年读书还有意义吗",
