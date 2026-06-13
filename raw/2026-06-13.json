@@ -2,6 +2,8 @@
   { "query": "任天堂直面会", "display_query": "任天堂直面会" },
   { "query": "高考作文", "display_query": "高考作文" },
   { "query": "英语四级", "display_query": "英语四级" },
+  { "query": "六级", "display_query": "六级" },
+  { "query": "英语六级考试", "display_query": "英语六级考试" },
   { "query": "HLE战胜T1", "display_query": "HLE战胜T1" },
   {
     "query": "SpaceX被曝IPO定价135美元",
