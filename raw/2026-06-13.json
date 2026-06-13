@@ -9,10 +9,10 @@
     "query": "SpaceX被曝IPO定价135美元",
     "display_query": "SpaceX被曝IPO定价135美元"
   },
-  { "query": "2026 高考", "display_query": "2026 高考" },
   { "query": "2026高考地理", "display_query": "2026高考地理" },
   { "query": "2026高考化学", "display_query": "2026高考化学" },
   { "query": "2026高考生物", "display_query": "2026高考生物" },
+  { "query": "2026 高考", "display_query": "2026 高考" },
   {
     "query": "重回高考那年还能做对几道",
     "display_query": "重回高考那年还能做对几道"
