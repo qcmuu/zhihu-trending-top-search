@@ -4,19 +4,23 @@
   { "query": "英语四级", "display_query": "英语四级" },
   { "query": "HLE战胜T1", "display_query": "HLE战胜T1" },
   {
-    "query": "伊朗计划彻底封锁霍尔木兹海峡",
-    "display_query": "伊朗计划彻底封锁霍尔木兹海峡"
+    "query": "SpaceX被曝IPO定价135美元",
+    "display_query": "SpaceX被曝IPO定价135美元"
   },
   { "query": "2026 高考", "display_query": "2026 高考" },
   { "query": "2026高考地理", "display_query": "2026高考地理" },
   { "query": "2026高考化学", "display_query": "2026高考化学" },
   { "query": "2026高考生物", "display_query": "2026高考生物" },
   {
-    "query": "钉钉内网7.5万字长文《置身钉内》",
-    "display_query": "钉钉内网7.5万字长文《置身钉内》"
-  },
-  {
     "query": "重回高考那年还能做对几道",
     "display_query": "重回高考那年还能做对几道"
+  },
+  {
+    "query": "伊朗计划彻底封锁霍尔木兹海峡",
+    "display_query": "伊朗计划彻底封锁霍尔木兹海峡"
+  },
+  {
+    "query": "钉钉内网7.5万字长文《置身钉内》",
+    "display_query": "钉钉内网7.5万字长文《置身钉内》"
   }
 ]
