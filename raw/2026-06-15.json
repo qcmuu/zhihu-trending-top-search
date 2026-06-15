@@ -1,8 +1,9 @@
 [
-  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
-  { "query": "高考作文", "display_query": "高考作文" },
+  {
+    "query": "今起儿童可购买铁路旅游计次票",
+    "display_query": "今起儿童可购买铁路旅游计次票"
+  },
   { "query": "英语四级", "display_query": "英语四级" },
-  { "query": "马刺VS尼克斯", "display_query": "马刺VS尼克斯" },
   {
     "query": "重回高考那年还能做对几道",
     "display_query": "重回高考那年还能做对几道"
@@ -20,5 +21,10 @@
   {
     "query": "全国小麦收获进度近七成",
     "display_query": "全国小麦收获进度近七成"
-  }
+  },
+  { "query": "人生其实是均值回归的", "display_query": "人生其实是均值回归的" },
+  { "query": "伊朗袭击美军第五舰队", "display_query": "伊朗袭击美军第五舰队" },
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
+  { "query": "高考作文", "display_query": "高考作文" },
+  { "query": "马刺VS尼克斯", "display_query": "马刺VS尼克斯" }
 ]
