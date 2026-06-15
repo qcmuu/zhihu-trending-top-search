@@ -15,11 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 15 2026 12:07:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 15 2026 18:53:04 GMT+0800 (China Standard Time) -->
 
-1. [今起儿童可购买铁路旅游计次票](https://www.zhihu.com/search?q=今起儿童可购买铁路旅游计次票)
 1. [英语四级](https://www.zhihu.com/search?q=英语四级)
+1. [TES对战BLG](https://www.zhihu.com/search?q=TES对战BLG)
+1. [LCK](https://www.zhihu.com/search?q=LCK)
+1. [SpaceX被曝IPO定价135美元](https://www.zhihu.com/search?q=SpaceX被曝IPO定价135美元)
 1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=重回高考那年还能做对几道)
+1. [浪姐否认观众辱骂王濛](https://www.zhihu.com/search?q=浪姐否认观众辱骂王濛)
+1. [云台相机成消费电子新风口](https://www.zhihu.com/search?q=云台相机成消费电子新风口)
+1. [孟羽童主动向平安高管求职](https://www.zhihu.com/search?q=孟羽童主动向平安高管求职)
+1. [谢娜北京演唱会售罄](https://www.zhihu.com/search?q=谢娜北京演唱会售罄)
+1. [马斯克成首位万亿富翁](https://www.zhihu.com/search?q=马斯克成首位万亿富翁)
+1. [今起儿童可购买铁路旅游计次票](https://www.zhihu.com/search?q=今起儿童可购买铁路旅游计次票)
 1. [张慧雯淘汰](https://www.zhihu.com/search?q=张慧雯淘汰)
 1. [张桂梅连续16年送考](https://www.zhihu.com/search?q=张桂梅连续16年送考)
 1. [昔日零分考生37岁再战高考](https://www.zhihu.com/search?q=昔日零分考生37岁再战高考)

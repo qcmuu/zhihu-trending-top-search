@@ -1,12 +1,29 @@
 [
-  {
-    "query": "今起儿童可购买铁路旅游计次票",
-    "display_query": "今起儿童可购买铁路旅游计次票"
-  },
   { "query": "英语四级", "display_query": "英语四级" },
+  { "query": "TES对战BLG", "display_query": "TES对战BLG" },
+  { "query": "LCK", "display_query": "LCK" },
+  {
+    "query": "SpaceX被曝IPO定价135美元",
+    "display_query": "SpaceX被曝IPO定价135美元"
+  },
   {
     "query": "重回高考那年还能做对几道",
     "display_query": "重回高考那年还能做对几道"
+  },
+  { "query": "浪姐否认观众辱骂王濛", "display_query": "浪姐否认观众辱骂王濛" },
+  {
+    "query": "云台相机成消费电子新风口",
+    "display_query": "云台相机成消费电子新风口"
+  },
+  {
+    "query": "孟羽童主动向平安高管求职",
+    "display_query": "孟羽童主动向平安高管求职"
+  },
+  { "query": "谢娜北京演唱会售罄", "display_query": "谢娜北京演唱会售罄" },
+  { "query": "马斯克成首位万亿富翁", "display_query": "马斯克成首位万亿富翁" },
+  {
+    "query": "今起儿童可购买铁路旅游计次票",
+    "display_query": "今起儿童可购买铁路旅游计次票"
   },
   { "query": "张慧雯淘汰", "display_query": "张慧雯淘汰" },
   { "query": "张桂梅连续16年送考", "display_query": "张桂梅连续16年送考" },
