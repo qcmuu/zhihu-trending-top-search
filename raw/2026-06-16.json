@@ -1,0 +1,21 @@
+[
+  { "query": "英语四级", "display_query": "英语四级" },
+  { "query": "TES对战BLG", "display_query": "TES对战BLG" },
+  { "query": "LCK", "display_query": "LCK" },
+  {
+    "query": "SpaceX被曝IPO定价135美元",
+    "display_query": "SpaceX被曝IPO定价135美元"
+  },
+  {
+    "query": "重回高考那年还能做对几道",
+    "display_query": "重回高考那年还能做对几道"
+  },
+  { "query": "浪姐否认观众辱骂王濛", "display_query": "浪姐否认观众辱骂王濛" },
+  {
+    "query": "孟羽童主动向平安高管求职",
+    "display_query": "孟羽童主动向平安高管求职"
+  },
+  { "query": "谢娜北京演唱会售罄", "display_query": "谢娜北京演唱会售罄" },
+  { "query": "马斯克成首位万亿富翁", "display_query": "马斯克成首位万亿富翁" },
+  { "query": "学士服 colorhood", "display_query": "学士服 colorhood" }
+]
