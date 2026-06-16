@@ -15,18 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 16 2026 07:01:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 16 2026 11:56:52 GMT+0800 (China Standard Time) -->
 
-1. [英语四级](https://www.zhihu.com/search?q=英语四级)
-1. [TES对战BLG](https://www.zhihu.com/search?q=TES对战BLG)
 1. [LCK](https://www.zhihu.com/search?q=LCK)
 1. [SpaceX被曝IPO定价135美元](https://www.zhihu.com/search?q=SpaceX被曝IPO定价135美元)
 1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=重回高考那年还能做对几道)
 1. [浪姐否认观众辱骂王濛](https://www.zhihu.com/search?q=浪姐否认观众辱骂王濛)
+1. [英语四级](https://www.zhihu.com/search?q=英语四级)
 1. [孟羽童主动向平安高管求职](https://www.zhihu.com/search?q=孟羽童主动向平安高管求职)
 1. [谢娜北京演唱会售罄](https://www.zhihu.com/search?q=谢娜北京演唱会售罄)
 1. [马斯克成首位万亿富翁](https://www.zhihu.com/search?q=马斯克成首位万亿富翁)
 1. [学士服 colorhood](https://www.zhihu.com/search?q=学士服 colorhood)
+1. [钓鱼饵料含安眠药](https://www.zhihu.com/search?q=钓鱼饵料含安眠药)
+1. [TES对战BLG](https://www.zhihu.com/search?q=TES对战BLG)
 
 <!-- END -->
 
