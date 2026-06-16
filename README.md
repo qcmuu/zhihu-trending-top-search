@@ -15,31 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 16 2026 23:06:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 17 2026 03:32:58 GMT+0800 (China Standard Time) -->
 
 1. [t1对战gen](https://www.zhihu.com/search?q=t1对战gen)
-1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=重回高考那年还能做对几道)
 1. [浪姐否认观众辱骂王濛](https://www.zhihu.com/search?q=浪姐否认观众辱骂王濛)
-1. [学士服 colorhood](https://www.zhihu.com/search?q=学士服 colorhood)
 1. [钓鱼饵料含安眠药](https://www.zhihu.com/search?q=钓鱼饵料含安眠药)
 1. [白鹿方六连辟谣](https://www.zhihu.com/search?q=白鹿方六连辟谣)
 1. [白鹿起诉蒙淇淇](https://www.zhihu.com/search?q=白鹿起诉蒙淇淇)
 1. [SpaceX登陆纳斯达克](https://www.zhihu.com/search?q=SpaceX登陆纳斯达克)
 1. [雷军用私家车装600斤车厘子被指违规](https://www.zhihu.com/search?q=雷军用私家车装600斤车厘子被指违规)
 1. [哈登涉嫌非法携带武器被捕](https://www.zhihu.com/search?q=哈登涉嫌非法携带武器被捕)
-1. [40 岁佛得角门将泪洒赛场](https://www.zhihu.com/search?q=40
-   岁佛得角门将泪洒赛场)
-1. [梁朝伟谈如何用眼睛演戏](https://www.zhihu.com/search?q=梁朝伟谈如何用眼睛演戏)
-1. [独库隧道撞羊司机全责](https://www.zhihu.com/search?q=独库隧道撞羊司机全责)
-1. [月之暗面发布并开源Kimi K2.7
-   Code](https://www.zhihu.com/search?q=月之暗面发布并开源Kimi K2.7 Code)
-1. [LCK](https://www.zhihu.com/search?q=LCK)
-1. [SpaceX被曝IPO定价135美元](https://www.zhihu.com/search?q=SpaceX被曝IPO定价135美元)
-1. [英语四级](https://www.zhihu.com/search?q=英语四级)
-1. [孟羽童主动向平安高管求职](https://www.zhihu.com/search?q=孟羽童主动向平安高管求职)
-1. [谢娜北京演唱会售罄](https://www.zhihu.com/search?q=谢娜北京演唱会售罄)
-1. [马斯克成首位万亿富翁](https://www.zhihu.com/search?q=马斯克成首位万亿富翁)
-1. [TES对战BLG](https://www.zhihu.com/search?q=TES对战BLG)
+1. [尼克斯NBA总冠军](https://www.zhihu.com/search?q=尼克斯NBA总冠军)
+1. [中国不需要也不可能复制spacex](https://www.zhihu.com/search?q=中国不需要也不可能复制spacex)
 
 <!-- END -->
 
