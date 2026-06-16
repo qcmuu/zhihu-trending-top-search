@@ -1,9 +1,23 @@
 [
-  { "query": "白鹿起诉蒙淇淇", "display_query": "白鹿起诉蒙淇淇" },
+  { "query": "t1对战gen", "display_query": "t1对战gen" },
+  {
+    "query": "重回高考那年还能做对几道",
+    "display_query": "重回高考那年还能做对几道"
+  },
   { "query": "浪姐否认观众辱骂王濛", "display_query": "浪姐否认观众辱骂王濛" },
   { "query": "学士服 colorhood", "display_query": "学士服 colorhood" },
   { "query": "钓鱼饵料含安眠药", "display_query": "钓鱼饵料含安眠药" },
   { "query": "白鹿方六连辟谣", "display_query": "白鹿方六连辟谣" },
+  { "query": "白鹿起诉蒙淇淇", "display_query": "白鹿起诉蒙淇淇" },
+  { "query": "SpaceX登陆纳斯达克", "display_query": "SpaceX登陆纳斯达克" },
+  {
+    "query": "雷军用私家车装600斤车厘子被指违规",
+    "display_query": "雷军用私家车装600斤车厘子被指违规"
+  },
+  {
+    "query": "哈登涉嫌非法携带武器被捕",
+    "display_query": "哈登涉嫌非法携带武器被捕"
+  },
   {
     "query": "40 岁佛得角门将泪洒赛场",
     "display_query": "40 岁佛得角门将泪洒赛场"
@@ -13,7 +27,6 @@
     "display_query": "梁朝伟谈如何用眼睛演戏"
   },
   { "query": "独库隧道撞羊司机全责", "display_query": "独库隧道撞羊司机全责" },
-  { "query": "SpaceX登陆纳斯达克", "display_query": "SpaceX登陆纳斯达克" },
   {
     "query": "月之暗面发布并开源Kimi K2.7 Code",
     "display_query": "月之暗面发布并开源Kimi K2.7 Code"
@@ -22,10 +35,6 @@
   {
     "query": "SpaceX被曝IPO定价135美元",
     "display_query": "SpaceX被曝IPO定价135美元"
-  },
-  {
-    "query": "重回高考那年还能做对几道",
-    "display_query": "重回高考那年还能做对几道"
   },
   { "query": "英语四级", "display_query": "英语四级" },
   {
