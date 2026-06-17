@@ -9,13 +9,17 @@
     "query": "雷军用私家车装600斤车厘子被指违规",
     "display_query": "雷军用私家车装600斤车厘子被指违规"
   },
-  {
-    "query": "哈登涉嫌非法携带武器被捕",
-    "display_query": "哈登涉嫌非法携带武器被捕"
-  },
   { "query": "尼克斯NBA总冠军", "display_query": "尼克斯NBA总冠军" },
   {
     "query": "中国不需要也不可能复制spacex",
     "display_query": "中国不需要也不可能复制spacex"
+  },
+  {
+    "query": "阿里巴巴称周靖人辞职纯属谣言",
+    "display_query": "阿里巴巴称周靖人辞职纯属谣言"
+  },
+  {
+    "query": "哈登涉嫌非法携带武器被捕",
+    "display_query": "哈登涉嫌非法携带武器被捕"
   }
 ]
