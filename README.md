@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 17 2026 14:08:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 17 2026 19:45:08 GMT+0800 (China Standard Time) -->
 
+1. [梅西称将带着中国球迷的爱出征](https://www.zhihu.com/search?q=梅西称将带着中国球迷的爱出征)
+1. [孙杨100自预赛第11名惨遭淘汰](https://www.zhihu.com/search?q=孙杨100自预赛第11名惨遭淘汰)
+1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [为什么大学生这么爱睡懒觉](https://www.zhihu.com/search?q=为什么大学生这么爱睡懒觉)
+1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
+1. [claudecode使用感受如何](https://www.zhihu.com/search?q=claudecode使用感受如何)
+1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
+1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
+1. [如何才能永保旺盛的精力](https://www.zhihu.com/search?q=如何才能永保旺盛的精力)
 1. [t1对战gen](https://www.zhihu.com/search?q=t1对战gen)
 1. [梅西帽子戏法](https://www.zhihu.com/search?q=梅西帽子戏法)
 1. [浪姐否认观众辱骂王濛](https://www.zhihu.com/search?q=浪姐否认观众辱骂王濛)
