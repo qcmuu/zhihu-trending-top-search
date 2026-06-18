@@ -15,8 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 18 2026 11:46:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 18 2026 16:44:38 GMT+0800 (China Standard Time) -->
 
+1. [压力给到C罗](https://www.zhihu.com/search?q=压力给到C罗)
+1. [金价猛涨站上4300美元](https://www.zhihu.com/search?q=金价猛涨站上4300美元)
+1. [被留下的毕业礼物](https://www.zhihu.com/search?q=被留下的毕业礼物)
+1. [冯小刚新片《抓特务》端午上映](https://www.zhihu.com/search?q=冯小刚新片《抓特务》端午上映)
+1. [白鹿起诉蒙淇淇](https://www.zhihu.com/search?q=白鹿起诉蒙淇淇)
+1. [SpaceX登陆纳斯达克](https://www.zhihu.com/search?q=SpaceX登陆纳斯达克)
+1. [荷兰 vs 日本](https://www.zhihu.com/search?q=荷兰 vs 日本)
+1. [AMD 嘲讽 MacBook 游戏兼容差](https://www.zhihu.com/search?q=AMD 嘲讽 MacBook
+   游戏兼容差)
+1. [蔚来李斌预警全年车市或跌15%至20%](https://www.zhihu.com/search?q=蔚来李斌预警全年车市或跌15%至20%)
+1. [郝景芳承认 AI 写作](https://www.zhihu.com/search?q=郝景芳承认 AI 写作)
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
 1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
