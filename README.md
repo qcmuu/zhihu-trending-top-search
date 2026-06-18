@@ -15,35 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 18 2026 20:23:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 19 2026 00:28:56 GMT+0800 (China Standard Time) -->
 
-1. [92号汽油或回7字头](https://www.zhihu.com/search?q=92号汽油或回7字头)
-1. [必胜客被卖了](https://www.zhihu.com/search?q=必胜客被卖了)
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
+1. [梅西哭了](https://www.zhihu.com/search?q=梅西哭了)
 1. [高考查分心情](https://www.zhihu.com/search?q=高考查分心情)
 1. [梅西帽子戏法](https://www.zhihu.com/search?q=梅西帽子戏法)
-1. [被留下的毕业礼物](https://www.zhihu.com/search?q=被留下的毕业礼物)
 1. [冯小刚新片《抓特务》端午上映](https://www.zhihu.com/search?q=冯小刚新片《抓特务》端午上映)
 1. [白鹿起诉蒙淇淇](https://www.zhihu.com/search?q=白鹿起诉蒙淇淇)
 1. [SpaceX登陆纳斯达克](https://www.zhihu.com/search?q=SpaceX登陆纳斯达克)
 1. [尼克斯nba总冠军](https://www.zhihu.com/search?q=尼克斯nba总冠军)
 1. [中国不需要也不可能复制spacex](https://www.zhihu.com/search?q=中国不需要也不可能复制spacex)
-1. [压力给到C罗](https://www.zhihu.com/search?q=压力给到C罗)
-1. [金价猛涨站上4300美元](https://www.zhihu.com/search?q=金价猛涨站上4300美元)
-1. [荷兰 vs 日本](https://www.zhihu.com/search?q=荷兰 vs 日本)
-1. [AMD 嘲讽 MacBook 游戏兼容差](https://www.zhihu.com/search?q=AMD 嘲讽 MacBook
-   游戏兼容差)
-1. [蔚来李斌预警全年车市或跌15%至20%](https://www.zhihu.com/search?q=蔚来李斌预警全年车市或跌15%至20%)
-1. [郝景芳承认 AI 写作](https://www.zhihu.com/search?q=郝景芳承认 AI 写作)
-1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
-1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
-1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
-1. [为什么大学生这么爱睡懒觉](https://www.zhihu.com/search?q=为什么大学生这么爱睡懒觉)
-1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
-1. [claudecode使用感受如何](https://www.zhihu.com/search?q=claudecode使用感受如何)
-1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
-1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
-1. [如何才能永保旺盛的精力](https://www.zhihu.com/search?q=如何才能永保旺盛的精力)
-1. [住家保姆为什么总干不长](https://www.zhihu.com/search?q=住家保姆为什么总干不长)
+1. [阿里巴巴称周靖人辞职纯属谣言](https://www.zhihu.com/search?q=阿里巴巴称周靖人辞职纯属谣言)
 
 <!-- END -->
 
