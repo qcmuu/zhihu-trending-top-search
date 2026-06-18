@@ -1,6 +1,8 @@
 [
-  { "query": "压力给到C罗", "display_query": "压力给到C罗" },
-  { "query": "金价猛涨站上4300美元", "display_query": "金价猛涨站上4300美元" },
+  { "query": "92号汽油或回7字头", "display_query": "92号汽油或回7字头" },
+  { "query": "必胜客被卖了", "display_query": "必胜客被卖了" },
+  { "query": "高考查分心情", "display_query": "高考查分心情" },
+  { "query": "梅西帽子戏法", "display_query": "梅西帽子戏法" },
   { "query": "被留下的毕业礼物", "display_query": "被留下的毕业礼物" },
   {
     "query": "冯小刚新片《抓特务》端午上映",
@@ -8,6 +10,13 @@
   },
   { "query": "白鹿起诉蒙淇淇", "display_query": "白鹿起诉蒙淇淇" },
   { "query": "SpaceX登陆纳斯达克", "display_query": "SpaceX登陆纳斯达克" },
+  { "query": "尼克斯nba总冠军", "display_query": "尼克斯nba总冠军" },
+  {
+    "query": "中国不需要也不可能复制spacex",
+    "display_query": "中国不需要也不可能复制spacex"
+  },
+  { "query": "压力给到C罗", "display_query": "压力给到C罗" },
+  { "query": "金价猛涨站上4300美元", "display_query": "金价猛涨站上4300美元" },
   { "query": "荷兰 vs 日本", "display_query": "荷兰 vs 日本" },
   {
     "query": "AMD 嘲讽 MacBook 游戏兼容差",
