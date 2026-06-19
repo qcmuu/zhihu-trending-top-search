@@ -15,22 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 19 2026 23:11:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 20 2026 01:55:13 GMT+0800 (China Standard Time) -->
 
 1. [端午安康](https://www.zhihu.com/search?q=端午安康)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [梅西哭了](https://www.zhihu.com/search?q=梅西哭了)
-1. [梅西帽子戏法](https://www.zhihu.com/search?q=梅西帽子戏法)
 1. [冯小刚新片《抓特务》端午上映](https://www.zhihu.com/search?q=冯小刚新片《抓特务》端午上映)
 1. [尼克斯nba总冠军](https://www.zhihu.com/search?q=尼克斯nba总冠军)
 1. [中国不需要也不可能复制spacex](https://www.zhihu.com/search?q=中国不需要也不可能复制spacex)
 1. [阿里巴巴称周靖人辞职纯属谣言](https://www.zhihu.com/search?q=阿里巴巴称周靖人辞职纯属谣言)
-1. [郝景芳承认 AI 写作](https://www.zhihu.com/search?q=郝景芳承认 AI 写作)
 1. [南部档案口碑](https://www.zhihu.com/search?q=南部档案口碑)
-1. [高考查分心情](https://www.zhihu.com/search?q=高考查分心情)
-1. [美伊达成和平协议](https://www.zhihu.com/search?q=美伊达成和平协议)
-1. [白鹿起诉蒙淇淇](https://www.zhihu.com/search?q=白鹿起诉蒙淇淇)
-1. [SpaceX登陆纳斯达克](https://www.zhihu.com/search?q=SpaceX登陆纳斯达克)
+1. [携程被罚款1000万元](https://www.zhihu.com/search?q=携程被罚款1000万元)
+1. [国乒单打全军覆没](https://www.zhihu.com/search?q=国乒单打全军覆没)
 
 <!-- END -->
 
