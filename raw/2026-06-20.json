@@ -1,9 +1,5 @@
 [
-  { "query": "端午安康", "display_query": "端午安康" },
-  {
-    "query": "美联储宣布维持利率不变",
-    "display_query": "美联储宣布维持利率不变"
-  },
+  { "query": "携程被罚款1000万元", "display_query": "携程被罚款1000万元" },
   { "query": "梅西哭了", "display_query": "梅西哭了" },
   {
     "query": "冯小刚新片《抓特务》端午上映",
@@ -19,6 +15,15 @@
     "display_query": "阿里巴巴称周靖人辞职纯属谣言"
   },
   { "query": "南部档案口碑", "display_query": "南部档案口碑" },
-  { "query": "携程被罚款1000万元", "display_query": "携程被罚款1000万元" },
-  { "query": "国乒单打全军覆没", "display_query": "国乒单打全军覆没" }
+  { "query": "美联储沃什将首秀", "display_query": "美联储沃什将首秀" },
+  { "query": "国乒单打全军覆没", "display_query": "国乒单打全军覆没" },
+  {
+    "query": "雷军现身武汉过早吃热干面面窝",
+    "display_query": "雷军现身武汉过早吃热干面面窝"
+  },
+  { "query": "端午安康", "display_query": "端午安康" },
+  {
+    "query": "美联储宣布维持利率不变",
+    "display_query": "美联储宣布维持利率不变"
+  }
 ]
