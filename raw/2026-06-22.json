@@ -1,4 +1,17 @@
 [
+  { "query": "梅西", "display_query": "梅西" },
+  { "query": "亚马尔", "display_query": "亚马尔" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "樊振东加盟杜塞尔多夫", "display_query": "樊振东加盟杜塞尔多夫" },
+  { "query": "梅西帽子戏法", "display_query": "梅西帽子戏法" },
+  { "query": "阿根廷3-0阿尔及利亚", "display_query": "阿根廷3-0阿尔及利亚" },
   {
     "query": "美联储宣布维持利率不变",
     "display_query": "美联储宣布维持利率不变"
