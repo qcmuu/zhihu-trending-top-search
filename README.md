@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 23 2026 16:31:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 23 2026 20:04:54 GMT+0800 (China Standard Time) -->
 
+1. [上海高考出分](https://www.zhihu.com/search?q=上海高考出分)
+1. [天津高考出分](https://www.zhihu.com/search?q=天津高考出分)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
@@ -24,6 +26,7 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [梅西帽子戏法](https://www.zhihu.com/search?q=梅西帽子戏法)
 1. [阿根廷3-0阿尔及利亚](https://www.zhihu.com/search?q=阿根廷3-0阿尔及利亚)
+1. [易立竞采访向佐](https://www.zhihu.com/search?q=易立竞采访向佐)
 1. [C罗首秀状态不佳全场0射正](https://www.zhihu.com/search?q=C罗首秀状态不佳全场0射正)
 1. [纸尿裤报道专家称被迫签声明](https://www.zhihu.com/search?q=纸尿裤报道专家称被迫签声明)
 1. [乘风2026五公](https://www.zhihu.com/search?q=乘风2026五公)
