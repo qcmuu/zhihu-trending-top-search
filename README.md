@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 24 2026 21:20:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 25 2026 00:19:45 GMT+0800 (China Standard Time) -->
 
 1. [河南高考出分](https://www.zhihu.com/search?q=河南高考出分)
 1. [上海高考查分](https://www.zhihu.com/search?q=上海高考查分)
@@ -27,17 +27,6 @@
 1. [天津高考出分](https://www.zhihu.com/search?q=天津高考出分)
 1. [福建高考出分](https://www.zhihu.com/search?q=福建高考出分)
 1. [辽宁高考出分](https://www.zhihu.com/search?q=辽宁高考出分)
-1. [重庆高考出分](https://www.zhihu.com/search?q=重庆高考出分)
-1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
-1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
-1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [梅西帽子戏法](https://www.zhihu.com/search?q=梅西帽子戏法)
-1. [阿根廷3-0阿尔及利亚](https://www.zhihu.com/search?q=阿根廷3-0阿尔及利亚)
-1. [易立竞采访向佐](https://www.zhihu.com/search?q=易立竞采访向佐)
-1. [马宁曾自费住在卡塔尔车库](https://www.zhihu.com/search?q=马宁曾自费住在卡塔尔车库)
-1. [41岁C罗生物年龄仅28.9岁](https://www.zhihu.com/search?q=41岁C罗生物年龄仅28.9岁)
 
 <!-- END -->
 
