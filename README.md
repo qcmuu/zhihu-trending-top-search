@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 24 2026 11:27:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 24 2026 15:38:06 GMT+0800 (China Standard Time) -->
 
-1. [马宁曾自费住在卡塔尔车库](https://www.zhihu.com/search?q=马宁曾自费住在卡塔尔车库)
-1. [41岁C罗生物年龄仅28.9岁](https://www.zhihu.com/search?q=41岁C罗生物年龄仅28.9岁)
 1. [上海高考出分](https://www.zhihu.com/search?q=上海高考出分)
 1. [天津高考出分](https://www.zhihu.com/search?q=天津高考出分)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
@@ -29,6 +27,8 @@
 1. [梅西帽子戏法](https://www.zhihu.com/search?q=梅西帽子戏法)
 1. [阿根廷3-0阿尔及利亚](https://www.zhihu.com/search?q=阿根廷3-0阿尔及利亚)
 1. [易立竞采访向佐](https://www.zhihu.com/search?q=易立竞采访向佐)
+1. [马宁曾自费住在卡塔尔车库](https://www.zhihu.com/search?q=马宁曾自费住在卡塔尔车库)
+1. [41岁C罗生物年龄仅28.9岁](https://www.zhihu.com/search?q=41岁C罗生物年龄仅28.9岁)
 
 <!-- END -->
 
