@@ -1,5 +1,14 @@
 [
   { "query": "河南高考出分", "display_query": "河南高考出分" },
+  { "query": "上海高考出分", "display_query": "上海高考出分" },
+  { "query": "天津高考出分", "display_query": "天津高考出分" },
+  { "query": "福建高考出分", "display_query": "福建高考出分" },
+  { "query": "辽宁高考出分", "display_query": "辽宁高考出分" },
+  { "query": "重庆高考出分", "display_query": "重庆高考出分" },
+  { "query": "黑龙江高考出分", "display_query": "黑龙江高考出分" },
+  { "query": "江苏高考出分", "display_query": "江苏高考出分" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "上海高考查分", "display_query": "上海高考查分" },
   { "query": "广东高考分数线", "display_query": "广东高考分数线" },
   { "query": "高考分数线", "display_query": "高考分数线" },
@@ -7,9 +16,5 @@
   {
     "query": "辽宁舰完成远海实战化训练",
     "display_query": "辽宁舰完成远海实战化训练"
-  },
-  { "query": "上海高考出分", "display_query": "上海高考出分" },
-  { "query": "天津高考出分", "display_query": "天津高考出分" },
-  { "query": "福建高考出分", "display_query": "福建高考出分" },
-  { "query": "辽宁高考出分", "display_query": "辽宁高考出分" }
+  }
 ]
