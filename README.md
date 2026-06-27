@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 27 2026 23:13:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 28 2026 01:07:11 GMT+0800 (China Standard Time) -->
 
 1. [河南高考出分](https://www.zhihu.com/search?q=河南高考出分)
 1. [广东高考分数线公布](https://www.zhihu.com/search?q=广东高考分数线公布)
@@ -27,8 +27,6 @@
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
 1. [你最近过的怎样](https://www.zhihu.com/search?q=你最近过的怎样)
 1. [iPhone会涨价吗](https://www.zhihu.com/search?q=iPhone会涨价吗)
-1. [小米电视误报地震预警](https://www.zhihu.com/search?q=小米电视误报地震预警)
-1. [上海高考出分](https://www.zhihu.com/search?q=上海高考出分)
 
 <!-- END -->
 
