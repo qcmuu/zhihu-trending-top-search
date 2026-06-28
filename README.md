@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 28 2026 08:10:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 28 2026 13:15:06 GMT+0800 (China Standard Time) -->
 
-1. [黄仁勋称算力就是收入](https://www.zhihu.com/search?q=黄仁勋称算力就是收入)
-1. [三体2官宣](https://www.zhihu.com/search?q=三体2官宣)
+1. [河南高考出分](https://www.zhihu.com/search?q=河南高考出分)
+1. [广东高考分数线公布](https://www.zhihu.com/search?q=广东高考分数线公布)
 1. [四川高考分数线公布](https://www.zhihu.com/search?q=四川高考分数线公布)
 1. [山西高考分数线公布](https://www.zhihu.com/search?q=山西高考分数线公布)
 1. [北京高考分数线公布](https://www.zhihu.com/search?q=北京高考分数线公布)
@@ -27,8 +27,8 @@
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
 1. [你最近过的怎样](https://www.zhihu.com/search?q=你最近过的怎样)
 1. [iPhone会涨价吗](https://www.zhihu.com/search?q=iPhone会涨价吗)
-1. [河南高考出分](https://www.zhihu.com/search?q=河南高考出分)
-1. [广东高考分数线公布](https://www.zhihu.com/search?q=广东高考分数线公布)
+1. [黄仁勋称算力就是收入](https://www.zhihu.com/search?q=黄仁勋称算力就是收入)
+1. [三体2官宣](https://www.zhihu.com/search?q=三体2官宣)
 
 <!-- END -->
 
