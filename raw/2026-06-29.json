@@ -1,6 +1,9 @@
 [
-  { "query": "哪些歌词让你感到惊艳", "display_query": "哪些歌词让你感到惊艳" },
-  { "query": "gta6售价", "display_query": "gta6售价" },
+  { "query": "成都震感", "display_query": "成都震感" },
+  {
+    "query": "蒸汽机是怎么输给内燃机的",
+    "display_query": "蒸汽机是怎么输给内燃机的"
+  },
   {
     "query": "反直觉的地理知识有哪些",
     "display_query": "反直觉的地理知识有哪些"
@@ -30,8 +33,9 @@
     "display_query": "你看过最感动的短篇漫画"
   },
   { "query": "如何看待西安市的前景", "display_query": "如何看待西安市的前景" },
+  { "query": "哪些歌词让你感到惊艳", "display_query": "哪些歌词让你感到惊艳" },
+  { "query": "gta6售价", "display_query": "gta6售价" },
   { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" },
-  { "query": "成都震感", "display_query": "成都震感" },
   { "query": "四川高考分数线公布", "display_query": "四川高考分数线公布" },
   { "query": "山西高考分数线公布", "display_query": "山西高考分数线公布" },
   { "query": "北京高考分数线公布", "display_query": "北京高考分数线公布" },
