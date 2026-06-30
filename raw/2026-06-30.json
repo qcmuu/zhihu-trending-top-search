@@ -1,4 +1,38 @@
 [
+  { "query": "荷兰 vs 摩洛哥", "display_query": "荷兰 vs 摩洛哥" },
+  {
+    "query": "中方对美企出口管制 美国要求撤销",
+    "display_query": "中方对美企出口管制 美国要求撤销"
+  },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  {
+    "query": "2026国内票房与北美院线反差巨大",
+    "display_query": "2026国内票房与北美院线反差巨大"
+  },
+  {
+    "query": "欧洲热浪已致上百人死亡",
+    "display_query": "欧洲热浪已致上百人死亡"
+  },
+  {
+    "query": "OpenAI发布GPT-5.6系列模型",
+    "display_query": "OpenAI发布GPT-5.6系列模型"
+  },
+  {
+    "query": "热浪炙烤欧洲 多地打破高温纪录",
+    "display_query": "热浪炙烤欧洲 多地打破高温纪录"
+  },
+  {
+    "query": "欧洲35℃高温影响超1亿人",
+    "display_query": "欧洲35℃高温影响超1亿人"
+  },
+  {
+    "query": "武亮说大学生生活费 1500 够用",
+    "display_query": "武亮说大学生生活费 1500 够用"
+  },
+  {
+    "query": "DeepSeek智谱将使用华为昇腾 950",
+    "display_query": "DeepSeek智谱将使用华为昇腾 950"
+  },
   { "query": "成都震感", "display_query": "成都震感" },
   {
     "query": "蒸汽机是怎么输给内燃机的",
