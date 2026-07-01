@@ -1,18 +1,8 @@
 [
+  { "query": "七月文案", "display_query": "七月文案" },
+  { "query": "庆祝建党105周年", "display_query": "庆祝建党105周年" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
-  {
-    "query": "热浪炙烤欧洲 多地打破高温纪录",
-    "display_query": "热浪炙烤欧洲 多地打破高温纪录"
-  },
-  {
-    "query": "欧洲35℃高温影响超1亿人",
-    "display_query": "欧洲35℃高温影响超1亿人"
-  },
-  {
-    "query": "勇哥餐饮创业说被封号客服挂电话",
-    "display_query": "勇哥餐饮创业说被封号客服挂电话"
-  },
   {
     "query": "奔驰将取消德国 9 万名员工年终奖",
     "display_query": "奔驰将取消德国 9 万名员工年终奖"
@@ -29,6 +19,22 @@
   {
     "query": "恋与深空致歉玩家仍退游删号",
     "display_query": "恋与深空致歉玩家仍退游删号"
+  },
+  {
+    "query": "「韩国黄金时代」热梗走红",
+    "display_query": "「韩国黄金时代」热梗走红"
+  },
+  {
+    "query": "热浪炙烤欧洲 多地打破高温纪录",
+    "display_query": "热浪炙烤欧洲 多地打破高温纪录"
+  },
+  {
+    "query": "欧洲35℃高温影响超1亿人",
+    "display_query": "欧洲35℃高温影响超1亿人"
+  },
+  {
+    "query": "勇哥餐饮创业说被封号客服挂电话",
+    "display_query": "勇哥餐饮创业说被封号客服挂电话"
   },
   { "query": "DeepSeek 发布 DSpark", "display_query": "DeepSeek 发布 DSpark" },
   { "query": "《乘风 2026》总决赛", "display_query": "《乘风 2026》总决赛" },
