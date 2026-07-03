@@ -1,4 +1,26 @@
 [
+  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "高铁上的商务座都被谁买了",
+    "display_query": "高铁上的商务座都被谁买了"
+  },
+  { "query": "G2对战TES", "display_query": "G2对战TES" },
+  { "query": "克罗地亚出局", "display_query": "克罗地亚出局" },
+  {
+    "query": "高考查分是种什么样的体验",
+    "display_query": "高考查分是种什么样的体验"
+  },
+  {
+    "query": "山姆超市是怎么在中国火起来的",
+    "display_query": "山姆超市是怎么在中国火起来的"
+  },
+  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  { "query": "如何评价歼50战斗机", "display_query": "如何评价歼50战斗机" },
+  {
+    "query": "影视剧哪些美人曾经惊艳了你",
+    "display_query": "影视剧哪些美人曾经惊艳了你"
+  },
   {
     "query": "比亚迪6月销量40.3万辆",
     "display_query": "比亚迪6月销量40.3万辆"
@@ -30,7 +52,6 @@
     "query": "猪的战斗力在野外属于什么水平",
     "display_query": "猪的战斗力在野外属于什么水平"
   },
-  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
   { "query": "陈垣宇VS雨果", "display_query": "陈垣宇VS雨果" },
   { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
   {
