@@ -14,13 +14,17 @@
     "query": "山姆超市是怎么在中国火起来的",
     "display_query": "山姆超市是怎么在中国火起来的"
   },
-  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "如何评价歼50战斗机", "display_query": "如何评价歼50战斗机" },
   {
     "query": "影视剧哪些美人曾经惊艳了你",
     "display_query": "影视剧哪些美人曾经惊艳了你"
   },
+  {
+    "query": "去旅游你对住宿有要求吗",
+    "display_query": "去旅游你对住宿有要求吗"
+  },
+  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
   { "query": "人老了最怕的是什么", "display_query": "人老了最怕的是什么" },
   {
     "query": "挪威队主厨为了喂饱哈兰德有多拼",
