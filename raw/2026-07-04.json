@@ -1,9 +1,5 @@
 [
-  { "query": "人老了最怕的是什么", "display_query": "人老了最怕的是什么" },
-  {
-    "query": "挪威队主厨为了喂饱哈兰德有多拼",
-    "display_query": "挪威队主厨为了喂饱哈兰德有多拼"
-  },
+  { "query": "A股", "display_query": "A股" },
   {
     "query": "高铁上的商务座都被谁买了",
     "display_query": "高铁上的商务座都被谁买了"
@@ -20,5 +16,14 @@
   },
   { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
-  { "query": "如何评价歼50战斗机", "display_query": "如何评价歼50战斗机" }
+  { "query": "如何评价歼50战斗机", "display_query": "如何评价歼50战斗机" },
+  {
+    "query": "影视剧哪些美人曾经惊艳了你",
+    "display_query": "影视剧哪些美人曾经惊艳了你"
+  },
+  { "query": "人老了最怕的是什么", "display_query": "人老了最怕的是什么" },
+  {
+    "query": "挪威队主厨为了喂饱哈兰德有多拼",
+    "display_query": "挪威队主厨为了喂饱哈兰德有多拼"
+  }
 ]
