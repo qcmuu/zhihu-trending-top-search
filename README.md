@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 04 2026 21:20:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 04 2026 23:03:10 GMT+0800 (China Standard Time) -->
 
-1. [世预赛中国男篮主场对战日本队](https://www.zhihu.com/search?q=世预赛中国男篮主场对战日本队)
-1. [恋与深空敖尹取消上线](https://www.zhihu.com/search?q=恋与深空敖尹取消上线)
+1. [A股](https://www.zhihu.com/search?q=A股)
 1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=高铁上的商务座都被谁买了)
 1. [G2对战TES](https://www.zhihu.com/search?q=G2对战TES)
 1. [克罗地亚出局](https://www.zhihu.com/search?q=克罗地亚出局)
@@ -27,8 +26,9 @@
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=如何评价歼50战斗机)
 1. [影视剧哪些美人曾经惊艳了你](https://www.zhihu.com/search?q=影视剧哪些美人曾经惊艳了你)
-1. [A股](https://www.zhihu.com/search?q=A股)
 1. [去旅游你对住宿有要求吗](https://www.zhihu.com/search?q=去旅游你对住宿有要求吗)
+1. [世预赛中国男篮主场对战日本队](https://www.zhihu.com/search?q=世预赛中国男篮主场对战日本队)
+1. [恋与深空敖尹取消上线](https://www.zhihu.com/search?q=恋与深空敖尹取消上线)
 1. [日本男子故意撞人被拦后慌张道歉](https://www.zhihu.com/search?q=日本男子故意撞人被拦后慌张道歉)
 1. [卧底杀猪盘女子称真骗子不喊宝贝](https://www.zhihu.com/search?q=卧底杀猪盘女子称真骗子不喊宝贝)
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
