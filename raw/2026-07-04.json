@@ -1,5 +1,9 @@
 [
-  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "世预赛中国男篮主场对战日本队",
+    "display_query": "世预赛中国男篮主场对战日本队"
+  },
+  { "query": "恋与深空敖尹取消上线", "display_query": "恋与深空敖尹取消上线" },
   {
     "query": "高铁上的商务座都被谁买了",
     "display_query": "高铁上的商务座都被谁买了"
@@ -20,6 +24,7 @@
     "query": "影视剧哪些美人曾经惊艳了你",
     "display_query": "影视剧哪些美人曾经惊艳了你"
   },
+  { "query": "A股", "display_query": "A股" },
   {
     "query": "去旅游你对住宿有要求吗",
     "display_query": "去旅游你对住宿有要求吗"
