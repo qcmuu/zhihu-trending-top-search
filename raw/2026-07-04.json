@@ -1,12 +1,5 @@
 [
-  {
-    "query": "日本男子故意撞人被拦后慌张道歉",
-    "display_query": "日本男子故意撞人被拦后慌张道歉"
-  },
-  {
-    "query": "卧底杀猪盘女子称真骗子不喊宝贝",
-    "display_query": "卧底杀猪盘女子称真骗子不喊宝贝"
-  },
+  { "query": "A股", "display_query": "A股" },
   {
     "query": "高铁上的商务座都被谁买了",
     "display_query": "高铁上的商务座都被谁买了"
@@ -27,10 +20,17 @@
     "query": "影视剧哪些美人曾经惊艳了你",
     "display_query": "影视剧哪些美人曾经惊艳了你"
   },
-  { "query": "A股", "display_query": "A股" },
   {
     "query": "去旅游你对住宿有要求吗",
     "display_query": "去旅游你对住宿有要求吗"
+  },
+  {
+    "query": "日本男子故意撞人被拦后慌张道歉",
+    "display_query": "日本男子故意撞人被拦后慌张道歉"
+  },
+  {
+    "query": "卧底杀猪盘女子称真骗子不喊宝贝",
+    "display_query": "卧底杀猪盘女子称真骗子不喊宝贝"
   },
   { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
   { "query": "人老了最怕的是什么", "display_query": "人老了最怕的是什么" },
