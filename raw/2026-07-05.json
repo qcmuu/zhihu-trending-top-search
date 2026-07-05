@@ -1,12 +1,5 @@
 [
-  {
-    "query": "温瑞博蒯曼晋级混双四强",
-    "display_query": "温瑞博蒯曼晋级混双四强"
-  },
-  {
-    "query": "花20万借读三年发现学籍是假的",
-    "display_query": "花20万借读三年发现学籍是假的"
-  },
+  { "query": "A股", "display_query": "A股" },
   {
     "query": "高铁上的商务座都被谁买了",
     "display_query": "高铁上的商务座都被谁买了"
@@ -27,9 +20,16 @@
     "query": "影视剧哪些美人曾经惊艳了你",
     "display_query": "影视剧哪些美人曾经惊艳了你"
   },
-  { "query": "A股", "display_query": "A股" },
   {
     "query": "去旅游你对住宿有要求吗",
     "display_query": "去旅游你对住宿有要求吗"
+  },
+  {
+    "query": "温瑞博蒯曼晋级混双四强",
+    "display_query": "温瑞博蒯曼晋级混双四强"
+  },
+  {
+    "query": "花20万借读三年发现学籍是假的",
+    "display_query": "花20万借读三年发现学籍是假的"
   }
 ]
