@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 05 2026 22:41:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 06 2026 00:06:33 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=高铁上的商务座都被谁买了)
@@ -27,8 +27,6 @@
 1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=如何评价歼50战斗机)
 1. [影视剧哪些美人曾经惊艳了你](https://www.zhihu.com/search?q=影视剧哪些美人曾经惊艳了你)
 1. [去旅游你对住宿有要求吗](https://www.zhihu.com/search?q=去旅游你对住宿有要求吗)
-1. [温瑞博蒯曼晋级混双四强](https://www.zhihu.com/search?q=温瑞博蒯曼晋级混双四强)
-1. [花20万借读三年发现学籍是假的](https://www.zhihu.com/search?q=花20万借读三年发现学籍是假的)
 
 <!-- END -->
 
