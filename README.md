@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 06 2026 20:44:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 07 2026 00:18:39 GMT+0800 (China Standard Time) -->
 
-1. [张碧晨我要你爱我](https://www.zhihu.com/search?q=张碧晨我要你爱我)
-1. [内马尔哭了](https://www.zhihu.com/search?q=内马尔哭了)
+1. [台风](https://www.zhihu.com/search?q=台风)
 1. [有线耳机](https://www.zhihu.com/search?q=有线耳机)
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
 1. [湖人vs热火](https://www.zhihu.com/search?q=湖人vs热火)
@@ -27,25 +26,7 @@
 1. [北京国安vs山东泰山](https://www.zhihu.com/search?q=北京国安vs山东泰山)
 1. [blg对战t1](https://www.zhihu.com/search?q=blg对战t1)
 1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=孙颖莎vs王艺迪)
-1. [《南部档案》大结局](https://www.zhihu.com/search?q=《南部档案》大结局)
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
-1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
-1. [WPS 背刺用户](https://www.zhihu.com/search?q=WPS 背刺用户)
-1. [河北公司处罚「走路散漫」员工](https://www.zhihu.com/search?q=河北公司处罚「走路散漫」员工)
-1. [安圭拉靠.ai域名每年赚千万美元](https://www.zhihu.com/search?q=安圭拉靠.ai域名每年赚千万美元)
-1. [索尼宣布取消实体版游戏](https://www.zhihu.com/search?q=索尼宣布取消实体版游戏)
-1. [北京韩红爱心慈善基金会发说明](https://www.zhihu.com/search?q=北京韩红爱心慈善基金会发说明)
-1. [大空头伯里进一步做空AI](https://www.zhihu.com/search?q=大空头伯里进一步做空AI)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=高铁上的商务座都被谁买了)
-1. [G2对战TES](https://www.zhihu.com/search?q=G2对战TES)
-1. [克罗地亚出局](https://www.zhihu.com/search?q=克罗地亚出局)
-1. [高考查分是种什么样的体验](https://www.zhihu.com/search?q=高考查分是种什么样的体验)
-1. [山姆超市是怎么在中国火起来的](https://www.zhihu.com/search?q=山姆超市是怎么在中国火起来的)
-1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
-1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=如何评价歼50战斗机)
-1. [影视剧哪些美人曾经惊艳了你](https://www.zhihu.com/search?q=影视剧哪些美人曾经惊艳了你)
-1. [去旅游你对住宿有要求吗](https://www.zhihu.com/search?q=去旅游你对住宿有要求吗)
+1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=葡萄牙vs西班牙)
 
 <!-- END -->
 
