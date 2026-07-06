@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 07 2026 02:53:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 07 2026 06:12:10 GMT+0800 (China Standard Time) -->
 
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [有线耳机](https://www.zhihu.com/search?q=有线耳机)
