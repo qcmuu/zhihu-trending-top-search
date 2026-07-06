@@ -15,9 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 06 2026 16:17:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 06 2026 20:44:24 GMT+0800 (China Standard Time) -->
 
+1. [张碧晨我要你爱我](https://www.zhihu.com/search?q=张碧晨我要你爱我)
+1. [内马尔哭了](https://www.zhihu.com/search?q=内马尔哭了)
+1. [有线耳机](https://www.zhihu.com/search?q=有线耳机)
+1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
+1. [湖人vs热火](https://www.zhihu.com/search?q=湖人vs热火)
+1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
 1. [孙颖莎冠军](https://www.zhihu.com/search?q=孙颖莎冠军)
+1. [北京国安vs山东泰山](https://www.zhihu.com/search?q=北京国安vs山东泰山)
+1. [blg对战t1](https://www.zhihu.com/search?q=blg对战t1)
+1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=孙颖莎vs王艺迪)
 1. [《南部档案》大结局](https://www.zhihu.com/search?q=《南部档案》大结局)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
