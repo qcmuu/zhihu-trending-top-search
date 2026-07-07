@@ -1,0 +1,15 @@
+[
+  { "query": "北京暴雨", "display_query": "北京暴雨" },
+  { "query": "小暑", "display_query": "小暑" },
+  { "query": "深圳暴雨", "display_query": "深圳暴雨" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "有线耳机", "display_query": "有线耳机" },
+  {
+    "query": "广东启动防汛Ⅳ级应急响应",
+    "display_query": "广东启动防汛Ⅳ级应急响应"
+  },
+  { "query": "北京国安vs山东泰山", "display_query": "北京国安vs山东泰山" },
+  { "query": "孙颖莎vs蒯曼", "display_query": "孙颖莎vs蒯曼" },
+  { "query": "葡萄牙vs西班牙", "display_query": "葡萄牙vs西班牙" },
+  { "query": "七七事变", "display_query": "七七事变" }
+]

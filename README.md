@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 07 2026 22:28:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 08 2026 01:11:50 GMT+0800 (China Standard Time) -->
 
-1. [英格兰展现冠军相](https://www.zhihu.com/search?q=英格兰展现冠军相)
-1. [松岛辉空冠军](https://www.zhihu.com/search?q=松岛辉空冠军)
+1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [小暑](https://www.zhihu.com/search?q=小暑)
 1. [深圳暴雨](https://www.zhihu.com/search?q=深圳暴雨)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -27,24 +26,7 @@
 1. [北京国安vs山东泰山](https://www.zhihu.com/search?q=北京国安vs山东泰山)
 1. [孙颖莎vs蒯曼](https://www.zhihu.com/search?q=孙颖莎vs蒯曼)
 1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=葡萄牙vs西班牙)
-1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [七七事变](https://www.zhihu.com/search?q=七七事变)
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
-1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
-1. [WPS 背刺用户](https://www.zhihu.com/search?q=WPS 背刺用户)
-1. [茉莉奶白侵权 LV 被判赔 1030 万](https://www.zhihu.com/search?q=茉莉奶白侵权
-   LV 被判赔 1030 万)
-1. [索尼宣布取消实体版游戏](https://www.zhihu.com/search?q=索尼宣布取消实体版游戏)
-1. [詹姆斯离开湖人去向成谜](https://www.zhihu.com/search?q=詹姆斯离开湖人去向成谜)
-1. [GAME硬刚索尼](https://www.zhihu.com/search?q=GAME硬刚索尼)
-1. [博主花100元请大妈逛超市](https://www.zhihu.com/search?q=博主花100元请大妈逛超市)
-1. [台风](https://www.zhihu.com/search?q=台风)
-1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
-1. [湖人vs热火](https://www.zhihu.com/search?q=湖人vs热火)
-1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
-1. [孙颖莎冠军](https://www.zhihu.com/search?q=孙颖莎冠军)
-1. [blg对战t1](https://www.zhihu.com/search?q=blg对战t1)
-1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=孙颖莎vs王艺迪)
 
 <!-- END -->
 
