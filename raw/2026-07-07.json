@@ -1,5 +1,6 @@
 [
   { "query": "台风", "display_query": "台风" },
+  { "query": "深圳暴雨", "display_query": "深圳暴雨" },
   { "query": "有线耳机", "display_query": "有线耳机" },
   { "query": "崩坏星穹铁道", "display_query": "崩坏星穹铁道" },
   { "query": "湖人vs热火", "display_query": "湖人vs热火" },
