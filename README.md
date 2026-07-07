@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 07 2026 19:48:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 07 2026 22:28:48 GMT+0800 (China Standard Time) -->
 
-1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
+1. [英格兰展现冠军相](https://www.zhihu.com/search?q=英格兰展现冠军相)
+1. [松岛辉空冠军](https://www.zhihu.com/search?q=松岛辉空冠军)
 1. [小暑](https://www.zhihu.com/search?q=小暑)
 1. [深圳暴雨](https://www.zhihu.com/search?q=深圳暴雨)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -26,6 +27,7 @@
 1. [北京国安vs山东泰山](https://www.zhihu.com/search?q=北京国安vs山东泰山)
 1. [孙颖莎vs蒯曼](https://www.zhihu.com/search?q=孙颖莎vs蒯曼)
 1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=葡萄牙vs西班牙)
+1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [七七事变](https://www.zhihu.com/search?q=七七事变)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
