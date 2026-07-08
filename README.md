@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 08 2026 23:19:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 09 2026 01:26:56 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [台风](https://www.zhihu.com/search?q=台风)
@@ -23,31 +23,10 @@
 1. [苏醒](https://www.zhihu.com/search?q=苏醒)
 1. [G2对战T1](https://www.zhihu.com/search?q=G2对战T1)
 1. [美股](https://www.zhihu.com/search?q=美股)
-1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=葡萄牙vs西班牙)
 1. [电影奥德赛](https://www.zhihu.com/search?q=电影奥德赛)
 1. [地震快讯](https://www.zhihu.com/search?q=地震快讯)
 1. [功夫女足](https://www.zhihu.com/search?q=功夫女足)
-1. [g2对战t1](https://www.zhihu.com/search?q=g2对战t1)
-1. [阿根廷 vs 埃及](https://www.zhihu.com/search?q=阿根廷 vs 埃及)
-1. [金山办公回应「WPS滥收费」](https://www.zhihu.com/search?q=金山办公回应「WPS滥收费」)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
-1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
-1. [WPS 背刺用户](https://www.zhihu.com/search?q=WPS 背刺用户)
-1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=恋与深空取消上线敖尹)
-1. [小红书遭举报存在VIE信披矛盾等问题](https://www.zhihu.com/search?q=小红书遭举报存在VIE信披矛盾等问题)
-1. [茉莉奶白侵权 LV 被判赔 1030 万](https://www.zhihu.com/search?q=茉莉奶白侵权
-   LV 被判赔 1030 万)
-1. [LV在中国密集维权](https://www.zhihu.com/search?q=LV在中国密集维权)
-1. [马未都回应观复博物馆疑现被盗佛像](https://www.zhihu.com/search?q=马未都回应观复博物馆疑现被盗佛像)
-1. [六蓝水库发生严重险情](https://www.zhihu.com/search?q=六蓝水库发生严重险情)
-1. [小暑](https://www.zhihu.com/search?q=小暑)
-1. [深圳暴雨](https://www.zhihu.com/search?q=深圳暴雨)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [有线耳机](https://www.zhihu.com/search?q=有线耳机)
-1. [广东启动防汛Ⅳ级应急响应](https://www.zhihu.com/search?q=广东启动防汛Ⅳ级应急响应)
-1. [北京国安vs山东泰山](https://www.zhihu.com/search?q=北京国安vs山东泰山)
-1. [孙颖莎vs蒯曼](https://www.zhihu.com/search?q=孙颖莎vs蒯曼)
-1. [七七事变](https://www.zhihu.com/search?q=七七事变)
 
 <!-- END -->
 
