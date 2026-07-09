@@ -1,12 +1,25 @@
 [
+  { "query": "王宝强带冯清参加婚礼", "display_query": "王宝强带冯清参加婚礼" },
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "为什么要实行薪酬保密", "display_query": "为什么要实行薪酬保密" },
+  { "query": "百花奖", "display_query": "百花奖" },
+  { "query": "美股", "display_query": "美股" },
+  { "query": "g2战胜t1", "display_query": "g2战胜t1" },
+  { "query": "功夫女足", "display_query": "功夫女足" },
+  {
+    "query": "曾和儿子换血美国富豪患不治之症",
+    "display_query": "曾和儿子换血美国富豪患不治之症"
+  },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  {
+    "query": "小红书遭举报存在VIE信披矛盾等问题",
+    "display_query": "小红书遭举报存在VIE信披矛盾等问题"
+  },
   { "query": "北京暴雨", "display_query": "北京暴雨" },
   { "query": "台风", "display_query": "台风" },
   { "query": "裁判", "display_query": "裁判" },
   { "query": "苏醒", "display_query": "苏醒" },
   { "query": "G2对战T1", "display_query": "G2对战T1" },
-  { "query": "美股", "display_query": "美股" },
   { "query": "电影奥德赛", "display_query": "电影奥德赛" },
-  { "query": "地震快讯", "display_query": "地震快讯" },
-  { "query": "功夫女足", "display_query": "功夫女足" },
-  { "query": "高考数据通", "display_query": "高考数据通" }
+  { "query": "地震快讯", "display_query": "地震快讯" }
 ]
