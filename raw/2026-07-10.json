@@ -1,9 +1,9 @@
 [
+  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
   {
-    "query": "长征十号乙火箭实现一子级可控回收",
-    "display_query": "长征十号乙火箭实现一子级可控回收"
+    "query": "挪威是一个什么样的国家",
+    "display_query": "挪威是一个什么样的国家"
   },
-  { "query": "BLG战胜HLE", "display_query": "BLG战胜HLE" },
   { "query": "美股", "display_query": "美股" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
   {
@@ -18,6 +18,11 @@
   { "query": "巴黎时装周", "display_query": "巴黎时装周" },
   { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
+  {
+    "query": "长征十号乙火箭实现一子级可控回收",
+    "display_query": "长征十号乙火箭实现一子级可控回收"
+  },
+  { "query": "BLG战胜HLE", "display_query": "BLG战胜HLE" },
   { "query": "台风", "display_query": "台风" },
   { "query": "为什么要实行薪酬保密", "display_query": "为什么要实行薪酬保密" },
   { "query": "百花奖", "display_query": "百花奖" },
