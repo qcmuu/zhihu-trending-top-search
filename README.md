@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 10 2026 22:21:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 11 2026 00:53:59 GMT+0800 (China Standard Time) -->
 
-1. [耐克被711起诉后下架涉事鞋款](https://www.zhihu.com/search?q=耐克被711起诉后下架涉事鞋款)
-1. [雷军披露澎程SUV关键配置](https://www.zhihu.com/search?q=雷军披露澎程SUV关键配置)
+1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
+1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
 1. [美股](https://www.zhihu.com/search?q=美股)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA夏季联赛)
 1. [河南造出全球最大培育钻石](https://www.zhihu.com/search?q=河南造出全球最大培育钻石)
@@ -27,18 +27,6 @@
 1. [巴黎时装周](https://www.zhihu.com/search?q=巴黎时装周)
 1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=妻子的浪漫旅行)
 1. [姆巴佩破门](https://www.zhihu.com/search?q=姆巴佩破门)
-1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
-1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
-1. [长征十号乙火箭实现一子级可控回收](https://www.zhihu.com/search?q=长征十号乙火箭实现一子级可控回收)
-1. [BLG战胜HLE](https://www.zhihu.com/search?q=BLG战胜HLE)
-1. [台风](https://www.zhihu.com/search?q=台风)
-1. [为什么要实行薪酬保密](https://www.zhihu.com/search?q=为什么要实行薪酬保密)
-1. [百花奖](https://www.zhihu.com/search?q=百花奖)
-1. [功夫女足](https://www.zhihu.com/search?q=功夫女足)
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
-1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
-1. [小红书遭举报存在VIE信披矛盾等问题](https://www.zhihu.com/search?q=小红书遭举报存在VIE信披矛盾等问题)
-1. [四面八方都是前方](https://www.zhihu.com/search?q=四面八方都是前方)
 
 <!-- END -->
 
