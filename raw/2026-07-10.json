@@ -1,9 +1,26 @@
 [
+  {
+    "query": "长征十号乙火箭实现一子级可控回收",
+    "display_query": "长征十号乙火箭实现一子级可控回收"
+  },
+  { "query": "BLG战胜HLE", "display_query": "BLG战胜HLE" },
+  { "query": "美股", "display_query": "美股" },
+  { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
+  {
+    "query": "河南造出全球最大培育钻石",
+    "display_query": "河南造出全球最大培育钻石"
+  },
+  {
+    "query": "如何坦然面对自己的失败",
+    "display_query": "如何坦然面对自己的失败"
+  },
+  { "query": "g2战胜t1", "display_query": "g2战胜t1" },
+  { "query": "巴黎时装周", "display_query": "巴黎时装周" },
+  { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
+  { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
   { "query": "台风", "display_query": "台风" },
   { "query": "为什么要实行薪酬保密", "display_query": "为什么要实行薪酬保密" },
   { "query": "百花奖", "display_query": "百花奖" },
-  { "query": "美股", "display_query": "美股" },
-  { "query": "g2战胜t1", "display_query": "g2战胜t1" },
   { "query": "功夫女足", "display_query": "功夫女足" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
