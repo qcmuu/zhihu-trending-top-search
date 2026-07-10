@@ -1,8 +1,11 @@
 [
-  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
   {
-    "query": "挪威是一个什么样的国家",
-    "display_query": "挪威是一个什么样的国家"
+    "query": "耐克被711起诉后下架涉事鞋款",
+    "display_query": "耐克被711起诉后下架涉事鞋款"
+  },
+  {
+    "query": "雷军披露澎程SUV关键配置",
+    "display_query": "雷军披露澎程SUV关键配置"
   },
   { "query": "美股", "display_query": "美股" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
@@ -18,6 +21,11 @@
   { "query": "巴黎时装周", "display_query": "巴黎时装周" },
   { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
+  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
+  {
+    "query": "挪威是一个什么样的国家",
+    "display_query": "挪威是一个什么样的国家"
+  },
   {
     "query": "长征十号乙火箭实现一子级可控回收",
     "display_query": "长征十号乙火箭实现一子级可控回收"
