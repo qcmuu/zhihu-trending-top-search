@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 12 2026 06:44:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 12 2026 07:52:46 GMT+0800 (China Standard Time) -->
 
-1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
-1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
+1. [兄弟们决赛也要加油](https://www.zhihu.com/search?q=兄弟们决赛也要加油)
 1. [美股](https://www.zhihu.com/search?q=美股)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA夏季联赛)
 1. [河南造出全球最大培育钻石](https://www.zhihu.com/search?q=河南造出全球最大培育钻石)
@@ -27,6 +26,9 @@
 1. [巴黎时装周](https://www.zhihu.com/search?q=巴黎时装周)
 1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=妻子的浪漫旅行)
 1. [姆巴佩破门](https://www.zhihu.com/search?q=姆巴佩破门)
+1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
+1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
+1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
 
 <!-- END -->
 
