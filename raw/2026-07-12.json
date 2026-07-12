@@ -1,8 +1,5 @@
 [
-  {
-    "query": "福建起火鞋厂楼道堆积大量杂物",
-    "display_query": "福建起火鞋厂楼道堆积大量杂物"
-  },
+  { "query": "福建晋江鞋厂火灾", "display_query": "福建晋江鞋厂火灾" },
   { "query": "美股", "display_query": "美股" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
   {
@@ -18,6 +15,10 @@
   { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
   { "query": "高考数据通", "display_query": "高考数据通" },
+  {
+    "query": "福建起火鞋厂楼道堆积大量杂物",
+    "display_query": "福建起火鞋厂楼道堆积大量杂物"
+  },
   { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
   {
     "query": "挪威是一个什么样的国家",
