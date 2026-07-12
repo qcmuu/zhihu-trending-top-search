@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 12 2026 23:57:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 13 2026 01:03:10 GMT+0800 (China Standard Time) -->
 
 1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
 1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
@@ -27,13 +27,6 @@
 1. [巴黎时装周](https://www.zhihu.com/search?q=巴黎时装周)
 1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=妻子的浪漫旅行)
 1. [姆巴佩破门](https://www.zhihu.com/search?q=姆巴佩破门)
-1. [福建晋江鞋厂火灾](https://www.zhihu.com/search?q=福建晋江鞋厂火灾)
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
-1. [福建起火鞋厂楼道堆积大量杂物](https://www.zhihu.com/search?q=福建起火鞋厂楼道堆积大量杂物)
-1. [黄杨钿甜19岁生日照](https://www.zhihu.com/search?q=黄杨钿甜19岁生日照)
-1. [中国女排3比0乌克兰女排](https://www.zhihu.com/search?q=中国女排3比0乌克兰女排)
-1. [长鑫科技最高估值超4万亿](https://www.zhihu.com/search?q=长鑫科技最高估值超4万亿)
-1. [兄弟们决赛也要加油](https://www.zhihu.com/search?q=兄弟们决赛也要加油)
 
 <!-- END -->
 
