@@ -1,5 +1,8 @@
 [
-  { "query": "兄弟们决赛也要加油", "display_query": "兄弟们决赛也要加油" },
+  {
+    "query": "长鑫科技最高估值超4万亿",
+    "display_query": "长鑫科技最高估值超4万亿"
+  },
   { "query": "美股", "display_query": "美股" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
   {
@@ -15,6 +18,7 @@
   { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
   { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "兄弟们决赛也要加油", "display_query": "兄弟们决赛也要加油" },
   { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
   {
     "query": "挪威是一个什么样的国家",
