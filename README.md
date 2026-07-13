@@ -15,11 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 13 2026 10:36:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 13 2026 14:15:26 GMT+0800 (China Standard Time) -->
 
+1. [功夫女足预售票房破5000万](https://www.zhihu.com/search?q=功夫女足预售票房破5000万)
+1. [理想i9](https://www.zhihu.com/search?q=理想i9)
 1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
-1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
-1. [美股](https://www.zhihu.com/search?q=美股)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA夏季联赛)
 1. [河南造出全球最大培育钻石](https://www.zhihu.com/search?q=河南造出全球最大培育钻石)
 1. [如何坦然面对自己的失败](https://www.zhihu.com/search?q=如何坦然面对自己的失败)
@@ -27,6 +27,8 @@
 1. [巴黎时装周](https://www.zhihu.com/search?q=巴黎时装周)
 1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=妻子的浪漫旅行)
 1. [姆巴佩破门](https://www.zhihu.com/search?q=姆巴佩破门)
+1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
+1. [美股](https://www.zhihu.com/search?q=美股)
 
 <!-- END -->
 
