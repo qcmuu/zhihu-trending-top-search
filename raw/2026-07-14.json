@@ -1,10 +1,9 @@
 [
-  { "query": "西班牙vs法国", "display_query": "西班牙vs法国" },
+  { "query": "C 罗分段睡眠法", "display_query": "C 罗分段睡眠法" },
   {
-    "query": "沪深两市成交额突破2万亿",
-    "display_query": "沪深两市成交额突破2万亿"
+    "query": "长沙通报体育局干部占车位事件",
+    "display_query": "长沙通报体育局干部占车位事件"
   },
-  { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
   {
     "query": "小红书遭举报存在VIE信披矛盾等问题",
@@ -18,6 +17,13 @@
   { "query": "悬案真实背景", "display_query": "悬案真实背景" },
   { "query": "悬案导演答", "display_query": "悬案导演答" },
   { "query": "悬案播出", "display_query": "悬案播出" },
+  { "query": "悬案真实", "display_query": "悬案真实" },
+  { "query": "西班牙vs法国", "display_query": "西班牙vs法国" },
+  {
+    "query": "沪深两市成交额突破2万亿",
+    "display_query": "沪深两市成交额突破2万亿"
+  },
+  { "query": "高考数据通", "display_query": "高考数据通" },
   {
     "query": "茉莉奶白侵权 LV 被判赔 1030 万",
     "display_query": "茉莉奶白侵权 LV 被判赔 1030 万"
