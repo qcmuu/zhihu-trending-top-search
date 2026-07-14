@@ -15,9 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 14 2026 18:06:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 14 2026 22:47:57 GMT+0800 (China Standard Time) -->
 
+1. [名创优品致歉](https://www.zhihu.com/search?q=名创优品致歉)
 1. [西班牙vs法国](https://www.zhihu.com/search?q=西班牙vs法国)
+1. [中餐厅](https://www.zhihu.com/search?q=中餐厅)
+1. [沪深两市成交额突破2万亿](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿)
+1. [反直觉的地理知识有哪些](https://www.zhihu.com/search?q=反直觉的地理知识有哪些)
+1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
+1. [山姆超市是怎么在中国火起来的](https://www.zhihu.com/search?q=山姆超市是怎么在中国火起来的)
+1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA夏季联赛)
+1. [为什么狗对小孩子容忍度高](https://www.zhihu.com/search?q=为什么狗对小孩子容忍度高)
+1. [如何低成本地照顾自己的心理健康](https://www.zhihu.com/search?q=如何低成本地照顾自己的心理健康)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
 1. [小红书遭举报存在VIE信披矛盾等问题](https://www.zhihu.com/search?q=小红书遭举报存在VIE信披矛盾等问题)
@@ -29,7 +38,6 @@
 1. [悬案真实](https://www.zhihu.com/search?q=悬案真实)
 1. [C 罗分段睡眠法](https://www.zhihu.com/search?q=C 罗分段睡眠法)
 1. [长沙通报体育局干部占车位事件](https://www.zhihu.com/search?q=长沙通报体育局干部占车位事件)
-1. [沪深两市成交额突破2万亿](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿)
 1. [茉莉奶白侵权 LV 被判赔 1030 万](https://www.zhihu.com/search?q=茉莉奶白侵权
    LV 被判赔 1030 万)
 1. [blg对战hle](https://www.zhihu.com/search?q=blg对战hle)
