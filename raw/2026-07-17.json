@@ -1,4 +1,20 @@
 [
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  {
+    "query": "冉莹颖邹市明三次离婚没离成",
+    "display_query": "冉莹颖邹市明三次离婚没离成"
+  },
+  { "query": "悬案热播", "display_query": "悬案热播" },
+  { "query": "悬案真实背景", "display_query": "悬案真实背景" },
+  { "query": "悬案导演答", "display_query": "悬案导演答" },
+  { "query": "悬案播出", "display_query": "悬案播出" },
+  { "query": "悬案真实", "display_query": "悬案真实" },
+  {
+    "query": "长鑫科技最高估值超4万亿",
+    "display_query": "长鑫科技最高估值超4万亿"
+  },
+  { "query": "《功夫女足》热映", "display_query": "《功夫女足》热映" },
   { "query": "名创优品致歉", "display_query": "名创优品致歉" },
   { "query": "A股", "display_query": "A股" },
   { "query": "崩坏星穹铁道", "display_query": "崩坏星穹铁道" },
@@ -8,7 +24,6 @@
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
   { "query": "奔跑吧14", "display_query": "奔跑吧14" },
   { "query": "功夫女足", "display_query": "功夫女足" },
-  { "query": "高考数据通", "display_query": "高考数据通" },
   {
     "query": "欧洲十国宣布组建新联盟",
     "display_query": "欧洲十国宣布组建新联盟"

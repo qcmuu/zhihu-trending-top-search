@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 17 2026 13:40:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 17 2026 16:06:30 GMT+0800 (China Standard Time) -->
 
+1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
+1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [冉莹颖邹市明三次离婚没离成](https://www.zhihu.com/search?q=冉莹颖邹市明三次离婚没离成)
+1. [悬案热播](https://www.zhihu.com/search?q=悬案热播)
+1. [悬案真实背景](https://www.zhihu.com/search?q=悬案真实背景)
+1. [悬案导演答](https://www.zhihu.com/search?q=悬案导演答)
+1. [悬案播出](https://www.zhihu.com/search?q=悬案播出)
+1. [悬案真实](https://www.zhihu.com/search?q=悬案真实)
+1. [长鑫科技最高估值超4万亿](https://www.zhihu.com/search?q=长鑫科技最高估值超4万亿)
+1. [《功夫女足》热映](https://www.zhihu.com/search?q=《功夫女足》热映)
 1. [名创优品致歉](https://www.zhihu.com/search?q=名创优品致歉)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
@@ -26,7 +36,6 @@
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA夏季联赛)
 1. [奔跑吧14](https://www.zhihu.com/search?q=奔跑吧14)
 1. [功夫女足](https://www.zhihu.com/search?q=功夫女足)
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [欧洲十国宣布组建新联盟](https://www.zhihu.com/search?q=欧洲十国宣布组建新联盟)
 1. [对猫动手的人不值得交往](https://www.zhihu.com/search?q=对猫动手的人不值得交往)
 
