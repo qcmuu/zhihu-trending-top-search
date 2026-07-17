@@ -1,12 +1,5 @@
 [
-  {
-    "query": "欧洲十国宣布组建新联盟",
-    "display_query": "欧洲十国宣布组建新联盟"
-  },
-  {
-    "query": "对猫动手的人不值得交往",
-    "display_query": "对猫动手的人不值得交往"
-  },
+  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
   { "query": "A股", "display_query": "A股" },
   { "query": "崩坏星穹铁道", "display_query": "崩坏星穹铁道" },
   { "query": "苏醒", "display_query": "苏醒" },
@@ -15,6 +8,13 @@
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
   { "query": "奔跑吧14", "display_query": "奔跑吧14" },
   { "query": "功夫女足", "display_query": "功夫女足" },
-  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
-  { "query": "高考数据通", "display_query": "高考数据通" }
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  {
+    "query": "欧洲十国宣布组建新联盟",
+    "display_query": "欧洲十国宣布组建新联盟"
+  },
+  {
+    "query": "对猫动手的人不值得交往",
+    "display_query": "对猫动手的人不值得交往"
+  }
 ]
