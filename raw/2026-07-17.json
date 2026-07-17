@@ -1,12 +1,27 @@
 [
-  { "query": "高考数据通", "display_query": "高考数据通" },
-  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  {
+    "query": "重庆山体垮塌疑引发烟花厂爆炸",
+    "display_query": "重庆山体垮塌疑引发烟花厂爆炸"
+  },
+  { "query": "法国vs英格兰", "display_query": "法国vs英格兰" },
   {
     "query": "冉莹颖邹市明三次离婚没离成",
     "display_query": "冉莹颖邹市明三次离婚没离成"
   },
   { "query": "悬案热播", "display_query": "悬案热播" },
   { "query": "悬案真实背景", "display_query": "悬案真实背景" },
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  {
+    "query": "怡颗莓被指检出8种「永久性化学物」",
+    "display_query": "怡颗莓被指检出8种「永久性化学物」"
+  },
+  { "query": "《歌手 2026》第九期", "display_query": "《歌手 2026》第九期" },
+  {
+    "query": "中国科研团队发现蛇类新属女娲纤蛇",
+    "display_query": "中国科研团队发现蛇类新属女娲纤蛇"
+  },
+  { "query": "拼豆产品新规发布", "display_query": "拼豆产品新规发布" },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
   { "query": "悬案导演答", "display_query": "悬案导演答" },
   { "query": "悬案播出", "display_query": "悬案播出" },
   { "query": "悬案真实", "display_query": "悬案真实" },
