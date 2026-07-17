@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 17 2026 22:41:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 18 2026 00:13:37 GMT+0800 (China Standard Time) -->
 
 1. [名创优品致歉](https://www.zhihu.com/search?q=名创优品致歉)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -27,31 +27,6 @@
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=如何评价歼50战斗机)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
-1. [重庆山体垮塌疑引发烟花厂爆炸](https://www.zhihu.com/search?q=重庆山体垮塌疑引发烟花厂爆炸)
-1. [法国vs英格兰](https://www.zhihu.com/search?q=法国vs英格兰)
-1. [冉莹颖邹市明三次离婚没离成](https://www.zhihu.com/search?q=冉莹颖邹市明三次离婚没离成)
-1. [悬案热播](https://www.zhihu.com/search?q=悬案热播)
-1. [悬案真实背景](https://www.zhihu.com/search?q=悬案真实背景)
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
-1. [怡颗莓被指检出8种「永久性化学物」](https://www.zhihu.com/search?q=怡颗莓被指检出8种「永久性化学物」)
-1. [《歌手 2026》第九期](https://www.zhihu.com/search?q=《歌手 2026》第九期)
-1. [中国科研团队发现蛇类新属女娲纤蛇](https://www.zhihu.com/search?q=中国科研团队发现蛇类新属女娲纤蛇)
-1. [拼豆产品新规发布](https://www.zhihu.com/search?q=拼豆产品新规发布)
-1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
-1. [悬案导演答](https://www.zhihu.com/search?q=悬案导演答)
-1. [悬案播出](https://www.zhihu.com/search?q=悬案播出)
-1. [悬案真实](https://www.zhihu.com/search?q=悬案真实)
-1. [长鑫科技最高估值超4万亿](https://www.zhihu.com/search?q=长鑫科技最高估值超4万亿)
-1. [《功夫女足》热映](https://www.zhihu.com/search?q=《功夫女足》热映)
-1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
-1. [苏醒](https://www.zhihu.com/search?q=苏醒)
-1. [强对流天气](https://www.zhihu.com/search?q=强对流天气)
-1. [入伏](https://www.zhihu.com/search?q=入伏)
-1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA夏季联赛)
-1. [奔跑吧14](https://www.zhihu.com/search?q=奔跑吧14)
-1. [功夫女足](https://www.zhihu.com/search?q=功夫女足)
-1. [欧洲十国宣布组建新联盟](https://www.zhihu.com/search?q=欧洲十国宣布组建新联盟)
-1. [对猫动手的人不值得交往](https://www.zhihu.com/search?q=对猫动手的人不值得交往)
 
 <!-- END -->
 
