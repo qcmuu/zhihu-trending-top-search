@@ -1,5 +1,5 @@
 [
-  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
+  { "query": "卢本伟", "display_query": "卢本伟" },
   { "query": "A股", "display_query": "A股" },
   { "query": "王者荣耀", "display_query": "王者荣耀" },
   { "query": "上证指数", "display_query": "上证指数" },
@@ -11,5 +11,6 @@
   {
     "query": "你知道哪些很冷的冷知识",
     "display_query": "你知道哪些很冷的冷知识"
-  }
+  },
+  { "query": "名创优品致歉", "display_query": "名创优品致歉" }
 ]
