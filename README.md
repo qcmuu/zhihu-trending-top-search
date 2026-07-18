@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 18 2026 23:54:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 19 2026 00:55:56 GMT+0800 (China Standard Time) -->
 
 1. [名创优品致歉](https://www.zhihu.com/search?q=名创优品致歉)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -27,7 +27,6 @@
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=如何评价歼50战斗机)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
-1. [卢本伟](https://www.zhihu.com/search?q=卢本伟)
 
 <!-- END -->
 
