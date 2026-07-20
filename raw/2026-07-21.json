@@ -1,0 +1,12 @@
+[
+  { "query": "金球奖", "display_query": "金球奖" },
+  { "query": "a股", "display_query": "a股" },
+  { "query": "F1", "display_query": "F1" },
+  { "query": "苏醒", "display_query": "苏醒" },
+  { "query": "GEN对战T1", "display_query": "GEN对战T1" },
+  { "query": "A股行情", "display_query": "A股行情" },
+  { "query": "澎湖海战", "display_query": "澎湖海战" },
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  { "query": "半熟恋人5", "display_query": "半熟恋人5" }
+]
