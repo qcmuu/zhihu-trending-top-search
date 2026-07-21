@@ -1,13 +1,11 @@
 [
-  {
-    "query": "《复仇者联盟5》发布新预告",
-    "display_query": "《复仇者联盟5》发布新预告"
-  },
-  {
-    "query": "今年火爆的三部短剧没有一个是正经团队",
-    "display_query": "今年火爆的三部短剧没有一个是正经团队"
-  },
+  { "query": "上证指数", "display_query": "上证指数" },
+  { "query": "F1", "display_query": "F1" },
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
   { "query": "阿根廷 脏", "display_query": "阿根廷 脏" },
+  { "query": "雀骨", "display_query": "雀骨" },
+  { "query": "八仙", "display_query": "八仙" },
   {
     "query": "2026 世界人工智能大会",
     "display_query": "2026 世界人工智能大会"
@@ -16,6 +14,14 @@
   {
     "query": "DeepSeek V4 正式版即将发布",
     "display_query": "DeepSeek V4 正式版即将发布"
+  },
+  {
+    "query": "《复仇者联盟5》发布新预告",
+    "display_query": "《复仇者联盟5》发布新预告"
+  },
+  {
+    "query": "今年火爆的三部短剧没有一个是正经团队",
+    "display_query": "今年火爆的三部短剧没有一个是正经团队"
   },
   { "query": "《八仙！》票房预测", "display_query": "《八仙！》票房预测" },
   {
@@ -27,15 +33,12 @@
     "query": "莫言之女管笑笑被爆论文涉嫌抄袭",
     "display_query": "莫言之女管笑笑被爆论文涉嫌抄袭"
   },
-  { "query": "高考数据通", "display_query": "高考数据通" },
-  { "query": "高考分数排名", "display_query": "高考分数排名" },
   {
     "query": "女孩囤积大量吧唧致甲醛中毒",
     "display_query": "女孩囤积大量吧唧致甲醛中毒"
   },
   { "query": "金球奖", "display_query": "金球奖" },
   { "query": "a股", "display_query": "a股" },
-  { "query": "F1", "display_query": "F1" },
   { "query": "苏醒", "display_query": "苏醒" },
   { "query": "GEN对战T1", "display_query": "GEN对战T1" },
   { "query": "A股行情", "display_query": "A股行情" },
