@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 21 2026 15:30:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 21 2026 18:23:18 GMT+0800 (China Standard Time) -->
 
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
-1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [《复仇者联盟5》发布新预告](https://www.zhihu.com/search?q=《复仇者联盟5》发布新预告)
+1. [今年火爆的三部短剧没有一个是正经团队](https://www.zhihu.com/search?q=今年火爆的三部短剧没有一个是正经团队)
 1. [阿根廷 脏](https://www.zhihu.com/search?q=阿根廷 脏)
 1. [2026 世界人工智能大会](https://www.zhihu.com/search?q=2026 世界人工智能大会)
 1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI K3模型正式上线)
@@ -27,6 +27,9 @@
 1. [《八仙！》票房预测](https://www.zhihu.com/search?q=《八仙！》票房预测)
 1. [英国将敬业集团旗下英钢国有化](https://www.zhihu.com/search?q=英国将敬业集团旗下英钢国有化)
 1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026年菲尔兹奖)
+1. [莫言之女管笑笑被爆论文涉嫌抄袭](https://www.zhihu.com/search?q=莫言之女管笑笑被爆论文涉嫌抄袭)
+1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
+1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
 1. [女孩囤积大量吧唧致甲醛中毒](https://www.zhihu.com/search?q=女孩囤积大量吧唧致甲醛中毒)
 1. [金球奖](https://www.zhihu.com/search?q=金球奖)
 1. [a股](https://www.zhihu.com/search?q=a股)

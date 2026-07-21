@@ -1,6 +1,12 @@
 [
-  { "query": "高考数据通", "display_query": "高考数据通" },
-  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  {
+    "query": "《复仇者联盟5》发布新预告",
+    "display_query": "《复仇者联盟5》发布新预告"
+  },
+  {
+    "query": "今年火爆的三部短剧没有一个是正经团队",
+    "display_query": "今年火爆的三部短剧没有一个是正经团队"
+  },
   { "query": "阿根廷 脏", "display_query": "阿根廷 脏" },
   {
     "query": "2026 世界人工智能大会",
@@ -17,6 +23,12 @@
     "display_query": "英国将敬业集团旗下英钢国有化"
   },
   { "query": "2026年菲尔兹奖", "display_query": "2026年菲尔兹奖" },
+  {
+    "query": "莫言之女管笑笑被爆论文涉嫌抄袭",
+    "display_query": "莫言之女管笑笑被爆论文涉嫌抄袭"
+  },
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
   {
     "query": "女孩囤积大量吧唧致甲醛中毒",
     "display_query": "女孩囤积大量吧唧致甲醛中毒"
