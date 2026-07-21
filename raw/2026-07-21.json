@@ -1,5 +1,8 @@
 [
-  { "query": "上证指数", "display_query": "上证指数" },
+  {
+    "query": "不太理解光脚穿洞洞鞋的人",
+    "display_query": "不太理解光脚穿洞洞鞋的人"
+  },
   { "query": "F1", "display_query": "F1" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
@@ -15,6 +18,7 @@
     "query": "DeepSeek V4 正式版即将发布",
     "display_query": "DeepSeek V4 正式版即将发布"
   },
+  { "query": "上证指数", "display_query": "上证指数" },
   {
     "query": "《复仇者联盟5》发布新预告",
     "display_query": "《复仇者联盟5》发布新预告"

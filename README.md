@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 21 2026 20:22:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 21 2026 23:01:45 GMT+0800 (China Standard Time) -->
 
-1. [上证指数](https://www.zhihu.com/search?q=上证指数)
+1. [不太理解光脚穿洞洞鞋的人](https://www.zhihu.com/search?q=不太理解光脚穿洞洞鞋的人)
 1. [F1](https://www.zhihu.com/search?q=F1)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
@@ -28,6 +28,7 @@
 1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI K3模型正式上线)
 1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek V4
    正式版即将发布)
+1. [上证指数](https://www.zhihu.com/search?q=上证指数)
 1. [《复仇者联盟5》发布新预告](https://www.zhihu.com/search?q=《复仇者联盟5》发布新预告)
 1. [今年火爆的三部短剧没有一个是正经团队](https://www.zhihu.com/search?q=今年火爆的三部短剧没有一个是正经团队)
 1. [《八仙！》票房预测](https://www.zhihu.com/search?q=《八仙！》票房预测)
