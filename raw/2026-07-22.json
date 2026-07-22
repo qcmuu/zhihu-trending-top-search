@@ -1,7 +1,14 @@
 [
+  { "query": "台风", "display_query": "台风" },
+  { "query": "韦世豪破门", "display_query": "韦世豪破门" },
+  { "query": "上海申花vs青岛海牛", "display_query": "上海申花vs青岛海牛" },
+  { "query": "电影功夫女足", "display_query": "电影功夫女足" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
+  { "query": "恋与深空", "display_query": "恋与深空" },
+  { "query": "半熟恋人", "display_query": "半熟恋人" },
   { "query": "阿根廷 脏", "display_query": "阿根廷 脏" },
+  { "query": "雀骨", "display_query": "雀骨" },
   { "query": "Kimi-K3 灰度测试", "display_query": "Kimi-K3 灰度测试" },
   {
     "query": "2026 世界人工智能大会",
@@ -23,7 +30,6 @@
   },
   { "query": "上证指数", "display_query": "上证指数" },
   { "query": "F1", "display_query": "F1" },
-  { "query": "雀骨", "display_query": "雀骨" },
   { "query": "八仙", "display_query": "八仙" },
   { "query": "八仙上映", "display_query": "八仙上映" },
   {
