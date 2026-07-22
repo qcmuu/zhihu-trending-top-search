@@ -1,9 +1,5 @@
 [
-  { "query": "八仙上映", "display_query": "八仙上映" },
-  {
-    "query": "官方辟谣涉韩红基金会不实言论",
-    "display_query": "官方辟谣涉韩红基金会不实言论"
-  },
+  { "query": "上证指数", "display_query": "上证指数" },
   { "query": "F1", "display_query": "F1" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
@@ -15,8 +11,12 @@
     "query": "2026 世界人工智能大会",
     "display_query": "2026 世界人工智能大会"
   },
-  { "query": "上证指数", "display_query": "上证指数" },
   { "query": "KIMI K3模型正式上线", "display_query": "KIMI K3模型正式上线" },
+  { "query": "八仙上映", "display_query": "八仙上映" },
+  {
+    "query": "官方辟谣涉韩红基金会不实言论",
+    "display_query": "官方辟谣涉韩红基金会不实言论"
+  },
   {
     "query": "DeepSeek V4 正式版即将发布",
     "display_query": "DeepSeek V4 正式版即将发布"

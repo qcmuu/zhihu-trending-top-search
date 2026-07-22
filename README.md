@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 22 2026 10:28:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 22 2026 13:47:44 GMT+0800 (China Standard Time) -->
 
-1. [八仙上映](https://www.zhihu.com/search?q=八仙上映)
-1. [官方辟谣涉韩红基金会不实言论](https://www.zhihu.com/search?q=官方辟谣涉韩红基金会不实言论)
+1. [上证指数](https://www.zhihu.com/search?q=上证指数)
 1. [F1](https://www.zhihu.com/search?q=F1)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
@@ -27,8 +26,9 @@
 1. [八仙](https://www.zhihu.com/search?q=八仙)
 1. [Kimi-K3 灰度测试](https://www.zhihu.com/search?q=Kimi-K3 灰度测试)
 1. [2026 世界人工智能大会](https://www.zhihu.com/search?q=2026 世界人工智能大会)
-1. [上证指数](https://www.zhihu.com/search?q=上证指数)
 1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI K3模型正式上线)
+1. [八仙上映](https://www.zhihu.com/search?q=八仙上映)
+1. [官方辟谣涉韩红基金会不实言论](https://www.zhihu.com/search?q=官方辟谣涉韩红基金会不实言论)
 1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek V4
    正式版即将发布)
 
