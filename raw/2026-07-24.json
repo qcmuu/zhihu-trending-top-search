@@ -1,5 +1,5 @@
 [
-  { "query": "证监会资本市场", "display_query": "证监会资本市场" },
+  { "query": "上证指数", "display_query": "上证指数" },
   { "query": "TES战胜WE", "display_query": "TES战胜WE" },
   {
     "query": "为什么在中国邮箱不流行",
@@ -14,5 +14,6 @@
   },
   { "query": "电影功夫女足", "display_query": "电影功夫女足" },
   { "query": "高考数据通", "display_query": "高考数据通" },
-  { "query": "高考分数排名", "display_query": "高考分数排名" }
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  { "query": "证监会资本市场", "display_query": "证监会资本市场" }
 ]
