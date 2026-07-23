@@ -1,5 +1,4 @@
 [
-  { "query": "上证指数", "display_query": "上证指数" },
   { "query": "TES战胜WE", "display_query": "TES战胜WE" },
   {
     "query": "为什么在中国邮箱不流行",
@@ -15,6 +14,8 @@
   { "query": "电影功夫女足", "display_query": "电影功夫女足" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
+  { "query": "八仙", "display_query": "八仙" },
+  { "query": "上证指数", "display_query": "上证指数" },
   { "query": "悬案热播", "display_query": "悬案热播" },
   { "query": "悬案真实背景", "display_query": "悬案真实背景" },
   { "query": "悬案导演答", "display_query": "悬案导演答" },

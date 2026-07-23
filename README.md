@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 23 2026 21:52:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 23 2026 23:53:18 GMT+0800 (China Standard Time) -->
 
-1. [上证指数](https://www.zhihu.com/search?q=上证指数)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES战胜WE)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [今日大暑](https://www.zhihu.com/search?q=今日大暑)
@@ -27,6 +26,8 @@
 1. [电影功夫女足](https://www.zhihu.com/search?q=电影功夫女足)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [八仙](https://www.zhihu.com/search?q=八仙)
+1. [上证指数](https://www.zhihu.com/search?q=上证指数)
 1. [悬案热播](https://www.zhihu.com/search?q=悬案热播)
 1. [悬案真实背景](https://www.zhihu.com/search?q=悬案真实背景)
 1. [悬案导演答](https://www.zhihu.com/search?q=悬案导演答)
