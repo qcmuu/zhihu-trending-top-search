@@ -1,7 +1,7 @@
 [
   {
-    "query": "为什么在中国邮箱不流行",
-    "display_query": "为什么在中国邮箱不流行"
+    "query": "微信撤回消息后可删除提示字",
+    "display_query": "微信撤回消息后可删除提示字"
   },
   { "query": "AL战胜JDG", "display_query": "AL战胜JDG" },
   { "query": "美股", "display_query": "美股" },
@@ -27,6 +27,10 @@
   },
   { "query": "黛玉是否有性格缺陷", "display_query": "黛玉是否有性格缺陷" },
   { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" },
+  {
+    "query": "为什么在中国邮箱不流行",
+    "display_query": "为什么在中国邮箱不流行"
+  },
   { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   { "query": "Kimi-K3 灰度测试", "display_query": "Kimi-K3 灰度测试" },
   { "query": "KIMI K3模型正式上线", "display_query": "KIMI K3模型正式上线" },
