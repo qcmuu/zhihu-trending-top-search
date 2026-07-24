@@ -1,4 +1,26 @@
 [
+  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
+  { "query": "Kimi-K3 灰度测试", "display_query": "Kimi-K3 灰度测试" },
+  { "query": "KIMI K3模型正式上线", "display_query": "KIMI K3模型正式上线" },
+  { "query": "2026年菲尔兹奖", "display_query": "2026年菲尔兹奖" },
+  {
+    "query": "Kimi K3 力压 ClaudeFable5 登顶",
+    "display_query": "Kimi K3 力压 ClaudeFable5 登顶"
+  },
+  {
+    "query": "7 月 DDR5 内存价格再次暴涨",
+    "display_query": "7 月 DDR5 内存价格再次暴涨"
+  },
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  {
+    "query": "FIFA 将调查阿根廷赛后暴力行为",
+    "display_query": "FIFA 将调查阿根廷赛后暴力行为"
+  },
+  {
+    "query": "2026年临床医学录取分数线下降",
+    "display_query": "2026年临床医学录取分数线下降"
+  },
+  { "query": "乒超禁用外协强制 U19", "display_query": "乒超禁用外协强制 U19" },
   {
     "query": "新台风基本确定登陆我国",
     "display_query": "新台风基本确定登陆我国"
@@ -20,7 +42,6 @@
     "display_query": "为什么物理规则几乎都是乘法"
   },
   { "query": "电影功夫女足", "display_query": "电影功夫女足" },
-  { "query": "高考数据通", "display_query": "高考数据通" },
   {
     "query": "东山精密回应光模块被盗窃",
     "display_query": "东山精密回应光模块被盗窃"
