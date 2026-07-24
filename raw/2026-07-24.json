@@ -1,4 +1,32 @@
 [
+  {
+    "query": "为什么在中国邮箱不流行",
+    "display_query": "为什么在中国邮箱不流行"
+  },
+  { "query": "AL战胜JDG", "display_query": "AL战胜JDG" },
+  { "query": "美股", "display_query": "美股" },
+  {
+    "query": "你知道哪些很冷的冷知识",
+    "display_query": "你知道哪些很冷的冷知识"
+  },
+  {
+    "query": "作为管理者哪些事情不能对员工讲",
+    "display_query": "作为管理者哪些事情不能对员工讲"
+  },
+  {
+    "query": "中国的重装合成旅战力怎样",
+    "display_query": "中国的重装合成旅战力怎样"
+  },
+  {
+    "query": "为什么狗对小孩子容忍度高",
+    "display_query": "为什么狗对小孩子容忍度高"
+  },
+  {
+    "query": "如何低成本照顾自己的心理健康",
+    "display_query": "如何低成本照顾自己的心理健康"
+  },
+  { "query": "黛玉是否有性格缺陷", "display_query": "黛玉是否有性格缺陷" },
+  { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" },
   { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   { "query": "Kimi-K3 灰度测试", "display_query": "Kimi-K3 灰度测试" },
   { "query": "KIMI K3模型正式上线", "display_query": "KIMI K3模型正式上线" },
@@ -30,10 +58,6 @@
     "display_query": "于东来称胖东来禁止员工相互借钱"
   },
   { "query": "TES战胜WE", "display_query": "TES战胜WE" },
-  {
-    "query": "为什么在中国邮箱不流行",
-    "display_query": "为什么在中国邮箱不流行"
-  },
   { "query": "今日大暑", "display_query": "今日大暑" },
   { "query": "夏天的最后1个节气", "display_query": "夏天的最后1个节气" },
   { "query": "TES对战WE", "display_query": "TES对战WE" },
