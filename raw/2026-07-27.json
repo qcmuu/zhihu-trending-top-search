@@ -1,22 +1,7 @@
 [
-  { "query": "21岁小伙得易栓症", "display_query": "21岁小伙得易栓症" },
-  {
-    "query": "波加查 环法自行车赛五冠王",
-    "display_query": "波加查 环法自行车赛五冠王"
-  },
-  {
-    "query": "菲方围顶冲撞中方巡逻艇",
-    "display_query": "菲方围顶冲撞中方巡逻艇"
-  },
+  { "query": "KIMI K3模型正式上线", "display_query": "KIMI K3模型正式上线" },
+  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   { "query": "Bin BLG", "display_query": "Bin BLG" },
-  {
-    "query": "谷歌二季度营收云业务双双大涨",
-    "display_query": "谷歌二季度营收云业务双双大涨"
-  },
-  {
-    "query": "谷歌自由现金流首次转负",
-    "display_query": "谷歌自由现金流首次转负"
-  },
   {
     "query": "滔搏暴力打折甩卖耐克库存",
     "display_query": "滔搏暴力打折甩卖耐克库存"
@@ -29,6 +14,32 @@
   {
     "query": "王虹 13 岁跳级上高中 16 岁上北大",
     "display_query": "王虹 13 岁跳级上高中 16 岁上北大"
+  },
+  {
+    "query": "FLUX 3原生多模态大模型",
+    "display_query": "FLUX 3原生多模态大模型"
+  },
+  {
+    "query": "上海 6 岁女孩基因编辑试验后死亡",
+    "display_query": "上海 6 岁女孩基因编辑试验后死亡"
+  },
+  { "query": "宇树发布新机器狗", "display_query": "宇树发布新机器狗" },
+  { "query": "21岁小伙得易栓症", "display_query": "21岁小伙得易栓症" },
+  {
+    "query": "波加查 环法自行车赛五冠王",
+    "display_query": "波加查 环法自行车赛五冠王"
+  },
+  {
+    "query": "菲方围顶冲撞中方巡逻艇",
+    "display_query": "菲方围顶冲撞中方巡逻艇"
+  },
+  {
+    "query": "谷歌二季度营收云业务双双大涨",
+    "display_query": "谷歌二季度营收云业务双双大涨"
+  },
+  {
+    "query": "谷歌自由现金流首次转负",
+    "display_query": "谷歌自由现金流首次转负"
   },
   { "query": "深圳大学vs黄石东楚", "display_query": "深圳大学vs黄石东楚" },
   { "query": "侧睡真的好舒服", "display_query": "侧睡真的好舒服" },
