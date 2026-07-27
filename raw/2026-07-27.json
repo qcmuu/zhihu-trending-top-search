@@ -1,8 +1,6 @@
 [
-  {
-    "query": "为什么在中国邮箱不流行",
-    "display_query": "为什么在中国邮箱不流行"
-  },
+  { "query": "深圳大学vs黄石东楚", "display_query": "深圳大学vs黄石东楚" },
+  { "query": "侧睡真的好舒服", "display_query": "侧睡真的好舒服" },
   { "query": "AL战胜JDG", "display_query": "AL战胜JDG" },
   { "query": "美股", "display_query": "美股" },
   {
@@ -26,5 +24,9 @@
     "display_query": "如何低成本照顾自己的心理健康"
   },
   { "query": "黛玉是否有性格缺陷", "display_query": "黛玉是否有性格缺陷" },
+  {
+    "query": "为什么在中国邮箱不流行",
+    "display_query": "为什么在中国邮箱不流行"
+  },
   { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" }
 ]

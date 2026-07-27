@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 27 2026 10:44:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 27 2026 14:27:27 GMT+0800 (China Standard Time) -->
 
-1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
+1. [深圳大学vs黄石东楚](https://www.zhihu.com/search?q=深圳大学vs黄石东楚)
+1. [侧睡真的好舒服](https://www.zhihu.com/search?q=侧睡真的好舒服)
 1. [AL战胜JDG](https://www.zhihu.com/search?q=AL战胜JDG)
 1. [美股](https://www.zhihu.com/search?q=美股)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
@@ -26,6 +27,7 @@
 1. [为什么狗对小孩子容忍度高](https://www.zhihu.com/search?q=为什么狗对小孩子容忍度高)
 1. [如何低成本照顾自己的心理健康](https://www.zhihu.com/search?q=如何低成本照顾自己的心理健康)
 1. [黛玉是否有性格缺陷](https://www.zhihu.com/search?q=黛玉是否有性格缺陷)
+1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [世界最伟大的水果](https://www.zhihu.com/search?q=世界最伟大的水果)
 
 <!-- END -->
