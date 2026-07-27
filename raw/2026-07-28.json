@@ -7,10 +7,6 @@
   },
   { "query": "贫困生喝咖啡引争议", "display_query": "贫困生喝咖啡引争议" },
   {
-    "query": "腾讯317万年终奖员工泄密被辞退",
-    "display_query": "腾讯317万年终奖员工泄密被辞退"
-  },
-  {
     "query": "王虹 13 岁跳级上高中 16 岁上北大",
     "display_query": "王虹 13 岁跳级上高中 16 岁上北大"
   },
@@ -26,5 +22,10 @@
     "query": "Anthropic发布Claude Opus 5",
     "display_query": "Anthropic发布Claude Opus 5"
   },
-  { "query": "詹姆斯加盟 76 人", "display_query": "詹姆斯加盟 76 人" }
+  { "query": "詹姆斯加盟 76 人", "display_query": "詹姆斯加盟 76 人" },
+  { "query": "携程被罚没51.79亿元", "display_query": "携程被罚没51.79亿元" },
+  {
+    "query": "腾讯317万年终奖员工泄密被辞退",
+    "display_query": "腾讯317万年终奖员工泄密被辞退"
+  }
 ]
