@@ -1,0 +1,24 @@
+[
+  { "query": "A股", "display_query": "A股" },
+  { "query": "日本地震", "display_query": "日本地震" },
+  { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
+  { "query": "美股", "display_query": "美股" },
+  {
+    "query": "黎曼猜想为什么难以解决",
+    "display_query": "黎曼猜想为什么难以解决"
+  },
+  {
+    "query": "你知道哪些很冷的冷知识",
+    "display_query": "你知道哪些很冷的冷知识"
+  },
+  {
+    "query": "为什么狗对小孩子容忍度高",
+    "display_query": "为什么狗对小孩子容忍度高"
+  },
+  { "query": "湘超", "display_query": "湘超" },
+  {
+    "query": "中老年人如何防止肌肉流失",
+    "display_query": "中老年人如何防止肌肉流失"
+  },
+  { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" }
+]
