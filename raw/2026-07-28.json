@@ -1,6 +1,9 @@
 [
-  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
-  { "query": "Bin BLG", "display_query": "Bin BLG" },
+  {
+    "query": "高考600分已难稳进985211",
+    "display_query": "高考600分已难稳进985211"
+  },
+  { "query": "李宏毅方硬刚李登科", "display_query": "李宏毅方硬刚李登科" },
   {
     "query": "滔搏暴力打折甩卖耐克库存",
     "display_query": "滔搏暴力打折甩卖耐克库存"
@@ -18,11 +21,14 @@
     "query": "上海 6 岁女孩基因编辑试验后死亡",
     "display_query": "上海 6 岁女孩基因编辑试验后死亡"
   },
+  { "query": "唐山大地震 50 周年", "display_query": "唐山大地震 50 周年" },
   {
     "query": "Anthropic发布Claude Opus 5",
     "display_query": "Anthropic发布Claude Opus 5"
   },
   { "query": "詹姆斯加盟 76 人", "display_query": "詹姆斯加盟 76 人" },
+  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
+  { "query": "Bin BLG", "display_query": "Bin BLG" },
   { "query": "携程被罚没51.79亿元", "display_query": "携程被罚没51.79亿元" },
   {
     "query": "腾讯317万年终奖员工泄密被辞退",
