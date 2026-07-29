@@ -1,0 +1,33 @@
+[
+  { "query": "A股", "display_query": "A股" },
+  { "query": "日本地震", "display_query": "日本地震" },
+  {
+    "query": "你都见过哪些不动声色的善良",
+    "display_query": "你都见过哪些不动声色的善良"
+  },
+  { "query": "上海震感", "display_query": "上海震感" },
+  {
+    "query": "黎曼猜想为什么难以解决",
+    "display_query": "黎曼猜想为什么难以解决"
+  },
+  {
+    "query": "你知道哪些很冷的冷知识",
+    "display_query": "你知道哪些很冷的冷知识"
+  },
+  {
+    "query": "中老年人如何防止肌肉流失",
+    "display_query": "中老年人如何防止肌肉流失"
+  },
+  {
+    "query": "东北为何成为低物价天堂",
+    "display_query": "东北为何成为低物价天堂"
+  },
+  {
+    "query": "工作中到底能闯多大的祸",
+    "display_query": "工作中到底能闯多大的祸"
+  },
+  {
+    "query": "大彻大悟的人都看透了什么",
+    "display_query": "大彻大悟的人都看透了什么"
+  }
+]
