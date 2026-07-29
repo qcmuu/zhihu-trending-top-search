@@ -1,5 +1,35 @@
 [
+  { "query": "A股", "display_query": "A股" },
   { "query": "日本地震", "display_query": "日本地震" },
+  {
+    "query": "你都见过哪些不动声色的善良",
+    "display_query": "你都见过哪些不动声色的善良"
+  },
+  { "query": "上海震感", "display_query": "上海震感" },
+  {
+    "query": "黎曼猜想为什么难以解决",
+    "display_query": "黎曼猜想为什么难以解决"
+  },
+  {
+    "query": "你知道哪些很冷的冷知识",
+    "display_query": "你知道哪些很冷的冷知识"
+  },
+  {
+    "query": "中老年人如何防止肌肉流失",
+    "display_query": "中老年人如何防止肌肉流失"
+  },
+  {
+    "query": "东北为何成为低物价天堂",
+    "display_query": "东北为何成为低物价天堂"
+  },
+  {
+    "query": "工作中到底能闯多大的祸",
+    "display_query": "工作中到底能闯多大的祸"
+  },
+  {
+    "query": "大彻大悟的人都看透了什么",
+    "display_query": "大彻大悟的人都看透了什么"
+  },
   { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   {
     "query": "上海 6 岁女孩基因编辑试验后死亡",
@@ -24,26 +54,13 @@
     "display_query": "极客湾测评手机续航能力"
   },
   { "query": "央视曝光有毒养生神药", "display_query": "央视曝光有毒养生神药" },
-  { "query": "A股", "display_query": "A股" },
   { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
   { "query": "美股", "display_query": "美股" },
-  {
-    "query": "黎曼猜想为什么难以解决",
-    "display_query": "黎曼猜想为什么难以解决"
-  },
-  {
-    "query": "你知道哪些很冷的冷知识",
-    "display_query": "你知道哪些很冷的冷知识"
-  },
   {
     "query": "为什么狗对小孩子容忍度高",
     "display_query": "为什么狗对小孩子容忍度高"
   },
   { "query": "湘超", "display_query": "湘超" },
-  {
-    "query": "中老年人如何防止肌肉流失",
-    "display_query": "中老年人如何防止肌肉流失"
-  },
   { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" },
   {
     "query": "西班牙球星佩德里为苏超开球",
