@@ -1,6 +1,30 @@
 [
-  { "query": "A股", "display_query": "A股" },
   { "query": "日本地震", "display_query": "日本地震" },
+  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
+  {
+    "query": "上海 6 岁女孩基因编辑试验后死亡",
+    "display_query": "上海 6 岁女孩基因编辑试验后死亡"
+  },
+  { "query": "唐山大地震 50 周年", "display_query": "唐山大地震 50 周年" },
+  {
+    "query": "全国新冠阳性率呈上升趋势",
+    "display_query": "全国新冠阳性率呈上升趋势"
+  },
+  { "query": "张雅琪菜单被吐槽", "display_query": "张雅琪菜单被吐槽" },
+  {
+    "query": "《三国第一部：争洛阳》撤档",
+    "display_query": "《三国第一部：争洛阳》撤档"
+  },
+  {
+    "query": "女孩正颌手术被做反变成鞋拔子脸",
+    "display_query": "女孩正颌手术被做反变成鞋拔子脸"
+  },
+  {
+    "query": "极客湾测评手机续航能力",
+    "display_query": "极客湾测评手机续航能力"
+  },
+  { "query": "央视曝光有毒养生神药", "display_query": "央视曝光有毒养生神药" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
   { "query": "美股", "display_query": "美股" },
   {

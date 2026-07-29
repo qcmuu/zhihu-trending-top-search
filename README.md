@@ -15,10 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 29 2026 13:50:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 29 2026 16:36:58 GMT+0800 (China Standard Time) -->
 
-1. [A股](https://www.zhihu.com/search?q=A股)
 1. [日本地震](https://www.zhihu.com/search?q=日本地震)
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
+1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=上海 6
+   岁女孩基因编辑试验后死亡)
+1. [唐山大地震 50 周年](https://www.zhihu.com/search?q=唐山大地震 50 周年)
+1. [全国新冠阳性率呈上升趋势](https://www.zhihu.com/search?q=全国新冠阳性率呈上升趋势)
+1. [张雅琪菜单被吐槽](https://www.zhihu.com/search?q=张雅琪菜单被吐槽)
+1. [《三国第一部：争洛阳》撤档](https://www.zhihu.com/search?q=《三国第一部：争洛阳》撤档)
+1. [女孩正颌手术被做反变成鞋拔子脸](https://www.zhihu.com/search?q=女孩正颌手术被做反变成鞋拔子脸)
+1. [极客湾测评手机续航能力](https://www.zhihu.com/search?q=极客湾测评手机续航能力)
+1. [央视曝光有毒养生神药](https://www.zhihu.com/search?q=央视曝光有毒养生神药)
+1. [A股](https://www.zhihu.com/search?q=A股)
 1. [俄罗斯警告日本](https://www.zhihu.com/search?q=俄罗斯警告日本)
 1. [美股](https://www.zhihu.com/search?q=美股)
 1. [黎曼猜想为什么难以解决](https://www.zhihu.com/search?q=黎曼猜想为什么难以解决)
