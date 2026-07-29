@@ -1,8 +1,6 @@
 [
-  {
-    "query": "西班牙球星佩德里为苏超开球",
-    "display_query": "西班牙球星佩德里为苏超开球"
-  },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "日本地震", "display_query": "日本地震" },
   { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
   { "query": "美股", "display_query": "美股" },
   {
@@ -24,9 +22,11 @@
   },
   { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" },
   {
+    "query": "西班牙球星佩德里为苏超开球",
+    "display_query": "西班牙球星佩德里为苏超开球"
+  },
+  {
     "query": "一天走一万步能降低脂肪肝吗",
     "display_query": "一天走一万步能降低脂肪肝吗"
-  },
-  { "query": "A股", "display_query": "A股" },
-  { "query": "日本地震", "display_query": "日本地震" }
+  }
 ]
