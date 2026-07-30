@@ -1,0 +1,24 @@
+[
+  { "query": "美联储", "display_query": "美联储" },
+  { "query": "王者荣耀", "display_query": "王者荣耀" },
+  {
+    "query": "美联储宣布维持利率不变",
+    "display_query": "美联储宣布维持利率不变"
+  },
+  {
+    "query": "你都见过哪些不动声色的善良",
+    "display_query": "你都见过哪些不动声色的善良"
+  },
+  { "query": "BLG战胜LGD", "display_query": "BLG战胜LGD" },
+  { "query": "A股行情", "display_query": "A股行情" },
+  { "query": "丁俊晖vs赵心童", "display_query": "丁俊晖vs赵心童" },
+  { "query": "星链真的可以取代5G吗", "display_query": "星链真的可以取代5G吗" },
+  {
+    "query": "如何鉴别一家餐馆好不好吃",
+    "display_query": "如何鉴别一家餐馆好不好吃"
+  },
+  {
+    "query": "为什么西方国家几乎不吃豆腐",
+    "display_query": "为什么西方国家几乎不吃豆腐"
+  }
+]
