@@ -1,6 +1,9 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "日本地震", "display_query": "日本地震" },
+  { "query": "刘亦菲素颜女大", "display_query": "刘亦菲素颜女大" },
+  {
+    "query": "吉林大量菌包菌棒被冲上街头",
+    "display_query": "吉林大量菌包菌棒被冲上街头"
+  },
   {
     "query": "美联储宣布维持利率不变",
     "display_query": "美联储宣布维持利率不变"
@@ -30,6 +33,8 @@
     "query": "工作中到底能闯多大的祸",
     "display_query": "工作中到底能闯多大的祸"
   },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "日本地震", "display_query": "日本地震" },
   {
     "query": "大彻大悟的人都看透了什么",
     "display_query": "大彻大悟的人都看透了什么"
