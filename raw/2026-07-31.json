@@ -1,6 +1,7 @@
 [
   { "query": "美联储", "display_query": "美联储" },
   { "query": "王者荣耀", "display_query": "王者荣耀" },
+  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
   {
     "query": "美联储宣布维持利率不变",
     "display_query": "美联储宣布维持利率不变"

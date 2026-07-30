@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 31 2026 01:24:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 31 2026 03:22:06 GMT+0800 (China Standard Time) -->
 
 1. [美联储](https://www.zhihu.com/search?q=美联储)
 1. [王者荣耀](https://www.zhihu.com/search?q=王者荣耀)
+1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=你都见过哪些不动声色的善良)
 1. [BLG战胜LGD](https://www.zhihu.com/search?q=BLG战胜LGD)
