@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 30 2026 16:22:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 30 2026 19:05:20 GMT+0800 (China Standard Time) -->
 
+1. [美联储](https://www.zhihu.com/search?q=美联储)
+1. [王者荣耀](https://www.zhihu.com/search?q=王者荣耀)
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
+1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=你都见过哪些不动声色的善良)
+1. [BLG战胜LGD](https://www.zhihu.com/search?q=BLG战胜LGD)
+1. [A股行情](https://www.zhihu.com/search?q=A股行情)
+1. [丁俊晖vs赵心童](https://www.zhihu.com/search?q=丁俊晖vs赵心童)
+1. [星链真的可以取代5G吗](https://www.zhihu.com/search?q=星链真的可以取代5G吗)
+1. [如何鉴别一家餐馆好不好吃](https://www.zhihu.com/search?q=如何鉴别一家餐馆好不好吃)
+1. [为什么西方国家几乎不吃豆腐](https://www.zhihu.com/search?q=为什么西方国家几乎不吃豆腐)
 1. [《明末：渊虚之羽》确认开发续作](https://www.zhihu.com/search?q=《明末：渊虚之羽》确认开发续作)
 1. [Flandre 离开 AL](https://www.zhihu.com/search?q=Flandre 离开 AL)
 1. [献血拿战锤40k模型](https://www.zhihu.com/search?q=献血拿战锤40k模型)
@@ -30,8 +40,6 @@
 1. [电影《痴迷》热映](https://www.zhihu.com/search?q=电影《痴迷》热映)
 1. [刘亦菲素颜女大](https://www.zhihu.com/search?q=刘亦菲素颜女大)
 1. [吉林大量菌包菌棒被冲上街头](https://www.zhihu.com/search?q=吉林大量菌包菌棒被冲上街头)
-1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
-1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=你都见过哪些不动声色的善良)
 1. [上海震感](https://www.zhihu.com/search?q=上海震感)
 1. [黎曼猜想为什么难以解决](https://www.zhihu.com/search?q=黎曼猜想为什么难以解决)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
