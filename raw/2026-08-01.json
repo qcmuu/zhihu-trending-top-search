@@ -1,8 +1,6 @@
 [
-  {
-    "query": "网友曝胖东来直饮水成免费取水点",
-    "display_query": "网友曝胖东来直饮水成免费取水点"
-  },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "油价", "display_query": "油价" },
   {
     "query": "美联储宣布维持利率不变",
     "display_query": "美联储宣布维持利率不变"
@@ -21,6 +19,10 @@
     "display_query": "东北为何成为低物价天堂"
   },
   {
+    "query": "网友曝胖东来直饮水成免费取水点",
+    "display_query": "网友曝胖东来直饮水成免费取水点"
+  },
+  {
     "query": "工作中到底能闯多大的祸",
     "display_query": "工作中到底能闯多大的祸"
   },
@@ -31,7 +33,5 @@
   {
     "query": "韩国股市今年第九次触发熔断机制",
     "display_query": "韩国股市今年第九次触发熔断机制"
-  },
-  { "query": "A股", "display_query": "A股" },
-  { "query": "油价", "display_query": "油价" }
+  }
 ]
