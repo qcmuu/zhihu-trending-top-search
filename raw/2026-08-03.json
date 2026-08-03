@@ -1,9 +1,6 @@
 [
-  { "query": "全球股王再次易主", "display_query": "全球股王再次易主" },
-  {
-    "query": "市监局通报牛蛙抗生素超标",
-    "display_query": "市监局通报牛蛙抗生素超标"
-  },
+  { "query": "集中供冷", "display_query": "集中供冷" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "中超联赛", "display_query": "中超联赛" },
   {
     "query": "美联储宣布维持利率不变",
@@ -15,7 +12,11 @@
   { "query": "四川宜宾地震", "display_query": "四川宜宾地震" },
   { "query": "恋与深空", "display_query": "恋与深空" },
   { "query": "灿如繁星", "display_query": "灿如繁星" },
-  { "query": "A股", "display_query": "A股" },
+  { "query": "全球股王再次易主", "display_query": "全球股王再次易主" },
+  {
+    "query": "市监局通报牛蛙抗生素超标",
+    "display_query": "市监局通报牛蛙抗生素超标"
+  },
   { "query": "油价", "display_query": "油价" },
   { "query": "歌手歌单", "display_query": "歌手歌单" },
   { "query": "百花奖", "display_query": "百花奖" },
