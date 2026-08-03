@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 03 2026 21:38:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 04 2026 00:22:12 GMT+0800 (China Standard Time) -->
 
 1. [集中供冷](https://www.zhihu.com/search?q=集中供冷)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -27,16 +27,6 @@
 1. [四川宜宾地震](https://www.zhihu.com/search?q=四川宜宾地震)
 1. [恋与深空](https://www.zhihu.com/search?q=恋与深空)
 1. [灿如繁星](https://www.zhihu.com/search?q=灿如繁星)
-1. [全球股王再次易主](https://www.zhihu.com/search?q=全球股王再次易主)
-1. [市监局通报牛蛙抗生素超标](https://www.zhihu.com/search?q=市监局通报牛蛙抗生素超标)
-1. [油价](https://www.zhihu.com/search?q=油价)
-1. [歌手歌单](https://www.zhihu.com/search?q=歌手歌单)
-1. [百花奖](https://www.zhihu.com/search?q=百花奖)
-1. [dk战胜hle](https://www.zhihu.com/search?q=dk战胜hle)
-1. [美股](https://www.zhihu.com/search?q=美股)
-1. [人到中年为什么对很多事没了兴趣](https://www.zhihu.com/search?q=人到中年为什么对很多事没了兴趣)
-1. [世界最伟大的水果](https://www.zhihu.com/search?q=世界最伟大的水果)
-1. [东北为何成为低物价天堂](https://www.zhihu.com/search?q=东北为何成为低物价天堂)
 
 <!-- END -->
 
