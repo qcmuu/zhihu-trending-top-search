@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 04 2026 23:29:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 05 2026 01:46:08 GMT+0800 (China Standard Time) -->
 
+1. [台风](https://www.zhihu.com/search?q=台风)
+1. [心动的信号](https://www.zhihu.com/search?q=心动的信号)
 1. [王者荣耀](https://www.zhihu.com/search?q=王者荣耀)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=薛之谦演唱会)
 1. [郑钦文退赛](https://www.zhihu.com/search?q=郑钦文退赛)
@@ -25,29 +27,6 @@
 1. [ewc](https://www.zhihu.com/search?q=ewc)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026 菲尔兹奖即将公布)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
-1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
-1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
-1. [台风](https://www.zhihu.com/search?q=台风)
-1. [心动的信号](https://www.zhihu.com/search?q=心动的信号)
-1. [台风白海豚要来了](https://www.zhihu.com/search?q=台风白海豚要来了)
-1. [患癌妻子申请销毁婚外胚胎遭拒](https://www.zhihu.com/search?q=患癌妻子申请销毁婚外胚胎遭拒)
-1. [通天河伴漂服务被指擦边](https://www.zhihu.com/search?q=通天河伴漂服务被指擦边)
-1. [长鑫科技市值破4万亿](https://www.zhihu.com/search?q=长鑫科技市值破4万亿)
-1. [日本设立国家情报局](https://www.zhihu.com/search?q=日本设立国家情报局)
-1. [连云港火灾母女窗外避险时坠楼](https://www.zhihu.com/search?q=连云港火灾母女窗外避险时坠楼)
-1. [房主任被停演 3 个月](https://www.zhihu.com/search?q=房主任被停演 3 个月)
-1. [台风白海豚已达17级](https://www.zhihu.com/search?q=台风白海豚已达17级)
-1. [蔡崇信宣布离婚](https://www.zhihu.com/search?q=蔡崇信宣布离婚)
-1. [房主任道歉](https://www.zhihu.com/search?q=房主任道歉)
-1. [集中供冷](https://www.zhihu.com/search?q=集中供冷)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [中超联赛](https://www.zhihu.com/search?q=中超联赛)
-1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
-1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
-1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
-1. [利物浦vs利兹联](https://www.zhihu.com/search?q=利物浦vs利兹联)
-1. [灿如繁星](https://www.zhihu.com/search?q=灿如繁星)
-1. [四川宜宾地震](https://www.zhihu.com/search?q=四川宜宾地震)
 
 <!-- END -->
 

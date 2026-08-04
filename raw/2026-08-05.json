@@ -1,0 +1,15 @@
+[
+  { "query": "台风", "display_query": "台风" },
+  { "query": "心动的信号", "display_query": "心动的信号" },
+  { "query": "王者荣耀", "display_query": "王者荣耀" },
+  { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
+  { "query": "郑钦文退赛", "display_query": "郑钦文退赛" },
+  { "query": "恋与深空", "display_query": "恋与深空" },
+  { "query": "仙逆", "display_query": "仙逆" },
+  { "query": "ewc", "display_query": "ewc" },
+  {
+    "query": "2026 菲尔兹奖即将公布",
+    "display_query": "2026 菲尔兹奖即将公布"
+  },
+  { "query": "知友邓煜获得菲尔兹奖", "display_query": "知友邓煜获得菲尔兹奖" }
+]
