@@ -1,4 +1,12 @@
 [
+  { "query": "台风", "display_query": "台风" },
+  { "query": "心动的信号", "display_query": "心动的信号" },
+  { "query": "王者荣耀", "display_query": "王者荣耀" },
+  { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
+  { "query": "郑钦文退赛", "display_query": "郑钦文退赛" },
+  { "query": "恋与深空", "display_query": "恋与深空" },
+  { "query": "仙逆", "display_query": "仙逆" },
+  { "query": "ewc", "display_query": "ewc" },
   { "query": "台风白海豚要来了", "display_query": "台风白海豚要来了" },
   {
     "query": "患癌妻子申请销毁婚外胚胎遭拒",
@@ -28,8 +36,6 @@
   { "query": "TES战胜JDG", "display_query": "TES战胜JDG" },
   { "query": "宜宾地震", "display_query": "宜宾地震" },
   { "query": "利物浦vs利兹联", "display_query": "利物浦vs利兹联" },
-  { "query": "恋与深空", "display_query": "恋与深空" },
   { "query": "灿如繁星", "display_query": "灿如繁星" },
-  { "query": "ewc", "display_query": "ewc" },
   { "query": "四川宜宾地震", "display_query": "四川宜宾地震" }
 ]
