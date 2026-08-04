@@ -9,7 +9,8 @@
   { "query": "TES战胜JDG", "display_query": "TES战胜JDG" },
   { "query": "宜宾地震", "display_query": "宜宾地震" },
   { "query": "利物浦vs利兹联", "display_query": "利物浦vs利兹联" },
-  { "query": "四川宜宾地震", "display_query": "四川宜宾地震" },
   { "query": "恋与深空", "display_query": "恋与深空" },
-  { "query": "灿如繁星", "display_query": "灿如繁星" }
+  { "query": "灿如繁星", "display_query": "灿如繁星" },
+  { "query": "ewc", "display_query": "ewc" },
+  { "query": "四川宜宾地震", "display_query": "四川宜宾地震" }
 ]

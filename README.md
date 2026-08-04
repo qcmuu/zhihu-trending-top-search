@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 04 2026 06:06:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 04 2026 08:06:50 GMT+0800 (China Standard Time) -->
 
 1. [集中供冷](https://www.zhihu.com/search?q=集中供冷)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -24,9 +24,10 @@
 1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
 1. [利物浦vs利兹联](https://www.zhihu.com/search?q=利物浦vs利兹联)
-1. [四川宜宾地震](https://www.zhihu.com/search?q=四川宜宾地震)
 1. [恋与深空](https://www.zhihu.com/search?q=恋与深空)
 1. [灿如繁星](https://www.zhihu.com/search?q=灿如繁星)
+1. [ewc](https://www.zhihu.com/search?q=ewc)
+1. [四川宜宾地震](https://www.zhihu.com/search?q=四川宜宾地震)
 
 <!-- END -->
 
