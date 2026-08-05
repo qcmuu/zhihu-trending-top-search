@@ -1,21 +1,27 @@
 [
   {
+    "query": "中国航天又一次成功发射",
+    "display_query": "中国航天又一次成功发射"
+  },
+  { "query": "八仙", "display_query": "八仙" },
+  {
     "query": "2026 菲尔兹奖即将公布",
     "display_query": "2026 菲尔兹奖即将公布"
   },
   { "query": "知友邓煜获得菲尔兹奖", "display_query": "知友邓煜获得菲尔兹奖" },
   { "query": "邓煜获得菲尔兹奖", "display_query": "邓煜获得菲尔兹奖" },
   { "query": "邓煜王虹获得菲尔兹奖", "display_query": "邓煜王虹获得菲尔兹奖" },
-  { "query": "台风白海豚要来了", "display_query": "台风白海豚要来了" },
   { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" },
   {
     "query": "患癌妻子申请销毁婚外胚胎遭拒",
     "display_query": "患癌妻子申请销毁婚外胚胎遭拒"
   },
+  { "query": "九门", "display_query": "九门" },
   {
     "query": "揽佬新歌《中国人能飞》爆火",
     "display_query": "揽佬新歌《中国人能飞》爆火"
   },
+  { "query": "台风白海豚要来了", "display_query": "台风白海豚要来了" },
   { "query": "邓煜北大转学 MIT", "display_query": "邓煜北大转学 MIT" },
   { "query": "台风白海豚已达17级", "display_query": "台风白海豚已达17级" },
   { "query": "台风", "display_query": "台风" },
