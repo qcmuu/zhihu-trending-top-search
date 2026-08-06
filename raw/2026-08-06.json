@@ -1,10 +1,5 @@
 [
   {
-    "query": "中国航天又一次成功发射",
-    "display_query": "中国航天又一次成功发射"
-  },
-  { "query": "八仙", "display_query": "八仙" },
-  {
     "query": "2026 菲尔兹奖即将公布",
     "display_query": "2026 菲尔兹奖即将公布"
   },
@@ -12,8 +7,23 @@
   { "query": "邓煜获得菲尔兹奖", "display_query": "邓煜获得菲尔兹奖" },
   { "query": "邓煜王虹获得菲尔兹奖", "display_query": "邓煜王虹获得菲尔兹奖" },
   { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" },
-  { "query": "九门", "display_query": "九门" },
   { "query": "邓煜北大转学 MIT", "display_query": "邓煜北大转学 MIT" },
+  { "query": "蔡崇信宣布离婚", "display_query": "蔡崇信宣布离婚" },
+  {
+    "query": "亚洲明星联队 6:2 杭州足管队",
+    "display_query": "亚洲明星联队 6:2 杭州足管队"
+  },
+  { "query": "暑期档票房过 70 亿", "display_query": "暑期档票房过 70 亿" },
+  {
+    "query": "同济大学取消教师长期聘任",
+    "display_query": "同济大学取消教师长期聘任"
+  },
+  {
+    "query": "中国航天又一次成功发射",
+    "display_query": "中国航天又一次成功发射"
+  },
+  { "query": "八仙", "display_query": "八仙" },
+  { "query": "九门", "display_query": "九门" },
   { "query": "台风白海豚", "display_query": "台风白海豚" },
   { "query": "美科技巨头前往白宫", "display_query": "美科技巨头前往白宫" },
   { "query": "人形机器人已上岗", "display_query": "人形机器人已上岗" },

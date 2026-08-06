@@ -15,17 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 06 2026 13:50:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 06 2026 16:32:14 GMT+0800 (China Standard Time) -->
 
-1. [中国航天又一次成功发射](https://www.zhihu.com/search?q=中国航天又一次成功发射)
-1. [八仙](https://www.zhihu.com/search?q=八仙)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026 菲尔兹奖即将公布)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
 1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
-1. [九门](https://www.zhihu.com/search?q=九门)
 1. [邓煜北大转学 MIT](https://www.zhihu.com/search?q=邓煜北大转学 MIT)
+1. [蔡崇信宣布离婚](https://www.zhihu.com/search?q=蔡崇信宣布离婚)
+1. [亚洲明星联队 6:2 杭州足管队](https://www.zhihu.com/search?q=亚洲明星联队 6:2
+   杭州足管队)
+1. [暑期档票房过 70 亿](https://www.zhihu.com/search?q=暑期档票房过 70 亿)
+1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=同济大学取消教师长期聘任)
+1. [中国航天又一次成功发射](https://www.zhihu.com/search?q=中国航天又一次成功发射)
+1. [八仙](https://www.zhihu.com/search?q=八仙)
+1. [九门](https://www.zhihu.com/search?q=九门)
 1. [台风白海豚](https://www.zhihu.com/search?q=台风白海豚)
 1. [美科技巨头前往白宫](https://www.zhihu.com/search?q=美科技巨头前往白宫)
 1. [人形机器人已上岗](https://www.zhihu.com/search?q=人形机器人已上岗)
