@@ -15,18 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 07 2026 19:42:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 07 2026 20:57:42 GMT+0800 (China Standard Time) -->
 
-1. [王兴兴：去年宇树机器人出货量全球第一](https://www.zhihu.com/search?q=王兴兴：去年宇树机器人出货量全球第一)
-1. [我国首次证实「胶球」存在](https://www.zhihu.com/search?q=我国首次证实「胶球」存在)
+1. [百花奖](https://www.zhihu.com/search?q=百花奖)
+1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen战胜hle)
+1. [歌手总决赛](https://www.zhihu.com/search?q=歌手总决赛)
 1. [四川宜宾高县 5.0 级地震](https://www.zhihu.com/search?q=四川宜宾高县 5.0
    级地震)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
 1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
 1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex市值暴跌)
+1. [王兴兴：去年宇树机器人出货量全球第一](https://www.zhihu.com/search?q=王兴兴：去年宇树机器人出货量全球第一)
+1. [我国首次证实「胶球」存在](https://www.zhihu.com/search?q=我国首次证实「胶球」存在)
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=儿科医生韩杰因医疗事故罪被判刑)
 1. [宇树科技发行价 150.80 元/股](https://www.zhihu.com/search?q=宇树科技发行价
    150.80 元/股)
