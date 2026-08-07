@@ -3,6 +3,10 @@
   { "query": "中餐厅", "display_query": "中餐厅" },
   { "query": "宜宾地震", "display_query": "宜宾地震" },
   { "query": "理想i8发布", "display_query": "理想i8发布" },
+  {
+    "query": "四川宜宾高县 5.0 级地震",
+    "display_query": "四川宜宾高县 5.0 级地震"
+  },
   { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   { "query": "这一秒过火", "display_query": "这一秒过火" },
   {
