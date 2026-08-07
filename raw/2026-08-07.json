@@ -1,4 +1,29 @@
 [
+  {
+    "query": "5人捅蜂窝致人死亡判责x",
+    "display_query": "5人捅蜂窝致人死亡判责x"
+  },
+  {
+    "query": "南航被曝提供西梅汁致大量乘客上厕所",
+    "display_query": "南航被曝提供西梅汁致大量乘客上厕所"
+  },
+  {
+    "query": "2026 菲尔兹奖即将公布",
+    "display_query": "2026 菲尔兹奖即将公布"
+  },
+  { "query": "知友邓煜获得菲尔兹奖", "display_query": "知友邓煜获得菲尔兹奖" },
+  { "query": "邓煜获得菲尔兹奖", "display_query": "邓煜获得菲尔兹奖" },
+  { "query": "邓煜王虹获得菲尔兹奖", "display_query": "邓煜王虹获得菲尔兹奖" },
+  { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" },
+  { "query": "邓煜北大转学 MIT", "display_query": "邓煜北大转学 MIT" },
+  {
+    "query": "柯洁夺冠后称7月下棋不足5小时",
+    "display_query": "柯洁夺冠后称7月下棋不足5小时"
+  },
+  {
+    "query": "儿科医生韩杰因医疗事故罪被判刑",
+    "display_query": "儿科医生韩杰因医疗事故罪被判刑"
+  },
   { "query": "成都暴雨", "display_query": "成都暴雨" },
   { "query": "中餐厅", "display_query": "中餐厅" },
   { "query": "宜宾地震", "display_query": "宜宾地震" },
@@ -8,13 +33,5 @@
     "display_query": "四川宜宾高县 5.0 级地震"
   },
   { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
-  { "query": "这一秒过火", "display_query": "这一秒过火" },
-  {
-    "query": "2026 菲尔兹奖即将公布",
-    "display_query": "2026 菲尔兹奖即将公布"
-  },
-  { "query": "知友邓煜获得菲尔兹奖", "display_query": "知友邓煜获得菲尔兹奖" },
-  { "query": "邓煜获得菲尔兹奖", "display_query": "邓煜获得菲尔兹奖" },
-  { "query": "邓煜王虹获得菲尔兹奖", "display_query": "邓煜王虹获得菲尔兹奖" },
-  { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" }
+  { "query": "这一秒过火", "display_query": "这一秒过火" }
 ]
