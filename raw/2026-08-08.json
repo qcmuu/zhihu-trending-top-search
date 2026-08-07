@@ -10,6 +10,10 @@
   },
   { "query": "EWC", "display_query": "EWC" },
   { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
-  { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" },
-  { "query": "spacex市值暴跌", "display_query": "spacex市值暴跌" }
+  { "query": "spacex市值暴跌", "display_query": "spacex市值暴跌" },
+  {
+    "query": "儿科医生韩杰因医疗事故罪被判刑",
+    "display_query": "儿科医生韩杰因医疗事故罪被判刑"
+  },
+  { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" }
 ]
