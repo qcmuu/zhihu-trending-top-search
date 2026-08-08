@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 08 2026 21:43:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 08 2026 22:29:30 GMT+0800 (China Standard Time) -->
 
-1. [百花奖](https://www.zhihu.com/search?q=百花奖)
-1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
+1. [避暑大军已抵达山西](https://www.zhihu.com/search?q=避暑大军已抵达山西)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen战胜hle)
 1. [歌手总决赛](https://www.zhihu.com/search?q=歌手总决赛)
@@ -27,9 +26,11 @@
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
 1. [安徽卫视播放AI剧](https://www.zhihu.com/search?q=安徽卫视播放AI剧)
 1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex市值暴跌)
+1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=儿科医生韩杰因医疗事故罪被判刑)
+1. [百花奖](https://www.zhihu.com/search?q=百花奖)
+1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
 1. [we翻盘al](https://www.zhihu.com/search?q=we翻盘al)
 1. [罗德里或转会巴萨](https://www.zhihu.com/search?q=罗德里或转会巴萨)
-1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=儿科医生韩杰因医疗事故罪被判刑)
 1. [南大一院长疑辞职信里写不想干了](https://www.zhihu.com/search?q=南大一院长疑辞职信里写不想干了)
 1. [男方称在律师见证下销毁胚胎](https://www.zhihu.com/search?q=男方称在律师见证下销毁胚胎)
 1. [广岛投弹飞行员从未后悔](https://www.zhihu.com/search?q=广岛投弹飞行员从未后悔)
