@@ -1,9 +1,6 @@
 [
-  {
-    "query": "老人多次遭护工打耳光事件已报警",
-    "display_query": "老人多次遭护工打耳光事件已报警"
-  },
-  { "query": "tfboys出道十三周年", "display_query": "tfboys出道十三周年" },
+  { "query": "百花奖", "display_query": "百花奖" },
+  { "query": "NIP战胜iG", "display_query": "NIP战胜iG" },
   { "query": "宜宾地震", "display_query": "宜宾地震" },
   { "query": "gen战胜hle", "display_query": "gen战胜hle" },
   { "query": "歌手总决赛", "display_query": "歌手总决赛" },
@@ -14,5 +11,10 @@
   { "query": "EWC", "display_query": "EWC" },
   { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   { "query": "安徽卫视播放AI剧", "display_query": "安徽卫视播放AI剧" },
-  { "query": "spacex市值暴跌", "display_query": "spacex市值暴跌" }
+  { "query": "spacex市值暴跌", "display_query": "spacex市值暴跌" },
+  {
+    "query": "老人多次遭护工打耳光事件已报警",
+    "display_query": "老人多次遭护工打耳光事件已报警"
+  },
+  { "query": "tfboys出道十三周年", "display_query": "tfboys出道十三周年" }
 ]
