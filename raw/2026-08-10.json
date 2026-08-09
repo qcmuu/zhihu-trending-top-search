@@ -1,0 +1,15 @@
+[
+  { "query": "百花奖", "display_query": "百花奖" },
+  { "query": "NIP战胜iG", "display_query": "NIP战胜iG" },
+  { "query": "宜宾地震", "display_query": "宜宾地震" },
+  { "query": "gen战胜hle", "display_query": "gen战胜hle" },
+  { "query": "EWC", "display_query": "EWC" },
+  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
+  { "query": "spacex市值暴跌", "display_query": "spacex市值暴跌" },
+  { "query": "台风白海豚", "display_query": "台风白海豚" },
+  { "query": "你的公积金将有新变化", "display_query": "你的公积金将有新变化" },
+  {
+    "query": "市监局通报牛蛙抗生素超标",
+    "display_query": "市监局通报牛蛙抗生素超标"
+  }
+]
