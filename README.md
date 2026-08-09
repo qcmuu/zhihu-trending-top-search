@@ -15,18 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 09 2026 22:31:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 09 2026 23:28:51 GMT+0800 (China Standard Time) -->
 
 1. [百花奖](https://www.zhihu.com/search?q=百花奖)
 1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen战胜hle)
-1. [中学要求新生填家长职务和车价](https://www.zhihu.com/search?q=中学要求新生填家长职务和车价)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
 1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex市值暴跌)
 1. [台风白海豚](https://www.zhihu.com/search?q=台风白海豚)
 1. [你的公积金将有新变化](https://www.zhihu.com/search?q=你的公积金将有新变化)
+1. [市监局通报牛蛙抗生素超标](https://www.zhihu.com/search?q=市监局通报牛蛙抗生素超标)
+1. [中学要求新生填家长职务和车价](https://www.zhihu.com/search?q=中学要求新生填家长职务和车价)
 1. [安徽卫视播放AI剧](https://www.zhihu.com/search?q=安徽卫视播放AI剧)
 1. [奶茶鼻祖贡茶被卖了](https://www.zhihu.com/search?q=奶茶鼻祖贡茶被卖了)
 1. [我国新版全月地质图编制完成](https://www.zhihu.com/search?q=我国新版全月地质图编制完成)
