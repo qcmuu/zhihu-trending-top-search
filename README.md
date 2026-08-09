@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 10 2026 05:29:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 10 2026 06:27:59 GMT+0800 (China Standard Time) -->
 
 1. [百花奖](https://www.zhihu.com/search?q=百花奖)
 1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
