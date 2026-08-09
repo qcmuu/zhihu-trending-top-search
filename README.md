@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 09 2026 11:39:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 09 2026 13:01:35 GMT+0800 (China Standard Time) -->
 
-1. [奶茶鼻祖贡茶被卖了](https://www.zhihu.com/search?q=奶茶鼻祖贡茶被卖了)
-1. [我国新版全月地质图编制完成](https://www.zhihu.com/search?q=我国新版全月地质图编制完成)
+1. [百花奖](https://www.zhihu.com/search?q=百花奖)
+1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen战胜hle)
 1. [中学要求新生填家长职务和车价](https://www.zhihu.com/search?q=中学要求新生填家长职务和车价)
@@ -27,11 +27,11 @@
 1. [安徽卫视播放AI剧](https://www.zhihu.com/search?q=安徽卫视播放AI剧)
 1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex市值暴跌)
 1. [台风白海豚](https://www.zhihu.com/search?q=台风白海豚)
+1. [奶茶鼻祖贡茶被卖了](https://www.zhihu.com/search?q=奶茶鼻祖贡茶被卖了)
+1. [我国新版全月地质图编制完成](https://www.zhihu.com/search?q=我国新版全月地质图编制完成)
 1. [为什么人会产生不配得感](https://www.zhihu.com/search?q=为什么人会产生不配得感)
 1. [宇树科技披露战略配售名单](https://www.zhihu.com/search?q=宇树科技披露战略配售名单)
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=儿科医生韩杰因医疗事故罪被判刑)
-1. [百花奖](https://www.zhihu.com/search?q=百花奖)
-1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
 1. [歌手总决赛](https://www.zhihu.com/search?q=歌手总决赛)
 1. [老人多次遭护工打耳光事件已报警](https://www.zhihu.com/search?q=老人多次遭护工打耳光事件已报警)
 1. [tfboys出道十三周年](https://www.zhihu.com/search?q=tfboys出道十三周年)
