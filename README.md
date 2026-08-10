@@ -15,21 +15,30 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 10 2026 13:24:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 10 2026 15:28:00 GMT+0800 (China Standard Time) -->
 
+1. [国乒怎么了](https://www.zhihu.com/search?q=国乒怎么了)
+1. [中学要求新生填家长职务和车价](https://www.zhihu.com/search?q=中学要求新生填家长职务和车价)
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
+1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=《蜘蛛侠：崭新之日》票房)
+1. [台风白海豚](https://www.zhihu.com/search?q=台风白海豚)
+1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=同济大学取消教师长期聘任)
+1. [《奥德赛》刷新 IMAX
+   中国点映记录](https://www.zhihu.com/search?q=《奥德赛》刷新 IMAX
+   中国点映记录)
+1. [2026 暑期档国产片频繁调档](https://www.zhihu.com/search?q=2026
+   暑期档国产片频繁调档)
+1. [第一批抱冬瓜睡觉受害者已出现](https://www.zhihu.com/search?q=第一批抱冬瓜睡觉受害者已出现)
+1. [台风「白海豚」最新状态](https://www.zhihu.com/search?q=台风「白海豚」最新状态)
 1. [东契奇前未婚妻索要5000万和解金](https://www.zhihu.com/search?q=东契奇前未婚妻索要5000万和解金)
 1. [ChatGPT新增思考按钮](https://www.zhihu.com/search?q=ChatGPT新增思考按钮)
 1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen战胜hle)
-1. [中学要求新生填家长职务和车价](https://www.zhihu.com/search?q=中学要求新生填家长职务和车价)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
-1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
 1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex市值暴跌)
 1. [你的公积金将有新变化](https://www.zhihu.com/search?q=你的公积金将有新变化)
 1. [百花奖](https://www.zhihu.com/search?q=百花奖)
-1. [国乒怎么了](https://www.zhihu.com/search?q=国乒怎么了)
-1. [台风白海豚](https://www.zhihu.com/search?q=台风白海豚)
 1. [市监局通报牛蛙抗生素超标](https://www.zhihu.com/search?q=市监局通报牛蛙抗生素超标)
 
 <!-- END -->
