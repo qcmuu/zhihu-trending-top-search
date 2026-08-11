@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 11 2026 15:02:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 11 2026 16:51:44 GMT+0800 (China Standard Time) -->
 
 1. [国乒怎么了](https://www.zhihu.com/search?q=国乒怎么了)
 1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=《蜘蛛侠：崭新之日》票房)
@@ -28,6 +28,7 @@
 1. [台风「白海豚」最新状态](https://www.zhihu.com/search?q=台风「白海豚」最新状态)
 1. [婚外胚胎案丈夫称已销毁胚胎](https://www.zhihu.com/search?q=婚外胚胎案丈夫称已销毁胚胎)
 1. [我国首次证实「胶球」存在](https://www.zhihu.com/search?q=我国首次证实「胶球」存在)
+1. [ai演员接美瞳广告被审判](https://www.zhihu.com/search?q=ai演员接美瞳广告被审判)
 1. [曝王楚钦乒超联赛后左肩都抬不起来](https://www.zhihu.com/search?q=曝王楚钦乒超联赛后左肩都抬不起来)
 
 <!-- END -->
