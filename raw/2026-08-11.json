@@ -1,18 +1,10 @@
 [
-  { "query": "我国反制RBA", "display_query": "我国反制RBA" },
-  {
-    "query": "阿维塔高管称与华为合作非必要",
-    "display_query": "阿维塔高管称与华为合作非必要"
-  },
   { "query": "国乒怎么了", "display_query": "国乒怎么了" },
   {
     "query": "《蜘蛛侠：崭新之日》票房",
     "display_query": "《蜘蛛侠：崭新之日》票房"
   },
-  {
-    "query": "呼兰三个月挽救开花俱乐部",
-    "display_query": "呼兰三个月挽救开花俱乐部"
-  },
+  { "query": "台风白海豚", "display_query": "台风白海豚" },
   {
     "query": "同济大学取消教师长期聘任",
     "display_query": "同济大学取消教师长期聘任"
@@ -22,8 +14,8 @@
     "display_query": "第一批抱冬瓜睡觉受害者已出现"
   },
   {
-    "query": "呼兰三个月让开花俱乐部扭亏为盈",
-    "display_query": "呼兰三个月让开花俱乐部扭亏为盈"
+    "query": "台风「白海豚」最新状态",
+    "display_query": "台风「白海豚」最新状态"
   },
   {
     "query": "婚外胚胎案丈夫称已销毁胚胎",
@@ -33,18 +25,30 @@
     "query": "我国首次证实「胶球」存在",
     "display_query": "我国首次证实「胶球」存在"
   },
-  { "query": "台风白海豚", "display_query": "台风白海豚" },
-  {
-    "query": "《奥德赛》刷新 IMAX 中国点映记录",
-    "display_query": "《奥德赛》刷新 IMAX 中国点映记录"
-  },
-  {
-    "query": "台风「白海豚」最新状态",
-    "display_query": "台风「白海豚」最新状态"
-  },
   {
     "query": "ai演员接美瞳广告被审判",
     "display_query": "ai演员接美瞳广告被审判"
+  },
+  {
+    "query": "蓝箭朱雀三号火箭近日试飞",
+    "display_query": "蓝箭朱雀三号火箭近日试飞"
+  },
+  { "query": "我国反制RBA", "display_query": "我国反制RBA" },
+  {
+    "query": "阿维塔高管称与华为合作非必要",
+    "display_query": "阿维塔高管称与华为合作非必要"
+  },
+  {
+    "query": "呼兰三个月挽救开花俱乐部",
+    "display_query": "呼兰三个月挽救开花俱乐部"
+  },
+  {
+    "query": "呼兰三个月让开花俱乐部扭亏为盈",
+    "display_query": "呼兰三个月让开花俱乐部扭亏为盈"
+  },
+  {
+    "query": "《奥德赛》刷新 IMAX 中国点映记录",
+    "display_query": "《奥德赛》刷新 IMAX 中国点映记录"
   },
   {
     "query": "曝王楚钦乒超联赛后左肩都抬不起来",
