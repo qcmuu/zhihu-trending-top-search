@@ -15,18 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 12 2026 16:14:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 12 2026 18:00:38 GMT+0800 (China Standard Time) -->
 
-1. [国乒怎么了](https://www.zhihu.com/search?q=国乒怎么了)
+1. [工业富联上半年净利润同比增长96%](https://www.zhihu.com/search?q=工业富联上半年净利润同比增长96%)
 1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=《蜘蛛侠：崭新之日》票房)
 1. [台风白海豚](https://www.zhihu.com/search?q=台风白海豚)
 1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=同济大学取消教师长期聘任)
-1. [第一批抱冬瓜睡觉受害者已出现](https://www.zhihu.com/search?q=第一批抱冬瓜睡觉受害者已出现)
 1. [台风「白海豚」最新状态](https://www.zhihu.com/search?q=台风「白海豚」最新状态)
 1. [婚外胚胎案丈夫称已销毁胚胎](https://www.zhihu.com/search?q=婚外胚胎案丈夫称已销毁胚胎)
 1. [我国首次证实「胶球」存在](https://www.zhihu.com/search?q=我国首次证实「胶球」存在)
 1. [蓝箭朱雀三号火箭近日试飞](https://www.zhihu.com/search?q=蓝箭朱雀三号火箭近日试飞)
 1. [于东来称不达国际一流就关店](https://www.zhihu.com/search?q=于东来称不达国际一流就关店)
+1. [《欢迎来龙餐馆》热映](https://www.zhihu.com/search?q=《欢迎来龙餐馆》热映)
+1. [国乒怎么了](https://www.zhihu.com/search?q=国乒怎么了)
+1. [第一批抱冬瓜睡觉受害者已出现](https://www.zhihu.com/search?q=第一批抱冬瓜睡觉受害者已出现)
 1. [印尼赛车比赛事故7死9重伤](https://www.zhihu.com/search?q=印尼赛车比赛事故7死9重伤)
 1. [ai演员接美瞳广告被审判](https://www.zhihu.com/search?q=ai演员接美瞳广告被审判)
 1. [媒体曝网红「雅典娜」确认遇害](https://www.zhihu.com/search?q=媒体曝网红「雅典娜」确认遇害)
