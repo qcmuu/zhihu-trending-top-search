@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 13 2026 16:18:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 13 2026 18:02:07 GMT+0800 (China Standard Time) -->
 
 1. [台风白海豚](https://www.zhihu.com/search?q=台风白海豚)
 1. [台风「白海豚」最新状态](https://www.zhihu.com/search?q=台风「白海豚」最新状态)
@@ -26,6 +26,7 @@
 1. [台风白海豚大到能覆盖整个华东](https://www.zhihu.com/search?q=台风白海豚大到能覆盖整个华东)
 1. [白海豚10级风圈](https://www.zhihu.com/search?q=白海豚10级风圈)
 1. [白海豚提前登陆](https://www.zhihu.com/search?q=白海豚提前登陆)
+1. [台风白海豚在浙江玉环沿海登陆](https://www.zhihu.com/search?q=台风白海豚在浙江玉环沿海登陆)
 1. [麦积山景区看所有石窟需2000元](https://www.zhihu.com/search?q=麦积山景区看所有石窟需2000元)
 
 <!-- END -->
