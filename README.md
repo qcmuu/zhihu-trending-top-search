@@ -15,18 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 14 2026 16:13:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 14 2026 17:58:08 GMT+0800 (China Standard Time) -->
 
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
 1. [河南三支一扶考试存组织作弊犯罪](https://www.zhihu.com/search?q=河南三支一扶考试存组织作弊犯罪)
 1. [河南三支一扶笔试将重考](https://www.zhihu.com/search?q=河南三支一扶笔试将重考)
 1. [《欢迎来龙餐馆》热映](https://www.zhihu.com/search?q=《欢迎来龙餐馆》热映)
 1. [苹果被曝正测试长鑫存储芯片](https://www.zhihu.com/search?q=苹果被曝正测试长鑫存储芯片)
-1. [于东来回应关闭胖东来生活广场店](https://www.zhihu.com/search?q=于东来回应关闭胖东来生活广场店)
 1. [王骁获百花奖最佳男配](https://www.zhihu.com/search?q=王骁获百花奖最佳男配)
 1. [萨日娜获百花奖最佳女配](https://www.zhihu.com/search?q=萨日娜获百花奖最佳女配)
 1. [《南京照相馆》最佳编剧奖](https://www.zhihu.com/search?q=《南京照相馆》最佳编剧奖)
 1. [卫诗雅百花奖最佳女主角](https://www.zhihu.com/search?q=卫诗雅百花奖最佳女主角)
+1. [大鹏百花奖最佳导演奖](https://www.zhihu.com/search?q=大鹏百花奖最佳导演奖)
+1. [于东来回应关闭胖东来生活广场店](https://www.zhihu.com/search?q=于东来回应关闭胖东来生活广场店)
 
 <!-- END -->
 
