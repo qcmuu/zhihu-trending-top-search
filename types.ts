@@ -3,9 +3,16 @@ export type SearchWord = {
   display_query: string;
 };
 
+/** recommend_query/v2 接口返回的原始词条字段 */
+export type RecommendQuery = {
+  query: string;
+  query_display: string;
+  real_query: string;
+};
+
 export type TopSearch = {
-  top_search: {
-    words: SearchWord[];
+  recommend_queries: {
+    queries: RecommendQuery[] | null;
   };
 };
 
