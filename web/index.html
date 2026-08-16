@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>知乎热搜榜 · 历史回溯（2020-11-24 起）</title>
+    <meta name="description"
+      content="浏览任意一天知乎热搜榜，检索任意关键词历史上哪些天上榜。数据自 2020-11-24 起。">
+    <link rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ctext y='14' font-size='14'%3E%E2%9D%93%3C/text%3E%3C/svg%3E">
+    <style>
+    :root {
+      --bg: #ffffff;
+      --fg: #1a1a1a;
+      --muted: #6b7280;
+      --border: #e5e7eb;
+      --card: #f9fafb;
+      --accent: #0066ff;
+      --accent-weak: #e6efff;
+      --rank: #0084ff;
+      --radius: 8px;
+      --maxw: 880px;
+      --mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    }
+    :root[data-theme="dark"] {
+      --bg: #0f1115;
+      --fg: #e8eaed;
+      --muted: #9aa0aa;
+      --border: #2a2f38;
+      --card: #171a21;
+      --accent: #4d94ff;
+      --accent-weak: #1a2740;
+      --rank: #6cb2ff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme]) {
+        --bg: #0f1115;
+        --fg: #e8eaed;
+        --muted: #9aa0aa;
+        --border: #2a2f38;
+        --card: #171a21;
+        --accent: #4d94ff;
+        --accent-weak: #1a2740;
+        --rank: #6cb2ff;
+      }
+    }
+    * {
+      box-sizing: border-box;
+    }
+    html {
+      color-scheme: light dark;
+    }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--fg);
+      font: 16px/1.6 system-ui, -apple-system, "PingFang SC", "Microsoft YaHei",
+        sans-serif;
+      padding: 24px 16px 64px;
+    }
+    .wrap {
+      max-width: var(--maxw);
+      margin: 0 auto;
+    }
+    header h1 {
+      margin: 0 0 4px;
+      font-size: 1.5rem;
+    }
+    header .sub {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-bottom: 20px;
+    }
+    .stats {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-bottom: 16px;
+    }
+    .stats b {
+      color: var(--fg);
+      font-variant-numeric: tabular-nums;
+    }
+
+    /* tabs */
+    .tabs {
+      display: flex;
+      gap: 4px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 20px;
+    }
+    .tabs button {
+      appearance: none;
+      border: 0;
+      background: transparent;
+      color: var(--muted);
+      padding: 10px 16px;
+      font: inherit;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+    }
+    .tabs button[aria-selected="true"] {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      font-weight: 600;
+    }
+    .tabs button:hover {
+      color: var(--fg);
+    }
+
+    /* controls */
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .controls input[type="date"] {
+      flex: 1 1 200px;
+      min-width: 0;
+      padding: 9px 12px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--bg);
+      color: var(--fg);
+      font: inherit;
+    }
+    .controls input[type="search"] {
+      flex: 1 1 260px;
+      min-width: 0;
+      padding: 9px 14px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--bg);
+      color: var(--fg);
+      font: inherit;
+    }
+    button.btn {
+      padding: 9px 14px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--card);
+      color: var(--fg);
+      font: inherit;
+      cursor: pointer;
+    }
+    button.btn:hover {
+      border-color: var(--accent);
+    }
+    button.btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    /* list */
+    ol.list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      counter-reset: rank;
+    }
+    ol.list > li {
+      counter-increment: rank;
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border);
+    }
+    ol.list > li::before {
+      content: counter(rank);
+      min-width: 1.8em;
+      font-variant-numeric: tabular-nums;
+      font-weight: 600;
+      color: var(--rank);
+      text-align: right;
+    }
+    ol.list a {
+      color: var(--fg);
+      text-decoration: none;
+    }
+    ol.list a:hover {
+      color: var(--accent);
+      text-decoration: underline;
+    }
+    ol.list .badge {
+      margin-left: auto;
+      font-size: 0.78rem;
+      color: var(--muted);
+      font-family: var(--mono);
+      white-space: nowrap;
+    }
+
+    /* search result rows */
+    .result {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border);
+    }
+    .result a {
+      color: var(--fg);
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .result a:hover {
+      color: var(--accent);
+    }
+    .result .meta {
+      color: var(--muted);
+      font-size: 0.82rem;
+      margin-top: 2px;
+      font-family: var(--mono);
+    }
+
+    .section-title {
+      margin: 28px 0 12px;
+      font-size: 1.05rem;
+      color: var(--muted);
+      font-weight: 600;
+    }
+    .hint {
+      color: var(--muted);
+      font-size: 0.85rem;
+      padding: 8px 0;
+    }
+
+    /* states */
+    #loading,
+    #error {
+      text-align: center;
+      padding: 48px 16px;
+      color: var(--muted);
+    }
+    #error {
+      color: #c0392b;
+    }
+    .spinner {
+      width: 28px;
+      height: 28px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      margin: 0 auto 12px;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    .theme-toggle {
+      margin-left: auto;
+    }
+    footer {
+      margin-top: 40px;
+      color: var(--muted);
+      font-size: 0.8rem;
+      line-height: 1.8;
+    }
+    footer a {
+      color: var(--muted);
+    }
+    </style>
+  </head>
+  <body>
+    <div class="wrap" hidden id="app">
+      <header>
+        <h1>知乎热搜榜 · 历史回溯</h1>
+        <div
+          class="sub">浏览任意一天榜单，检索任意关键词历史上哪些天上榜。</div>
+        <div class="stats">
+          <span>归档 <b id="stat-days">-</b> 天</span>
+          <span>共 <b id="stat-entries">-</b> 条热搜</span>
+          <span>区间 <b id="stat-range">-</b></span>
+          <button class="btn theme-toggle" id="theme-toggle" type="button"
+            aria-label="切换主题">🌙</button>
+        </div>
+      </header>
+
+      <div class="tabs" role="tablist">
+        <button role="tab" id="tab-browse" aria-selected="true"
+          aria-controls="browse" type="button">按日期浏览</button>
+        <button role="tab" id="tab-search" aria-selected="false"
+          aria-controls="search" type="button">关键词检索</button>
+      </div>
+
+      <!-- 浏览视图 -->
+      <section id="browse" role="tabpanel" aria-labelledby="tab-browse">
+        <div class="controls">
+          <button class="btn" id="prev-day" type="button"
+            title="上一天（←）">← 上一天</button>
+          <input type="date" id="date-input" aria-label="选择日期">
+          <button class="btn" id="next-day" type="button"
+            title="下一天（→）">下一天 →</button>
+        </div>
+        <h2 class="section-title" id="browse-title">加载中…</h2>
+        <ol class="list" id="browse-list"></ol>
+
+        <h3 class="section-title">历史上的今天</h3>
+        <div class="hint" id="onthisday-empty"
+          hidden>该日暂无其它年份数据。</div>
+        <ol class="list" id="onthisday-list"
+          style="counter-reset: rank 0;"></ol>
+      </section>
+
+      <!-- 搜索视图 -->
+      <section id="search" role="tabpanel" aria-labelledby="tab-search" hidden>
+        <div class="controls">
+          <input type="search" id="search-input"
+            placeholder="输入关键词，如「苹果」「疫情」「嫦娥」"
+            aria-label="搜索关键词">
+        </div>
+        <div class="hint"
+          id="search-hint">输入至少一个字符开始检索（在标题与搜索词字段中匹配）。</div>
+        <h2 class="section-title" id="search-title" hidden></h2>
+        <div id="search-list"></div>
+      </section>
+
+      <footer>
+    数据来源：<a href="https://github.com/justjavac/zhihu-trending-top-search">zhihu-trending-top-search</a>（每小时抓取一次知乎热搜接口并按天归档）。
+    <br>本页为纯静态前端，数据一次性加载后全部在浏览器本地计算。
+  </footer>
+    </div>
+
+    <div
+      id="loading"><div class="spinner"></div>正在加载索引（约 700KB，gzip）…</div>
+    <div id="error" hidden>加载失败，请稍后重试。</div>
+
+    <script type="module">
+    import {
+      formatDateCN,
+      loadIndex,
+      nearestDate,
+      onThisDay,
+      searchIndex,
+      sortedDates,
+      stepDate,
+    } from "./app.js";
+
+    const INDEX_URL = "./index.json";
+    const $ = (id) => document.getElementById(id);
+
+    let INDEX = null;
+    let DATES = [];
+    const state = { tab: "browse", currentDate: null };
+
+    // ---------- 视图渲染 ----------
+    function renderBrowse(date) {
+      const list = INDEX.days[date] || [];
+      state.currentDate = date;
+      $("date-input").value = date;
+      $("browse-title").textContent = `${
+        formatDateCN(date)
+      } · 共 ${list.length} 条`;
+      const el = $("browse-list");
+      el.innerHTML = "";
+      if (list.length === 0) {
+        el.innerHTML = `<li class="hint">该日期无归档数据。</li>`;
+      } else {
+        for (const [display, query] of list) {
+          const li = document.createElement("li");
+          const a = document.createElement("a");
+          a.href = `https://www.zhihu.com/search?q=${encodeURIComponent(query)}`;
+          a.target = "_blank";
+          a.rel = "noopener noreferrer";
+          a.textContent = display;
+          li.appendChild(a);
+          el.appendChild(li);
+        }
+      }
+      // 历史上的今天
+      const ot = onThisDay(INDEX, date).sort((a, b) =>
+        b.date.localeCompare(a.date)
+      );
+      const otEl = $("onthisday-list");
+      otEl.innerHTML = "";
+      $("onthisday-empty").hidden = ot.length > 0;
+      for (const item of ot) {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = `https://www.zhihu.com/search?q=${encodeURIComponent(item.query)}`;
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+        a.textContent = item.display;
+        li.appendChild(a);
+        const badge = document.createElement("span");
+        badge.className = "badge";
+        badge.textContent = `${item.date} · ${item.yearsAgo} 年前`;
+        li.appendChild(badge);
+        otEl.appendChild(li);
+      }
+      // 边界禁用
+      const ix = DATES.indexOf(date);
+      $("prev-day").disabled = ix <= 0;
+      $("next-day").disabled = ix >= DATES.length - 1;
+    }
+
+    let searchTimer = null;
+    function renderSearch(keyword) {
+      const out = $("search-list");
+      const titleEl = $("search-title");
+      const hintEl = $("search-hint");
+      out.innerHTML = "";
+      if (!keyword || keyword.trim() === "") {
+        titleEl.hidden = true;
+        hintEl.hidden = false;
+        return;
+      }
+      hintEl.hidden = true;
+      const results = searchIndex(INDEX, keyword.trim());
+      titleEl.hidden = false;
+      titleEl.textContent = `共命中 ${results.length} 次`;
+      if (results.length === 0) {
+        out.innerHTML = `<div class="hint">未找到包含「${keyword}」的热搜。</div>`;
+        return;
+      }
+      // 性能：超大量结果仅渲染前 500 条，提示总数
+      const CAP = 500;
+      const shown = results.slice(0, CAP);
+      const frag = document.createDocumentFragment();
+      for (const r of shown) {
+        const row = document.createElement("div");
+        row.className = "result";
+        const a = document.createElement("a");
+        a.href = `https://www.zhihu.com/search?q=${encodeURIComponent(r.query)}`;
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+        a.textContent = r.display;
+        const meta = document.createElement("div");
+        meta.className = "meta";
+        meta.textContent = `${r.date} · 当日第 ${r.rank} 名`;
+        row.appendChild(a);
+        row.appendChild(meta);
+        frag.appendChild(row);
+      }
+      out.appendChild(frag);
+      if (results.length > CAP) {
+        const more = document.createElement("div");
+        more.className = "hint";
+        more.textContent =
+          `仅显示前 ${CAP} 条，共 ${results.length} 次命中，请缩小范围。`;
+        out.appendChild(more);
+      }
+    }
+
+    // ---------- 交互 ----------
+    function switchTab(name) {
+      state.tab = name;
+      $("tab-browse").ariaSelected = name === "browse";
+      $("tab-search").ariaSelected = name === "search";
+      $("browse").hidden = name !== "browse";
+      $("search").hidden = name !== "search";
+      if (name === "search") $("search-input").focus();
+    }
+
+    function step(delta) {
+      const next = stepDate(INDEX, state.currentDate, delta);
+      if (next) renderBrowse(next);
+    }
+
+    async function main() {
+      try {
+        INDEX = await loadIndex(INDEX_URL);
+      } catch (e) {
+        console.error(e);
+        $("loading").hidden = true;
+        $("error").hidden = false;
+        return;
+      }
+      DATES = sortedDates(INDEX);
+      $("loading").hidden = true;
+      $("app").hidden = false;
+
+      $("stat-days").textContent = INDEX.meta.days.toLocaleString();
+      $("stat-entries").textContent = INDEX.meta.entries.toLocaleString();
+      $("stat-range").textContent = `${INDEX.meta.start} → ${INDEX.meta.end}`;
+
+      // 默认展示最近有数据的日期
+      renderBrowse(INDEX.meta.end);
+
+      // 事件绑定
+      $("tab-browse").addEventListener("click", () => switchTab("browse"));
+      $("tab-search").addEventListener("click", () => switchTab("search"));
+
+      $("prev-day").addEventListener("click", () => step(-1));
+      $("next-day").addEventListener("click", () => step(+1));
+      $("date-input").addEventListener("change", (e) => {
+        const want = e.target.value;
+        // 用户可能选到缺失日：就近吸附到最近的归档日
+        const adj = INDEX.days[want]
+          ? want
+          : nearestDate(INDEX, want, want > (state.currentDate || "") ? -1 : +1);
+        renderBrowse(adj || INDEX.meta.end);
+      });
+
+      const si = $("search-input");
+      si.addEventListener("input", () => {
+        clearTimeout(searchTimer);
+        searchTimer = setTimeout(() => renderSearch(si.value), 150);
+      });
+
+      document.addEventListener("keydown", (e) => {
+        if (e.target.tagName === "INPUT" && e.target.type === "search") return;
+        if (state.tab !== "browse") return;
+        if (e.key === "ArrowLeft") {
+          e.preventDefault();
+          step(-1);
+        }
+        if (e.key === "ArrowRight") {
+          e.preventDefault();
+          step(+1);
+        }
+      });
+
+      // 主题：尊重系统 + 本地记忆
+      const savedTheme = localStorage.getItem("theme");
+      if (savedTheme) document.documentElement.dataset.theme = savedTheme;
+      $("theme-toggle").addEventListener("click", () => {
+        const cur = document.documentElement.dataset.theme ||
+          (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        const next = cur === "dark" ? "light" : "dark";
+        document.documentElement.dataset.theme = next;
+        localStorage.setItem("theme", next);
+        $("theme-toggle").textContent = next === "dark" ? "☀️" : "🌙";
+      });
+      // 初始化图标
+      const curTheme = document.documentElement.dataset.theme ||
+        (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      $("theme-toggle").textContent = curTheme === "dark" ? "☀️" : "🌙";
+    }
+
+    main();
+    </script>
+  </body>
+</html>
