@@ -11,25 +11,24 @@
     "query": "日本人战斗分队在乌成立",
     "display_query": "日本人战斗分队在乌成立"
   },
-  { "query": "Zhihu CLI上线", "display_query": "Zhihu CLI上线" },
   {
     "query": "3到5年内社保走向全额实缴",
     "display_query": "3到5年内社保走向全额实缴"
   },
+  { "query": "Zhihu CLI上线", "display_query": "Zhihu CLI上线" },
   {
     "query": "DeepSeek 新定价已生效",
     "display_query": "DeepSeek 新定价已生效"
   },
-  { "query": "蓝盈莹承认新恋情", "display_query": "蓝盈莹承认新恋情" },
-  {
-    "query": "协和医生用AI解决22年数学难题",
-    "display_query": "协和医生用AI解决22年数学难题"
-  },
+  { "query": "时代峰峻五代被喊嘉豪", "display_query": "时代峰峻五代被喊嘉豪" },
   {
     "query": "三孩非亲生案女方当庭承认出轨",
     "display_query": "三孩非亲生案女方当庭承认出轨"
   },
-  { "query": "时代峰峻五代被喊嘉豪", "display_query": "时代峰峻五代被喊嘉豪" },
+  {
+    "query": "协和医生用AI解决22年数学难题",
+    "display_query": "协和医生用AI解决22年数学难题"
+  },
   {
     "query": "比亚迪销量骤降吉利争销冠",
     "display_query": "比亚迪销量骤降吉利争销冠"
@@ -38,6 +37,7 @@
     "query": "宇树科技8月19日科创板上市",
     "display_query": "宇树科技8月19日科创板上市"
   },
+  { "query": "蓝盈莹承认新恋情", "display_query": "蓝盈莹承认新恋情" },
   { "query": "网红小家电集体吃灰", "display_query": "网红小家电集体吃灰" },
   { "query": "A 股的牛要来了吗", "display_query": "A 股的牛要来了吗" }
 ]
