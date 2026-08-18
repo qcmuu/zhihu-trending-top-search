@@ -24,7 +24,7 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 19 2026 06:20:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 19 2026 07:19:12 GMT+0800 (China Standard Time) -->
 1. [招商蛇口高管涉酒局伤害女性被刑拘](https://www.zhihu.com/search?q=%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E9%AB%98%E7%AE%A1%E6%B6%89%E9%85%92%E5%B1%80%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [时代峰峻五代被喊嘉豪](https://www.zhihu.com/search?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E4%BA%94%E4%BB%A3%E8%A2%AB%E5%96%8A%E5%98%89%E8%B1%AA)
 1. [官方修改《住房公积金管理条例》](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E4%BF%AE%E6%94%B9%E3%80%8A%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B%E3%80%8B)
