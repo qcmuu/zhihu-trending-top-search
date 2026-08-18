@@ -1,18 +1,27 @@
-# zhihu-trending-top-search
+<div align="center">
 
-[![Build Status](https://github.com/justjavac/zhihu-trending-top-search/workflows/ci/badge.svg?branch=main)](https://github.com/justjavac/zhihu-trending-top-search/actions)
-[![license](https://img.shields.io/github/license/justjavac/zhihu-trending-top-search)](https://github.com/justjavac/zhihu-trending-top-search/blob/main/LICENSE)
+# 知乎热搜榜
 
-知乎热搜榜，记录从 2020-11-24
-日开始的知乎热搜榜单。每小时抓取一次数据，按天[归档](./archives)。
+知乎不提供历史热搜。这个仓库从 **2020-11-24** 起每小时抓一次，按天存下来。
 
-## 相关项目
+两千多天 · 五万多条 · 可按日翻 · 可按词搜
 
-- [知乎热门话题](https://github.com/justjavac/zhihu-trending-hot-questions)
-- [知乎热门视频](https://github.com/justjavac/zhihu-trending-hot-video)
-- [微博热搜榜](https://github.com/justjavac/weibo-trending-hot-search)
+**[打开在线浏览](https://qcmuu.github.io/zhihu-trending-top-search/)**
 
-## 今日热搜榜
+[![ci](https://github.com/qcmuu/zhihu-trending-top-search/actions/workflows/ci.yml/badge.svg)](https://github.com/qcmuu/zhihu-trending-top-search/actions)
+[![pages](https://img.shields.io/badge/demo-在线浏览-9c1c16)](https://qcmuu.github.io/zhihu-trending-top-search/)
+[![license](https://img.shields.io/github/license/qcmuu/zhihu-trending-top-search)](LICENSE)
+
+<p>
+  <a href="https://qcmuu.github.io/zhihu-trending-top-search/"><img src="docs/preview-browse.png" width="48%" alt="按日期浏览某一天的热搜" /></a>
+  <a href="https://qcmuu.github.io/zhihu-trending-top-search/"><img src="docs/preview-search.png" width="48%" alt="检索「疫情」命中 779 次" /></a>
+</p>
+
+</div>
+
+Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or search which days a keyword hit the list.
+
+## 今日热搜
 
 <!-- BEGIN -->
 <!-- 最后更新时间 Tue Aug 18 2026 22:30:30 GMT+0800 (China Standard Time) -->
@@ -34,11 +43,45 @@
 
 <!-- END -->
 
-历史归档 [./archives](./archives)
+按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
 
-已知缺失日期见 [./archives/MISSING.md](./archives/MISSING.md)
+## 数据长什么样
 
-### License
+`raw/2020-11-24.json` 一类，一天一个文件：
 
-[zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search)
-的源码使用 MIT License 发布。具体内容请查看 [LICENSE](./LICENSE) 文件。
+```json
+[
+  { "query": "嫦娥五号", "display_query": "嫦娥五号发射成功" }
+]
+```
+
+`display_query` 是榜上那行字，`query` 是点进去搜的词。同一天里按 `display_query` 去重。一天会采很多次，文件是并集，不是某一小时的完整排名快照。
+
+静态站用的是 [web/index.json](./web/index.json)：按日期压成 `[display_query, query]`，数组下标就是当天顺序。浏览器一次性加载，检索在本地做。
+
+## 采集
+
+GitHub Actions 每小时跑一次：拉当前热搜 → 并进当天的 JSON / Markdown → 重建索引 → 推回仓库。知乎换过接口，现在走 `recommend_query/v2`。
+
+自己跑的话需要 [Deno](https://deno.com/)，然后：
+
+```bash
+deno run --allow-net --allow-read --allow-write --import-map=import_map.json mod.ts
+deno run --allow-read --allow-write --import-map=import_map.json build_index.ts
+```
+
+Fork 之后打开 Actions 即可继续采。静态站没有后端，把 `web/` 丢到任意静态托管就能用。
+
+## 来源
+
+采集思路来自 [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search)。本仓库在归档之外加了可检索的静态站。
+
+同系列：
+
+- [知乎热门话题](https://github.com/justjavac/zhihu-trending-hot-questions)
+- [知乎热门视频](https://github.com/justjavac/zhihu-trending-hot-video)
+- [微博热搜榜](https://github.com/justjavac/weibo-trending-hot-search)
+
+## License
+
+[MIT](LICENSE)

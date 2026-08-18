@@ -7,156 +7,233 @@
     <meta name="description"
       content="浏览任意一天知乎热搜榜，检索任意关键词历史上哪些天上榜。数据自 2020-11-24 起。">
     <link rel="icon"
-      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ctext y='14' font-size='14'%3E%E2%9D%93%3C/text%3E%3C/svg%3E">
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='3' fill='%239c1c16'/%3E%3Ctext x='16' y='22' text-anchor='middle' fill='%23f3ead8' font-size='16' font-family='serif'%3E%E7%83%AD%3C/text%3E%3C/svg%3E">
     <style>
     :root {
-      --bg: #ffffff;
-      --fg: #1a1a1a;
-      --muted: #6b7280;
-      --border: #e5e7eb;
-      --card: #f9fafb;
-      --accent: #0066ff;
-      --accent-weak: #e6efff;
-      --rank: #0084ff;
-      --radius: 8px;
-      --maxw: 880px;
-      --mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+      --bg: #f3ead8;
+      --fg: #1a1510;
+      --muted: #6e6256;
+      --rule: #2a2118;
+      --border: rgba(42, 33, 24, 0.16);
+      --card: #efe4ce;
+      --accent: #9c1c16;
+      --accent-weak: #f0d6c8;
+      --rank: #9c1c16;
+      --rank-2: #b85a1a;
+      --rank-3: #8a6a18;
+      --radius: 2px;
+      --maxw: 760px;
+      --display: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC",
+        "STSong", "Noto Serif SC", serif;
+      --sans: "PingFang SC", "Hiragino Sans GB", "Source Han Sans SC",
+        "Noto Sans SC", "Microsoft YaHei", sans-serif;
+      --mono: "IBM Plex Mono", "SFMono-Regular", Menlo, Consolas, monospace;
     }
     :root[data-theme="dark"] {
-      --bg: #0f1115;
-      --fg: #e8eaed;
-      --muted: #9aa0aa;
-      --border: #2a2f38;
-      --card: #171a21;
-      --accent: #4d94ff;
-      --accent-weak: #1a2740;
-      --rank: #6cb2ff;
-    }
-    @media (prefers-color-scheme: dark) {
-      :root:not([data-theme]) {
-        --bg: #0f1115;
-        --fg: #e8eaed;
-        --muted: #9aa0aa;
-        --border: #2a2f38;
-        --card: #171a21;
-        --accent: #4d94ff;
-        --accent-weak: #1a2740;
-        --rank: #6cb2ff;
-      }
+      --bg: #1b1610;
+      --fg: #efe6d4;
+      --muted: #a89884;
+      --rule: #c4b49a;
+      --border: rgba(239, 230, 212, 0.14);
+      --card: #241e16;
+      --accent: #e07060;
+      --accent-weak: #3a221c;
+      --rank: #e07060;
+      --rank-2: #e09a5a;
+      --rank-3: #c4b06a;
     }
     * {
       box-sizing: border-box;
     }
     html {
       color-scheme: light dark;
+      -webkit-font-smoothing: antialiased;
     }
     body {
       margin: 0;
+      min-height: 100vh;
       background: var(--bg);
       color: var(--fg);
-      font: 16px/1.6 system-ui, -apple-system, "PingFang SC", "Microsoft YaHei",
-        sans-serif;
-      padding: 24px 16px 64px;
+      font: 16px/1.65 var(--sans);
+      padding: 36px 20px 80px;
+    }
+    body::before {
+      content: "";
+      pointer-events: none;
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      opacity: 0.28;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/%3E%3C/svg%3E");
+    }
+    :root[data-theme="dark"] body::before {
+      opacity: 0.16;
     }
     .wrap {
+      position: relative;
+      z-index: 1;
       max-width: var(--maxw);
       margin: 0 auto;
     }
+    #app {
+      animation: rise 0.45s cubic-bezier(0.2, 0, 0, 1);
+    }
+    @keyframes rise {
+      from {
+        opacity: 0;
+        transform: translateY(8px);
+      }
+      to {
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+    header {
+      text-align: center;
+      padding-bottom: 0;
+      border-top: 3px solid var(--rule);
+      border-bottom: 1px solid var(--rule);
+    }
+    header .kicker {
+      margin: 10px 0 0;
+      font-size: 0.72rem;
+      letter-spacing: 0.28em;
+      text-indent: 0.28em;
+      color: var(--muted);
+    }
     header h1 {
-      margin: 0 0 4px;
-      font-size: 1.5rem;
+      margin: 8px 0 4px;
+      font-family: var(--display);
+      font-size: clamp(1.8rem, 5vw, 2.6rem);
+      font-weight: 600;
+      letter-spacing: 0.42em;
+      text-indent: 0.42em;
+      line-height: 1.2;
+      text-wrap: balance;
     }
     header .sub {
       color: var(--muted);
       font-size: 0.9rem;
-      margin-bottom: 20px;
+      margin: 0 0 14px;
     }
     .stats {
       display: flex;
-      gap: 16px;
+      justify-content: center;
+      align-items: stretch;
+      gap: 0;
       flex-wrap: wrap;
-      color: var(--muted);
-      font-size: 0.85rem;
-      margin-bottom: 16px;
+      border-top: 1px solid var(--border);
     }
-    .stats b {
+    .stat {
+      display: flex;
+      flex: 1 1 0;
+      flex-direction: column;
+      align-items: center;
+      gap: 2px;
+      padding: 12px 16px;
+      min-width: 0;
+    }
+    .stat + .stat {
+      border-left: 1px solid var(--border);
+    }
+    .stat .lbl {
+      font-size: 0.68rem;
+      letter-spacing: 0.16em;
+      color: var(--muted);
+    }
+    .stat b {
       color: var(--fg);
+      font-family: var(--display);
+      font-size: 1.15rem;
+      font-weight: 600;
       font-variant-numeric: tabular-nums;
     }
+    .stat .unit {
+      font-size: 0.72rem;
+      color: var(--muted);
+    }
 
-    /* tabs */
     .tabs {
       display: flex;
+      justify-content: center;
       gap: 4px;
-      border-bottom: 1px solid var(--border);
-      margin-bottom: 20px;
+      margin: 28px 0 20px;
     }
     .tabs button {
       appearance: none;
-      border: 0;
+      border: 1px solid transparent;
       background: transparent;
       color: var(--muted);
-      padding: 10px 16px;
+      min-height: 40px;
+      padding: 8px 18px;
       font: inherit;
       cursor: pointer;
-      border-bottom: 2px solid transparent;
-      margin-bottom: -1px;
+      letter-spacing: 0.08em;
     }
     .tabs button[aria-selected="true"] {
-      color: var(--accent);
-      border-bottom-color: var(--accent);
-      font-weight: 600;
+      color: var(--fg);
+      border-color: var(--rule);
+      background: var(--card);
     }
     .tabs button:hover {
       color: var(--fg);
     }
+    .tabs button:focus-visible,
+    button.btn:focus-visible,
+    input:focus-visible,
+    .theme-toggle:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
 
-    /* controls */
     .controls {
       display: flex;
       align-items: center;
       gap: 8px;
-      margin-bottom: 16px;
+      margin-bottom: 8px;
       flex-wrap: wrap;
     }
-    .controls input[type="date"] {
+    .controls input[type="date"],
+    .controls input[type="search"] {
       flex: 1 1 200px;
       min-width: 0;
-      padding: 9px 12px;
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      background: var(--bg);
-      color: var(--fg);
-      font: inherit;
-    }
-    .controls input[type="search"] {
-      flex: 1 1 260px;
-      min-width: 0;
-      padding: 9px 14px;
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      background: var(--bg);
-      color: var(--fg);
-      font: inherit;
-    }
-    button.btn {
-      padding: 9px 14px;
+      min-height: 40px;
+      padding: 8px 12px;
       border: 1px solid var(--border);
       border-radius: var(--radius);
       background: var(--card);
       color: var(--fg);
       font: inherit;
+    }
+    .controls input[type="search"] {
+      flex-basis: 260px;
+    }
+    button.btn {
+      min-height: 40px;
+      padding: 8px 14px;
+      border: 1px solid var(--rule);
+      border-radius: var(--radius);
+      background: transparent;
+      color: var(--fg);
+      font: inherit;
       cursor: pointer;
+      transition-property: transform, background-color;
+      transition-duration: 120ms;
+      transition-timing-function: cubic-bezier(0.2, 0, 0, 1);
     }
     button.btn:hover {
-      border-color: var(--accent);
+      background: var(--card);
+    }
+    button.btn:active {
+      transform: scale(0.96);
     }
     button.btn:disabled {
-      opacity: 0.4;
+      opacity: 0.35;
       cursor: not-allowed;
+      transform: none;
     }
 
-    /* list */
     ol.list {
       list-style: none;
       padding: 0;
@@ -167,17 +244,28 @@
       counter-increment: rank;
       display: flex;
       align-items: baseline;
-      gap: 12px;
-      padding: 12px 14px;
+      gap: 14px;
+      padding: 13px 4px;
       border-bottom: 1px solid var(--border);
     }
     ol.list > li::before {
-      content: counter(rank);
+      content: counter(rank, decimal-leading-zero);
       min-width: 1.8em;
+      font-family: var(--display);
       font-variant-numeric: tabular-nums;
       font-weight: 600;
-      color: var(--rank);
+      font-size: 0.95rem;
+      color: var(--muted);
       text-align: right;
+    }
+    ol.list > li:nth-child(1)::before {
+      color: var(--rank);
+    }
+    ol.list > li:nth-child(2)::before {
+      color: var(--rank-2);
+    }
+    ol.list > li:nth-child(3)::before {
+      color: var(--rank-3);
     }
     ol.list a {
       color: var(--fg);
@@ -185,41 +273,41 @@
     }
     ol.list a:hover {
       color: var(--accent);
-      text-decoration: underline;
     }
     ol.list .badge {
       margin-left: auto;
-      font-size: 0.78rem;
+      font-size: 0.75rem;
       color: var(--muted);
       font-family: var(--mono);
       white-space: nowrap;
     }
 
-    /* search result rows */
     .result {
-      padding: 12px 14px;
+      padding: 13px 4px;
       border-bottom: 1px solid var(--border);
     }
     .result a {
       color: var(--fg);
       text-decoration: none;
-      font-weight: 500;
     }
     .result a:hover {
       color: var(--accent);
     }
     .result .meta {
       color: var(--muted);
-      font-size: 0.82rem;
-      margin-top: 2px;
+      font-size: 0.78rem;
+      margin-top: 3px;
       font-family: var(--mono);
+      font-variant-numeric: tabular-nums;
     }
 
     .section-title {
-      margin: 28px 0 12px;
-      font-size: 1.05rem;
-      color: var(--muted);
+      margin: 32px 0 8px;
+      font-family: var(--display);
+      font-size: 0.95rem;
       font-weight: 600;
+      letter-spacing: 0.12em;
+      color: var(--muted);
     }
     .hint {
       color: var(--muted);
@@ -227,20 +315,19 @@
       padding: 8px 0;
     }
 
-    /* states */
     #loading,
     #error {
       text-align: center;
-      padding: 48px 16px;
+      padding: 80px 16px;
       color: var(--muted);
     }
     #error {
-      color: #c0392b;
+      color: var(--accent);
     }
     .spinner {
-      width: 28px;
-      height: 28px;
-      border: 3px solid var(--border);
+      width: 22px;
+      height: 22px;
+      border: 2px solid var(--border);
       border-top-color: var(--accent);
       border-radius: 50%;
       margin: 0 auto 12px;
@@ -252,32 +339,82 @@
       }
     }
 
+    .toolbar {
+      display: flex;
+      justify-content: flex-end;
+      margin-bottom: 10px;
+    }
     .theme-toggle {
-      margin-left: auto;
+      appearance: none;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      min-width: 40px;
+      min-height: 40px;
+      padding: 0 12px;
+      font: inherit;
+      font-size: 0.8rem;
+      letter-spacing: 0.16em;
+      cursor: pointer;
+    }
+    .theme-toggle:hover {
+      color: var(--fg);
+      border-color: var(--rule);
     }
     footer {
-      margin-top: 40px;
+      margin-top: 48px;
+      padding-top: 16px;
+      border-top: 1px solid var(--rule);
       color: var(--muted);
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       line-height: 1.8;
     }
     footer a {
       color: var(--muted);
     }
+    footer a:hover {
+      color: var(--fg);
+    }
+
+    @media (max-width: 560px) {
+      .stat {
+        flex: 1 1 30%;
+        padding: 12px 8px;
+        min-width: 0;
+      }
+      header h1 {
+        letter-spacing: 0.22em;
+        text-indent: 0.22em;
+      }
+    }
     </style>
   </head>
   <body>
     <div class="wrap" hidden id="app">
+      <div class="toolbar">
+        <button class="theme-toggle" id="theme-toggle" type="button"
+          aria-label="切换主题">夜</button>
+      </div>
       <header>
-        <h1>知乎热搜榜 · 历史回溯</h1>
-        <div
-          class="sub">浏览任意一天榜单，检索任意关键词历史上哪些天上榜。</div>
+        <p class="kicker">自 2020 · 11 · 24　每小时归档</p>
+        <h1>知乎热搜榜</h1>
+        <p class="sub">翻任意一天，或搜一个词哪天上过榜</p>
         <div class="stats">
-          <span>归档 <b id="stat-days">-</b> 天</span>
-          <span>共 <b id="stat-entries">-</b> 条热搜</span>
-          <span>区间 <b id="stat-range">-</b></span>
-          <button class="btn theme-toggle" id="theme-toggle" type="button"
-            aria-label="切换主题">🌙</button>
+          <div class="stat">
+            <span class="lbl">归档</span>
+            <b id="stat-days">-</b>
+            <span class="unit">天</span>
+          </div>
+          <div class="stat">
+            <span class="lbl">词条</span>
+            <b id="stat-entries">-</b>
+            <span class="unit">条</span>
+          </div>
+          <div class="stat">
+            <span class="lbl">起止</span>
+            <b id="stat-range">-</b>
+            <span class="unit">年</span>
+          </div>
         </div>
       </header>
 
@@ -288,14 +425,13 @@
           aria-controls="search" type="button">关键词检索</button>
       </div>
 
-      <!-- 浏览视图 -->
       <section id="browse" role="tabpanel" aria-labelledby="tab-browse">
         <div class="controls">
           <button class="btn" id="prev-day" type="button"
-            title="上一天（←）">← 上一天</button>
+            title="上一天（←）">上一天</button>
           <input type="date" id="date-input" aria-label="选择日期">
           <button class="btn" id="next-day" type="button"
-            title="下一天（→）">下一天 →</button>
+            title="下一天（→）">下一天</button>
         </div>
         <h2 class="section-title" id="browse-title">加载中…</h2>
         <ol class="list" id="browse-list"></ol>
@@ -307,7 +443,6 @@
           style="counter-reset: rank 0;"></ol>
       </section>
 
-      <!-- 搜索视图 -->
       <section id="search" role="tabpanel" aria-labelledby="tab-search" hidden>
         <div class="controls">
           <input type="search" id="search-input"
@@ -321,9 +456,12 @@
       </section>
 
       <footer>
-    数据来源：<a href="https://github.com/justjavac/zhihu-trending-top-search">zhihu-trending-top-search</a>（每小时抓取一次知乎热搜接口并按天归档）。
-    <br>本页为纯静态前端，数据一次性加载后全部在浏览器本地计算。
-  </footer>
+        每小时抓一次知乎热搜接口，按天归档。源码
+        <a href="https://github.com/qcmuu/zhihu-trending-top-search">qcmuu/zhihu-trending-top-search</a>。
+        采集思路来自
+        <a href="https://github.com/justjavac/zhihu-trending-top-search">justjavac</a>。
+        <br>本页无后端，索引加载后全部在浏览器里算。
+      </footer>
     </div>
 
     <div
@@ -348,7 +486,10 @@
     let DATES = [];
     const state = { tab: "browse", currentDate: null };
 
-    // ---------- 视图渲染 ----------
+    function setThemeLabel(theme) {
+      $("theme-toggle").textContent = theme === "dark" ? "昼" : "夜";
+    }
+
     function renderBrowse(date) {
       const list = INDEX.days[date] || [];
       state.currentDate = date;
@@ -364,7 +505,9 @@
         for (const [display, query] of list) {
           const li = document.createElement("li");
           const a = document.createElement("a");
-          a.href = `https://www.zhihu.com/search?q=${encodeURIComponent(query)}`;
+          a.href = `https://www.zhihu.com/search?q=${
+            encodeURIComponent(query)
+          }`;
           a.target = "_blank";
           a.rel = "noopener noreferrer";
           a.textContent = display;
@@ -372,7 +515,6 @@
           el.appendChild(li);
         }
       }
-      // 历史上的今天
       const ot = onThisDay(INDEX, date).sort((a, b) =>
         b.date.localeCompare(a.date)
       );
@@ -382,7 +524,9 @@
       for (const item of ot) {
         const li = document.createElement("li");
         const a = document.createElement("a");
-        a.href = `https://www.zhihu.com/search?q=${encodeURIComponent(item.query)}`;
+        a.href = `https://www.zhihu.com/search?q=${
+          encodeURIComponent(item.query)
+        }`;
         a.target = "_blank";
         a.rel = "noopener noreferrer";
         a.textContent = item.display;
@@ -393,7 +537,6 @@
         li.appendChild(badge);
         otEl.appendChild(li);
       }
-      // 边界禁用
       const ix = DATES.indexOf(date);
       $("prev-day").disabled = ix <= 0;
       $("next-day").disabled = ix >= DATES.length - 1;
@@ -415,10 +558,10 @@
       titleEl.hidden = false;
       titleEl.textContent = `共命中 ${results.length} 次`;
       if (results.length === 0) {
-        out.innerHTML = `<div class="hint">未找到包含「${keyword}」的热搜。</div>`;
+        out.innerHTML =
+          `<div class="hint">未找到包含「${keyword}」的热搜。</div>`;
         return;
       }
-      // 性能：超大量结果仅渲染前 500 条，提示总数
       const CAP = 500;
       const shown = results.slice(0, CAP);
       const frag = document.createDocumentFragment();
@@ -426,7 +569,9 @@
         const row = document.createElement("div");
         row.className = "result";
         const a = document.createElement("a");
-        a.href = `https://www.zhihu.com/search?q=${encodeURIComponent(r.query)}`;
+        a.href = `https://www.zhihu.com/search?q=${
+          encodeURIComponent(r.query)
+        }`;
         a.target = "_blank";
         a.rel = "noopener noreferrer";
         a.textContent = r.display;
@@ -447,7 +592,6 @@
       }
     }
 
-    // ---------- 交互 ----------
     function switchTab(name) {
       state.tab = name;
       $("tab-browse").ariaSelected = name === "browse";
@@ -477,12 +621,12 @@
 
       $("stat-days").textContent = INDEX.meta.days.toLocaleString();
       $("stat-entries").textContent = INDEX.meta.entries.toLocaleString();
-      $("stat-range").textContent = `${INDEX.meta.start} → ${INDEX.meta.end}`;
+      const startY = (INDEX.meta.start || "").slice(0, 4);
+      const endY = (INDEX.meta.end || "").slice(0, 4);
+      $("stat-range").textContent = startY && endY ? `${startY}–${endY}` : "—";
 
-      // 默认展示最近有数据的日期
       renderBrowse(INDEX.meta.end);
 
-      // 事件绑定
       $("tab-browse").addEventListener("click", () => switchTab("browse"));
       $("tab-search").addEventListener("click", () => switchTab("search"));
 
@@ -490,7 +634,6 @@
       $("next-day").addEventListener("click", () => step(+1));
       $("date-input").addEventListener("change", (e) => {
         const want = e.target.value;
-        // 用户可能选到缺失日：就近吸附到最近的归档日
         const adj = INDEX.days[want]
           ? want
           : nearestDate(INDEX, want, want > (state.currentDate || "") ? -1 : +1);
@@ -516,21 +659,16 @@
         }
       });
 
-      // 主题：尊重系统 + 本地记忆
       const savedTheme = localStorage.getItem("theme");
       if (savedTheme) document.documentElement.dataset.theme = savedTheme;
       $("theme-toggle").addEventListener("click", () => {
-        const cur = document.documentElement.dataset.theme ||
-          (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        const cur = document.documentElement.dataset.theme || "light";
         const next = cur === "dark" ? "light" : "dark";
         document.documentElement.dataset.theme = next;
         localStorage.setItem("theme", next);
-        $("theme-toggle").textContent = next === "dark" ? "☀️" : "🌙";
+        setThemeLabel(next);
       });
-      // 初始化图标
-      const curTheme = document.documentElement.dataset.theme ||
-        (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-      $("theme-toggle").textContent = curTheme === "dark" ? "☀️" : "🌙";
+      setThemeLabel(document.documentElement.dataset.theme || "light");
     }
 
     main();
