@@ -21,7 +21,6 @@
     "query": "DeepSeek 新定价已生效",
     "display_query": "DeepSeek 新定价已生效"
   },
-  { "query": "A 股的牛要来了吗", "display_query": "A 股的牛要来了吗" },
   {
     "query": "协和医生用AI解决22年数学难题",
     "display_query": "协和医生用AI解决22年数学难题"
@@ -34,5 +33,7 @@
   {
     "query": "三孩非亲生案女方当庭承认出轨",
     "display_query": "三孩非亲生案女方当庭承认出轨"
-  }
+  },
+  { "query": "时代峰峻五代被喊嘉豪", "display_query": "时代峰峻五代被喊嘉豪" },
+  { "query": "A 股的牛要来了吗", "display_query": "A 股的牛要来了吗" }
 ]
