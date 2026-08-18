@@ -15,9 +15,21 @@ export function mergeWords(
   }));
 }
 
+const README_SLOT = /<!-- BEGIN -->[\W\w]*<!-- END -->/;
+
+function escapeMdLabel(text: string): string {
+  return text.replace(/\\/g, "\\\\").replace(/\[/g, "\\[").replace(
+    /\]/g,
+    "\\]",
+  );
+}
+
 export async function createReadme(words: SearchWord[]): Promise<string> {
   const readme = await Deno.readTextFile("./README.md");
-  return readme.replace(/<!-- BEGIN -->[\W\w]*<!-- END -->/, createList(words));
+  if (!README_SLOT.test(readme)) {
+    throw new Error("README.md 缺少 <!-- BEGIN --> / <!-- END --> 标记");
+  }
+  return readme.replace(README_SLOT, createList(words));
 }
 
 export function createList(words: SearchWord[]): string {
@@ -25,7 +37,9 @@ export function createList(words: SearchWord[]): string {
 <!-- 最后更新时间 ${Date()} -->
 ${
     words.map((x) =>
-      `1. [${x.display_query}](https://www.zhihu.com/search?q=${x.query})`
+      `1. [${escapeMdLabel(x.display_query)}](https://www.zhihu.com/search?q=${
+        encodeURIComponent(x.query)
+      })`
     ).join("\n")
   }
 <!-- END -->`;

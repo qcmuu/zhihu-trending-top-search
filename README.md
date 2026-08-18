@@ -61,7 +61,7 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 
 ## 采集
 
-GitHub Actions 每小时跑一次：拉当前热搜 → 并进当天的 JSON / Markdown → 重建索引 → 推回仓库。知乎换过接口，现在走 `recommend_query/v2`。
+GitHub Actions 每小时跑一次。先拉 `recommend_query/v2`，空了再回退 `top_search`。当天的 JSON / 归档是各小时并集；README 里的「今日热搜」只写这一次抓到的榜。日期按上海日历算，不看 runner 时区。
 
 自己跑的话需要 [Deno](https://deno.com/)，然后：
 

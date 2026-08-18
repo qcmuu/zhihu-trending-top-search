@@ -1,0 +1,12 @@
+{
+  "fmt": {
+    "exclude": [
+      "README.md",
+      "archives/",
+      "raw/",
+      "web/index.json",
+      "docs/",
+      ".playwright-mcp/"
+    ]
+  }
+}

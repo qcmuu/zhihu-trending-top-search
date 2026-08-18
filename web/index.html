@@ -505,9 +505,7 @@
         for (const [display, query] of list) {
           const li = document.createElement("li");
           const a = document.createElement("a");
-          a.href = `https://www.zhihu.com/search?q=${
-            encodeURIComponent(query)
-          }`;
+          a.href = `https://www.zhihu.com/search?q=${encodeURIComponent(query)}`;
           a.target = "_blank";
           a.rel = "noopener noreferrer";
           a.textContent = display;
@@ -524,9 +522,7 @@
       for (const item of ot) {
         const li = document.createElement("li");
         const a = document.createElement("a");
-        a.href = `https://www.zhihu.com/search?q=${
-          encodeURIComponent(item.query)
-        }`;
+        a.href = `https://www.zhihu.com/search?q=${encodeURIComponent(item.query)}`;
         a.target = "_blank";
         a.rel = "noopener noreferrer";
         a.textContent = item.display;
@@ -558,8 +554,7 @@
       titleEl.hidden = false;
       titleEl.textContent = `共命中 ${results.length} 次`;
       if (results.length === 0) {
-        out.innerHTML =
-          `<div class="hint">未找到包含「${keyword}」的热搜。</div>`;
+        out.innerHTML = `<div class="hint">未找到包含「${keyword}」的热搜。</div>`;
         return;
       }
       const CAP = 500;
@@ -569,9 +564,7 @@
         const row = document.createElement("div");
         row.className = "result";
         const a = document.createElement("a");
-        a.href = `https://www.zhihu.com/search?q=${
-          encodeURIComponent(r.query)
-        }`;
+        a.href = `https://www.zhihu.com/search?q=${encodeURIComponent(r.query)}`;
         a.target = "_blank";
         a.rel = "noopener noreferrer";
         a.textContent = r.display;

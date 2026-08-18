@@ -56,6 +56,20 @@ Deno.test("createList", function (): void {
   assertStringIncludes(createList(words), "https://www.zhihu.com/search");
 });
 
+Deno.test("createList encodes query so deno fmt 折行也不会拆坏链接", () => {
+  const list = createList([
+    {
+      query: "朱镕基同志遗体 18 日火化",
+      display_query: "朱镕基同志遗体 18 日火化",
+    },
+  ]);
+  assertStringIncludes(
+    list,
+    "q=" + encodeURIComponent("朱镕基同志遗体 18 日火化"),
+  );
+  assertStringIncludes(list, "朱镕基同志遗体 18 日火化");
+});
+
 Deno.test("createArchive", function (): void {
   const words: SearchWord[] = [
     { query: "foo", display_query: "bar" },
