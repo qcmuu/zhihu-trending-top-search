@@ -4,20 +4,16 @@
     "display_query": "网红小家电集体吃灰"
   },
   {
-    "query": "宇树科技上市",
-    "display_query": "宇树科技上市"
-  },
-  {
     "query": "招商蛇口高管涉酒局伤害女性被刑拘",
     "display_query": "招商蛇口高管涉酒局伤害女性被刑拘"
   },
   {
-    "query": "Zhihu CLI上线",
-    "display_query": "Zhihu CLI上线"
-  },
-  {
     "query": "朱雀三号成功回收",
     "display_query": "朱雀三号成功回收"
+  },
+  {
+    "query": "Zhihu CLI上线",
+    "display_query": "Zhihu CLI上线"
   },
   {
     "query": "王兴兴成为90后新首富",
@@ -40,11 +36,23 @@
     "display_query": "佛山通报「教师招聘笔试后5名进体检」"
   },
   {
-    "query": "北大数院发布王虹万字专访",
-    "display_query": "北大数院发布王虹万字专访"
+    "query": "王星案跨境人口贩卖集团被公诉",
+    "display_query": "王星案跨境人口贩卖集团被公诉"
+  },
+  {
+    "query": "国乒盼樊振东回归",
+    "display_query": "国乒盼樊振东回归"
   },
   {
     "query": "协和医生用AI解决22年数学难题",
     "display_query": "协和医生用AI解决22年数学难题"
+  },
+  {
+    "query": "宇树科技上市",
+    "display_query": "宇树科技上市"
+  },
+  {
+    "query": "北大数院发布王虹万字专访",
+    "display_query": "北大数院发布王虹万字专访"
   }
 ]
