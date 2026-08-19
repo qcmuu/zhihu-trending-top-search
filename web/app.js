@@ -64,6 +64,13 @@ export function onThisDay(index, date) {
   return out;
 }
 
+/** 格式化相对所选年份的距离；负数表示该条目在所选年份之后。 */
+export function formatRelativeYear(yearsAgo) {
+  if (yearsAgo > 0) return `${yearsAgo} 年前`;
+  if (yearsAgo < 0) return `${Math.abs(yearsAgo)} 年后`;
+  return "同年";
+}
+
 /** 排序好的日期数组（缓存键）。 */
 export function sortedDates(index) {
   return Object.keys(index.days).sort();

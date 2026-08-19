@@ -22,7 +22,7 @@
       --rank-2: #b85a1a;
       --rank-3: #8a6a18;
       --radius: 2px;
-      --maxw: 760px;
+      --gutter: clamp(12px, 2.5vw, 28px);
       --display: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC",
         "STSong", "Noto Serif SC", serif;
       --sans: "PingFang SC", "Hiragino Sans GB", "Source Han Sans SC",
@@ -48,14 +48,18 @@
     html {
       color-scheme: light dark;
       -webkit-font-smoothing: antialiased;
+      overflow-x: clip;
     }
     body {
       margin: 0;
       min-height: 100vh;
+      width: 100%;
+      max-width: 100%;
       background: var(--bg);
       color: var(--fg);
       font: 16px/1.65 var(--sans);
-      padding: 36px 20px 80px;
+      padding: 8px var(--gutter) 48px;
+      overflow-x: clip;
     }
     body::before {
       content: "";
@@ -72,7 +76,8 @@
     .wrap {
       position: relative;
       z-index: 1;
-      max-width: var(--maxw);
+      width: 100%;
+      max-width: 100%;
       margin: 0 auto;
     }
     #app {
@@ -90,75 +95,75 @@
     }
 
     header {
-      text-align: center;
-      padding-bottom: 0;
-      border-top: 3px solid var(--rule);
+      border-top: 2px solid var(--rule);
       border-bottom: 1px solid var(--rule);
     }
-    header .kicker {
-      margin: 10px 0 0;
-      font-size: 0.72rem;
-      letter-spacing: 0.28em;
-      text-indent: 0.28em;
-      color: var(--muted);
-    }
-    header h1 {
-      margin: 8px 0 4px;
-      font-family: var(--display);
-      font-size: clamp(1.8rem, 5vw, 2.6rem);
-      font-weight: 600;
-      letter-spacing: 0.42em;
-      text-indent: 0.42em;
-      line-height: 1.2;
-      text-wrap: balance;
-    }
-    header .sub {
-      color: var(--muted);
-      font-size: 0.9rem;
-      margin: 0 0 14px;
-    }
-    .stats {
+    .masthead {
       display: flex;
-      justify-content: center;
-      align-items: stretch;
-      gap: 0;
-      flex-wrap: wrap;
-      border-top: 1px solid var(--border);
-    }
-    .stat {
-      display: flex;
-      flex: 1 1 0;
-      flex-direction: column;
       align-items: center;
-      gap: 2px;
-      padding: 12px 16px;
+      flex-wrap: wrap;
+      gap: 6px 14px;
+      padding: 8px 0;
       min-width: 0;
     }
-    .stat + .stat {
-      border-left: 1px solid var(--border);
+    header .kicker {
+      order: 2;
+      margin: 0;
+      font-size: 0.72rem;
+      letter-spacing: 0.12em;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    header h1 {
+      order: 1;
+      margin: 0;
+      font-family: var(--display);
+      font-size: clamp(1.1rem, 2.4vw, 1.35rem);
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-indent: 0.2em;
+      line-height: 1.2;
+      text-wrap: balance;
+      white-space: nowrap;
+    }
+    header .sub {
+      display: none;
+    }
+    .stats {
+      order: 3;
+      display: flex;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 4px 14px;
+      margin-left: auto;
+      color: var(--muted);
+      font-size: 0.78rem;
+    }
+    .stat {
+      display: inline-flex;
+      align-items: baseline;
+      gap: 4px;
+      min-width: 0;
     }
     .stat .lbl {
-      font-size: 0.68rem;
-      letter-spacing: 0.16em;
-      color: var(--muted);
+      letter-spacing: 0.08em;
     }
     .stat b {
       color: var(--fg);
       font-family: var(--display);
-      font-size: 1.15rem;
+      font-size: 0.92rem;
       font-weight: 600;
       font-variant-numeric: tabular-nums;
     }
     .stat .unit {
       font-size: 0.72rem;
-      color: var(--muted);
     }
 
     .tabs {
       display: flex;
-      justify-content: center;
+      justify-content: flex-start;
       gap: 4px;
-      margin: 28px 0 20px;
+      margin: 12px 0 12px;
     }
     .tabs button {
       appearance: none;
@@ -192,11 +197,9 @@
       align-items: center;
       gap: 8px;
       margin-bottom: 8px;
-      flex-wrap: wrap;
     }
     .controls input[type="date"],
     .controls input[type="search"] {
-      flex: 1 1 200px;
       min-width: 0;
       min-height: 40px;
       padding: 8px 12px;
@@ -206,8 +209,13 @@
       color: var(--fg);
       font: inherit;
     }
-    .controls input[type="search"] {
-      flex-basis: 260px;
+    #date-input {
+      width: auto;
+      flex: 0 1 16em;
+    }
+    #search .controls input {
+      width: 100%;
+      flex: 1 1 auto;
     }
     button.btn {
       min-height: 40px;
@@ -244,9 +252,11 @@
       counter-increment: rank;
       display: flex;
       align-items: baseline;
-      gap: 14px;
-      padding: 13px 4px;
+      flex-wrap: wrap;
+      gap: 8px 14px;
+      padding: 10px 4px;
       border-bottom: 1px solid var(--border);
+      min-width: 0;
     }
     ol.list > li::before {
       content: counter(rank, decimal-leading-zero);
@@ -268,14 +278,17 @@
       color: var(--rank-3);
     }
     ol.list a {
+      flex: 0 1 auto;
+      min-width: 0;
       color: var(--fg);
       text-decoration: none;
+      overflow-wrap: anywhere;
     }
     ol.list a:hover {
       color: var(--accent);
     }
     ol.list .badge {
-      margin-left: auto;
+      flex: 0 0 auto;
       font-size: 0.75rem;
       color: var(--muted);
       font-family: var(--mono);
@@ -283,8 +296,9 @@
     }
 
     .result {
-      padding: 13px 4px;
+      padding: 10px 4px;
       border-bottom: 1px solid var(--border);
+      min-width: 0;
     }
     .result a {
       color: var(--fg);
@@ -339,21 +353,18 @@
       }
     }
 
-    .toolbar {
-      display: flex;
-      justify-content: flex-end;
-      margin-bottom: 10px;
-    }
     .theme-toggle {
       appearance: none;
+      order: 4;
+      flex: 0 0 auto;
       border: 1px solid var(--border);
       background: transparent;
       color: var(--muted);
       min-width: 40px;
       min-height: 40px;
-      padding: 0 12px;
+      padding: 0 10px;
       font: inherit;
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       letter-spacing: 0.16em;
       cursor: pointer;
     }
@@ -376,53 +387,88 @@
       color: var(--fg);
     }
 
-    @media (max-width: 560px) {
-      .stat {
-        flex: 1 1 30%;
-        padding: 12px 8px;
-        min-width: 0;
+    @media (max-width: 860px) {
+      .masthead {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        grid-template-areas:
+          "title theme"
+          "stats stats";
+        align-items: center;
+        column-gap: 8px;
+        row-gap: 4px;
       }
       header h1 {
-        letter-spacing: 0.22em;
-        text-indent: 0.22em;
+        grid-area: title;
+        letter-spacing: 0.12em;
+        text-indent: 0.12em;
+      }
+      header .kicker {
+        display: none;
+      }
+      .stats {
+        grid-area: stats;
+        margin-left: 0;
+      }
+      .theme-toggle {
+        grid-area: theme;
+        margin-left: 0;
+      }
+    }
+    @media (max-width: 480px) {
+      #browse .controls {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-areas:
+          "date date"
+          "prev next";
+      }
+      #date-input {
+        grid-area: date;
+        width: 100%;
+        flex: none;
+      }
+      #prev-day {
+        grid-area: prev;
+      }
+      #next-day {
+        grid-area: next;
       }
     }
     </style>
   </head>
   <body>
     <div class="wrap" hidden id="app">
-      <div class="toolbar">
-        <button class="theme-toggle" id="theme-toggle" type="button"
-          aria-label="切换主题">夜</button>
-      </div>
       <header>
-        <p class="kicker">自 2020 · 11 · 24　每小时归档</p>
-        <h1>知乎热搜榜</h1>
-        <p class="sub">翻任意一天，或搜一个词哪天上过榜</p>
-        <div class="stats">
-          <div class="stat">
-            <span class="lbl">归档</span>
-            <b id="stat-days">-</b>
-            <span class="unit">天</span>
+        <div class="masthead">
+          <h1>知乎热搜榜</h1>
+          <p class="kicker">自 2020 · 11 · 24　每小时归档</p>
+          <div class="stats">
+            <span class="stat">
+              <span class="lbl">归档</span>
+              <b id="stat-days">-</b>
+              <span class="unit">天</span>
+            </span>
+            <span class="stat">
+              <span class="lbl">词条</span>
+              <b id="stat-entries">-</b>
+              <span class="unit">条</span>
+            </span>
+            <span class="stat">
+              <span class="lbl">起止</span>
+              <b id="stat-range">-</b>
+            </span>
           </div>
-          <div class="stat">
-            <span class="lbl">词条</span>
-            <b id="stat-entries">-</b>
-            <span class="unit">条</span>
-          </div>
-          <div class="stat">
-            <span class="lbl">起止</span>
-            <b id="stat-range">-</b>
-            <span class="unit">年</span>
-          </div>
+          <button class="theme-toggle" id="theme-toggle" type="button"
+            aria-label="切换主题">夜</button>
         </div>
       </header>
 
       <div class="tabs" role="tablist">
         <button role="tab" id="tab-browse" aria-selected="true"
-          aria-controls="browse" type="button">按日期浏览</button>
+          aria-controls="browse" tabindex="0" type="button">按日期浏览</button>
         <button role="tab" id="tab-search" aria-selected="false"
-          aria-controls="search" type="button">关键词检索</button>
+          aria-controls="search" tabindex="-1" type="button">关键词检索</button>
       </div>
 
       <section id="browse" role="tabpanel" aria-labelledby="tab-browse">
@@ -471,6 +517,7 @@
     <script type="module">
     import {
       formatDateCN,
+      formatRelativeYear,
       loadIndex,
       nearestDate,
       onThisDay,
@@ -529,7 +576,7 @@
         li.appendChild(a);
         const badge = document.createElement("span");
         badge.className = "badge";
-        badge.textContent = `${item.date} · ${item.yearsAgo} 年前`;
+        badge.textContent = `${item.date} · ${formatRelativeYear(item.yearsAgo)}`;
         li.appendChild(badge);
         otEl.appendChild(li);
       }
@@ -554,7 +601,10 @@
       titleEl.hidden = false;
       titleEl.textContent = `共命中 ${results.length} 次`;
       if (results.length === 0) {
-        out.innerHTML = `<div class="hint">未找到包含「${keyword}」的热搜。</div>`;
+        const empty = document.createElement("div");
+        empty.className = "hint";
+        empty.textContent = `未找到包含「${keyword}」的热搜。`;
+        out.appendChild(empty);
         return;
       }
       const CAP = 500;
@@ -587,11 +637,28 @@
 
     function switchTab(name) {
       state.tab = name;
-      $("tab-browse").ariaSelected = name === "browse";
-      $("tab-search").ariaSelected = name === "search";
+      $("tab-browse").setAttribute("aria-selected", String(name === "browse"));
+      $("tab-search").setAttribute("aria-selected", String(name === "search"));
+      $("tab-browse").tabIndex = name === "browse" ? 0 : -1;
+      $("tab-search").tabIndex = name === "search" ? 0 : -1;
       $("browse").hidden = name !== "browse";
       $("search").hidden = name !== "search";
       if (name === "search") $("search-input").focus();
+    }
+
+    function handleTabKeydown(e) {
+      const tabs = ["browse", "search"];
+      let ix = tabs.indexOf(state.tab);
+      if (e.key === "ArrowRight") ix = (ix + 1) % tabs.length;
+      else if (e.key === "ArrowLeft") ix = (ix - 1 + tabs.length) % tabs.length;
+      else if (e.key === "Home") ix = 0;
+      else if (e.key === "End") ix = tabs.length - 1;
+      else return;
+
+      e.preventDefault();
+      const name = tabs[ix];
+      switchTab(name);
+      $(`tab-${name}`).focus();
     }
 
     function step(delta) {
@@ -622,6 +689,8 @@
 
       $("tab-browse").addEventListener("click", () => switchTab("browse"));
       $("tab-search").addEventListener("click", () => switchTab("search"));
+      $("tab-browse").addEventListener("keydown", handleTabKeydown);
+      $("tab-search").addEventListener("keydown", handleTabKeydown);
 
       $("prev-day").addEventListener("click", () => step(-1));
       $("next-day").addEventListener("click", () => step(+1));
@@ -640,7 +709,15 @@
       });
 
       document.addEventListener("keydown", (e) => {
-        if (e.target.tagName === "INPUT" && e.target.type === "search") return;
+        if (
+          e.defaultPrevented || e.altKey || e.ctrlKey || e.metaKey || e.shiftKey
+        ) {
+          return;
+        }
+        if (
+          e.target instanceof Element &&
+          e.target.closest("input, button, select, textarea, a, [contenteditable]")
+        ) return;
         if (state.tab !== "browse") return;
         if (e.key === "ArrowLeft") {
           e.preventDefault();
