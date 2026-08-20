@@ -23,6 +23,7 @@
       --rank-3: #8a6a18;
       --radius: 2px;
       --gutter: clamp(12px, 2.5vw, 28px);
+      --maxw: 760px;
       --display: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC",
         "STSong", "Noto Serif SC", serif;
       --sans: "PingFang SC", "Hiragino Sans GB", "Source Han Sans SC",
@@ -77,7 +78,7 @@
       position: relative;
       z-index: 1;
       width: 100%;
-      max-width: 100%;
+      max-width: var(--maxw);
       margin: 0 auto;
     }
     #app {

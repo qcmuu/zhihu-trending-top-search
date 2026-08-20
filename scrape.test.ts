@@ -146,6 +146,28 @@ Deno.test("fetchHotSearch falls back when recommend HTTP fails", async () => {
   assertEquals(result.words.length, 2);
 });
 
+Deno.test("fetchHotSearch falls back when recommend times out", async () => {
+  const result = await fetchHotSearch({
+    fetch: (url, init) => {
+      if (!url.includes("recommend_query")) {
+        return Promise.resolve(jsonResponse(topSearchFixture));
+      }
+      return new Promise<Response>((_, reject) => {
+        const abort = () => reject(new DOMException("Aborted", "AbortError"));
+        if (init?.signal?.aborted) {
+          abort();
+          return;
+        }
+        init?.signal?.addEventListener("abort", abort, { once: true });
+      });
+    },
+    retries: 1,
+    timeoutMs: 5,
+  });
+  assertEquals(result.source, "top_search");
+  assertEquals(result.words.length, 2);
+});
+
 Deno.test("fetchHotSearch throws when every source is empty", async () => {
   await assertThrowsAsync(
     () =>

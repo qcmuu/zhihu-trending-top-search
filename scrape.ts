@@ -77,11 +77,17 @@ async function getJson(
   url: string,
   fetchImpl: Fetcher,
   retries: number,
+  timeoutMs: number,
 ): Promise<unknown> {
   let lastErr: Error | null = null;
   for (let i = 0; i < retries; i++) {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), timeoutMs);
     try {
-      const res = await fetchImpl(url, { headers: HEADERS });
+      const res = await fetchImpl(url, {
+        headers: HEADERS,
+        signal: ctrl.signal,
+      });
       if (!res.ok) {
         throw new Error(`HTTP ${res.status} ${res.statusText}`.trim());
       }
@@ -89,6 +95,8 @@ async function getJson(
     } catch (err) {
       lastErr = err instanceof Error ? err : new Error(String(err));
       if (i < retries - 1) await sleep(400 * (i + 1));
+    } finally {
+      clearTimeout(timer);
     }
   }
   throw lastErr ?? new Error("请求失败");
@@ -113,14 +121,16 @@ const SOURCES: {
 export async function fetchHotSearch(opts?: {
   fetch?: Fetcher;
   retries?: number;
+  timeoutMs?: number;
 }): Promise<{ words: SearchWord[]; source: string }> {
   const fetchImpl = opts?.fetch ?? fetch;
   const retries = opts?.retries ?? 3;
+  const timeoutMs = opts?.timeoutMs ?? 10_000;
   const errors: string[] = [];
 
   for (const src of SOURCES) {
     try {
-      const data = await getJson(src.url, fetchImpl, retries);
+      const data = await getJson(src.url, fetchImpl, retries, timeoutMs);
       const words = src.parse(data);
       if (words.length > 0) return { words, source: src.name };
       errors.push(`${src.name}: 空列表`);
