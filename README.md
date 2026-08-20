@@ -24,9 +24,9 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 20 2026 11:43:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 20 2026 12:34:16 GMT+0800 (China Standard Time) -->
+1. [许家印被判处无期徒刑](https://www.zhihu.com/search?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91)
 1. [高铁 2 人 3 票占座放零食引争议](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%202%20%E4%BA%BA%203%20%E7%A5%A8%E5%8D%A0%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F%E5%BC%95%E4%BA%89%E8%AE%AE)
-1. [秦皇岛一底商发生火灾已致 8 死](https://www.zhihu.com/search?q=%E7%A7%A6%E7%9A%87%E5%B2%9B%E4%B8%80%E5%BA%95%E5%95%86%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4%208%20%E6%AD%BB)
 1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [金价](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7)
