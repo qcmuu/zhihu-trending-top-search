@@ -24,12 +24,12 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 20 2026 15:38:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 20 2026 16:34:30 GMT+0800 (China Standard Time) -->
 1. [许家印被判处无期徒刑](https://www.zhihu.com/search?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91)
 1. [宇树科技大跌](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%A4%A7%E8%B7%8C)
-1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91)
+1. [重庆警方通报时代峰峻楼下人员聚集](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E6%A5%BC%E4%B8%8B%E4%BA%BA%E5%91%98%E8%81%9A%E9%9B%86)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
-1. [金价](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7)
+1. [许家印两个儿子也判了](https://www.zhihu.com/search?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E4%B8%A4%E4%B8%AA%E5%84%BF%E5%AD%90%E4%B9%9F%E5%88%A4%E4%BA%86)
 1. [恒大集团被罚 88.2 亿元](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E8%A2%AB%E7%BD%9A%2088.2%20%E4%BA%BF%E5%85%83)
 1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0)
 1. [海之恋公园](https://www.zhihu.com/search?q=%E6%B5%B7%E4%B9%8B%E6%81%8B%E5%85%AC%E5%9B%AD)
