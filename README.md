@@ -24,7 +24,7 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 21 2026 09:09:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 21 2026 10:59:49 GMT+0800 (China Standard Time) -->
 1. [许家印被判处无期徒刑](https://www.zhihu.com/search?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91)
 1. [高铁 2 人 3 票占座放零食引争议](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%202%20%E4%BA%BA%203%20%E7%A5%A8%E5%8D%A0%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [宇树科技大跌](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%A4%A7%E8%B7%8C)
@@ -34,9 +34,9 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 1. [招商蛇口高管涉酒局伤害女性被刑拘](https://www.zhihu.com/search?q=%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E9%AB%98%E7%AE%A1%E6%B6%89%E9%85%92%E5%B1%80%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [青岛男子辱骂游客](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E6%B8%B8%E5%AE%A2)
 1. [曹云金拿郭德纲砸现挂](https://www.zhihu.com/search?q=%E6%9B%B9%E4%BA%91%E9%87%91%E6%8B%BF%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%A0%B8%E7%8E%B0%E6%8C%82)
-1. [佛山通报「教师招聘笔试后5名进体检」](https://www.zhihu.com/search?q=%E4%BD%9B%E5%B1%B1%E9%80%9A%E6%8A%A5%E3%80%8C%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98%E7%AC%94%E8%AF%95%E5%90%8E5%E5%90%8D%E8%BF%9B%E4%BD%93%E6%A3%80%E3%80%8D)
-1. [高市早苗因病遭反噬](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%97%85%E9%81%AD%E5%8F%8D%E5%99%AC)
 1. [8月19日DeepSeek灰度测试](https://www.zhihu.com/search?q=8%E6%9C%8819%E6%97%A5DeepSeek%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95)
+1. [高市早苗因病遭反噬](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%97%85%E9%81%AD%E5%8F%8D%E5%99%AC)
+1. [上海出台楼市新规](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%8F%B0%E6%A5%BC%E5%B8%82%E6%96%B0%E8%A7%84)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
