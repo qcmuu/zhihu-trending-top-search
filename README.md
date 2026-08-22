@@ -24,7 +24,7 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 22 2026 22:18:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 22 2026 23:17:52 GMT+0800 (China Standard Time) -->
 1. [官方回应白菜蘸甲醛属实](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%99%BD%E8%8F%9C%E8%98%B8%E7%94%B2%E9%86%9B%E5%B1%9E%E5%AE%9E)
 1. [宇树股价跳水带崩机器人板块](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B0%B4%E5%B8%A6%E5%B4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%BF%E5%9D%97)
 1. [零食占座当事人母亲否认故意占座](https://www.zhihu.com/search?q=%E9%9B%B6%E9%A3%9F%E5%8D%A0%E5%BA%A7%E5%BD%93%E4%BA%8B%E4%BA%BA%E6%AF%8D%E4%BA%B2%E5%90%A6%E8%AE%A4%E6%95%85%E6%84%8F%E5%8D%A0%E5%BA%A7)
@@ -36,7 +36,7 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91)
 1. [失业男子饿 20 天致肾衰竭](https://www.zhihu.com/search?q=%E5%A4%B1%E4%B8%9A%E7%94%B7%E5%AD%90%E9%A5%BF%2020%20%E5%A4%A9%E8%87%B4%E8%82%BE%E8%A1%B0%E7%AB%AD)
 1. [青岛男子辱骂游客](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E6%B8%B8%E5%AE%A2)
-1. [梅西赛场情绪失控爆发冲突](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%9C%BA%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81)
+1. [陈柏霖逃避兵役案当庭认罪](https://www.zhihu.com/search?q=%E9%99%88%E6%9F%8F%E9%9C%96%E9%80%83%E9%81%BF%E5%85%B5%E5%BD%B9%E6%A1%88%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
