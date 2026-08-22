@@ -24,7 +24,7 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 22 2026 16:25:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 22 2026 17:23:57 GMT+0800 (China Standard Time) -->
 1. [许家印被判处无期徒刑](https://www.zhihu.com/search?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91)
 1. [宇树股价跳水带崩机器人板块](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B0%B4%E5%B8%A6%E5%B4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%BF%E5%9D%97)
 1. [高铁 2 人 3 票占座放零食引争议](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%202%20%E4%BA%BA%203%20%E7%A5%A8%E5%8D%A0%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F%E5%BC%95%E4%BA%89%E8%AE%AE)
@@ -35,8 +35,8 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 1. [恒大地产集团破产清算](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E9%9B%86%E5%9B%A2%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97)
 1. [青岛男子辱骂游客](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E6%B8%B8%E5%AE%A2)
 1. [失业男子饿 20 天致肾衰竭](https://www.zhihu.com/search?q=%E5%A4%B1%E4%B8%9A%E7%94%B7%E5%AD%90%E9%A5%BF%2020%20%E5%A4%A9%E8%87%B4%E8%82%BE%E8%A1%B0%E7%AB%AD)
-1. [陈柏霖逃避兵役案当庭认罪](https://www.zhihu.com/search?q=%E9%99%88%E6%9F%8F%E9%9C%96%E9%80%83%E9%81%BF%E5%85%B5%E5%BD%B9%E6%A1%88%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA)
 1. [铁路部门致歉占座事件](https://www.zhihu.com/search?q=%E9%93%81%E8%B7%AF%E9%83%A8%E9%97%A8%E8%87%B4%E6%AD%89%E5%8D%A0%E5%BA%A7%E4%BA%8B%E4%BB%B6)
+1. [陈柏霖逃避兵役案当庭认罪](https://www.zhihu.com/search?q=%E9%99%88%E6%9F%8F%E9%9C%96%E9%80%83%E9%81%BF%E5%85%B5%E5%BD%B9%E6%A1%88%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
