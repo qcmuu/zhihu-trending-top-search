@@ -4,16 +4,24 @@
     "display_query": "宇树股价跳水带崩机器人板块"
   },
   {
+    "query": "DeepSeek 周末全天按低谷价收费",
+    "display_query": "DeepSeek 周末全天按低谷价收费"
+  },
+  {
     "query": "许家印被判处无期徒刑",
     "display_query": "许家印被判处无期徒刑"
   },
   {
-    "query": "官方回应白菜蘸甲醛属实",
-    "display_query": "官方回应白菜蘸甲醛属实"
-  },
-  {
     "query": "Zhihu CLI上线",
     "display_query": "Zhihu CLI上线"
+  },
+  {
+    "query": "日本本州岛 5.8 级地震",
+    "display_query": "日本本州岛 5.8 级地震"
+  },
+  {
+    "query": "官方回应白菜蘸甲醛属实",
+    "display_query": "官方回应白菜蘸甲醛属实"
   },
   {
     "query": "高铁 2 人 3 票占座放零食引争议",
@@ -32,12 +40,16 @@
     "display_query": "失业男子饿 20 天致肾衰竭"
   },
   {
-    "query": "曝女星为商业大佬未婚生子",
-    "display_query": "曝女星为商业大佬未婚生子"
+    "query": "《黑神话：钟馗》发布实机演示视频",
+    "display_query": "《黑神话：钟馗》发布实机演示视频"
   },
   {
     "query": "青岛男子辱骂游客",
     "display_query": "青岛男子辱骂游客"
+  },
+  {
+    "query": "曝女星为商业大佬未婚生子",
+    "display_query": "曝女星为商业大佬未婚生子"
   },
   {
     "query": "陈柏霖逃避兵役案当庭认罪",
@@ -50,9 +62,5 @@
   {
     "query": "柯洁：装弱智可破围棋AI",
     "display_query": "柯洁：装弱智可破围棋AI"
-  },
-  {
-    "query": "《黑神话：钟馗》发布实机演示视频",
-    "display_query": "《黑神话：钟馗》发布实机演示视频"
   }
 ]
