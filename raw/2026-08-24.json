@@ -16,20 +16,16 @@
     "display_query": "Zhihu CLI上线"
   },
   {
-    "query": "中国足协否认韩足协提供过不当招待",
-    "display_query": "中国足协否认韩足协提供过不当招待"
-  },
-  {
     "query": "失业男子饿 20 天致肾衰竭",
     "display_query": "失业男子饿 20 天致肾衰竭"
   },
   {
-    "query": "嫦娥七号发射延期",
-    "display_query": "嫦娥七号发射延期"
-  },
-  {
     "query": "DeepSeek 周末全天按低谷价收费",
     "display_query": "DeepSeek 周末全天按低谷价收费"
+  },
+  {
+    "query": "嫦娥七号发射延期",
+    "display_query": "嫦娥七号发射延期"
   },
   {
     "query": "网红温婉偷税被罚后换号复出",
@@ -40,11 +36,19 @@
     "display_query": "韦东奕带货卖39.8元练习册"
   },
   {
+    "query": "老人进店休息离世店家帮扶遭索赔",
+    "display_query": "老人进店休息离世店家帮扶遭索赔"
+  },
+  {
     "query": "著名战地记者唐师曾逝世",
     "display_query": "著名战地记者唐师曾逝世"
   },
   {
-    "query": "老人进店休息离世店家帮扶遭索赔",
-    "display_query": "老人进店休息离世店家帮扶遭索赔"
+    "query": "《黑神话：钟馗》发布实机演示视频",
+    "display_query": "《黑神话：钟馗》发布实机演示视频"
+  },
+  {
+    "query": "中国足协否认韩足协提供过不当招待",
+    "display_query": "中国足协否认韩足协提供过不当招待"
   }
 ]
