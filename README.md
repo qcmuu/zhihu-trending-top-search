@@ -24,7 +24,7 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 25 2026 03:26:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 25 2026 04:27:07 GMT+0800 (China Standard Time) -->
 1. [北大教授称灵活就业是一种福利](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%B0%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E6%98%AF%E4%B8%80%E7%A7%8D%E7%A6%8F%E5%88%A9)
 1. [老人进店休息离世店家帮扶遭索赔](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%BF%9B%E5%BA%97%E4%BC%91%E6%81%AF%E7%A6%BB%E4%B8%96%E5%BA%97%E5%AE%B6%E5%B8%AE%E6%89%B6%E9%81%AD%E7%B4%A2%E8%B5%94)
 1. [韦东奕带货卖39.8元练习册](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E5%B8%A6%E8%B4%A7%E5%8D%9639.8%E5%85%83%E7%BB%83%E4%B9%A0%E5%86%8C)
