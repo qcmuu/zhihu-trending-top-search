@@ -24,15 +24,15 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 25 2026 18:29:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 25 2026 19:24:16 GMT+0800 (China Standard Time) -->
 1. [老人进店休息离世店家帮扶遭索赔](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%BF%9B%E5%BA%97%E4%BC%91%E6%81%AF%E7%A6%BB%E4%B8%96%E5%BA%97%E5%AE%B6%E5%B8%AE%E6%89%B6%E9%81%AD%E7%B4%A2%E8%B5%94)
 1. [德芙七夕营销翻车](https://www.zhihu.com/search?q=%E5%BE%B7%E8%8A%99%E4%B8%83%E5%A4%95%E8%90%A5%E9%94%80%E7%BF%BB%E8%BD%A6)
 1. [2026 金鹰奖提名揭晓](https://www.zhihu.com/search?q=2026%20%E9%87%91%E9%B9%B0%E5%A5%96%E6%8F%90%E5%90%8D%E6%8F%AD%E6%99%93)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
-1. [字节TRAE扣子并入豆包工作](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82TRAE%E6%89%A3%E5%AD%90%E5%B9%B6%E5%85%A5%E8%B1%86%E5%8C%85%E5%B7%A5%E4%BD%9C)
-1. [小米玄戒芯片发布会](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92%E8%8A%AF%E7%89%87%E5%8F%91%E5%B8%83%E4%BC%9A)
+1. [台风「紫檀」登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%B4%AB%E6%AA%80%E3%80%8D%E7%99%BB%E9%99%86)
 1. [陕西版「孙小果」二审维持死刑](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E7%89%88%E3%80%8C%E5%AD%99%E5%B0%8F%E6%9E%9C%E3%80%8D%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91)
+1. [小米玄戒芯片发布会](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92%E8%8A%AF%E7%89%87%E5%8F%91%E5%B8%83%E4%BC%9A)
 1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91)
 1. [甲醛白菜被运往江苏安徽多地](https://www.zhihu.com/search?q=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E8%A2%AB%E8%BF%90%E5%BE%80%E6%B1%9F%E8%8B%8F%E5%AE%89%E5%BE%BD%E5%A4%9A%E5%9C%B0)
 1. [许家印被判处无期徒刑](https://www.zhihu.com/search?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91)
