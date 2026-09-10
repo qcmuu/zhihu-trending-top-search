@@ -1,31 +1,31 @@
 [
   {
-    "query": "青岛货轮火灾造成重大人员伤亡",
-    "display_query": "青岛货轮火灾造成重大人员伤亡"
+    "query": "青岛一货轮火灾已造成 25 人遇难",
+    "display_query": "青岛一货轮火灾已造成 25 人遇难"
   },
   {
     "query": "刘翔被体育局买断获49.4万",
     "display_query": "刘翔被体育局买断获49.4万"
   },
   {
-    "query": "霍奇猜想疑被OpenAI解决",
-    "display_query": "霍奇猜想疑被OpenAI解决"
-  },
-  {
     "query": "2026 苹果秋季发布会",
     "display_query": "2026 苹果秋季发布会"
   },
   {
-    "query": "DeepSeek V4.1 Flash 发布",
-    "display_query": "DeepSeek V4.1 Flash 发布"
+    "query": "江西孩子看演唱会后全家低保取消",
+    "display_query": "江西孩子看演唱会后全家低保取消"
   },
   {
     "query": "知乎 CLI 创作者能力上新",
     "display_query": "知乎 CLI 创作者能力上新"
   },
   {
-    "query": "苹果折叠屏iPhone Duo发布",
-    "display_query": "苹果折叠屏iPhone Duo发布"
+    "query": "「裸奔拉屎」系事发储能巨头瑞浦兰钧",
+    "display_query": "「裸奔拉屎」系事发储能巨头瑞浦兰钧"
+  },
+  {
+    "query": "女篮世界杯中国vs法国",
+    "display_query": "女篮世界杯中国vs法国"
   },
   {
     "query": "日本暴发梅毒疫情",
@@ -36,12 +36,28 @@
     "display_query": "刘翔工资卡11年0支出"
   },
   {
-    "query": "江西孩子看演唱会后全家低保取消",
-    "display_query": "江西孩子看演唱会后全家低保取消"
-  },
-  {
     "query": "高考132分学生开学数学考12分",
     "display_query": "高考132分学生开学数学考12分"
+  },
+  {
+    "query": "霍奇猜想疑被OpenAI解决",
+    "display_query": "霍奇猜想疑被OpenAI解决"
+  },
+  {
+    "query": "吃播网红干饭莹莹去世年仅24岁",
+    "display_query": "吃播网红干饭莹莹去世年仅24岁"
+  },
+  {
+    "query": "青岛货轮火灾造成重大人员伤亡",
+    "display_query": "青岛货轮火灾造成重大人员伤亡"
+  },
+  {
+    "query": "DeepSeek V4.1 Flash 发布",
+    "display_query": "DeepSeek V4.1 Flash 发布"
+  },
+  {
+    "query": "苹果折叠屏iPhone Duo发布",
+    "display_query": "苹果折叠屏iPhone Duo发布"
   },
   {
     "query": "C919 再次出现零交付",
@@ -58,10 +74,6 @@
   {
     "query": "教师节",
     "display_query": "教师节"
-  },
-  {
-    "query": "吃播网红干饭莹莹去世年仅24岁",
-    "display_query": "吃播网红干饭莹莹去世年仅24岁"
   },
   {
     "query": "广州图书馆挤满假装上班的失业者",
