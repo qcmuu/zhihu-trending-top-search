@@ -1,5 +1,13 @@
 [
   {
+    "query": "开屏广告导致错过最佳抢救时间",
+    "display_query": "开屏广告导致错过最佳抢救时间"
+  },
+  {
+    "query": "景德镇学院通报宿舍调整事件",
+    "display_query": "景德镇学院通报宿舍调整事件"
+  },
+  {
     "query": "日本暴发梅毒疫情",
     "display_query": "日本暴发梅毒疫情"
   },
@@ -8,52 +16,56 @@
     "display_query": "刘翔被体育局买断获49.4万"
   },
   {
-    "query": "微信被曝出史诗级漏洞",
-    "display_query": "微信被曝出史诗级漏洞"
-  },
-  {
-    "query": "兰州大学中雨天气拉练新生",
-    "display_query": "兰州大学中雨天气拉练新生"
-  },
-  {
     "query": "知乎 CLI 创作者能力上新",
     "display_query": "知乎 CLI 创作者能力上新"
   },
   {
-    "query": "星宇股份外包报酬错列2.44万亿",
-    "display_query": "星宇股份外包报酬错列2.44万亿"
+    "query": "微信被曝出史诗级漏洞",
+    "display_query": "微信被曝出史诗级漏洞"
   },
   {
     "query": "中国男篮 99-61 大胜哈萨克斯坦",
     "display_query": "中国男篮 99-61 大胜哈萨克斯坦"
   },
   {
-    "query": "千叶珠宝疑暴雷",
-    "display_query": "千叶珠宝疑暴雷"
+    "query": "「鬼王」演员雷宇扬患肠癌去世",
+    "display_query": "「鬼王」演员雷宇扬患肠癌去世"
   },
   {
     "query": "安踏收购彪马近30%股份获批",
     "display_query": "安踏收购彪马近30%股份获批"
   },
   {
-    "query": "BSD猜想疑被OpenAI或Anthropic解决",
-    "display_query": "BSD猜想疑被OpenAI或Anthropic解决"
-  },
-  {
     "query": "霍奇猜想疑被OpenAI解决",
     "display_query": "霍奇猜想疑被OpenAI解决"
+  },
+  {
+    "query": "江西孩子看演唱会后全家低保取消",
+    "display_query": "江西孩子看演唱会后全家低保取消"
   },
   {
     "query": "2030年自动驾驶汽车实现规模应用",
     "display_query": "2030年自动驾驶汽车实现规模应用"
   },
   {
-    "query": "2026 苹果秋季发布会",
-    "display_query": "2026 苹果秋季发布会"
+    "query": "兰州大学中雨天气拉练新生",
+    "display_query": "兰州大学中雨天气拉练新生"
   },
   {
-    "query": "江西孩子看演唱会后全家低保取消",
-    "display_query": "江西孩子看演唱会后全家低保取消"
+    "query": "星宇股份外包报酬错列2.44万亿",
+    "display_query": "星宇股份外包报酬错列2.44万亿"
+  },
+  {
+    "query": "千叶珠宝疑暴雷",
+    "display_query": "千叶珠宝疑暴雷"
+  },
+  {
+    "query": "BSD猜想疑被OpenAI或Anthropic解决",
+    "display_query": "BSD猜想疑被OpenAI或Anthropic解决"
+  },
+  {
+    "query": "2026 苹果秋季发布会",
+    "display_query": "2026 苹果秋季发布会"
   },
   {
     "query": "某厂车间裸奔扔粪便传闻",
