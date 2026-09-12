@@ -4,16 +4,16 @@
     "display_query": "设计师称中国客厅已失去意义"
   },
   {
-    "query": "多车队宣布永久退出中国 GT",
-    "display_query": "多车队宣布永久退出中国 GT"
-  },
-  {
     "query": "邓煜等菲奖得主称 AI 公司正摧毁数学",
     "display_query": "邓煜等菲奖得主称 AI 公司正摧毁数学"
   },
   {
     "query": "江西孩子看演唱会后全家低保取消",
     "display_query": "江西孩子看演唱会后全家低保取消"
+  },
+  {
+    "query": "多车队宣布永久退出中国 GT",
+    "display_query": "多车队宣布永久退出中国 GT"
   },
   {
     "query": "知乎 CLI 创作者能力上新",
@@ -24,16 +24,8 @@
     "display_query": "刘翔被体育局买断获49.4万"
   },
   {
-    "query": "小孩 7 楼坠下砸坏宝马车",
-    "display_query": "小孩 7 楼坠下砸坏宝马车"
-  },
-  {
     "query": "三星嘲讽苹果iPhoneDuo",
     "display_query": "三星嘲讽苹果iPhoneDuo"
-  },
-  {
-    "query": "红果日活超爱优腾芒四家总和",
-    "display_query": "红果日活超爱优腾芒四家总和"
   },
   {
     "query": "医生建议内裤袜子放洗衣机洗",
@@ -44,7 +36,23 @@
     "display_query": "比亚迪利润奖事件"
   },
   {
+    "query": "女子称被公职人员推入厕所强奸",
+    "display_query": "女子称被公职人员推入厕所强奸"
+  },
+  {
     "query": "「魔法画报」当事人称事件与荣耀手机无关",
     "display_query": "「魔法画报」当事人称事件与荣耀手机无关"
+  },
+  {
+    "query": "住建局副局长群内辱骂业主被停职",
+    "display_query": "住建局副局长群内辱骂业主被停职"
+  },
+  {
+    "query": "小孩 7 楼坠下砸坏宝马车",
+    "display_query": "小孩 7 楼坠下砸坏宝马车"
+  },
+  {
+    "query": "红果日活超爱优腾芒四家总和",
+    "display_query": "红果日活超爱优腾芒四家总和"
   }
 ]
