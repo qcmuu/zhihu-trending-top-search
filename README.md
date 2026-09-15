@@ -24,19 +24,19 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 15 2026 08:17:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 15 2026 13:48:50 GMT+0800 (China Standard Time) -->
 1. [多车队宣布永久退出中国 GT](https://www.zhihu.com/search?q=%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%20GT)
 1. [广州GOGO新天地有人持刀伤人](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9EGOGO%E6%96%B0%E5%A4%A9%E5%9C%B0%E6%9C%89%E4%BA%BA%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA)
-1. [曝空管开始试点劳务派遣模式](https://www.zhihu.com/search?q=%E6%9B%9D%E7%A9%BA%E7%AE%A1%E5%BC%80%E5%A7%8B%E8%AF%95%E7%82%B9%E5%8A%B3%E5%8A%A1%E6%B4%BE%E9%81%A3%E6%A8%A1%E5%BC%8F)
+1. [英国解体 福尔摩斯归属](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E8%A7%A3%E4%BD%93%20%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E5%BD%92%E5%B1%9E)
 1. [广汽集团 资产重组](https://www.zhihu.com/search?q=%E5%B9%BF%E6%B1%BD%E9%9B%86%E5%9B%A2%20%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84)
 1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
 1. [情侣在演唱会求婚被喊坐下](https://www.zhihu.com/search?q=%E6%83%85%E4%BE%A3%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E8%A2%AB%E5%96%8A%E5%9D%90%E4%B8%8B)
 1. [海南暴雨](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8D%97%E6%9A%B4%E9%9B%A8)
 1. [于东来回应胖东来四年合同制](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9B%E5%B9%B4%E5%90%88%E5%90%8C%E5%88%B6)
-1. [邓煜等菲奖得主称 AI 公司正摧毁数学](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%AD%89%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0%20AI%20%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%91%A7%E6%AF%81%E6%95%B0%E5%AD%A6)
+1. [华为赛力斯合作模式调整](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF%E5%90%88%E4%BD%9C%E6%A8%A1%E5%BC%8F%E8%B0%83%E6%95%B4)
+1. [曝姆巴佩与登贝莱彻底决裂](https://www.zhihu.com/search?q=%E6%9B%9D%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%8E%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%BD%BB%E5%BA%95%E5%86%B3%E8%A3%82)
 1. [HYROX选手失禁仍完赛](https://www.zhihu.com/search?q=HYROX%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E4%BB%8D%E5%AE%8C%E8%B5%9B)
-1. [三星嘲讽苹果iPhoneDuo](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo)
-1. [英国解体 福尔摩斯归属](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E8%A7%A3%E4%BD%93%20%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E5%BD%92%E5%B1%9E)
+1. [邓煜等菲奖得主称 AI 公司正摧毁数学](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%AD%89%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0%20AI%20%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%91%A7%E6%AF%81%E6%95%B0%E5%AD%A6)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
