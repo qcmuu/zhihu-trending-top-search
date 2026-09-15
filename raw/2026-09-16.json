@@ -1,31 +1,11 @@
 [
   {
-    "query": "DeepSeek 刘胜与回应长文爆火",
-    "display_query": "DeepSeek 刘胜与回应长文爆火"
-  },
-  {
     "query": "多车队宣布永久退出中国 GT",
     "display_query": "多车队宣布永久退出中国 GT"
   },
   {
-    "query": "野人先生创始人曾回应冰淇淋太贵",
-    "display_query": "野人先生创始人曾回应冰淇淋太贵"
-  },
-  {
     "query": "华为赛力斯合作模式调整",
     "display_query": "华为赛力斯合作模式调整"
-  },
-  {
-    "query": "知乎 CLI 创作者能力上新",
-    "display_query": "知乎 CLI 创作者能力上新"
-  },
-  {
-    "query": "湘雅医学院教师PPT称23年未见父母",
-    "display_query": "湘雅医学院教师PPT称23年未见父母"
-  },
-  {
-    "query": "钟薛高将复活",
-    "display_query": "钟薛高将复活"
   },
   {
     "query": "情侣在演唱会求婚被喊坐下",
@@ -34,6 +14,18 @@
   {
     "query": "南太行200多斤驴友被挤下悬崖",
     "display_query": "南太行200多斤驴友被挤下悬崖"
+  },
+  {
+    "query": "知乎 CLI 创作者能力上新",
+    "display_query": "知乎 CLI 创作者能力上新"
+  },
+  {
+    "query": "DeepSeek 刘胜与回应长文爆火",
+    "display_query": "DeepSeek 刘胜与回应长文爆火"
+  },
+  {
+    "query": "钟薛高将复活",
+    "display_query": "钟薛高将复活"
   },
   {
     "query": "HYROX选手失禁仍完赛",
@@ -46,5 +38,21 @@
   {
     "query": "卫龙进口魔芋粉检出二氧化硫超标",
     "display_query": "卫龙进口魔芋粉检出二氧化硫超标"
+  },
+  {
+    "query": "女子拍下骇人巨型蜗牛引热议",
+    "display_query": "女子拍下骇人巨型蜗牛引热议"
+  },
+  {
+    "query": "三星嘲讽苹果iPhoneDuo",
+    "display_query": "三星嘲讽苹果iPhoneDuo"
+  },
+  {
+    "query": "野人先生创始人曾回应冰淇淋太贵",
+    "display_query": "野人先生创始人曾回应冰淇淋太贵"
+  },
+  {
+    "query": "湘雅医学院教师PPT称23年未见父母",
+    "display_query": "湘雅医学院教师PPT称23年未见父母"
   }
 ]
