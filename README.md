@@ -24,18 +24,18 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 18 2026 20:42:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 19 2026 00:56:02 GMT+0800 (China Standard Time) -->
 1. [中国男篮 77-97 日本男篮](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%2077-97%20%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE)
 1. [华为高层内部万字长文曝光](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E9%AB%98%E5%B1%82%E5%86%85%E9%83%A8%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E6%9B%9D%E5%85%89)
-1. [美联储宣布加息25个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [七旬老人冰棺复活后再度去世](https://www.zhihu.com/search?q=%E4%B8%83%E6%97%AC%E8%80%81%E4%BA%BA%E5%86%B0%E6%A3%BA%E5%A4%8D%E6%B4%BB%E5%90%8E%E5%86%8D%E5%BA%A6%E5%8E%BB%E4%B8%96)
+1. [网友称让郭士强下课](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%AE%A9%E9%83%AD%E5%A3%AB%E5%BC%BA%E4%B8%8B%E8%AF%BE)
 1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
 1. [官方通报长江倾倒淤泥事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%95%BF%E6%B1%9F%E5%80%BE%E5%80%92%E6%B7%A4%E6%B3%A5%E4%BA%8B%E4%BB%B6)
-1. [住建部称 4 楼以上住宅加装电梯](https://www.zhihu.com/search?q=%E4%BD%8F%E5%BB%BA%E9%83%A8%E7%A7%B0%204%20%E6%A5%BC%E4%BB%A5%E4%B8%8A%E4%BD%8F%E5%AE%85%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF)
-1. [清远市监回应称硫磺竹笋属实](https://www.zhihu.com/search?q=%E6%B8%85%E8%BF%9C%E5%B8%82%E7%9B%91%E5%9B%9E%E5%BA%94%E7%A7%B0%E7%A1%AB%E7%A3%BA%E7%AB%B9%E7%AC%8B%E5%B1%9E%E5%AE%9E)
-1. [8 个月婴儿被注射十倍肾上腺素](https://www.zhihu.com/search?q=8%20%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%B3%A8%E5%B0%84%E5%8D%81%E5%80%8D%E8%82%BE%E4%B8%8A%E8%85%BA%E7%B4%A0)
 1. [华为突破冯诺依曼单机架构](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E7%AA%81%E7%A0%B4%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E5%8D%95%E6%9C%BA%E6%9E%B6%E6%9E%84)
+1. [8 个月婴儿被注射十倍肾上腺素](https://www.zhihu.com/search?q=8%20%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E8%A2%AB%E6%B3%A8%E5%B0%84%E5%8D%81%E5%80%8D%E8%82%BE%E4%B8%8A%E8%85%BA%E7%B4%A0)
+1. [美联储宣布加息25个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [永和豆浆现黑丝洗澡内容被指擦边](https://www.zhihu.com/search?q=%E6%B0%B8%E5%92%8C%E8%B1%86%E6%B5%86%E7%8E%B0%E9%BB%91%E4%B8%9D%E6%B4%97%E6%BE%A1%E5%86%85%E5%AE%B9%E8%A2%AB%E6%8C%87%E6%93%A6%E8%BE%B9)
+1. [广西孙子非亲生案鉴定机构被罚](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E9%89%B4%E5%AE%9A%E6%9C%BA%E6%9E%84%E8%A2%AB%E7%BD%9A)
 1. [学生称同济大学痛经请假需脱裤检查](https://www.zhihu.com/search?q=%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E7%97%9B%E7%BB%8F%E8%AF%B7%E5%81%87%E9%9C%80%E8%84%B1%E8%A3%A4%E6%A3%80%E6%9F%A5)
 <!-- END -->
 
