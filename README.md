@@ -24,19 +24,19 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 23 2026 11:22:34 GMT+0800 (China Standard Time) -->
-1. [到梦空间](https://www.zhihu.com/search?q=%E5%88%B0%E6%A2%A6%E7%A9%BA%E9%97%B4)
+<!-- 最后更新时间 Wed Sep 23 2026 17:04:39 GMT+0800 (China Standard Time) -->
+1. [钟南山团队发现肺结节发病新趋势](https://www.zhihu.com/search?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B0%E8%82%BA%E7%BB%93%E8%8A%82%E5%8F%91%E7%97%85%E6%96%B0%E8%B6%8B%E5%8A%BF)
 1. [闲鱼称「涉未成年人淫秽」不实](https://www.zhihu.com/search?q=%E9%97%B2%E9%B1%BC%E7%A7%B0%E3%80%8C%E6%B6%89%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%B7%AB%E7%A7%BD%E3%80%8D%E4%B8%8D%E5%AE%9E)
-1. [油价将大幅调整](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E5%B0%86%E5%A4%A7%E5%B9%85%E8%B0%83%E6%95%B4)
+1. [到梦空间](https://www.zhihu.com/search?q=%E5%88%B0%E6%A2%A6%E7%A9%BA%E9%97%B4)
 1. [人民日报评第一学历歧视](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86)
 1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
 1. [GPT-6 Sol 和 Luna 发布](https://www.zhihu.com/search?q=GPT-6%20Sol%20%E5%92%8C%20Luna%20%E5%8F%91%E5%B8%83)
-1. [钟南山团队发现肺结节发病新趋势](https://www.zhihu.com/search?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B0%E8%82%BA%E7%BB%93%E8%8A%82%E5%8F%91%E7%97%85%E6%96%B0%E8%B6%8B%E5%8A%BF)
-1. [大一新生军训离队旅游教官疑似被罚](https://www.zhihu.com/search?q=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E5%86%9B%E8%AE%AD%E7%A6%BB%E9%98%9F%E6%97%85%E6%B8%B8%E6%95%99%E5%AE%98%E7%96%91%E4%BC%BC%E8%A2%AB%E7%BD%9A)
-1. [大量食品用果葡糖浆替代白砂糖](https://www.zhihu.com/search?q=%E5%A4%A7%E9%87%8F%E9%A3%9F%E5%93%81%E7%94%A8%E6%9E%9C%E8%91%A1%E7%B3%96%E6%B5%86%E6%9B%BF%E4%BB%A3%E7%99%BD%E7%A0%82%E7%B3%96)
 1. [多所高校取消吸烟学生学费减免资格](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%8F%96%E6%B6%88%E5%90%B8%E7%83%9F%E5%AD%A6%E7%94%9F%E5%AD%A6%E8%B4%B9%E5%87%8F%E5%85%8D%E8%B5%84%E6%A0%BC)
-1. [高校密集发文过紧日子](https://www.zhihu.com/search?q=%E9%AB%98%E6%A0%A1%E5%AF%86%E9%9B%86%E5%8F%91%E6%96%87%E8%BF%87%E7%B4%A7%E6%97%A5%E5%AD%90)
-1. [理记炮轰罗永浩](https://www.zhihu.com/search?q=%E7%90%86%E8%AE%B0%E7%82%AE%E8%BD%B0%E7%BD%97%E6%B0%B8%E6%B5%A9)
+1. [大一新生军训离队旅游教官疑似被罚](https://www.zhihu.com/search?q=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E5%86%9B%E8%AE%AD%E7%A6%BB%E9%98%9F%E6%97%85%E6%B8%B8%E6%95%99%E5%AE%98%E7%96%91%E4%BC%BC%E8%A2%AB%E7%BD%9A)
+1. [字节正式员工请愿留下外包员工](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E6%AD%A3%E5%BC%8F%E5%91%98%E5%B7%A5%E8%AF%B7%E6%84%BF%E7%95%99%E4%B8%8B%E5%A4%96%E5%8C%85%E5%91%98%E5%B7%A5)
+1. [油价将大幅调整](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E5%B0%86%E5%A4%A7%E5%B9%85%E8%B0%83%E6%95%B4)
+1. [大量食品用果葡糖浆替代白砂糖](https://www.zhihu.com/search?q=%E5%A4%A7%E9%87%8F%E9%A3%9F%E5%93%81%E7%94%A8%E6%9E%9C%E8%91%A1%E7%B3%96%E6%B5%86%E6%9B%BF%E4%BB%A3%E7%99%BD%E7%A0%82%E7%B3%96)
+1. [女孩从 5 楼往下扔快递时坠亡](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E4%BB%8E%205%20%E6%A5%BC%E5%BE%80%E4%B8%8B%E6%89%94%E5%BF%AB%E9%80%92%E6%97%B6%E5%9D%A0%E4%BA%A1)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
