@@ -1,5 +1,13 @@
 [
   {
+    "query": "中秋节",
+    "display_query": "中秋节"
+  },
+  {
+    "query": "国乒男团 2-3 日本队",
+    "display_query": "国乒男团 2-3 日本队"
+  },
+  {
     "query": "冯小刚回应垃圾观众言论",
     "display_query": "冯小刚回应垃圾观众言论"
   },
@@ -8,16 +16,12 @@
     "display_query": "任正非重申华为不造车"
   },
   {
-    "query": "国乒男团 2-3 日本队",
-    "display_query": "国乒男团 2-3 日本队"
+    "query": "看山今日一签",
+    "display_query": "看山今日一签"
   },
   {
     "query": "到梦空间",
     "display_query": "到梦空间"
-  },
-  {
-    "query": "看山今日一签",
-    "display_query": "看山今日一签"
   },
   {
     "query": "表演艺术家游本昌去世",
