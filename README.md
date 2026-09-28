@@ -24,19 +24,19 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 28 2026 18:34:08 GMT+0800 (China Standard Time) -->
-1. [网红潘宏虐狗纠纷终审判决](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E6%BD%98%E5%AE%8F%E8%99%90%E7%8B%97%E7%BA%A0%E7%BA%B7%E7%BB%88%E5%AE%A1%E5%88%A4%E5%86%B3)
+<!-- 最后更新时间 Tue Sep 29 2026 02:26:37 GMT+0800 (China Standard Time) -->
 1. [武契奇宣布辞职](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
-1. [拾荒老人不知自己每月养老金 3700 元](https://www.zhihu.com/search?q=%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA%E4%B8%8D%E7%9F%A5%E8%87%AA%E5%B7%B1%E6%AF%8F%E6%9C%88%E5%85%BB%E8%80%81%E9%87%91%203700%20%E5%85%83)
+1. [林诗栋 4-0 王楚钦夺金](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%204-0%20%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E9%87%91)
 1. [刘欢到退休时仍是副教授](https://www.zhihu.com/search?q=%E5%88%98%E6%AC%A2%E5%88%B0%E9%80%80%E4%BC%91%E6%97%B6%E4%BB%8D%E6%98%AF%E5%89%AF%E6%95%99%E6%8E%88)
-1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
-1. [王楚钦4比1阿拉米扬](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%941%E9%98%BF%E6%8B%89%E7%B1%B3%E6%89%AC)
 1. [王曼昱战胜孙颖莎夺冠](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0)
-1. [中国队卫冕王者荣耀亚运冠军](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8D%AB%E5%86%95%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B)
-1. [林诗栋 4-3 林昀儒](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%204-3%20%E6%9E%97%E6%98%80%E5%84%92)
-1. [中美达成八点成果共识](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86)
+1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
+1. [张家齐妈妈公开念家书批评女儿](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E5%85%AC%E5%BC%80%E5%BF%B5%E5%AE%B6%E4%B9%A6%E6%89%B9%E8%AF%84%E5%A5%B3%E5%84%BF)
+1. [郑刚实名举报罗永浩偷税漏税](https://www.zhihu.com/search?q=%E9%83%91%E5%88%9A%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E)
+1. [中美300亿对300亿对等降税框架](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E300%E4%BA%BF%E5%AF%B9300%E4%BA%BF%E5%AF%B9%E7%AD%89%E9%99%8D%E7%A8%8E%E6%A1%86%E6%9E%B6)
+1. [拾荒老人不知自己每月养老金 3700 元](https://www.zhihu.com/search?q=%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA%E4%B8%8D%E7%9F%A5%E8%87%AA%E5%B7%B1%E6%AF%8F%E6%9C%88%E5%85%BB%E8%80%81%E9%87%91%203700%20%E5%85%83)
 1. [刘欢病逝](https://www.zhihu.com/search?q=%E5%88%98%E6%AC%A2%E7%97%85%E9%80%9D)
 1. [日乒男单全军覆没](https://www.zhihu.com/search?q=%E6%97%A5%E4%B9%92%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
+1. [王楚钦4比1阿拉米扬](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%941%E9%98%BF%E6%8B%89%E7%B1%B3%E6%89%AC)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
