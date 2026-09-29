@@ -20,10 +20,6 @@
     "display_query": "看山今日一签"
   },
   {
-    "query": "金鹰奖",
-    "display_query": "金鹰奖"
-  },
-  {
     "query": "刘欢到退休时仍是副教授",
     "display_query": "刘欢到退休时仍是副教授"
   },
@@ -46,5 +42,13 @@
   {
     "query": "网传将出台全国房贷贴息政策",
     "display_query": "网传将出台全国房贷贴息政策"
+  },
+  {
+    "query": "林诗栋颁奖现场被喊「打一单」",
+    "display_query": "林诗栋颁奖现场被喊「打一单」"
+  },
+  {
+    "query": "金鹰奖",
+    "display_query": "金鹰奖"
   }
 ]
