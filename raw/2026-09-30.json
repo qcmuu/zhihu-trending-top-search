@@ -20,12 +20,20 @@
     "display_query": "看山今日一签"
   },
   {
+    "query": "商务部回应欧盟被曝制定欧版301条款",
+    "display_query": "商务部回应欧盟被曝制定欧版301条款"
+  },
+  {
     "query": "刘欢到退休时仍是副教授",
     "display_query": "刘欢到退休时仍是副教授"
   },
   {
-    "query": "张家齐妈妈聊天记录 窒息",
-    "display_query": "张家齐妈妈聊天记录 窒息"
+    "query": "OpenAI 发布 GPT-6.1 Sol",
+    "display_query": "OpenAI 发布 GPT-6.1 Sol"
+  },
+  {
+    "query": "曼城被指控财务违规全部成立",
+    "display_query": "曼城被指控财务违规全部成立"
   },
   {
     "query": "王楚钦：不知道为什么就是感觉累",
@@ -34,6 +42,10 @@
   {
     "query": "居民房贷贴息政策 10 月 1 日起实施",
     "display_query": "居民房贷贴息政策 10 月 1 日起实施"
+  },
+  {
+    "query": "张家齐妈妈聊天记录 窒息",
+    "display_query": "张家齐妈妈聊天记录 窒息"
   },
   {
     "query": "郑刚实名举报罗永浩偷税漏税",
