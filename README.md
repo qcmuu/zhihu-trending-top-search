@@ -24,19 +24,19 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 09 2026 18:03:13 GMT+0800 (China Standard Time) -->
-1. [江淮汽车被砸跌停](https://www.zhihu.com/search?q=%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E8%A2%AB%E7%A0%B8%E8%B7%8C%E5%81%9C)
+<!-- 最后更新时间 Sat Oct 10 2026 01:18:41 GMT+0800 (China Standard Time) -->
+1. [飞天奖](https://www.zhihu.com/search?q=%E9%A3%9E%E5%A4%A9%E5%A5%96)
 1. [711关闭印度全部门店](https://www.zhihu.com/search?q=711%E5%85%B3%E9%97%AD%E5%8D%B0%E5%BA%A6%E5%85%A8%E9%83%A8%E9%97%A8%E5%BA%97)
-1. [尊界回应刹车踏板支架断裂](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8C%E5%9B%9E%E5%BA%94%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
 1. [白俄女模特被骗至缅甸遭杀害](https://www.zhihu.com/search?q=%E7%99%BD%E4%BF%84%E5%A5%B3%E6%A8%A1%E7%89%B9%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E9%81%AD%E6%9D%80%E5%AE%B3)
+1. [邵艾伦对话孙宇晨](https://www.zhihu.com/search?q=%E9%82%B5%E8%89%BE%E4%BC%A6%E5%AF%B9%E8%AF%9D%E5%AD%99%E5%AE%87%E6%99%A8)
 1. [OpenAI宣布解决准黎曼猜想](https://www.zhihu.com/search?q=OpenAI%E5%AE%A3%E5%B8%83%E8%A7%A3%E5%86%B3%E5%87%86%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3)
-1. [湖南一局长被举报婚内出轨](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8)
 1. [俄解除不明原因肺炎防疫措施](https://www.zhihu.com/search?q=%E4%BF%84%E8%A7%A3%E9%99%A4%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E9%98%B2%E7%96%AB%E6%8E%AA%E6%96%BD)
+1. [王仁君首获飞天奖视帝](https://www.zhihu.com/search?q=%E7%8E%8B%E4%BB%81%E5%90%9B%E9%A6%96%E8%8E%B7%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%A7%86%E5%B8%9D)
+1. [宋佳获飞天奖视后](https://www.zhihu.com/search?q=%E5%AE%8B%E4%BD%B3%E8%8E%B7%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%A7%86%E5%90%8E)
 1. [俄罗斯不明病因肺炎事件四种说法](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E6%98%8E%E7%97%85%E5%9B%A0%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6%E5%9B%9B%E7%A7%8D%E8%AF%B4%E6%B3%95)
-1. [网传俄实验室发生鼠疫泄漏](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%BF%84%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%91%E7%94%9F%E9%BC%A0%E7%96%AB%E6%B3%84%E6%BC%8F)
-1. [郑钦文 2-0 斯维托丽娜](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%202-0%20%E6%96%AF%E7%BB%B4%E6%89%98%E4%B8%BD%E5%A8%9C)
+1. [字节Seed团队发现DeepSeek性能漂移](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82Seed%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B0DeepSeek%E6%80%A7%E8%83%BD%E6%BC%82%E7%A7%BB)
 1. [缅北电诈犯随机杀陌生人祭天](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E7%8A%AF%E9%9A%8F%E6%9C%BA%E6%9D%80%E9%99%8C%E7%94%9F%E4%BA%BA%E7%A5%AD%E5%A4%A9)
-1. [攻击多家韩国银行的黑客疑被开盒](https://www.zhihu.com/search?q=%E6%94%BB%E5%87%BB%E5%A4%9A%E5%AE%B6%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C%E7%9A%84%E9%BB%91%E5%AE%A2%E7%96%91%E8%A2%AB%E5%BC%80%E7%9B%92)
+1. [湖南一局长被举报婚内出轨](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
