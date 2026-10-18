@@ -1,9 +1,5 @@
 [
   {
-    "query": "法国发生近年来最严重暴力骚乱",
-    "display_query": "法国发生近年来最严重暴力骚乱"
-  },
-  {
     "query": "自愿放弃社保无效",
     "display_query": "自愿放弃社保无效"
   },
@@ -16,20 +12,20 @@
     "display_query": "英伟达市值9天蒸发4万亿"
   },
   {
-    "query": "父亲遛狗幼童坠亡案母亲报案获受理",
-    "display_query": "父亲遛狗幼童坠亡案母亲报案获受理"
-  },
-  {
-    "query": "梅艳芳骨灰疑似被寺庙工作人员盗走",
-    "display_query": "梅艳芳骨灰疑似被寺庙工作人员盗走"
-  },
-  {
     "query": "特斯拉SpaceX大跌",
     "display_query": "特斯拉SpaceX大跌"
   },
   {
     "query": "防癌神药出厂价不到1块钱",
     "display_query": "防癌神药出厂价不到1块钱"
+  },
+  {
+    "query": "法国发生近年来最严重暴力骚乱",
+    "display_query": "法国发生近年来最严重暴力骚乱"
+  },
+  {
+    "query": "梅艳芳骨灰疑似被寺庙工作人员盗走",
+    "display_query": "梅艳芳骨灰疑似被寺庙工作人员盗走"
   },
   {
     "query": "三部门调查尊界刹车踏板支架断裂问题",
@@ -40,11 +36,19 @@
     "display_query": "班主任休产假遭家长质问一定要生孩子吗"
   },
   {
+    "query": "冯远征苦恼招不到一米六几女演员",
+    "display_query": "冯远征苦恼招不到一米六几女演员"
+  },
+  {
     "query": "DeepSeek宣布故障补偿方案",
     "display_query": "DeepSeek宣布故障补偿方案"
   },
   {
-    "query": "冯远征苦恼招不到一米六几女演员",
-    "display_query": "冯远征苦恼招不到一米六几女演员"
+    "query": "DeepSeek V4.1 Flash 发布新版本",
+    "display_query": "DeepSeek V4.1 Flash 发布新版本"
+  },
+  {
+    "query": "父亲遛狗幼童坠亡案母亲报案获受理",
+    "display_query": "父亲遛狗幼童坠亡案母亲报案获受理"
   }
 ]
