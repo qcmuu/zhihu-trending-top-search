@@ -4,12 +4,12 @@
     "display_query": "自愿放弃社保无效"
   },
   {
-    "query": "蔡天凤失踪前曾致电多人",
-    "display_query": "蔡天凤失踪前曾致电多人"
-  },
-  {
     "query": "英伟达市值9天蒸发4万亿",
     "display_query": "英伟达市值9天蒸发4万亿"
+  },
+  {
+    "query": "蔡天凤失踪前曾致电多人",
+    "display_query": "蔡天凤失踪前曾致电多人"
   },
   {
     "query": "特斯拉SpaceX大跌",
@@ -42,6 +42,10 @@
   {
     "query": "DeepSeek宣布故障补偿方案",
     "display_query": "DeepSeek宣布故障补偿方案"
+  },
+  {
+    "query": "日美将举行近6万人联合军演",
+    "display_query": "日美将举行近6万人联合军演"
   },
   {
     "query": "DeepSeek V4.1 Flash 发布新版本",
