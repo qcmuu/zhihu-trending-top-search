@@ -16,20 +16,16 @@
     "display_query": "社保基金会副理事长王文灵被双开"
   },
   {
-    "query": "身披旭日旗留学生被遣返",
-    "display_query": "身披旭日旗留学生被遣返"
-  },
-  {
     "query": "法国发生近年来最严重暴力骚乱",
     "display_query": "法国发生近年来最严重暴力骚乱"
   },
   {
-    "query": "李小冉官宣离婚",
-    "display_query": "李小冉官宣离婚"
+    "query": "身披旭日旗留学生被遣返",
+    "display_query": "身披旭日旗留学生被遣返"
   },
   {
-    "query": "小天才手表封闭社交被质疑",
-    "display_query": "小天才手表封闭社交被质疑"
+    "query": "李小冉官宣离婚",
+    "display_query": "李小冉官宣离婚"
   },
   {
     "query": "DeepSeek开放自研搜索API",
@@ -46,5 +42,9 @@
   {
     "query": "女子情绪失控砸毁30万五粮液",
     "display_query": "女子情绪失控砸毁30万五粮液"
+  },
+  {
+    "query": "小天才手表封闭社交被质疑",
+    "display_query": "小天才手表封闭社交被质疑"
   }
 ]
