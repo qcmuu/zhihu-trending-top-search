@@ -1,23 +1,27 @@
 [
   {
+    "query": "中国留学生俄罗斯课堂披旭日旗",
+    "display_query": "中国留学生俄罗斯课堂披旭日旗"
+  },
+  {
     "query": "英伟达市值9天蒸发4万亿",
     "display_query": "英伟达市值9天蒸发4万亿"
-  },
-  {
-    "query": "自愿放弃社保无效",
-    "display_query": "自愿放弃社保无效"
-  },
-  {
-    "query": "法国发生近年来最严重暴力骚乱",
-    "display_query": "法国发生近年来最严重暴力骚乱"
   },
   {
     "query": "灵活就业人员可贷款缴社保",
     "display_query": "灵活就业人员可贷款缴社保"
   },
   {
-    "query": "中国留学生俄罗斯课堂披旭日旗",
-    "display_query": "中国留学生俄罗斯课堂披旭日旗"
+    "query": "法国发生近年来最严重暴力骚乱",
+    "display_query": "法国发生近年来最严重暴力骚乱"
+  },
+  {
+    "query": "C 罗遭葡萄牙足协处罚",
+    "display_query": "C 罗遭葡萄牙足协处罚"
+  },
+  {
+    "query": "自愿放弃社保无效",
+    "display_query": "自愿放弃社保无效"
   },
   {
     "query": "前三季度中国GDP同比增长4.6%",
@@ -38,6 +42,10 @@
   {
     "query": "加拿大一军事基地爆炸起火多人伤亡",
     "display_query": "加拿大一军事基地爆炸起火多人伤亡"
+  },
+  {
+    "query": "DeepSeek开放自研搜索API",
+    "display_query": "DeepSeek开放自研搜索API"
   },
   {
     "query": "郑州警方辟谣一家五口自杀",
