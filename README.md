@@ -24,19 +24,19 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 27 2026 15:17:40 GMT+0800 (China Standard Time) -->
-1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C)
+<!-- 最后更新时间 Tue Oct 27 2026 21:57:24 GMT+0800 (China Standard Time) -->
+1. [多方终止与姆巴佩合作](https://www.zhihu.com/search?q=%E5%A4%9A%E6%96%B9%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C)
+1. [多校教师工资将发数字人民币](https://www.zhihu.com/search?q=%E5%A4%9A%E6%A0%A1%E6%95%99%E5%B8%88%E5%B7%A5%E8%B5%84%E5%B0%86%E5%8F%91%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81)
+1. [姆巴佩道歉](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%93%E6%AD%89)
 1. [县委书记拒绝张雪为家乡打广告](https://www.zhihu.com/search?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A)
-1. [武契奇承认败选](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89)
-1. [蒙牛终止与姆巴佩全部合作](https://www.zhihu.com/search?q=%E8%92%99%E7%89%9B%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%85%A8%E9%83%A8%E5%90%88%E4%BD%9C)
+1. [小米首个住宅小区开售](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E9%A6%96%E4%B8%AA%E4%BD%8F%E5%AE%85%E5%B0%8F%E5%8C%BA%E5%BC%80%E5%94%AE)
+1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
+1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C)
 1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E4%BA%89%E8%AE%AE)
 1. [中土网民爆发大规模互怼](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9C%9F%E7%BD%91%E6%B0%91%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%92%E6%80%BC)
-1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
-1. [东鹏解约姆巴佩或无需赔偿](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E8%A7%A3%E7%BA%A6%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%96%E6%97%A0%E9%9C%80%E8%B5%94%E5%81%BF)
 1. [日剧Vivant抹黑中国](https://www.zhihu.com/search?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD)
-1. [全国总人口面临跌破 14 亿](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E6%80%BB%E4%BA%BA%E5%8F%A3%E9%9D%A2%E4%B8%B4%E8%B7%8C%E7%A0%B4%2014%20%E4%BA%BF)
-1. [AL 0:2 TLAW](https://www.zhihu.com/search?q=AL%200%3A2%20TLAW)
-1. [江苏姑娘网购鹤岗房搬进去后傻眼](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC)
+1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
+1. [樊振东去巴萨主场被反复质疑盘查](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8E%BB%E5%B7%B4%E8%90%A8%E4%B8%BB%E5%9C%BA%E8%A2%AB%E5%8F%8D%E5%A4%8D%E8%B4%A8%E7%96%91%E7%9B%98%E6%9F%A5)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
