@@ -24,19 +24,19 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 27 2026 09:07:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 27 2026 15:17:40 GMT+0800 (China Standard Time) -->
+1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C)
 1. [县委书记拒绝张雪为家乡打广告](https://www.zhihu.com/search?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A)
-1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E4%BA%89%E8%AE%AE)
-1. [一号种子AL全败出局](https://www.zhihu.com/search?q=%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90AL%E5%85%A8%E8%B4%A5%E5%87%BA%E5%B1%80)
 1. [武契奇承认败选](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89)
-1. [AL 0:2 TLAW](https://www.zhihu.com/search?q=AL%200%3A2%20TLAW)
-1. [曝编制内退休金或将封顶](https://www.zhihu.com/search?q=%E6%9B%9D%E7%BC%96%E5%88%B6%E5%86%85%E9%80%80%E4%BC%91%E9%87%91%E6%88%96%E5%B0%86%E5%B0%81%E9%A1%B6)
-1. [TES又在瑞士轮打BLG](https://www.zhihu.com/search?q=TES%E5%8F%88%E5%9C%A8%E7%91%9E%E5%A3%AB%E8%BD%AE%E6%89%93BLG)
-1. [GPT-6.1 Terra发布](https://www.zhihu.com/search?q=GPT-6.1%20Terra%E5%8F%91%E5%B8%83)
-1. [凯恩获2026年金球奖](https://www.zhihu.com/search?q=%E5%87%AF%E6%81%A9%E8%8E%B72026%E5%B9%B4%E9%87%91%E7%90%83%E5%A5%96)
-1. [T1战胜CFO](https://www.zhihu.com/search?q=T1%E6%88%98%E8%83%9CCFO)
-1. [OpenAI证伪ETH猜想](https://www.zhihu.com/search?q=OpenAI%E8%AF%81%E4%BC%AAETH%E7%8C%9C%E6%83%B3)
+1. [蒙牛终止与姆巴佩全部合作](https://www.zhihu.com/search?q=%E8%92%99%E7%89%9B%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%85%A8%E9%83%A8%E5%90%88%E4%BD%9C)
+1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E4%BA%89%E8%AE%AE)
+1. [中土网民爆发大规模互怼](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9C%9F%E7%BD%91%E6%B0%91%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%92%E6%80%BC)
+1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
+1. [东鹏解约姆巴佩或无需赔偿](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E8%A7%A3%E7%BA%A6%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%96%E6%97%A0%E9%9C%80%E8%B5%94%E5%81%BF)
 1. [日剧Vivant抹黑中国](https://www.zhihu.com/search?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD)
+1. [全国总人口面临跌破 14 亿](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E6%80%BB%E4%BA%BA%E5%8F%A3%E9%9D%A2%E4%B8%B4%E8%B7%8C%E7%A0%B4%2014%20%E4%BA%BF)
+1. [AL 0:2 TLAW](https://www.zhihu.com/search?q=AL%200%3A2%20TLAW)
+1. [江苏姑娘网购鹤岗房搬进去后傻眼](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
