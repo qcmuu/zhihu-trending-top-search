@@ -1,7 +1,7 @@
 [
   {
-    "query": "姆巴佩道歉",
-    "display_query": "姆巴佩道歉"
+    "query": "姆巴佩涉华不当言论",
+    "display_query": "姆巴佩涉华不当言论"
   },
   {
     "query": "县委书记拒绝张雪为家乡打广告",
@@ -16,12 +16,24 @@
     "display_query": "好奇岛装扮游戏"
   },
   {
-    "query": "毛不易婚礼致辞争议",
-    "display_query": "毛不易婚礼致辞争议"
-  },
-  {
     "query": "反诈博主徽剑被曝遇害",
     "display_query": "反诈博主徽剑被曝遇害"
+  },
+  {
+    "query": "皇马称姆巴佩仅代表个人",
+    "display_query": "皇马称姆巴佩仅代表个人"
+  },
+  {
+    "query": "中国足协与皇马俱乐部严正交涉",
+    "display_query": "中国足协与皇马俱乐部严正交涉"
+  },
+  {
+    "query": "内塔尼亚胡阵营未获议会多数席位",
+    "display_query": "内塔尼亚胡阵营未获议会多数席位"
+  },
+  {
+    "query": "毛不易婚礼致辞争议",
+    "display_query": "毛不易婚礼致辞争议"
   },
   {
     "query": "多方终止与姆巴佩合作",
@@ -30,6 +42,14 @@
   {
     "query": "中土网民爆发大规模互怼",
     "display_query": "中土网民爆发大规模互怼"
+  },
+  {
+    "query": "以色列大选",
+    "display_query": "以色列大选"
+  },
+  {
+    "query": "姆巴佩道歉",
+    "display_query": "姆巴佩道歉"
   },
   {
     "query": "OpenAI宣布斩获三项重大科学突破",
@@ -46,9 +66,5 @@
   {
     "query": "日剧Vivant抹黑中国",
     "display_query": "日剧Vivant抹黑中国"
-  },
-  {
-    "query": "姆巴佩涉华不当言论",
-    "display_query": "姆巴佩涉华不当言论"
   }
 ]
