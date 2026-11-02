@@ -16,10 +16,6 @@
     "display_query": "好奇岛装扮游戏"
   },
   {
-    "query": "反诈博主徽剑被曝遇害",
-    "display_query": "反诈博主徽剑被曝遇害"
-  },
-  {
     "query": "法定放假总数已增至13天",
     "display_query": "法定放假总数已增至13天"
   },
@@ -30,6 +26,14 @@
   {
     "query": "DeepSeek发布super-agent构想",
     "display_query": "DeepSeek发布super-agent构想"
+  },
+  {
+    "query": "反诈博主徽剑被曝遇害",
+    "display_query": "反诈博主徽剑被曝遇害"
+  },
+  {
+    "query": "幽默老日宣布解散",
+    "display_query": "幽默老日宣布解散"
   },
   {
     "query": "中科大给学生提供每日百元token",
