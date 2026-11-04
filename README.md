@@ -24,19 +24,19 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 04 2026 16:36:51 GMT+0800 (China Standard Time) -->
-1. [美国中期选举](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE)
-1. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=%E5%89%AF%E6%95%99%E6%8E%88%E7%99%BD%E4%BF%9D%E5%9B%BD%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%BB%9D%E7%AC%94%E4%BF%A1)
-1. [iG 3-1 TES](https://www.zhihu.com/search?q=iG%203-1%20TES)
+<!-- 最后更新时间 Thu Nov 05 2026 00:49:46 GMT+0800 (China Standard Time) -->
+1. [抖音副总裁李亮发文怼秦朔](https://www.zhihu.com/search?q=%E6%8A%96%E9%9F%B3%E5%89%AF%E6%80%BB%E8%A3%81%E6%9D%8E%E4%BA%AE%E5%8F%91%E6%96%87%E6%80%BC%E7%A7%A6%E6%9C%94)
+1. [张雪重庆大学开价被学生嫌弃](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%BC%80%E4%BB%B7%E8%A2%AB%E5%AD%A6%E7%94%9F%E5%AB%8C%E5%BC%83)
 1. [新华社追问国乒男队怎么了](https://www.zhihu.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%BF%BD%E9%97%AE%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E6%80%8E%E4%B9%88%E4%BA%86)
-1. [武汉一小区爆燃致2死1伤](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%87%83%E8%87%B42%E6%AD%BB1%E4%BC%A4)
-1. [特朗普被指全面惨败](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8C%87%E5%85%A8%E9%9D%A2%E6%83%A8%E8%B4%A5)
-1. [美民主党称夺回参议院](https://www.zhihu.com/search?q=%E7%BE%8E%E6%B0%91%E4%B8%BB%E5%85%9A%E7%A7%B0%E5%A4%BA%E5%9B%9E%E5%8F%82%E8%AE%AE%E9%99%A2)
-1. [得州翻蓝](https://www.zhihu.com/search?q=%E5%BE%97%E5%B7%9E%E7%BF%BB%E8%93%9D)
-1. [上汽奥迪买一赠一营销被立案](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80%E8%90%A5%E9%94%80%E8%A2%AB%E7%AB%8B%E6%A1%88)
-1. [警方通报网约车被狂欢人群围困4小时](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E7%8B%82%E6%AC%A2%E4%BA%BA%E7%BE%A4%E5%9B%B4%E5%9B%B04%E5%B0%8F%E6%97%B6)
+1. [iG 3-1 TES](https://www.zhihu.com/search?q=iG%203-1%20TES)
+1. [陕西发生重大刑案嫌疑人持刀在逃](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E6%8C%81%E5%88%80%E5%9C%A8%E9%80%83)
+1. [网友提名《后会友期》第二季阵容](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E6%8F%90%E5%90%8D%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E9%98%B5%E5%AE%B9)
+1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
+1. [九寨沟景区内打人事件](https://www.zhihu.com/search?q=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%99%AF%E5%8C%BA%E5%86%85%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6)
 1. [南京大学抬头率](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%8A%AC%E5%A4%B4%E7%8E%87)
 1. [10元快剪正席卷理发行业](https://www.zhihu.com/search?q=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%AD%A3%E5%B8%AD%E5%8D%B7%E7%90%86%E5%8F%91%E8%A1%8C%E4%B8%9A)
+1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+1. [被拐男子认亲后拉黑养家断联](https://www.zhihu.com/search?q=%E8%A2%AB%E6%8B%90%E7%94%B7%E5%AD%90%E8%AE%A4%E4%BA%B2%E5%90%8E%E6%8B%89%E9%BB%91%E5%85%BB%E5%AE%B6%E6%96%AD%E8%81%94)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
