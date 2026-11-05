@@ -24,19 +24,19 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 05 2026 11:08:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 05 2026 19:51:09 GMT+0800 (China Standard Time) -->
 1. [陕西发生重大刑案嫌疑人持刀在逃](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E6%8C%81%E5%88%80%E5%9C%A8%E9%80%83)
 1. [张雪重庆大学开价被学生嫌弃](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%BC%80%E4%BB%B7%E8%A2%AB%E5%AD%A6%E7%94%9F%E5%AB%8C%E5%BC%83)
-1. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=%E5%89%AF%E6%95%99%E6%8E%88%E7%99%BD%E4%BF%9D%E5%9B%BD%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%BB%9D%E7%AC%94%E4%BF%A1)
-1. [抖音副总裁李亮发文怼秦朔](https://www.zhihu.com/search?q=%E6%8A%96%E9%9F%B3%E5%89%AF%E6%80%BB%E8%A3%81%E6%9D%8E%E4%BA%AE%E5%8F%91%E6%96%87%E6%80%BC%E7%A7%A6%E6%9C%94)
-1. [陕西重大刑案致3死2伤](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E8%87%B43%E6%AD%BB2%E4%BC%A4)
+1. [2027 年放假安排出炉](https://www.zhihu.com/search?q=2027%20%E5%B9%B4%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E5%87%BA%E7%82%89)
 1. [南京大学抬头率](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%8A%AC%E5%A4%B4%E7%8E%87)
+1. [C 罗宣布从国家队退役](https://www.zhihu.com/search?q=C%20%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9)
+1. [抖音副总裁李亮发文怼秦朔](https://www.zhihu.com/search?q=%E6%8A%96%E9%9F%B3%E5%89%AF%E6%80%BB%E8%A3%81%E6%9D%8E%E4%BA%AE%E5%8F%91%E6%96%87%E6%80%BC%E7%A7%A6%E6%9C%94)
+1. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=%E5%89%AF%E6%95%99%E6%8E%88%E7%99%BD%E4%BF%9D%E5%9B%BD%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%BB%9D%E7%AC%94%E4%BF%A1)
+1. [芒果TV疑因《后会友期》崩了](https://www.zhihu.com/search?q=%E8%8A%92%E6%9E%9CTV%E7%96%91%E5%9B%A0%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%B4%A9%E4%BA%86)
+1. [九寨沟景区内打人事件](https://www.zhihu.com/search?q=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%99%AF%E5%8C%BA%E5%86%85%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6)
+1. [字节时间论战](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E6%97%B6%E9%97%B4%E8%AE%BA%E6%88%98)
 1. [GEN 晋级四强](https://www.zhihu.com/search?q=GEN%20%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA)
-1. [陕西调查延大副教授留遗书去世](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E8%B0%83%E6%9F%A5%E5%BB%B6%E5%A4%A7%E5%89%AF%E6%95%99%E6%8E%88%E7%95%99%E9%81%97%E4%B9%A6%E5%8E%BB%E4%B8%96)
-1. [DeepSeek移动端应用上线](https://www.zhihu.com/search?q=DeepSeek%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BA%94%E7%94%A8%E4%B8%8A%E7%BA%BF)
-1. [10元快剪正席卷理发行业](https://www.zhihu.com/search?q=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%AD%A3%E5%B8%AD%E5%8D%B7%E7%90%86%E5%8F%91%E8%A1%8C%E4%B8%9A)
-1. [上汽奥迪买一赠一营销被立案](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80%E8%90%A5%E9%94%80%E8%A2%AB%E7%AB%8B%E6%A1%88)
-1. [iphone显示多地降至零下30度](https://www.zhihu.com/search?q=iphone%E6%98%BE%E7%A4%BA%E5%A4%9A%E5%9C%B0%E9%99%8D%E8%87%B3%E9%9B%B6%E4%B8%8B30%E5%BA%A6)
+1. [得州翻蓝](https://www.zhihu.com/search?q=%E5%BE%97%E5%B7%9E%E7%BF%BB%E8%93%9D)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
