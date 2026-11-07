@@ -24,19 +24,19 @@ Hourly archive of Zhihu search trends since 2020-11-24. Browse any day, or searc
 ## 今日热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 07 2026 05:15:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 07 2026 09:35:23 GMT+0800 (China Standard Time) -->
 1. [张雪重庆大学开价被学生嫌弃](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%BC%80%E4%BB%B7%E8%A2%AB%E5%AD%A6%E7%94%9F%E5%AB%8C%E5%BC%83)
 1. [美股暴跌遭抛售潮](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E9%81%AD%E6%8A%9B%E5%94%AE%E6%BD%AE)
-1. [南京大学抬头率](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%8A%AC%E5%A4%B4%E7%8E%87)
-1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
 1. [红果短剧处理两万部低质短剧](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%A4%84%E7%90%86%E4%B8%A4%E4%B8%87%E9%83%A8%E4%BD%8E%E8%B4%A8%E7%9F%AD%E5%89%A7)
+1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+1. [T1 VS KC](https://www.zhihu.com/search?q=T1%20VS%20KC)
 1. [BLG 3:0 淘汰DK](https://www.zhihu.com/search?q=BLG%203%3A0%20%E6%B7%98%E6%B1%B0DK)
-1. [特朗普被指全面惨败](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8C%87%E5%85%A8%E9%9D%A2%E6%83%A8%E8%B4%A5)
 1. [王楚钦0-3温瑞博](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A60-3%E6%B8%A9%E7%91%9E%E5%8D%9A)
-1. [警方通报孙某军因情感纠纷行凶](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%99%E6%9F%90%E5%86%9B%E5%9B%A0%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7%E8%A1%8C%E5%87%B6)
+1. [特朗普被指全面惨败](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8C%87%E5%85%A8%E9%9D%A2%E6%83%A8%E8%B4%A5)
 1. [北交大明确雄安为唯一主校区](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%A4%E5%A4%A7%E6%98%8E%E7%A1%AE%E9%9B%84%E5%AE%89%E4%B8%BA%E5%94%AF%E4%B8%80%E4%B8%BB%E6%A0%A1%E5%8C%BA)
+1. [后会友期为什么能击中观众情绪](https://www.zhihu.com/search?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%87%BB%E4%B8%AD%E8%A7%82%E4%BC%97%E6%83%85%E7%BB%AA)
 1. [美国民主党欲推超级AI禁令](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AC%B2%E6%8E%A8%E8%B6%85%E7%BA%A7AI%E7%A6%81%E4%BB%A4)
-1. [C 罗宣布从国家队退役](https://www.zhihu.com/search?q=C%20%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9)
+1. [2499元推不倒指环遭质疑](https://www.zhihu.com/search?q=2499%E5%85%83%E6%8E%A8%E4%B8%8D%E5%80%92%E6%8C%87%E7%8E%AF%E9%81%AD%E8%B4%A8%E7%96%91)
 <!-- END -->
 
 按天的 Markdown 在 [archives](./archives)，机器可读的 JSON 在 [raw](./raw)。缺了哪些天写在 [archives/MISSING.md](./archives/MISSING.md)，目前大约 20 天，补不回来。
