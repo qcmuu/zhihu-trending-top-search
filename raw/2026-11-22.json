@@ -1,9 +1,5 @@
 [
   {
-    "query": "AI证明黎曼猜想",
-    "display_query": "AI证明黎曼猜想"
-  },
-  {
     "query": "多所高校不向2027级研究生提供宿舍",
     "display_query": "多所高校不向2027级研究生提供宿舍"
   },
@@ -12,28 +8,28 @@
     "display_query": "特朗普刚返美就发重大预告"
   },
   {
-    "query": "中俄美三国元首会晤",
-    "display_query": "中俄美三国元首会晤"
+    "query": "AI证明黎曼猜想",
+    "display_query": "AI证明黎曼猜想"
   },
   {
     "query": "李子柒当选四川文联副主席",
     "display_query": "李子柒当选四川文联副主席"
   },
   {
-    "query": "Anthropic上市",
-    "display_query": "Anthropic上市"
+    "query": "中俄美三国元首会晤",
+    "display_query": "中俄美三国元首会晤"
   },
   {
     "query": "黄仁勋据称将创办新的半导体公司",
     "display_query": "黄仁勋据称将创办新的半导体公司"
   },
   {
-    "query": "青海德令哈发生5.6级地震",
-    "display_query": "青海德令哈发生5.6级地震"
-  },
-  {
     "query": "中方回应高市早苗礼宾安排",
     "display_query": "中方回应高市早苗礼宾安排"
+  },
+  {
+    "query": "Anthropic上市",
+    "display_query": "Anthropic上市"
   },
   {
     "query": "顺丰被暂停参加全军采购",
@@ -42,6 +38,18 @@
   {
     "query": "DeepSeek付费体验直线上升",
     "display_query": "DeepSeek付费体验直线上升"
+  },
+  {
+    "query": "DeepSeek调整对话上限长度",
+    "display_query": "DeepSeek调整对话上限长度"
+  },
+  {
+    "query": "大模型Gestalt杀穿AI排行榜",
+    "display_query": "大模型Gestalt杀穿AI排行榜"
+  },
+  {
+    "query": "青海德令哈发生5.6级地震",
+    "display_query": "青海德令哈发生5.6级地震"
   },
   {
     "query": "马斯克离开深圳突访上海",
