@@ -5,11 +5,13 @@ export function mergeWords(
   words: SearchWord[],
   another: SearchWord[],
 ): SearchWord[] {
-  const obj: Record<string, string> = {};
+  // 必须用 Map：普通对象的整数样式键（"520"、"315"、"11"）会被按数值升序
+  // 排到最前，破坏「数组下标即当日排名」的顺序。
+  const merged = new Map<string, string>();
   for (const w of words.concat(another)) {
-    obj[w.display_query] = w.query;
+    merged.set(w.display_query, w.query);
   }
-  return Object.entries(obj).map(([display_query, query]) => ({
+  return [...merged].map(([display_query, query]) => ({
     query,
     display_query,
   }));
@@ -29,7 +31,8 @@ export async function createReadme(words: SearchWord[]): Promise<string> {
   if (!README_SLOT.test(readme)) {
     throw new Error("README.md 缺少 <!-- BEGIN --> / <!-- END --> 标记");
   }
-  return readme.replace(README_SLOT, createList(words));
+  // 用函数形式替换：字符串替换会把标题里的 $&、$' 当成替换模式，破坏 README
+  return readme.replace(README_SLOT, () => createList(words));
 }
 
 export function createList(words: SearchWord[]): string {

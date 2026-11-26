@@ -18,6 +18,8 @@ Deno.test("dateFromFileName 拒绝非 .json 与非法日期", () => {
   assertEquals(dateFromFileName("20201124.json"), null); // 缺连字符
   assertEquals(dateFromFileName("2020-13-01.json"), null); // 校验由格式正则负责
   assertEquals(dateFromFileName("notes.json"), null);
+  assertEquals(dateFromFileName("2020-02-31.json"), null); // 格式合法但日期不存在
+  assertEquals(dateFromFileName("2020-02-29.json"), "2020-02-29"); // 闰年合法
 });
 
 // ---- compressDay ----
@@ -84,6 +86,18 @@ Deno.test("buildIndex 空数据集 meta 字段为 null", () => {
   assertEquals(index.meta.start, null);
   assertEquals(index.meta.end, null);
   assertEquals(index.days, {});
+});
+
+Deno.test("buildIndex 的 start/end 必须指向真实有数据的天", () => {
+  const raw = {
+    "2020-11-24": [], // 空 raw 文件，会被丢弃
+    "2020-11-25": [{ display_query: "A", query: "a" }],
+    "2020-11-26": [], // 空 raw 文件，会被丢弃
+  };
+  const index = buildIndex(raw, "t");
+  assertEquals(Object.keys(index.days), ["2020-11-25"]);
+  assertEquals(index.meta.start, "2020-11-25");
+  assertEquals(index.meta.end, "2020-11-25");
 });
 
 Deno.test("buildIndex 忽略非法日期键", () => {

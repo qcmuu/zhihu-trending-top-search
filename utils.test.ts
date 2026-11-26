@@ -43,6 +43,35 @@ Deno.test("mergeWords", function (): void {
   );
 });
 
+Deno.test("mergeWords 不把整数样式标题重排到最前", function (): void {
+  // 真实数据：2025-05-21 抓到 "520"，普通对象键会把整数样式键按数值升序提前，
+  // 导致「数组下标即排名」失真。
+  const prev: SearchWord[] = [
+    { query: "多家银行下调存款利率", display_query: "多家银行下调存款利率" },
+    { query: "BLG战胜TES", display_query: "BLG战胜TES" },
+  ];
+  const now: SearchWord[] = [{ query: "520", display_query: "520" }];
+
+  assertEquals(mergeWords(now, prev).map((w) => w.display_query), [
+    "520",
+    "多家银行下调存款利率",
+    "BLG战胜TES",
+  ]);
+  assertEquals(mergeWords(prev, now).map((w) => w.display_query), [
+    "多家银行下调存款利率",
+    "BLG战胜TES",
+    "520",
+  ]);
+});
+
+Deno.test("createReadme 不把标题里的 $ 当成替换模式", async (): Promise<void> => {
+  const readme = await createReadme([
+    { query: "花费", display_query: "花费 $& 元" },
+  ]);
+  assertStringIncludes(readme, "花费 $& 元");
+  assertStringIncludes(readme, "<!-- BEGIN -->\n<!-- 最后更新时间");
+});
+
 Deno.test("createList", function (): void {
   const words: SearchWord[] = [
     { query: "foo", display_query: "bar" },

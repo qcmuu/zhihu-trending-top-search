@@ -26,6 +26,9 @@ export function dateFromFileName(name: string): string | null {
   const [y, m, d] = date.split("-").map(Number);
   // 语义校验：防止 2020-13-01 这类非法日期污染索引与排序
   if (y < 2000 || y > 2100 || m < 1 || m > 12 || d < 1 || d > 31) return null;
+  // 回环校验：防止 2020-02-31 这类「格式合法但不存在」的日期
+  const dt = new Date(Date.UTC(y, m - 1, d));
+  if (dt.getUTCMonth() !== m - 1 || dt.getUTCDate() !== d) return null;
   return date;
 }
 
@@ -62,12 +65,15 @@ export function buildIndex(
       entries += entries0.length;
     }
   }
+  // start/end 必须取自实际写入 days 的日期：空的 raw 文件（如 2021-05 那批）
+  // 会被丢弃，若仍按输入键取值，end 可能指向一个 days 里不存在的日期。
+  const kept = Object.keys(days);
   return {
     meta: {
-      days: Object.keys(days).length,
+      days: kept.length,
       entries,
-      start: dates[0] ?? null,
-      end: dates[dates.length - 1] ?? null,
+      start: kept[0] ?? null,
+      end: kept[kept.length - 1] ?? null,
       generated,
     },
     days,
